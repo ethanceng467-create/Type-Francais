@@ -34,6 +34,7 @@ export interface SettingState {
   translate: boolean // 显示翻译
   showNearWord: boolean // 显示上/下一个词
   ignoreCase: boolean // 忽略大小写
+  ignoreAccent: boolean // 输入不区分变音符号：école 打 ecole、cœur 打 coeur
   //@deprecated 没有意义
   allowWordTip: boolean // 默写时时否允许查看提示
   waitTimeForChangeWord: number // 切下一个词的等待时间（自动模式）
@@ -109,6 +110,7 @@ export const getDefaultSettingState = (): SettingState => ({
   translate: true,
   showNearWord: true,
   ignoreCase: true,
+  ignoreAccent: true,
   allowWordTip: true,
   waitTimeForChangeWord: 300,
   spaceCooldownTime: 0,

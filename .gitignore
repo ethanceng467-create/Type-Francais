@@ -40,3 +40,6 @@ report.html
 public/vscode
 apps/TypeWordsMiniApp
 *.tsbuildinfo
+
+# 静态站点部署产物（pnpm generate 后用于托管，不入库）
+dist-web

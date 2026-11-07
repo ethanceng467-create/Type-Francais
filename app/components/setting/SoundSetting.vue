@@ -4,7 +4,7 @@ import { Option, Select, Slider, Switch, VolumeIcon } from '@/base'
 import SettingItem from './SettingItem.vue'
 import SoundMasterControl from './SoundMasterControl.vue'
 import { useSettingStore } from '@/core/stores/setting.ts'
-import { ENV, SoundFileOptions } from '@/core/config/env.ts'
+import { ENV, SoundFileOptions, TARGET_LANG, TARGET_LOCALE } from '@/core/config/env.ts'
 import { getBrowserKey, getAudioFileUrl, usePlayAudio } from '@/core/hooks/sound.ts'
 import {
   useSoundMasterSettings,
@@ -38,7 +38,7 @@ onMounted(() => {
   const load = () => {
     ttsVoiceList.value = speechSynthesis
       .getVoices()
-      .filter(v => v.lang.startsWith('en'))
+      .filter(v => String(v.lang).toLowerCase().startsWith(TARGET_LANG))
       .sort((a, b) => (b.localService ? 0 : 1) - (a.localService ? 0 : 1))
     ttsSelectKey.value++
   }
@@ -64,13 +64,13 @@ const currentTtsVoice = computed({
   },
 })
 
-const exampleText = 'How are you? I am fine, thank you. And you?'
+const exampleText = 'Bonjour, comment allez-vous ? Très bien, merci.'
 
 function previewTtsVoice(voiceName: string) {
   if (typeof speechSynthesis === 'undefined') return
   speechSynthesis.cancel()
   const msg = new SpeechSynthesisUtterance(exampleText)
-  msg.lang = 'en-US'
+  msg.lang = TARGET_LOCALE
   msg.volume = settingStore.sentenceSoundVolume / 100
   msg.rate = settingStore.sentenceSoundSpeed
   const voice = ttsVoiceList.value.find(v => v.name === voiceName)

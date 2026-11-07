@@ -2,7 +2,7 @@ import { onMounted, watchEffect } from 'vue'
 import { useSettingStore } from '../stores/setting'
 import { ref } from 'vue'
 
-import { ENV, PronunciationApi, SoundFileOptions } from '../config/env'
+import { ENV, PronunciationApi, SoundFileOptions, TARGET_LANG, TARGET_LOCALE } from '../config/env'
 import { Toast } from '@/base'
 
 /**
@@ -209,9 +209,10 @@ export function usePlayWordAudio() {
       }, 5000)
     }
     // console.log('playAudio-handle', handle, playbackRate)
-    let url = `${PronunciationApi}${word}&type=2`
+    // 法语：音源固定 le=fr，有道的 type 参数（1/2 英美音）对法语无效，保留仅为兼容旧逻辑
+    let url = `${PronunciationApi}${encodeURIComponent(word)}&type=2`
     if (settingStore.soundType === 'uk') {
-      url = `${PronunciationApi}${word}&type=1`
+      url = `${PronunciationApi}${encodeURIComponent(word)}&type=1`
     }
     let onended = () => {
       if (generation !== wordPlaybackGeneration) return
@@ -263,7 +264,7 @@ export function useTTsPlayAudio() {
     msg.rate = options.rate ?? settingStore.wordSoundSpeed
     msg.volume = options.volume ?? settingStore.wordSoundVolume / 100
     msg.pitch = options.pitch ?? 1
-    msg.lang = options.lang ?? 'en-US'
+    msg.lang = options.lang ?? TARGET_LOCALE
     msg.onend = () => options.onEnd?.()
     msg.onerror = () => options.onEnd?.()
     getVoicesAsync().then((voices: any[]) => {
@@ -279,10 +280,13 @@ export function useTTsPlayAudio() {
           return
         }
       }
-      // 回退：优先找 Emma / US，否则取第一个英文声色
-      let voiceList = voices.filter(v => v.lang === 'en-US')
+      // 回退：优先找法语声色（fr-FR / fr-CA / fr-BE 均可）
+      let voiceList = voices.filter(v => String(v.lang).toLowerCase().startsWith(TARGET_LANG))
       if (voiceList && voiceList.length) {
-        msg.voice = voiceList.find(v => v.name.includes('US') || v.name.includes('Emma')) ?? voiceList[0]
+        msg.voice =
+          voiceList.find(v => String(v.lang).toLowerCase() === TARGET_LOCALE.toLowerCase()) ??
+          voiceList.find(v => /Amelie|Amélie|Denise|Hortense|Thomas|Julie|Paul/i.test(v.name)) ??
+          voiceList[0]
       }
       speechSynthesis.speak(msg)
     })

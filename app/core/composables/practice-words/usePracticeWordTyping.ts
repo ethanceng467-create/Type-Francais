@@ -4,6 +4,7 @@ import type { Word } from '../../types/types.ts'
 import { normalizeWord } from '../../utils/index.ts'
 import {
   getPracticeInputCharacterStates,
+  getPracticeTarget,
   isPracticeCharacterCorrect,
   isWholePracticeInputComplete,
   isWholePracticeInputCorrect,
@@ -13,6 +14,8 @@ import {
 
 export interface PracticeTypingSettings {
   ignoreCase: boolean
+  /** 忽略变音符号：é 打成 e 也算对（法语学习者还没装法语键盘时用） */
+  ignoreAccent?: boolean
   repeatCount: number
   repeatCustomCount?: number | null
   waitTimeForChangeWord: number
@@ -64,20 +67,34 @@ export function usePracticeWordTyping(options: PracticeWordTypingOptions) {
   const clearTimer = options.clearTimer ?? clearTimeout
   const now = options.now ?? Date.now
 
+  /**
+   * 用于逐字比对的目标串。
+   * 忽略重音时折叠成键盘可直接打出的形式（école → ecole、cœur → coeur），
+   * 界面显示仍用原词，由渲染层按 foldStart/foldEnd 映射回去。
+   */
+  function getTargetWord() {
+    return getPracticeTarget(options.getWord().word, !!options.getSettings().ignoreAccent)
+  }
+
   const inputCharacterStates = computed(() => {
     const settings = options.getSettings()
-    return getPracticeInputCharacterStates(input.value, options.getWord().word, settings.ignoreCase)
+    return getPracticeInputCharacterStates(
+      input.value,
+      getTargetWord(),
+      settings.ignoreCase,
+      !!settings.ignoreAccent
+    )
   })
 
   const isWordCorrect = computed(() => {
     const settings = options.getSettings()
     let actual = input.value
-    let target = options.getWord().word
+    let target = getTargetWord()
     if (options.getPracticeType() === WordPracticeType.Dictation) {
       actual = normalizeWord(actual)
       target = normalizeWord(target)
     }
-    return isWholePracticeInputCorrect(actual, target, settings.ignoreCase)
+    return isWholePracticeInputCorrect(actual, target, settings.ignoreCase, !!settings.ignoreAccent)
   })
 
   function clearJumpTimer() {
@@ -151,7 +168,7 @@ export function usePracticeWordTyping(options: PracticeWordTypingOptions) {
 
   function typeCharacter(event: PracticeTypingInput) {
     if (event.code === 'Backspace') return backspace()
-    const target = options.getWord().word
+    const target = getTargetWord()
     const settings = options.getSettings()
 
     if (inputLock.value) {
@@ -221,7 +238,8 @@ export function usePracticeWordTyping(options: PracticeWordTypingOptions) {
     }
 
     if (wholeInputAttempt.value === null) wholeInputAttempt.value = !options.getIsWordMasked()
-    const targetCharacter = target[input.value.length]
+    // target 已是折叠后的键盘串，按码位取当前待输入字符
+    const targetCharacter = Array.from(target)[Array.from(input.value).length]
     const letter = normalizePracticeInputCharacter(
       { key: event.key, code: event.code ?? '', shiftKey: event.shiftKey ?? false },
       targetCharacter
@@ -232,7 +250,8 @@ export function usePracticeWordTyping(options: PracticeWordTypingOptions) {
       wrong.value = ''
       options.playKeyboardAudio()
       if (isWholePracticeInputComplete(input.value, target)) {
-        if (isWholePracticeInputCorrect(input.value, target, settings.ignoreCase)) completeCurrentInput()
+        if (isWholePracticeInputCorrect(input.value, target, settings.ignoreCase, !!settings.ignoreAccent))
+          completeCurrentInput()
         else {
           options.playBeep()
           options.onPlay(WordPlayTrigger.Typo)
@@ -243,7 +262,7 @@ export function usePracticeWordTyping(options: PracticeWordTypingOptions) {
       return
     }
 
-    if (isPracticeCharacterCorrect(letter, targetCharacter, settings.ignoreCase)) {
+    if (isPracticeCharacterCorrect(letter, targetCharacter, settings.ignoreCase, !!settings.ignoreAccent)) {
       input.value += letter
       wrong.value = ''
       options.playKeyboardAudio()

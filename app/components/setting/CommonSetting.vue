@@ -25,6 +25,14 @@ const simpleWords = $computed({
     </SettingItem>
 
     <div class="line"></div>
+    <SettingItem
+      :title="$t('ignore_accent')"
+      :desc="$t('ignore_accent_desc')"
+    >
+      <Switch v-model="settingStore.ignoreAccent" />
+    </SettingItem>
+
+    <div class="line"></div>
     <SettingItem :title="$t('simple_word_filter')" :desc="$t('simple_word_filter_desc')">
       <Switch v-model="settingStore.ignoreSimpleWord" />
     </SettingItem>

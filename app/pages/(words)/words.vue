@@ -87,12 +87,12 @@ async function loadPracticeCache() {
 const shouldShowDialogPracticeMode = [WordPracticeMode.Shuffle, WordPracticeMode.ShuffleWordsTest]
 
 useSeoMeta({
-  title: `在线背单词与英语打字练习｜${APP_NAME}`,
-  description: '在电脑上选择 CET-4、CET-6、考研、GRE、IELTS 等词库，通过键盘跟打、拼写和科学间隔复习高效背单词。',
-  ogTitle: `在线背单词与英语打字练习｜${APP_NAME}`,
-  ogDescription: '在电脑上用键盘打字背单词，支持 50+ 词库和科学间隔复习。',
-  twitterTitle: `在线背单词与英语打字练习｜${APP_NAME}`,
-  twitterDescription: '在电脑上用键盘打字背单词，支持 50+ 词库和科学间隔复习。',
+  title: `在线背法语单词与打字练习｜${APP_NAME}`,
+  description: '在电脑上选择法语分级与职场词库，通过键盘跟打、拼写和科学间隔复习高效背单词，支持音标、法语发音与重音符号快捷输入。',
+  ogTitle: `在线背法语单词与打字练习｜${APP_NAME}`,
+  ogDescription: '在电脑上用键盘打字背法语单词，支持音标、例句发音和科学间隔复习。',
+  twitterTitle: `在线背法语单词与打字练习｜${APP_NAME}`,
+  twitterDescription: '在电脑上用键盘打字背法语单词，支持音标、例句发音和科学间隔复习。',
 })
 
 let practiceData = $ref<PracticeWordCache>({

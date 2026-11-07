@@ -7,8 +7,20 @@ export const Host = 'typewords.cc'
 export const Old_Host = '2study.top'
 export const EMAIL = 'zyronon@163.com'
 export const Origin = `https://${Host}`
-export const APP_NAME = 'Type Words'
+export const APP_NAME = 'Type Français'
 export const IS_DEV = import.meta.env.MODE === 'development'
+
+/**
+ * 目标学习语言配置
+ * ------------------------------------------------------------------
+ * 目前整站按法语构建。若以后要做多语种（英/西/德），把这里抽成
+ * 运行时开关即可，词库目录已按 /dicts/{lang}/ 分语言存放。
+ */
+export const TARGET_LANG = 'fr' as const
+/** 目标语言的 BCP-47 区域标签，用于浏览器 TTS 发音 */
+export const TARGET_LOCALE = 'fr-FR'
+/** 法语没有英音/美音之分，音标统一取 phonetic0 */
+export const SINGLE_PHONETIC = true
 
 const common = {
   word_dict_list_version: 1,
@@ -94,7 +106,12 @@ export const LIB_JS_URL = {
   JSZIP: `${ENV.LIBS_URL}/jszip.min.js`,
   XLSX: `${ENV.LIBS_URL}/xlsx.full.min.js`,
 }
-export const PronunciationApi = 'https://dict.youdao.com/dictvoice?audio='
+/**
+ * 单词发音音源
+ * 有道词典发音接口支持 le 参数指定语种；法语用 le=fr。
+ * 播放失败时会自动回退到浏览器 TTS（fr-FR），见 hooks/sound.ts。
+ */
+export const PronunciationApi = 'https://dict.youdao.com/dictvoice?le=fr&audio='
 export const DefaultShortcutKeyMap = {
   [ShortcutKey.EditArticle]: 'Ctrl+E',
   [ShortcutKey.PlayWordPronunciation]: 'Ctrl+P',

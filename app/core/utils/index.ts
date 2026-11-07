@@ -809,12 +809,11 @@ const charMap = {
 }
 
 export function normalizeWord(word: string) {
-  return word
-    .split('')
+  return Array.from(word.normalize('NFC'))
     .map(ch => charMap[ch] || ch)
     .join('')
 }
 
 export function goYoudao(word: string) {
-  window.open(`https://www.youdao.com/result?word=${word}&lang=en`, '_blank')
+  window.open(`https://www.youdao.com/result?word=${encodeURIComponent(word)}&lang=fr`, '_blank')
 }

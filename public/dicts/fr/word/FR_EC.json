@@ -1,0 +1,738 @@
+[
+  {
+    "id": 1,
+    "word": "commande",
+    "phonetic0": "kɔmɑ̃d",
+    "phonetic1": "kɔmɑ̃d",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "订单；订购"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Votre commande a été expédiée.",
+        "cn": "您的订单已发出。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "passer une commande",
+        "cn": "下单"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 2,
+    "word": "livraison",
+    "phonetic0": "livʁɛzɔ̃",
+    "phonetic1": "livʁɛzɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "配送；交货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "La livraison est gratuite dès 30 euros.",
+        "cn": "满三十欧免运费。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "un délai de livraison",
+        "cn": "配送时效"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 3,
+    "word": "stock",
+    "phonetic0": "stɔk",
+    "phonetic1": "stɔk",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "库存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ce modèle est en stock.",
+        "cn": "这款有货。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "rupture de stock",
+        "cn": "缺货"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 4,
+    "word": "client",
+    "phonetic0": "kliɑ̃",
+    "phonetic1": "kliɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "客户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le client demande un remboursement.",
+        "cn": "客户要求退款。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "service client",
+        "cn": "客服"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 5,
+    "word": "remboursement",
+    "phonetic0": "ʁɑ̃buʁsəmɑ̃",
+    "phonetic1": "ʁɑ̃buʁsəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "退款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le remboursement prend cinq jours.",
+        "cn": "退款需要五天。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "demander un remboursement",
+        "cn": "申请退款"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 6,
+    "word": "garantie",
+    "phonetic0": "ɡaʁɑ̃ti",
+    "phonetic1": "ɡaʁɑ̃ti",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "保修；保证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "L'appareil est sous garantie deux ans.",
+        "cn": "该设备保修两年。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "sous garantie",
+        "cn": "在保修期内"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 7,
+    "word": "produit",
+    "phonetic0": "pʁɔdɥi",
+    "phonetic1": "pʁɔdɥi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "产品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ce produit est très bien noté.",
+        "cn": "这款产品评分很高。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "fiche produit",
+        "cn": "产品详情页"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 8,
+    "word": "prix",
+    "phonetic0": "pʁi",
+    "phonetic1": "pʁi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le prix baisse de 20 %.",
+        "cn": "价格下降了20%。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "prix de vente",
+        "cn": "售价"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 9,
+    "word": "promotion",
+    "phonetic0": "pʁɔmɔsjɔ̃",
+    "phonetic1": "pʁɔmɔsjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "促销"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Une promotion est en cours.",
+        "cn": "正在促销。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "en promotion",
+        "cn": "促销中"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 10,
+    "word": "facture",
+    "phonetic0": "faktyʁ",
+    "phonetic1": "faktyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "发票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vous trouverez la facture en pièce jointe.",
+        "cn": "发票见附件。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "établir une facture",
+        "cn": "开发票"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 11,
+    "word": "délai",
+    "phonetic0": "deli",
+    "phonetic1": "deli",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "期限；时限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le délai est de sept jours ouvrés.",
+        "cn": "时限为七个工作日。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "dans les délais",
+        "cn": "按期"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 12,
+    "word": "entrepôt",
+    "phonetic0": "ɑ̃tʁəpo",
+    "phonetic1": "ɑ̃tʁəpo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "仓库"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Les colis partent de notre entrepôt.",
+        "cn": "包裹从我们的仓库发出。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "entrepôt logistique",
+        "cn": "物流仓"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 13,
+    "word": "fournisseur",
+    "phonetic0": "fuʁnisœʁ",
+    "phonetic1": "fuʁnisœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "供应商"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nous changeons de fournisseur.",
+        "cn": "我们要换供应商。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "un fournisseur fiable",
+        "cn": "可靠的供应商"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 14,
+    "word": "marque",
+    "phonetic0": "maʁk",
+    "phonetic1": "maʁk",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "品牌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Cette marque est très connue en France.",
+        "cn": "这个品牌在法国很有名。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "une marque distributeur",
+        "cn": "自有品牌"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 15,
+    "word": "avis",
+    "phonetic0": "avi",
+    "phonetic1": "avi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "评价；意见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le produit a de bons avis.",
+        "cn": "这款产品评价不错。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "laisser un avis",
+        "cn": "留评价"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 16,
+    "word": "retour",
+    "phonetic0": "ʁətuʁ",
+    "phonetic1": "ʁətuʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "退货；返回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le retour est gratuit sous 14 jours.",
+        "cn": "十四天内免费退货。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "retour gratuit",
+        "cn": "免费退货"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 17,
+    "word": "emballage",
+    "phonetic0": "ɑ̃balaʒ",
+    "phonetic1": "ɑ̃balaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "包装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "L'emballage est abîmé.",
+        "cn": "包装破损了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "un emballage soigné",
+        "cn": "精美的包装"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 18,
+    "word": "expédition",
+    "phonetic0": "ɛkspedisjɔ̃",
+    "phonetic1": "ɛkspedisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "发货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "L'expédition est prévue demain.",
+        "cn": "预计明天发货。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "frais d'expédition",
+        "cn": "运费"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 19,
+    "word": "TVA",
+    "phonetic0": "tevea",
+    "phonetic1": "tevea",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "增值税"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le prix inclut la TVA.",
+        "cn": "价格含增值税。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "hors TVA",
+        "cn": "不含税"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 20,
+    "word": "contrat",
+    "phonetic0": "kɔ̃tʁa",
+    "phonetic1": "kɔ̃tʁa",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Le contrat est signé.",
+        "cn": "合同已签。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "signer un contrat",
+        "cn": "签合同"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 21,
+    "word": "marge",
+    "phonetic0": "maʁʒ",
+    "phonetic1": "maʁʒ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "利润率；余量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "La marge est trop faible.",
+        "cn": "利润太薄了。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "marge bénéficiaire",
+        "cn": "利润空间"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 22,
+    "word": "référence",
+    "phonetic0": "ʁefeʁɑ̃s",
+    "phonetic1": "ʁefeʁɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "货号；参考"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vérifiez la référence du produit.",
+        "cn": "请核对产品货号。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "une référence en stock",
+        "cn": "一个在库货号"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 23,
+    "word": "quantité",
+    "phonetic0": "kɑ̃tite",
+    "phonetic1": "kɑ̃tite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "数量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Indiquez la quantité souhaitée.",
+        "cn": "请填写所需数量。"
+      }
+    ],
+    "phrases": [
+      {
+        "c": "en grande quantité",
+        "cn": "大量地"
+      }
+    ],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  }
+]

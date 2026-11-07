@@ -2,7 +2,6 @@ import {onDeactivated, onMounted, onUnmounted, watch, type WatchSource} from 'vu
 import {emitter, EventKey} from '../utils/eventBus'
 import {useSettingStore} from '../stores'
 import {isMobile} from '../utils'
-import {Toast} from '@/base'
 
 const CODE_TO_CHAR: Record<string, string> = {
   ...Object.fromEntries('ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(c => [`Key${c}`, c.toLowerCase()])),
@@ -174,7 +173,7 @@ export function useEventListener(type: string, listener: EventListenerOrEventLis
       const handleCompositionStart = () => {
         // console.log('handleCompositionStart',Date.now())
         isComposing = true
-        Toast.warning('请切换到英文输入')
+        // 法语场景下用死键（Option+E 等）或输入法上屏是正常操作，不再提示
       }
 
       const handleCompositionEnd = (event: CompositionEvent) => {
@@ -342,31 +341,21 @@ export function useStartKeyboardEventListener() {
         e.preventDefault()
         shortcutEvent.map(s => emitter.emit(s, e))
       } else {
-        // 非英文模式下，输入区域的 keyCode 均为 229时，
+        // 输入区域放行规则：
+        // 原实现用 keyCode 白名单（65-90/48-57…）判断，只覆盖 ASCII，
+        // 法语重音字符（é è ê à ç ù î œ）走不进打字流程。这里改成
+        // “任何可打印单字符”即放行，配合 Backspace / IME(229) 兜底。
+        const isPrintableKey =
+          typeof e.key === 'string' && Array.from(e.key).length === 1 && e.key !== '\u0000'
         if (
-          ((e.keyCode >= 65 && e.keyCode <= 90) ||
-            (e.keyCode >= 48 && e.keyCode <= 57) ||
-            (e.keyCode >= 96 && e.keyCode <= 105) ||
-            // 空格键已经在上面处理过了
-            e.code === 'Slash' ||
-            e.code === 'Quote' ||
-            e.code === 'Comma' ||
-            e.code === 'BracketLeft' ||
-            e.code === 'BracketRight' ||
-            e.code === 'Period' ||
-            e.code === 'Minus' ||
-            e.code === 'Equal' ||
-            e.code === 'Semicolon' ||
-            e.code === 'Backspace' ||
-            e.code === 'Space' ||
-            // || e.code === 'Backquote'
-            e.keyCode === 229) &&
+          (isPrintableKey || e.code === 'Backspace' || e.keyCode === 229) &&
           //当按下功能键时，不阻止事件传播
           !e.ctrlKey &&
           !e.altKey
         ) {
-          if (isMobile() && e.keyCode === 229 && e.key === 'Unidentified') {
-            // 安卓软键盘在keydown阶段不会提供字符，等待input/composition事件来派发实际输入
+          if (e.keyCode === 229 && (e.key === 'Unidentified' || e.key === 'Process')) {
+            // 软键盘 / 输入法（中文 IME、法语死键）在 keydown 阶段拿不到真实字符，
+            // 等待 compositionend 事件再派发，避免把 'Process' 当成字符输入
             return
           }
           e.preventDefault()
@@ -377,6 +366,18 @@ export function useStartKeyboardEventListener() {
       }
     }
   })
+  // 输入法 / 死键上屏后，把提交的字符逐个送给打字流程（法语 é 可用 Option+E 之类死键输入）
+  useEventListener('compositionend', (e: CompositionEvent) => {
+    if (window?.disableEventListener) return
+    // 隐藏输入框（#typing-listener）已有自己的 composition 管线，避免重复上屏
+    if ((e.target as HTMLElement | null)?.id === 'typing-listener') return
+    const text = e?.data
+    if (!text) return
+    Array.from(text).forEach(ch => {
+      emitter.emit(EventKey.onTyping, { key: ch, code: '', shiftKey: false } as unknown as KeyboardEvent)
+    })
+  })
+
   useEventListener('keyup', (e: KeyboardEvent) => {
     if (!window?.disableEventListener) {
       emitter.emit(EventKey.keyup, e)

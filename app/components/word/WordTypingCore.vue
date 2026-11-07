@@ -11,6 +11,12 @@ import { _nextTick, last } from '@/core/utils'
 import { useOnKeyboardEventListener } from '@/core/hooks/event.ts'
 import { Toast } from '@/base'
 import { usePracticeWordTyping } from '@/core/composables/practice-words/usePracticeWordTyping.ts'
+import {
+  foldTypingWord,
+  isSegmentTyped,
+  isSegmentTyping,
+  type TypingSegment,
+} from '@/core/composables/practice-words/visible-word-typing.ts'
 
 interface IProps {
   word: Word
@@ -77,7 +83,39 @@ const {
   clearDeferredTimers,
 } = typing
 
-const displayWord = $computed(() => props.word.word.slice(input.value.length + wrong.value.length))
+/**
+ * 打字区同时保留「正确拼写」和「键盘可输入形式」两套：
+ * 显示 é / œ，比对用 e / oe。这样视觉上仍是 école，手上却只用打 ecole。
+ */
+const typingLayout = $computed(() => foldTypingWord(props.word.word, !!settingStore.ignoreAccent))
+
+/** 当前显示字符段落是否已经打完整 */
+function isSegmentDone(segment: TypingSegment) {
+  return isSegmentTyped(segment, Array.from(input.value).length)
+}
+
+/** 该段所有折叠字符是否都打对了 */
+function isSegmentRight(segment: TypingSegment) {
+  const states = inputCharacterStates.value
+  for (let i = segment.foldStart; i < segment.foldEnd; i++) {
+    if (!states[i]?.isCorrect) return false
+  }
+  return true
+}
+
+function segmentClass(segment: TypingSegment) {
+  const typedLength = Array.from(input.value).length
+  if (isSegmentTyped(segment, typedLength)) return isSegmentRight(segment) ? 'input' : 'wrong'
+  if (isSegmentTyping(segment, typedLength)) return 'input partial pending'
+  return 'letter pending'
+}
+
+/** 遮罩（默写提示）时未输入的字符显示为下划线 */
+function segmentText(segment: TypingSegment) {
+  const masked = props.isWordMasked && !props.showFullWord && !isSegmentDone(segment)
+  return masked ? '_' : segment.display
+}
+
 let cursor = $ref({ top: 0, left: 0 })
 const typingWordRef = $ref<HTMLDivElement>()
 
@@ -93,22 +131,29 @@ function checkCursorPosition() {
   _nextTick(() => {
     if (!typingWordRef) return
     const typingWordRect = typingWordRef.getBoundingClientRect()
+    const measure = (el: Element | null) => {
+      if (!el) return null
+      const r = el.getBoundingClientRect()
+      return { top: r.top - typingWordRect.top, left: r.left - typingWordRect.left }
+    }
+    // 光标停在第一个还没打完的字符上（œ 这类占两位的字符也要停住）
+    const pending = typingWordRef.querySelector('.l.pending')
+    const pendingPos = measure(pending)
+    if (pendingPos) {
+      cursor = pendingPos
+      return
+    }
     const inputList = typingWordRef.querySelectorAll('.l')
     if (inputList.length) {
-      const inputRect = last(Array.from(inputList)).getBoundingClientRect()
+      const lastRect = last(Array.from(inputList)).getBoundingClientRect()
       cursor = {
-        top: inputRect.top - typingWordRect.top,
-        left: inputRect.right - typingWordRect.left,
+        top: lastRect.top - typingWordRect.top,
+        left: lastRect.right - typingWordRect.left,
       }
       return
     }
-    const element = typingWordRef.querySelector('.dictation') ?? typingWordRef.querySelector('.letter')
-    const rect = element?.getBoundingClientRect()
-    if (!rect) return
-    cursor = {
-      top: rect.top - typingWordRect.top,
-      left: rect.left - typingWordRect.left,
-    }
+    const dictationPos = measure(typingWordRef.querySelector('.dictation') ?? typingWordRef.querySelector('.letter'))
+    if (dictationPos) cursor = dictationPos
   })
 }
 
@@ -189,25 +234,13 @@ defineExpose({
 
     <!-- 非默写模式 -->
     <template v-else>
-      <template v-if="wholeInputAttempt">
-        <template v-for="(item, index) in inputCharacterStates" :key="index">
-          <span v-if="item.character === ' '" class="l">
-            <Space :is-wrong="!item.isCorrect" :is-wait="false" />
-          </span>
-          <span v-else class="l" :class="item.isCorrect ? 'input' : 'wrong'">{{ item.character }}</span>
-        </template>
+      <template v-for="(segment, index) in typingLayout.segments" :key="index">
+        <span v-if="segment.display === ' '" class="l" :class="segmentClass(segment)">
+          <Space :is-wrong="isSegmentDone(segment) && !isSegmentRight(segment)" :is-wait="false" />
+        </span>
+        <span v-else class="l" :class="segmentClass(segment)">{{ segmentText(segment) }}</span>
       </template>
-      <span class="input" v-else-if="input">{{ input }}</span>
       <span class="wrong" v-if="wrong">{{ wrong }}</span>
-      <span class="letter" v-if="isWordMasked && !showFullWord">
-        {{
-          displayWord
-            .split('')
-            .map(v => (v === ' ' ? '&nbsp;' : '_'))
-            .join('')
-        }}
-      </span>
-      <span class="letter" v-else>{{ displayWord }}</span>
     </template>
 
     <div
@@ -237,6 +270,12 @@ defineExpose({
   .input,
   .right {
     color: rgb(22, 163, 74);
+  }
+
+  /* œ 打了一位、还差一位时的过渡态 */
+  .input.partial {
+    color: rgb(22, 163, 74);
+    opacity: 0.45;
   }
 
   .wrong {

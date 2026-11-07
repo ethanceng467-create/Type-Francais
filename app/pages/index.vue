@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { APP_NAME, GITHUB, Origin } from '@/core/config/env.ts'
+import { APP_NAME, GITHUB } from '@/core/config/env.ts'
 import { BaseIcon } from '@/base'
 import { usePlayBeep, usePlayCorrect, usePlayKeyboardAudio } from '@/core/hooks/sound.ts'
 
@@ -11,7 +11,7 @@ onMounted(() => {
 
 const { t } = useI18n()
 
-const typingWords = ['abandon', 'persevere', 'eloquent', 'diligent', 'profound', 'innovation']
+const typingWords = ['bonjour', 'ensemble', 'toujours', 'apprendre', 'voyage', 'lumière']
 let typingCursor = $ref(true)
 
 function startTypingAnimation() {
@@ -45,39 +45,39 @@ function startTypingAnimation() {
 // ── 首屏打字 Demo（PC 端，轻量自包含，不依赖 store）──
 const demoWords = $computed(() => [
   {
-    word: 'persevere',
-    phonetic: '/ˌpɜːrsɪˈvɪər/',
-    trans: t('demo_word_persevere_trans'),
+    word: 'bonjour',
+    phonetic: '/bɔ̃ʒuʁ/',
+    trans: 'n.m. 你好；早上好',
     examples: [
-      { en: 'You must persevere if you want to succeed.', zh: t('demo_word_persevere_ex1') },
-      { en: 'She persevered through years of hardship.', zh: t('demo_word_persevere_ex2') },
+      { en: 'Bonjour, comment allez-vous ?', zh: '你好，您好吗？' },
+      { en: 'Elle dit bonjour à tout le monde.', zh: '她跟所有人打招呼。' },
     ],
   },
   {
-    word: 'eloquent',
-    phonetic: '/ˈeləkwənt/',
-    trans: t('demo_word_eloquent_trans'),
+    word: 'ensemble',
+    phonetic: '/ɑ̃sɑ̃bl/',
+    trans: 'adv. 一起；共同',
     examples: [
-      { en: 'He gave an eloquent speech at the ceremony.', zh: t('demo_word_eloquent_ex1') },
-      { en: 'Her eloquent writing moved the audience deeply.', zh: t('demo_word_eloquent_ex2') },
+      { en: 'Nous travaillons ensemble depuis un an.', zh: '我们一起工作一年了。' },
+      { en: 'Ils sont partis ensemble.', zh: '他们一起走了。' },
     ],
   },
   {
-    word: 'diligent',
-    phonetic: '/ˈdɪlɪdʒənt/',
-    trans: t('demo_word_diligent_trans'),
+    word: 'toujours',
+    phonetic: '/tuʒuʁ/',
+    trans: 'adv. 总是；始终',
     examples: [
-      { en: 'A diligent student always finishes homework on time.', zh: t('demo_word_diligent_ex1') },
-      { en: 'He was diligent in his research and rarely took breaks.', zh: t('demo_word_diligent_ex2') },
+      { en: 'Il est toujours en retard.', zh: '他总是迟到。' },
+      { en: 'Je pense toujours à toi.', zh: '我一直想着你。' },
     ],
   },
   {
-    word: 'profound',
-    phonetic: '/prəˈfaʊnd/',
-    trans: t('demo_word_profound_trans'),
+    word: 'apprendre',
+    phonetic: '/apʁɑ̃dʁ/',
+    trans: 'v. 学习；学会',
     examples: [
-      { en: 'Reading widely has a profound effect on vocabulary.', zh: t('demo_word_profound_ex1') },
-      { en: 'The discovery had a profound impact on modern science.', zh: t('demo_word_profound_ex2') },
+      { en: "J'apprends vingt mots par jour.", zh: '我每天学二十个词。' },
+      { en: 'Elle apprend le français depuis deux ans.', zh: '她学法语两年了。' },
     ],
   },
 ])
@@ -155,8 +155,7 @@ const playDemoCorrect = usePlayCorrect()
 let mobileMenuOpen = $ref(false)
 
 useSeoMeta({
-  title: () => 'TypeWords',
-  ogUrl: 'https://typewords.cc/',
+  title: () => APP_NAME,
 })
 </script>
 
@@ -254,7 +253,7 @@ useSeoMeta({
                     d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"
                   />
                 </svg>
-                9k+ GitHub Stars · {{ $t('hero_badge') }}
+                {{ $t('hero_badge') }} · 基于开源项目 TypeWords
               </a>
             </div>
 
@@ -290,8 +289,8 @@ useSeoMeta({
                 {{ $t('hero_perk_modes') }}
               </div>
               <div class="flex items-center gap-1.5 text-[.85rem] text-[var(--hw-text-2)]">
-                <span class="w-1.5 h-1.5 rounded-full bg-[#2563eb] shrink-0 opacity-80"></span>50+
-                {{ $t('hero_perk_dicts') }}
+                <span class="w-1.5 h-1.5 rounded-full bg-[#2563eb] shrink-0 opacity-80"></span
+                >{{ $t('hero_perk_dicts') }}
               </div>
               <div class="flex items-center gap-1.5 text-[.85rem] text-[var(--hw-text-2)]">
                 <span class="w-1.5 h-1.5 rounded-full bg-[#059669] shrink-0 opacity-80"></span
@@ -309,18 +308,6 @@ useSeoMeta({
                 class="flex items-center gap-3 bg-[rgba(234,179,8,.08)] border border-[rgba(234,179,8,.35)] text-[#92400e] rounded-xl px-4 py-3 leading-[1.6] text-left"
               >
                 <span class="text-[.84rem]">{{ $t('mobile_not_optimized') }}</span>
-              </div>
-            </div>
-
-            <div class="mini-qr-card w-full box-border mb-3 flex sm:hidden">
-              <NuxtImg
-                src="/imgs/mini.png"
-                :alt="$t('mini_program')"
-                class="w-24 h-24 rounded-xl shrink-0 border border-[var(--hw-border)]"
-              />
-              <div class="flex flex-col gap-0.5 flex-1 min-w-0">
-                <div class="text-lg font-semibold text-[var(--hw-text)]">{{ $t('mini_program') }}</div>
-                <div class="text-sm text-[var(--hw-text-3)] leading-[1.5]">{{ $t('mini_program_desc') }}</div>
               </div>
             </div>
 
@@ -359,36 +346,9 @@ useSeoMeta({
                 {{ $t('hero_cta_github') }}
               </a>
             </div>
-
-            <!-- 网站地址 -->
-            <div class="flex justify-center lg:justify-start mt-4">
-              <a
-                :href="Origin"
-                target="_blank"
-                class="inline-flex items-center gap-1.5 text-[var(--hw-text-3)] no-underline hover:text-[#7c3aed] transition-colors duration-150"
-              >
-                <svg
-                  width="14"
-                  height="14"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  class="shrink-0 opacity-50"
-                >
-                  <circle cx="12" cy="12" r="10" />
-                  <path
-                    d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
-                  />
-                </svg>
-                {{ Origin }}
-              </a>
-            </div>
           </div>
 
-          <!-- ── Right: Demo 卡片 + 小程序码 ── -->
+          <!-- ── Right: Demo 卡片 ── -->
           <div class="hidden lg:flex flex-col items-center gap-4 w-[450px] shrink-0">
             <!-- 打字 Demo 卡片 -->
             <div class="w-full relative group/demo">
@@ -443,7 +403,7 @@ useSeoMeta({
                   <span class="w-3 h-3 rounded-full bg-[#febc2e]"></span>
                   <span class="w-3 h-3 rounded-full bg-[#28c840]"></span>
                   <span class="ml-3 text-[.78rem] text-[var(--hw-text-3)] font-mono"
-                    >TypeWords — {{ $t('nav_words') }}</span
+                    >{{ APP_NAME }} — {{ $t('nav_words') }}</span
                   >
                   <div class="ml-auto">
                     <span
@@ -514,18 +474,6 @@ useSeoMeta({
               </div>
             </div>
 
-            <!-- ── 小程序码 — 独立卡片（不再混入 CTA 按钮旁） ── -->
-            <div class="mini-qr-card w-full box-border flex">
-              <NuxtImg
-                src="/imgs/mini.png"
-                :alt="$t('mini_program')"
-                class="w-24 h-24 rounded-xl shrink-0 border border-[var(--hw-border)]"
-              />
-              <div class="flex flex-col gap-0.5 flex-1 min-w-0">
-                <div class="text-lg font-semibold text-[var(--hw-text)]">{{ $t('mini_program') }}</div>
-                <div class="text-sm text-[var(--hw-text-3)] leading-[1.5]">{{ $t('mini_program_desc') }}</div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
@@ -673,7 +621,7 @@ useSeoMeta({
   }
 }
 
-/* 小程序码卡片 */
+/* demo 卡片 */
 .mini-qr-card {
   @apply items-center gap-3 bg-[var(--hw-bg-card)] border border-[var(--hw-border)] rounded-xl px-4 py-3 shadow-[var(--hw-shadow-sm)] hover:border-[rgba(124,58,237,.4)] hover:shadow-[var(--hw-shadow-md)] transition-all duration-200;
 }

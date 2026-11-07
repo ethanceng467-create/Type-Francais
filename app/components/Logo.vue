@@ -1,33 +1,50 @@
 <script setup lang="ts">
 import { useSettingStore } from '@/core/stores/setting.ts'
 import { useRouter } from 'vue-router'
-import { IS_DEV } from '@/core/config/env'
-import { withAppBaseURL } from '@/core/utils/base-url'
+import { APP_NAME } from '@/core/config/env'
 
 const settingStore = useSettingStore()
 const router = useRouter()
-const darkLogoSrc = withAppBaseURL('/imgs/logo/logo-text-black.png')
-const lightLogoSrc = withAppBaseURL('/imgs/logo/logo-text-white.png')
 
 function goHome() {
-  if (IS_DEV) {
-    router.push('/')
-  } else {
-    location.href = window.atob('aHR0cHM6Ly90eXBld29yZHMuY2M=')
-  }
+  router.push('/')
 }
 </script>
 
 <template>
-  <div class="center" @click="goHome">
-    <img v-show="settingStore.theme === 'dark'" :src="lightLogoSrc" alt="" />
-    <img v-show="settingStore.theme !== 'dark'" :src="darkLogoSrc" alt="" />
+  <div class="center logo" @click="goHome" :title="APP_NAME">
+    <span class="logo-text" :class="settingStore.theme === 'dark' && 'is-dark'">
+      <span>Type</span>
+      <span>Français</span>
+    </span>
   </div>
 </template>
 
 <style scoped lang="scss">
-img {
+.logo {
   cursor: pointer;
-  height: 2rem;
+  user-select: none;
+}
+
+/* 原来用 png 图片写死 "Type Words"，法语版直接文字渲染，免去改图 */
+.logo-text {
+  font-family: 'Caveat', 'Segoe Script', 'Brush Script MT', cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.3px;
+  background: linear-gradient(90deg, #7c3aed 0%, #bd34fe 55%, #41d1ff 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+  gap: 1px;
+
+  &.is-dark {
+    filter: brightness(1.25);
+  }
 }
 </style>
