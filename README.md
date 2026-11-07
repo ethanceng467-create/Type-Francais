@@ -6,6 +6,8 @@
 
 ![首页](shots/10-home.png)
 
+**在线体验**：<https://type-francais.app.workbuddy.host/?sharecode=SP6HHUII4C>
+
 ---
 
 ## 1. 和上游的关系
