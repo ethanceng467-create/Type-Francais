@@ -10,7 +10,12 @@
         "cn": "惧怕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle redoutait par-dessus tout que la nouvelle ne se répandît avant qu'elle eût prévenu sa famille.",
+        "cn": "她最怕的是消息在她通知家人之前就传开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "扭；拧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a tordu la serviette au-dessus de l'évier, puis l'a suspendue au clou rouillé.",
+        "cn": "他把毛巾在洗碗池上方拧干，然后挂到生锈的钉子上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "没完没了的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La réunion, interminable, s'éternisait sur des questions que tous, autour de la table, jugeaient réglées depuis longtemps.",
+        "cn": "会议没完没了，在那些全桌人都认为早已解决的问题上拖延不休。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "扰乱；使不安"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Rien ne semblait troubler le calme de cette bibliothèque, sinon le froissement des pages tournées.",
+        "cn": "除了翻动书页的沙沙声，似乎没有什么能扰乱这座图书馆的宁静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "一代人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque génération réinvente les mots dont elle se sert pour dire la même chose.",
+        "cn": "每一代人都重新发明自己用来表达同一件事的词。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "冷漠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'indifférence qu'il opposait aux reproches finissait par exaspérer ceux qui lui voulaient le plus de bien.",
+        "cn": "他对责备的冷漠最终激怒了那些最真心关心他的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "表明；示威"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les étudiants ont manifesté toute la journée pour obtenir la révision d'une décision jugée inique.",
+        "cn": "学生们示威了一整天，要求重新审议一项被他们视为不公的决定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "估计；尊重"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On estime à trois mille le nombre de foyers privés d'électricité après la tempête.",
+        "cn": "据估计，暴风雨后有三千户人家断电。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "吞食"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le feu a dévoré en quelques minutes les broussailles que la sécheresse avait rendues inflammables.",
+        "cn": "大火几分钟内就吞没了被干旱烤得易燃的灌木丛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "旗帜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un drapeau décoloré pendait à la fenêtre, souvenir d'une fête que nul ne célébrait plus.",
+        "cn": "一面褪色的旗子挂在窗前，是某个再无人庆祝的节日的纪念。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "位于；定位"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le hameau se situe au pied d'une colline, à l'écart des routes que les camions empruntent.",
+        "cn": "这个小村坐落在山脚下，远离卡车经过的公路。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "重新变成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après des années de tumulte, la place est redevenue ce qu'elle était: un paisible lieu de rencontre.",
+        "cn": "经过多年动荡，广场又变回从前那样：一个宁静的相聚之地。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "更糟（de pis en pis）"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "De mal en pis, la situation s'aggravait au point que le préfet envisageait des mesures extrêmes.",
+        "cn": "情况越来越糟，糟到省长都在考虑采取极端措施。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "提交；使服从"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le comité a fini par soumettre le projet à un examen si sévère que plusieurs articles en furent remaniés.",
+        "cn": "委员会把方案提交给一次极为严格的审查，以致好几条被改动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "美的（beau 的变体）"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bel horizon s'ouvrait devant eux, que la brume du matin rendait presque irréel.",
+        "cn": "一道美丽的风景在他们面前展开，晨雾让它几乎显得不真实。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "剪裁；削"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le jardinier taillait les rosiers avec une attention d'orfèvre, sans jamais blesser les jeunes pousses.",
+        "cn": "园丁修剪玫瑰时像金匠般专注，从不弄伤新芽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "疼痛的；痛苦的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le souvenir de cette séparation restait si douloureux qu'il évitait encore d'en parler à ses proches.",
+        "cn": "那次离别的记忆仍然如此痛苦，以致他至今仍回避和亲人谈起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "发光"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il regardait les cuivres de la cuisine luire faiblement à la lueur de la lampe.",
+        "cn": "他看着厨房里的铜器在灯光下微微发亮。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "容易地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il se laisse facilement convaincre, pourvu qu'on lui parle avec un peu de douceur.",
+        "cn": "他很容易被说服，只要跟他说话时稍微温和一些。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "语言（体系）；措辞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le langage de ce poète, dépouillé jusqu'à l'os, déroute les lecteurs habitués aux images somptueuses.",
+        "cn": "这位诗人的语言简练到极点，让习惯了华丽意象的读者不知所措。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "内裤"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enfant est sorti dans la cour en culotte, ignorant le froid qui régnait ce matin-là.",
+        "cn": "孩子只穿着内裤就跑到院子里，全然不顾那天早晨的寒冷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "发出裂响；崩溃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le plancher craquait sous chacun de nos pas, et nous avancions dans le noir sans oser respirer.",
+        "cn": "地板在我们每一步下吱嘎作响，我们在黑暗中屏息前行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "扫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle balayait la terrasse chaque matin, avant que le soleil ne rendît la pierre brûlante.",
+        "cn": "她每天早上都扫露台，赶在太阳把石头晒得滚烫之前。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "中央的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement central a promis des aides aux régions que la sécheresse a le plus éprouvées.",
+        "cn": "中央政府承诺援助那些受旱情影响最重的地区。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "犹太的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce quartier juif, autrefois animé, garde le souvenir d'une communauté que le temps a presque entièrement effacée.",
+        "cn": "这个曾经热闹的犹太街区，保留着一个几乎被时间完全抹去的群体的记忆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "精致的；微妙的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La question, délicate entre toutes, exigeait des ménagements que son franc-parler ne permettait guère.",
+        "cn": "这个问题格外微妙，需要许多分寸，而他直言不讳的性子几乎做不到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "与…战斗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les pompiers ont combattu l'incendie pendant deux nuits entières avant d'en venir enfin à bout.",
+        "cn": "消防员与大火搏斗了两个整夜，才终于把它扑灭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "智力"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son intelligence vive lui permettait de saisir en un instant ce que d'autres mettaient des heures à comprendre.",
+        "cn": "他头脑敏捷，一瞬间就能明白别人要花几个小时才懂的事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "日常的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son travail quotidien l'éloignait des siens, au point qu'il ne voyait plus ses enfants grandir.",
+        "cn": "他日常的工作让他远离家人，以致他再也看不到孩子长大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "感动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce récit ne cessait de l'émouvoir, bien qu'il en connût déjà chaque détail par cœur.",
+        "cn": "这个故事总是让他动情，尽管他早已把每个细节都记在心里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "建筑物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bâtiment, classé monument historique, sera restauré dès que les crédits nécessaires auront été votés.",
+        "cn": "这座被列为历史古迹的建筑，将在所需经费获批后立即修复。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "变化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le moindre changement dans son emploi du temps suffisait à le plonger dans une agitation extrême.",
+        "cn": "他日程安排中哪怕最微小的变动，都足以让他陷入极度不安。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "信念"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle défendait ses convictions avec une fougue qui impressionnait jusqu'à ses adversaires les plus résolus.",
+        "cn": "她以一股连最坚决的对手都为之动容的热忱捍卫自己的信念。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "护士"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'infirmier de nuit passait dans chaque chambre toutes les heures pour vérifier que les malades reposaient.",
+        "cn": "夜班护士每小时都到每间病房查看，确认病人都在安睡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "困惑的；模糊的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses explications, confuses et souvent contradictoires, n'ont fait qu'accroître le doute que les enquêteurs nourrissaient déjà.",
+        "cn": "他的解释含糊又常常自相矛盾，只让调查人员本就有的怀疑更深。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "抽屉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans le tiroir du bas dormaient des lettres jaunies, nouées d'un ruban que nul n'avait dénoué.",
+        "cn": "最下面的抽屉里躺着一些泛黄的信，用一条没人解开过的丝带系着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "刀片；薄片"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La lame du couteau, ébréchée par des années d'usage, refusait de couper la corde.",
+        "cn": "刀刃因多年使用而崩了口，怎么也割不断那根绳子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "损失"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La perte de son emploi l'a contraint à vendre la maison qu'il avait bâtie.",
+        "cn": "失去工作迫使他卖掉自己亲手盖的房子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "紧张的；神经的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tapotait la table d'un geste nerveux, guettant le retour de celle qu'il attendait.",
+        "cn": "他神经质地敲着桌子，等着那个他所等待的人回来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "幽灵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fantôme de son ancien amour hantait encore les pièces de la maison vide.",
+        "cn": "旧日爱情的幽灵仍在这座空屋的各个房间里徘徊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "作品；工程"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet ouvrage, fruit de vingt ans de recherche, bouscule bien des idées reçues sur la question.",
+        "cn": "这部著作是二十年研究的成果，推翻了不少关于该问题的成见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "花束"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a déposé un bouquet de fleurs des champs sur la tombe, puis s'est éloignée sans un mot.",
+        "cn": "她在墓前放下一束野花，然后一言不发地走开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "职业生涯；采石场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa carrière de diplomate l'a conduit dans des pays dont il ignorait jusqu'à la langue.",
+        "cn": "他的外交官生涯把他带到一些他连语言都不懂的国家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "令人愉快的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La soirée fut si agréable que personne ne songea à regarder l'heure avant minuit.",
+        "cn": "那个夜晚如此愉快，谁也没想到在午夜前看看时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "夜间的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une brise nocturne soulevait les rideaux, apportant l'odeur des tilleuls plantés le long du boulevard.",
+        "cn": "一阵夜风吹动窗帘，带来沿大道栽种的椴树的气味。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "思考；反射"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après une longue réflexion, il a renoncé à ce voyage dont il rêvait depuis des années.",
+        "cn": "经过长时间思考，他放弃了这次多年梦想的旅行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "羊毛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce pull de laine, tricoté par sa grand-mère, lui tenait chaud pendant les hivers les plus rudes.",
+        "cn": "这件祖母织的羊毛衫，在最严酷的冬天里为他保暖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "诊所；事务所"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cabinet du notaire, situé au deuxième étage, sentait le papier ancien et la cire.",
+        "cn": "公证人的事务所位于三楼，散发着旧纸张和封蜡的气味。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "说服"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Rien ne saurait le persuader de renoncer à un projet qu'il caresse depuis son enfance.",
+        "cn": "什么也无法说服他放弃一个自幼便萦绕心头的计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "呻吟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le blessé gémissait doucement, sans jamais se plaindre, tandis qu'on pansait sa jambe tuméfiée.",
+        "cn": "伤者轻声呻吟，却从不抱怨，任人给他肿胀的腿换药。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "文学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La littérature de ce pays, longtemps méprisée, retrouve aujourd'hui une audience qu'elle n'avait jamais connue.",
+        "cn": "这个国家的文学长期受轻视，如今重获它从未有过的读者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "大气；气氛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'atmosphère de la salle était si tendue que chacun retenait son souffle en attendant le verdict.",
+        "cn": "大厅里的气氛如此紧张，人人屏息等待裁决。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "未来的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les générations futures nous jugeront sur la manière dont nous aurons traité cette question.",
+        "cn": "后代将根据我们处理这个问题的方式来评判我们。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "特别地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'intéressait particulièrement aux langues anciennes, au point d'y consacrer presque tous ses loisirs.",
+        "cn": "他对古代语言特别感兴趣，甚至把几乎全部闲暇都投了进去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "视角；前景"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Vu de la colline, la ville prend une perspective que les habitants ignorent forcément.",
+        "cn": "从山上看，城市呈现出居民们必然无从知晓的透视景象。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "舞蹈"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La danse des flammes dans la cheminée berçait les deux vieillards assis côte à côte.",
+        "cn": "壁炉中火焰的舞动摇漾着并肩而坐的两位老人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "命令；整理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin lui a ordonné un repos complet, ce qu'il a accepté de mauvaise grâce.",
+        "cn": "医生嘱咐他彻底休息，他勉强接受了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "残酷的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il trouvait cruel de laisser ces bêtes enfermées dans des cages aussi étroites pendant des années.",
+        "cn": "他觉得把这些牲畜长年关在如此狭小的笼子里很残忍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "手套"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a enfilé ses gants de cuir avant de saisir la branche hérissée d'épines.",
+        "cn": "她戴上皮手套，才去抓那根布满尖刺的树枝。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "（se méfier）提防"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il se méfie des promesses trop généreuses, ayant appris à ses dépens qu'elles cachaient souvent un piège.",
+        "cn": "他提防那些过于慷慨的承诺，因为他吃过亏，知道它们往往藏着陷阱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "工具；乐器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet instrument de mesure, d'une précision remarquable, appartenait au laboratoire depuis près d'un demi-siècle.",
+        "cn": "这件测量仪器精度出众，已在实验室里待了近半个世纪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "查阅；咨询"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Avant de signer, il a tenu à consulter un avocat dont la réputation n'était plus à faire.",
+        "cn": "签字之前，他坚持咨询一位名声早已确立的律师。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "树干；躯干"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tronc du vieux chêne, creusé par les ans, abritait des oiseaux que nul ne dérangeait.",
+        "cn": "老橡树的树干被岁月掏空，里面住着无人打扰的鸟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "小径"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sentier, à peine visible, s'enfonçait dans les fougères avant de disparaître sous les arbres.",
+        "cn": "那条几乎看不清的小径伸进蕨丛，随后消失在树下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "书写；字体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son écriture, fine et penchée, remplissait les marges de cahiers que personne n'avait jamais lus.",
+        "cn": "她的字迹纤细倾斜，写满了没人读过的本子的页边。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "蔑视"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a accueilli leurs remontrances avec un mépris qui en disait plus long que toute réponse.",
+        "cn": "他以一种比任何回答都更说明问题的蔑视接受了他们的责备。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "模型；榜样"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce modèle de maison, réduit au dixième, trônait au centre de l'atelier de l'architecte.",
+        "cn": "这座按十分之一缩小的房屋模型，摆在建筑师工作坊的中央。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "诗人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le poète marchait le long du fleuve, cherchant des mots que la lumière lui soufflerait.",
+        "cn": "诗人沿着河边走，寻找光线会悄悄告诉他的词。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "骑士"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chevalier, fidèle à son serment, reprit la route avant même que l'aube ne se levât.",
+        "cn": "那位忠于誓言的骑士，在天亮之前就重新上路了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "十月"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En octobre, les vignes prennent des teintes que les peintres viennent admirer de loin.",
+        "cn": "十月里，葡萄园染上画家们远道前来欣赏的色彩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "宁静的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La maison semblait paisible, mais un désordre discret trahissait une présence que nul n'attendait.",
+        "cn": "房子看似宁静，但一种隐约的凌乱透露出一个谁也没料到的存在。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "意大利的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce village italien, accroché à flanc de coteau, attire des voyageurs en quête de silence.",
+        "cn": "这座依山而建的意大利村庄，吸引着寻求宁静的旅人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "渴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une soif terrible le tourmentait depuis l'aube, et il ne rêvait plus que d'une eau fraîche.",
+        "cn": "从黎明起他就被一种可怕的干渴折磨，只想着喝口凉水。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "赞成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le conseil a approuvé le budget, non sans avoir longuement discuté des coupes qu'il impliquait.",
+        "cn": "议会批准了预算，尽管事先曾长时间讨论它所意味的削减。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "无一的；糟的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nul n'est prophète en son pays, répétait-il en haussant les épaules avec une résignation lasse.",
+        "cn": "他耸着肩，带着疲惫的无奈反复说，先知在本乡不受尊重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "（s'écrouler）倒塌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vieux mur s'est écroulé pendant la nuit, sans que personne n'entendît le moindre bruit.",
+        "cn": "老墙在夜里塌了，谁也没听见一点声响。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "证明正当"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Rien ne saurait justifier un tel mépris envers ceux qui ont tout donné pour cette cause.",
+        "cn": "任何理由都无法为对那些为这一事业付出一切的人如此蔑视开脱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "电的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une panne électrique a plongé le quartier dans l'obscurité pendant près de six heures.",
+        "cn": "一次停电让整个街区陷入黑暗近六个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "忠实的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce chien, fidèle à son maître, l'attendait chaque soir devant la grille du jardin.",
+        "cn": "这条忠实的狗每天傍晚都在花园栅栏前等他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "颗粒；谷粒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un simple grain de sable suffit parfois à enrayer un mécanisme d'une précision extrême.",
+        "cn": "一粒小小的沙子有时就足以让一台精密至极的机械卡住。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "预防；谨慎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Par précaution, elle avait emporté une lampe de poche et des allumettes dans son sac.",
+        "cn": "为防万一，她在包里带了一支手电和几根火柴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "宝藏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce trésor, enfoui depuis des siècles, a été découvert par un paysan qui labourait son champ.",
+        "cn": "这批埋藏了数世纪的宝藏，被一个耕地的农民发现。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "弥撒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La messe du dimanche, chantée par une chorale d'enfants, attirait presque tout le village.",
+        "cn": "星期日的弥撒由一支儿童合唱队唱诵，几乎吸引了全村的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "铜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les cuivres de la vieille horloge brillaient d'un éclat que les années n'avaient pas terni.",
+        "cn": "老钟的铜件闪着岁月未能使之黯淡的光泽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "恳求"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle l'a supplié de rester encore un peu, mais il avait déjà franchi la porte.",
+        "cn": "她求他再留一会儿，但他已经走出了门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "叹息"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un long soupir lui échappa lorsqu'il aperçut la pile de dossiers qui l'attendait sur le bureau.",
+        "cn": "看到桌上等着他的那堆文件，他长长地叹了口气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "山谷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vallée, noyée de brume, ne laissait deviner que la cime de quelques clochers.",
+        "cn": "山谷笼罩在雾中，只露出几座钟楼的尖顶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "十字路口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Au carrefour, un panneau indiquait deux directions dont aucune ne menait où nous voulions aller.",
+        "cn": "在十字路口，一块路牌指出的两个方向都不通向我们要去的地方。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "了不起的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a fourni un travail formidable, achevant en trois semaines ce qui exigeait d'ordinaire des mois.",
+        "cn": "她做了了不起的工作，三周内完成了通常需要几个月的事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "小教堂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chapelle, bâtie à l'ombre d'un chêne immense, n'ouvrait ses portes qu'aux grandes fêtes.",
+        "cn": "这座小教堂建在一棵大橡树的阴影下，只在重大节日才开门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "值得的；尊严的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa conduite, en cette circonstance difficile, fut jugée digne de l'estime que tous lui portaient.",
+        "cn": "他在这一艰难处境中的行为，被认为配得上众人对他的敬重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "干预；介入"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le maire a dû intervenir en personne pour apaiser la querelle qui opposait les deux voisins.",
+        "cn": "市长不得不亲自出面，平息两个邻居之间的争吵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "静脉；运气"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a eu la veine de trouver une place libre juste devant la gare.",
+        "cn": "他运气好，正好在车站前找到一个空位。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "勇敢的；正直的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'était un brave homme, sans malice, que tous les enfants du quartier saluaient gaiement.",
+        "cn": "那是个正直的人，毫无心机，街区的孩子都高高兴兴地跟他打招呼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "天鹅绒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le velours de sa robe absorbait la lumière, donnant à sa silhouette une profondeur étrange.",
+        "cn": "她裙子的天鹅绒吸走了光线，让她的身影显出一种奇特的深邃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "皮鞋"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses souliers, couverts de poussière, témoignaient d'une marche que rien n'avait interrompue depuis l'aube.",
+        "cn": "他的皮鞋满是尘土，说明他从黎明起就不曾停步。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2122,7 +2602,12 @@
         "cn": "雷雨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un orage éclata vers le soir, et la pluie battit les vitres pendant une bonne heure.",
+        "cn": "傍晚时分雷雨骤起，雨点敲打窗玻璃足有一个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "专注的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les élèves, attentifs au moindre geste du maître, retenaient leur respiration dans la classe silencieuse.",
+        "cn": "学生们专注地留意老师最细微的动作，在安静的教室里屏住呼吸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "访客"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un visiteur inattendu s'est présenté à la grille, demandant à voir le maître des lieux.",
+        "cn": "一位不速之客来到门口，要求见这里的主人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "腰带"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a serré sa ceinture d'un cran, signe assez clair que les temps devenaient difficiles.",
+        "cn": "他把腰带收紧一格，这多少说明日子变得艰难了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "种族；品种"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce chien appartient à une race ancienne, dont les origines se perdent dans la nuit des temps.",
+        "cn": "这条狗属于一个古老品种，其起源湮没在遥远的年代里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "毛巾；公文包"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a posé sa serviette sur la table et s'est assis sans même retirer son manteau.",
+        "cn": "他把公文包放在桌上，连大衣都没脱就坐下了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2254,7 +2764,12 @@
         "cn": "泵； pomp 排场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pompe du puits, rouillée par l'humidité, refusait de fonctionner depuis le début de l'été.",
+        "cn": "井上的水泵因潮湿生锈，从入夏起就无法使用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "巧克力"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un carré de chocolat noir, dégusté lentement, suffisait à son bonheur des soirs d'hiver.",
+        "cn": "一小块黑巧克力，慢慢品味，就足以让他冬夜的幸福圆满。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "宗教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La religion de ses ancêtres lui demeurait étrangère, bien qu'il en respectât les rites.",
+        "cn": "他祖先的宗教对他来说始终陌生，尽管他尊重其仪式。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "拇指"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a effleuré du pouce la cicatrice qu'il gardait au front depuis cet accident.",
+        "cn": "他用拇指摸了摸那次事故后留在额上的疤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "热情"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son enthousiasme, réellement communicatif, a gagné toute l'équipe dès la première réunion de travail.",
+        "cn": "他真正具有感染力的热情，从第一次工作会议起就带动了整个团队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "本能"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son instinct lui souffla de ne pas insister davantage, et il se tut aussitôt.",
+        "cn": "本能提醒他不要再坚持，他便立刻住了口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2386,7 +2926,12 @@
         "cn": "坏的；凶的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce chien n'est pas méchant, il aboie seulement pour défendre le territoire qu'on lui a confié.",
+        "cn": "这条狗不凶，它叫只是为了守护别人托付给它的地盘。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2408,7 +2953,12 @@
         "cn": "舱；小间"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cabine du bateau, exiguë, sentait le sel et le bois humide que rien ne séchait.",
+        "cn": "船舱狭小，散发着盐和怎么也不干的湿木头的气味。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2430,7 +2980,12 @@
         "cn": "植物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette plante, venue d'un pays lointain, s'est si bien acclimatée qu'elle est devenue envahissante.",
+        "cn": "这种来自远方的植物适应得太好，竟变得四处蔓延。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2452,7 +3007,12 @@
         "cn": "粗暴的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa réponse, brutale, a jeté un froid que la conversation n'a jamais vraiment dissipé.",
+        "cn": "他粗暴的回答让气氛骤然冷下来，谈话再也没真正缓和。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2474,7 +3034,12 @@
         "cn": "然而"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le projet semblait séduisant; toutefois, son coût dissuadait même les élus les plus enthousiastes.",
+        "cn": "方案看来很吸引人；然而，其成本让最热衷的议员也望而却步。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2496,7 +3061,12 @@
         "cn": "跳跃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chat a bondi sur la table dès que la porte du jardin s'est entrouverte.",
+        "cn": "花园的门刚一开，猫就跳上了桌子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2518,7 +3088,12 @@
         "cn": "清凉；新鲜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fraîcheur du soir tombait sur le jardin, chassant la lourdeur de la journée.",
+        "cn": "傍晚的凉意落在花园里，驱散了白天的闷热。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2540,7 +3115,12 @@
         "cn": "手掌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a gardé la pièce au creux de sa paume, comme s'il craignait de la perdre.",
+        "cn": "他把那枚硬币握在掌心，仿佛怕把它弄丢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2562,7 +3142,12 @@
         "cn": "雾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un brouillard épais couvrait la route, réduisant la visibilité à quelques mètres à peine.",
+        "cn": "浓雾笼罩着道路，能见度只剩几米。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2584,7 +3169,12 @@
         "cn": "疲倦的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Las de ces querelles stériles, il a fini par quitter la salle sans saluer personne.",
+        "cn": "厌倦了这些无谓的争吵，他最后没跟任何人打招呼就离开了大厅。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2606,7 +3196,12 @@
         "cn": "后果"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a mesuré trop tard la conséquence de ses paroles, quand il n'était plus possible de se rétracter.",
+        "cn": "等他意识到自己那番话的后果时已经太晚，再也无法收回。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2628,7 +3223,12 @@
         "cn": "现代的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette architecture moderne, fort décriée à son inauguration, est aujourd'hui unanimement célébrée par les critiques.",
+        "cn": "这座现代建筑在落成时备受批评，如今却得到评论界的一致赞誉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2650,7 +3250,12 @@
         "cn": "突然的；生硬的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa sortie brusque a surpris tout le monde, car nul ne l'avait vu s'énerver auparavant.",
+        "cn": "他突然的发火让所有人吃惊，因为此前没人见他动过怒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2672,7 +3277,12 @@
         "cn": "指定给；注定"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce discours, d'abord destiné aux jeunes diplômés, a été prononcé devant une assemblée fort clairsemée.",
+        "cn": "这篇讲话原本是给应届毕业生的，却在一个人数稀少的集会上宣读。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2694,7 +3304,12 @@
         "cn": "延迟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ne tarda pas à comprendre que sa présence n'était plus souhaitée dans la maison.",
+        "cn": "他很快就明白，这家里已不再需要他的存在。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2716,7 +3331,12 @@
         "cn": "集会；议会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'assemblée s'est prononcée en faveur du projet, malgré les réserves exprimées par plusieurs membres.",
+        "cn": "尽管有几位成员表示保留，议会仍表决支持该方案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2738,7 +3358,12 @@
         "cn": "闪电"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un éclair a fendu le ciel, suivi d'un tonnerre qui a fait trembler les vitres.",
+        "cn": "一道闪电划破天空，随之而来的雷声震得窗玻璃发抖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2760,7 +3385,12 @@
         "cn": "使平静"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses paroles apaisèrent la colère du vieil homme, sans pour autant dissiper ses soupçons.",
+        "cn": "他的话平息了老人的怒气，却没能消除他的怀疑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2782,7 +3412,12 @@
         "cn": "怀疑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On le soupçonnait d'avoir favorisé un proche, mais aucune preuve ne fut jamais produite.",
+        "cn": "人们怀疑他偏袒了一位亲近的人，但从未拿出任何证据。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2804,7 +3439,12 @@
         "cn": "钟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cloche de l'église sonnait les heures avec une régularité que rien ne semblait troubler.",
+        "cn": "教堂的钟按时报时，规律得似乎什么也打不破。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2826,7 +3466,12 @@
         "cn": "下船；卸下"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les voyageurs ont débarqué sur le quai, chargés de valises et impatients de retrouver leur chambre.",
+        "cn": "旅客们提着箱子下到码头，急着回自己的房间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2848,7 +3493,12 @@
         "cn": "逃跑；泄漏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa fuite précipitée, au milieu de la nuit, a intrigué bien plus d'un voisin.",
+        "cn": "他半夜仓促出逃，让不止一个邻居感到蹊跷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2870,7 +3520,12 @@
         "cn": "恰恰；确切地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est précisément ce détail, négligé par tous les enquêteurs, qui a permis de résoudre l'énigme.",
+        "cn": "正是这个被所有调查人员忽略的细节，使谜团得以解开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2892,7 +3547,12 @@
         "cn": "深深地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a été profondément blessé par une remarque qu'elle avait crue, sur le moment, sans conséquence.",
+        "cn": "她一句她当时以为无伤大雅的话，深深伤了他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2914,7 +3574,12 @@
         "cn": "创立"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'école fut fondée par un ancien officier qui voulait former des ingénieurs dignes de confiance.",
+        "cn": "这所学校由一名旧军官创办，他想培养值得信赖的工程师。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2936,7 +3601,12 @@
         "cn": "私密的；内心的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il m'a confié, d'une voix intime, un secret qu'il n'avait jamais livré à personne.",
+        "cn": "他用一种私密的声音向我吐露了一个从未告诉过任何人的秘密。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2958,7 +3628,12 @@
         "cn": "织物；组织"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tissu de cette robe, d'une finesse rare, venait d'un atelier italien aujourd'hui disparu.",
+        "cn": "这条裙子的面料质地罕见细腻，出自一家如今已消失的意大利作坊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2980,7 +3655,12 @@
         "cn": "延长"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sécheresse de cet été a prolongé des vendanges fort tardives jusqu'aux derniers jours d'octobre.",
+        "cn": "今年夏天的干旱使本就很晚的葡萄采收一直拖到十月的最后几天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3002,7 +3682,12 @@
         "cn": "敲；撞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Quelqu'un cognait à la porte depuis un long moment, mais personne n'osait aller ouvrir.",
+        "cn": "有人敲门已经好一阵子了，却没人敢去开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3024,7 +3709,12 @@
         "cn": "修士"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le moine copiait des manuscrits dans le silence du cloître, sans jamais lever les yeux.",
+        "cn": "修士在修道院的寂静中抄写手稿，从不抬头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3046,7 +3736,12 @@
         "cn": "壁橱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans le placard de l'entrée s'entassaient des manteaux que plus personne, depuis des années, ne portait.",
+        "cn": "门厅的壁橱里堆着一些多年无人再穿的大衣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3068,7 +3763,12 @@
         "cn": "熨；再来"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a repassé sa chemise deux fois de suite avant de se décider enfin à sortir.",
+        "cn": "她把衬衫连熨了两遍，才终于决定出门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3090,7 +3790,12 @@
         "cn": "道德的；精神的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il lui a offert un soutien purement moral, faute de pouvoir l'aider d'une autre manière.",
+        "cn": "他只能给她精神上的支持，因为无法以别的方式帮她。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3112,7 +3817,12 @@
         "cn": "肌肉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le muscle de son épaule le faisait souffrir depuis qu'il avait soulevé ce carton.",
+        "cn": "自从搬了那个箱子，他肩上的肌肉就一直疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3134,7 +3844,12 @@
         "cn": "差距；间距"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'écart entre les deux versions du texte a échappé à la plupart des lecteurs.",
+        "cn": "两个文本版本之间的差异，多数读者都没有察觉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3156,7 +3871,12 @@
         "cn": "手帕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a sorti un mouchoir de sa poche et s'est essuyé le front sans un mot.",
+        "cn": "他从口袋里掏出手帕擦了擦额头，一言不发。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3178,7 +3898,12 @@
         "cn": "绝对的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il réclamait une obéissance absolue, ce qui rendait toute discussion impossible dans le service.",
+        "cn": "他要求绝对服从，这使得部门里任何讨论都无法进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3200,7 +3925,12 @@
         "cn": "钢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'acier de cette lame, trempé selon une méthode fort ancienne, ne s'émoussait presque jamais.",
+        "cn": "这把刀刃的钢按一种古老方法淬火，几乎从不卷刃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3222,7 +3952,12 @@
         "cn": "杯子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une tasse de thé refroidissait sur la table, à côté d'un livre resté ouvert.",
+        "cn": "一杯茶在桌上渐渐凉了，旁边是一本摊开的书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3244,7 +3979,12 @@
         "cn": "翻译"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce poème, presque intraduisible, a été traduit avec un bonheur que l'auteur lui-même a salué.",
+        "cn": "这首几乎无法翻译的诗被译得极为出色，连作者本人也称道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3266,7 +4006,12 @@
         "cn": "公式；套话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a prononcé les formules d'usage, mais sans la chaleur qu'on attendait de lui.",
+        "cn": "他说了几句惯常的客套话，却没有大家期待的那种热忱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3288,7 +4033,12 @@
         "cn": "推挤；打乱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La foule l'a bousculé sans même le voir, et il a failli perdre l'équilibre.",
+        "cn": "人群没看见他就把他撞了一下，他差点失去平衡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3310,7 +4060,12 @@
         "cn": "领带"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa cravate, mal nouée, trahissait la hâte avec laquelle il avait quitté son bureau.",
+        "cn": "他领带打得歪歪扭扭，透露出他离开办公室时的匆忙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3332,7 +4087,12 @@
         "cn": "手杖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Appuyé sur sa canne, le vieil homme traversait la place d'un pas que rien ne pressait.",
+        "cn": "老人拄着手杖穿过广场，步子不慌不忙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3354,7 +4114,12 @@
         "cn": "针"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'aiguille de la boussole oscillait sans cesse, comme si le nord lui-même refusait de se fixer.",
+        "cn": "罗盘的指针不停地摆动，仿佛北方本身也拒绝定格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3376,7 +4141,12 @@
         "cn": "明显的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il était évident, à la manière dont ils se regardaient, qu'une entente secrète les unissait.",
+        "cn": "从他们相互注视的样子来看，显然有一种默契把他们连在一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3398,7 +4168,12 @@
         "cn": "同意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle n'a consenti à nous recevoir qu'après avoir longuement hésité, et le ton resta froid.",
+        "cn": "她犹豫了很久才同意接见我们，语气始终冷淡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3420,7 +4195,12 @@
         "cn": "著名的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce tableau célèbre attire chaque année des milliers de visiteurs venus du monde entier.",
+        "cn": "这幅名画每年吸引成千上万来自世界各地的参观者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3442,7 +4222,12 @@
         "cn": "发表；出版"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a publié ses premiers poèmes à vingt ans, dans une revue que personne ne lit plus.",
+        "cn": "他二十岁就发表最初的诗作，登在一份如今无人再读的杂志上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3464,7 +4249,12 @@
         "cn": "传统"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La tradition veut que l'on offre du pain et du sel aux nouveaux arrivants du village.",
+        "cn": "按照传统，人们要向村里新来的人送上面包和盐。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3486,7 +4276,12 @@
         "cn": "耐心"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut une patience infinie pour enseigner à des enfants que le moindre bruit distrait.",
+        "cn": "教那些一点声响就分心的孩子，需要无限的耐心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3508,7 +4303,12 @@
         "cn": "水平；级别"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son niveau en mathématiques lui permettait de suivre des cours que peu d'élèves abordaient.",
+        "cn": "他的数学水平让他能听懂很少有学生敢选的课。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3530,7 +4330,12 @@
         "cn": "镶边；沿岸排列"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des peupliers bordent la rivière sur plusieurs kilomètres, abritant les promeneurs du vent d'ouest.",
+        "cn": "白杨沿着河岸绵延数公里，为散步的人挡住西风。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3552,7 +4357,12 @@
         "cn": "低语"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux femmes chuchotaient dans un coin, jetant de temps à autre un regard vers la porte.",
+        "cn": "两个女人在角落里低声说话，不时朝门口瞥一眼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3574,7 +4384,12 @@
         "cn": "骑马者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un cavalier solitaire traversait la plaine au galop, indifférent au vent qui se levait.",
+        "cn": "一名独行的骑手疾驰穿过平原，毫不在意渐起的风。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3596,7 +4411,12 @@
         "cn": "失败；国际象棋"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet échec, loin de le décourager, lui a donné la force de repartir autrement.",
+        "cn": "这次失败不但没让他泄气，反而给了他另辟蹊径的力量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3618,7 +4438,12 @@
         "cn": "肾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une douleur vive au rein l'a presque empêché de dormir pendant deux nuits d'affilée.",
+        "cn": "腰部一阵剧痛让他连续两夜几乎无法入睡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3640,7 +4465,12 @@
         "cn": "细心地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a soigneusement plié la lettre avant de la glisser dans une enveloppe qu'elle cacheta.",
+        "cn": "她把信仔细折好，才塞进一个她封好的信封。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3662,7 +4492,12 @@
         "cn": "供应；提供"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La commune doit pourvoir aux besoins des familles que la crue a chassées de chez elles.",
+        "cn": "市镇必须满足那些被洪水赶出家园的家庭的需要。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3684,7 +4519,12 @@
         "cn": "上午"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a passé la matinée à classer des papiers dont il ne savait plus l'origine.",
+        "cn": "他花了一上午整理那些他已不知来历的文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3706,7 +4546,12 @@
         "cn": "沿着"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons longé la falaise pendant près d'une heure, sans croiser âme qui vive.",
+        "cn": "我们沿着悬崖走了近一个小时，没遇见一个人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3728,7 +4573,12 @@
         "cn": "讨论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La discussion s'est prolongée bien après minuit, sans qu'aucune décision véritable n'y fût prise.",
+        "cn": "讨论一直持续到午夜之后，却没有作出任何真正的决定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3750,7 +4600,12 @@
         "cn": "别墅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La villa, entourée de pins, dominait la mer d'assez haut pour qu'on en vît les îles.",
+        "cn": "这座被松树环绕的别墅俯瞰大海，高得能看见那些岛屿。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3772,7 +4627,12 @@
         "cn": "连接；联系上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il fut impossible de le joindre: son téléphone semblait éteint depuis le début de l'après-midi.",
+        "cn": "无法联系上他：他的电话从下午起似乎就关机了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3794,7 +4654,12 @@
         "cn": "保险；自信"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son assurance, un peu trop affichée, cachait mal une inquiétude qu'il s'efforçait de dissimuler.",
+        "cn": "他那过于外露的自信，掩饰不住他竭力想隐藏的不安。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3816,7 +4681,12 @@
         "cn": "橱窗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vitrine du libraire exposait des ouvrages anciens que les passants s'arrêtaient pour admirer.",
+        "cn": "书商的橱窗里陈列着一些路人会停下来欣赏的旧书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3838,7 +4708,12 @@
         "cn": "有用的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce conseil, pourtant utile, est arrivé trop tard pour changer le cours des choses.",
+        "cn": "这条建议虽然有用，却来得太晚，无法改变事情的走向。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3860,7 +4735,12 @@
         "cn": "狂怒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est parti dans une fureur que nul ne lui connaissait, claquant la porte derrière lui.",
+        "cn": "他怒气冲冲地走了，那股火气谁都没见过，还随手把门摔上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3882,7 +4762,12 @@
         "cn": "大使"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'ambassadeur a reçu les journalistes dans un salon dont les fenêtres donnaient sur le parc.",
+        "cn": "大使在一间窗子朝向公园的客厅里接见了记者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3904,7 +4789,12 @@
         "cn": "人口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La population de ce bourg a doublé en dix ans, au grand dam des anciens habitants.",
+        "cn": "这个小镇的人口十年间翻了一倍，令老居民十分不满。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3926,7 +4816,12 @@
         "cn": "不耐烦"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tapait du pied, signe manifeste d'une impatience qu'il ne parvenait plus à contenir.",
+        "cn": "他跺着脚，明显流露出一种再也压不住的不耐烦。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3948,7 +4843,12 @@
         "cn": "枕头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a glissé la lettre sous son oreiller, comme pour la protéger du regard des autres.",
+        "cn": "她把信塞到枕头下面，仿佛要护着它不让别人看见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3970,7 +4870,12 @@
         "cn": "数字"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les chiffres du recensement, publiés hier, contredisent nettement ceux qu'on nous avait annoncés l'an dernier.",
+        "cn": "昨天公布的人口普查数字，明显与去年向我们公布的数字相矛盾。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3992,7 +4897,12 @@
         "cn": "奇迹；珍宝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce jardin, véritable merveille d'équilibre et de sobriété, a été dessiné par un inconnu qui n'en tirait aucune gloire.",
+        "cn": "这座花园在均衡与素朴上是真正的奇迹，出自一位毫不在意名声的无名者之手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4014,7 +4924,12 @@
         "cn": "业主；房东"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le propriétaire a refusé de renouveler le bail, préférant vendre l'appartement à un investisseur.",
+        "cn": "房东拒绝续租，宁愿把房子卖给一个投资者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4036,7 +4951,12 @@
         "cn": "蛋糕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce gâteau, préparé selon la recette de sa mère, a disparu en moins d'un quart d'heure.",
+        "cn": "这个按他母亲配方做的蛋糕，不到一刻钟就没了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4058,7 +4978,12 @@
         "cn": "主持；使有生气"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est elle qui animait les débats, avec une verve que les invités les plus froids finissaient par partager.",
+        "cn": "主持辩论的是她，那股活力连最冷淡的客人最后也受了感染。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4080,7 +5005,12 @@
         "cn": "必要性"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nécessité de réduire les dépenses s'imposait à tous, mais chacun espérait épargner son service.",
+        "cn": "削减开支的必要性人人都明白，但每个人都希望别动自己部门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4102,7 +5032,12 @@
         "cn": "盐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une pincée de sel suffit à révéler le goût de ce plat si délicat.",
+        "cn": "一撮盐就足以显出这道如此精致的菜的味道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4124,7 +5059,12 @@
         "cn": "伤口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa blessure, mal soignée, s'est infectée et l'a tenu éloigné du travail durant des semaines.",
+        "cn": "他的伤口没处理好，发了炎，让他好几周不能工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4146,7 +5086,12 @@
         "cn": "耗尽"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette longue marche avait épuisé jusqu'aux plus robustes d'entre nous, et nul ne parlait plus.",
+        "cn": "这一长途跋涉把连我们中最强壮的人也累垮了，谁都不再说话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4168,7 +5113,12 @@
         "cn": "湿的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses cheveux mouillés collaient à son front, et il grelottait malgré la chaleur du feu.",
+        "cn": "他湿漉漉的头发贴在额上，尽管炉火很热，他仍在发抖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4190,7 +5140,12 @@
         "cn": "战壕；沟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La tranchée, creusée à la hâte, retenait l'eau de pluie et empêchait tout passage.",
+        "cn": "匆忙挖成的沟积着雨水，任何通行都被挡住了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4212,7 +5167,12 @@
         "cn": "接连；继任"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les années se succédaient, toutes semblables, sans qu'aucun événement ne vînt rompre la monotonie.",
+        "cn": "一年年接连过去，全都一样，没有任何事件打破这种单调。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4234,7 +5194,12 @@
         "cn": "家务；家务劳动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle fait son ménage chaque samedi matin, avant que les enfants ne se lèvent.",
+        "cn": "她每周六上午做家务，赶在孩子起床之前。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4256,7 +5221,12 @@
         "cn": "湖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le lac, immobile à cette heure, reflétait les montagnes avec une netteté presque inquiétante.",
+        "cn": "这个时辰湖面纹丝不动，把群山映得几乎令人不安地清晰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4278,7 +5248,12 @@
         "cn": "糖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a ajouté deux morceaux de sucre dans son café, puis les a oubliés en parlant.",
+        "cn": "他往咖啡里放了两块糖，说着话就忘了喝。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4300,7 +5275,12 @@
         "cn": "骄傲"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son orgueil l'empêchait de reconnaître une erreur que tous, autour de lui, avaient pourtant remarquée.",
+        "cn": "他的骄傲让他不肯承认一个周围人都已看出的错误。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4322,7 +5302,12 @@
         "cn": "身体的；物理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ne supportait plus l'effort physique que ce métier exigeait chaque jour de lui.",
+        "cn": "他再也受不了这份工作每天对他体力的要求。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4344,7 +5329,12 @@
         "cn": "兔子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un lapin a traversé le sentier d'un bond et s'est enfui dans les herbes hautes.",
+        "cn": "一只兔子一跳穿过小径，逃进高高的草丛里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4366,7 +5356,12 @@
         "cn": "狮子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le lion, immobile à l'ombre d'un acacia, semblait ignorer la chaleur écrasante de midi.",
+        "cn": "狮子一动不动地待在一棵金合欢的阴影里，似乎不理会正午的酷热。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4388,7 +5383,12 @@
         "cn": "篮子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle portait un panier de fruits mûrs qu'elle voulait offrir aux voisins du hameau.",
+        "cn": "她提着一篮熟果，想送给小村的邻居们。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4410,7 +5410,12 @@
         "cn": "光滑的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pierre, polie par les ans, était si lisse qu'on y voyait son reflet.",
+        "cn": "那块石头被岁月磨得光滑，上面能照出人的影子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4432,7 +5437,12 @@
         "cn": "安慰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Rien ne semblait pouvoir consoler la vieille femme de la perte de son chien fidèle.",
+        "cn": "似乎什么也无法安慰这位老妇人失去爱犬的悲伤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4454,7 +5464,12 @@
         "cn": "神父"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'abbé recevait les villageois dans une petite sacristie que le froid de l'hiver rendait inhospitalière.",
+        "cn": "神父在一间被冬寒弄得冷清的小圣器室里接待村民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4476,7 +5491,12 @@
         "cn": "上船；装上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les passagers ont embarqué dès l'aube, sans savoir que la traversée durerait deux jours.",
+        "cn": "旅客们天一亮就上了船，并不知道航程要两天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4498,7 +5518,12 @@
         "cn": "接近；谈及"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a abordé la question de front, sans détour, ce qui a surpris son interlocuteur.",
+        "cn": "他直截了当地谈这个问题，不绕弯子，这让对方吃了一惊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4520,7 +5545,12 @@
         "cn": "疏通；通向"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce couloir obscur débouche sur une cour intérieure que les visiteurs ignorent presque tous.",
+        "cn": "这条昏暗的走廊通向一个几乎被所有访客忽略的内院。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4542,7 +5572,12 @@
         "cn": "谨慎的；不显眼的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a pris congé d'un signe discret de la main, sans attirer l'attention des autres convives.",
+        "cn": "他悄悄做了个手势告辞，没有引起其他客人的注意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4564,7 +5599,12 @@
         "cn": "一双"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une paire de gants oubliée sur le banc attendait un propriétaire qui ne revint jamais.",
+        "cn": "长椅上落下一副手套，等着一个再也没回来的主人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4586,7 +5626,12 @@
         "cn": "官方的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le communiqué officiel, publié tard dans la soirée, démentait les rumeurs qui circulaient depuis midi.",
+        "cn": "深夜发布的官方公报否认了中午以来流传的谣言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4608,7 +5653,12 @@
         "cn": "在这点上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Là-dessus, il n'a rien voulu dire, préférant garder le silence devant les journalistes présents.",
+        "cn": "关于这一点，他什么也不肯说，宁愿在在场记者面前保持沉默。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4630,7 +5680,12 @@
         "cn": "交换"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet échange de regards, bref mais éloquent, en disait plus que bien des discours.",
+        "cn": "这一次短暂却意味深长的目光交换，胜过许多言辞。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4652,7 +5707,12 @@
         "cn": "女性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La présence féminine, rare dans cette assemblée, a suffi à modifier le ton des débats.",
+        "cn": "在这个集会中罕见的女性身影，足以改变辩论的调子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4674,7 +5734,12 @@
         "cn": "折起"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a replié la carte et l'a glissée dans sa poche sans un commentaire.",
+        "cn": "他把地图折好，一言不发地塞进口袋。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4696,7 +5761,12 @@
         "cn": "同事"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un collègue m'a signalé l'erreur à temps, avant qu'elle ne fût transmise au directeur.",
+        "cn": "一位同事及时把错误告诉了我，赶在它被上报给主管之前。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4718,7 +5788,12 @@
         "cn": "家庭的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le repas familial du dimanche, longtemps respecté, se réduit désormais à un appel téléphonique.",
+        "cn": "星期日的家庭聚餐由来已久，如今却缩减为一通电话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4740,7 +5815,12 @@
         "cn": "十一月"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En novembre, la brume s'attarde sur les canaux et les rues se vident dès la nuit tombée.",
+        "cn": "十一月里，雾在运河上滞留，天一黑街道就空了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4762,7 +5842,12 @@
         "cn": "凝固；僵住"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La scène s'est figée dans ma mémoire, aussi nette aujourd'hui qu'elle l'était au premier jour.",
+        "cn": "那一幕在我记忆里凝固下来，今天仍和第一天一样清晰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4784,7 +5869,12 @@
         "cn": "花瓶；淤泥"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vase de porcelaine, fêlé depuis des années, tenait encore un maigre bouquet de fleurs séchées.",
+        "cn": "这只裂了多年的瓷瓶里，还插着一束干枯稀疏的花。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4806,7 +5896,12 @@
         "cn": "信封"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enveloppe, ouverte avec un soin extrême, contenait une photographie que le temps avait jaunie.",
+        "cn": "信封被极小心地拆开，里面是一张被岁月染黄的照片。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4828,7 +5923,12 @@
         "cn": "尊严"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a conservé jusqu'au bout une dignité que la maladie elle-même ne parvenait pas à entamer.",
+        "cn": "他直到最后都保持着一份连疾病也无法侵蚀的尊严。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4850,7 +5950,12 @@
         "cn": "挡住；划掉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un camion en panne barrait la route, obligeant les automobilistes à faire un long détour.",
+        "cn": "一辆抛锚的卡车挡住了路，司机们不得不绕很远。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4872,7 +5977,12 @@
         "cn": "草地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans le pré, les vaches paissaient tranquillement, indifférentes au train qui passait au loin.",
+        "cn": "草地上，母牛安静地吃草，对远处驶过的火车毫不在意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4894,7 +6004,12 @@
         "cn": "抚摸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une caresse sur la tête suffit à calmer l'enfant que le bruit avait effrayé.",
+        "cn": "头上一下抚摸，就足以让被响声吓到的孩子安静下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4916,7 +6031,12 @@
         "cn": "考虑；设想"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous envisageons de partir dès le printemps, à condition que la situation se stabilise d'ici là.",
+        "cn": "我们打算开春就出发，前提是局势在那之前稳定下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4938,7 +6058,12 @@
         "cn": "电池；一叠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pile de son réveil était morte, et il s'est réveillé bien après l'heure.",
+        "cn": "他闹钟的电池没电了，他醒来时早已过了时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4960,7 +6085,12 @@
         "cn": "切；剪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a découpé l'article et l'a collé dans un cahier qu'elle garde depuis des années.",
+        "cn": "她剪下那篇文章，贴进一本保存多年的册子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4982,7 +6112,12 @@
         "cn": "会议；场次"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La séance a été levée à midi, sans que les membres eussent épuisé l'ordre du jour.",
+        "cn": "会议在中午结束，成员们还没审完议程。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5004,7 +6139,12 @@
         "cn": "车厢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le wagon de première classe était presque vide, et le silence y paraissait plus profond.",
+        "cn": "头等车厢几乎空着，那里的寂静显得格外深。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5026,7 +6166,12 @@
         "cn": "步骤；步态"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa démarche hésitante trahissait l'incertitude où le plongeait cette décision qu'il devait prendre seul.",
+        "cn": "他迟疑的步态透露出这个他必须独自作出的决定让他多么无措。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5048,7 +6193,12 @@
         "cn": "计划；投射"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il projette de reprendre ses études dès que sa situation financière le lui permettra.",
+        "cn": "他打算等财务状况允许时就恢复学业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5070,7 +6220,12 @@
         "cn": "深度"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La profondeur du vieux puits inquiétait les enfants du village, qui n'osaient pas s'y pencher.",
+        "cn": "村里孩子们害怕这口老井的深度，不敢探头去看。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5092,7 +6247,12 @@
         "cn": "母鸡"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les poules picoraient dans la cour, insensibles au vieux chien qui dormait à l'ombre.",
+        "cn": "母鸡在院子里啄食，对在阴凉处睡觉的老狗毫不在意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5114,7 +6274,12 @@
         "cn": "列队行进"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les soldats ont défilé lentement devant le monument, sous les yeux d'une foule recueillie.",
+        "cn": "士兵们在纪念碑前缓缓列队走过，一群肃穆的人注视着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5136,7 +6301,12 @@
         "cn": "联合"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce pont, construit au siècle dernier, devait unir deux villages que la rivière séparait.",
+        "cn": "这座建于上世纪的桥本应连接被河流分开的两个村庄。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5158,7 +6328,12 @@
         "cn": "优势"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le principal avantage de cette méthode est qu'elle ne requiert aucun matériel vraiment coûteux.",
+        "cn": "这个方法最主要的优点是它不需要任何真正昂贵的器材。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5180,7 +6355,12 @@
         "cn": "变老"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a vieilli d'un coup en apprenant la nouvelle, et son regard s'est éteint.",
+        "cn": "得知消息后他一夜之间老了，目光也黯淡下去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5202,7 +6382,12 @@
         "cn": "出现；幽灵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son apparition soudaine au milieu de la fête a fait taire toutes les conversations.",
+        "cn": "她在聚会中间突然出现，让所有谈话都停了下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5224,7 +6409,12 @@
         "cn": "猎物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'aigle tournoyait au-dessus de la plaine, guettant une proie que la sécheresse rendait visible.",
+        "cn": "鹰在平原上空盘旋，窥伺着一只因干旱而暴露的猎物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5246,7 +6436,12 @@
         "cn": "钦佩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son courage a suscité une admiration que même ses adversaires n'ont pu lui refuser.",
+        "cn": "他的勇气引来一份连对手也无法不给予的钦佩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5268,7 +6463,12 @@
         "cn": "恩惠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il sollicitait une faveur qu'il savait parfaitement indue, mais n'osait renoncer à la demander.",
+        "cn": "他求的是一份明知不该得的恩惠，却又不敢放弃开口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5290,7 +6490,12 @@
         "cn": "罩衫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La blouse blanche de l'interne, tachée d'encre et de sang séché, trahissait des nuits entières passées au chevet des malades.",
+        "cn": "那位住院实习医生的白罩衫上沾着墨水和干涸的血迹，透露出他在病人床前熬过的无数个夜晚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5312,7 +6517,12 @@
         "cn": "睡着的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enfant endormi sur la banquette du train semblait ignorer le vacarme des voyageurs et le sifflement des portes.",
+        "cn": "火车座位上睡着的孩子似乎对旅客的喧哗和车门的嘶鸣毫无所觉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5334,7 +6544,12 @@
         "cn": "浸湿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle avait trempé sa plume dans l'encrier avant de tracer, d'une main hésitante, la première ligne de sa lettre.",
+        "cn": "她把笔尖浸入墨水瓶，然后才用迟疑的手写下信的第一行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5356,7 +6571,12 @@
         "cn": "长廊；画廊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons parcouru la galerie du musée, nous arrêtant devant chaque toile comme si le temps s'était suspendu.",
+        "cn": "我们走遍了博物馆的长廊，在每一幅画前停下，仿佛时间已经凝滞。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

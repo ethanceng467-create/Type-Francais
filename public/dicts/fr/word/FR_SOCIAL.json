@@ -10,7 +10,12 @@
         "cn": "国家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce pays a connu plusieurs crises politiques depuis le début du siècle.",
+        "cn": "这个国家自本世纪初以来经历了多次政治危机。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "国家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'État doit protéger les citoyens les plus fragiles face à la crise.",
+        "cn": "面对危机，国家必须保护最脆弱的公民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "国家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nation tout entière a célébré la victoire de son équipe hier soir.",
+        "cn": "全国上下昨晚都在庆祝国家队的胜利。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "政治"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La classe politique est critiquée pour son manque de transparence financière.",
+        "cn": "政界因财务缺乏透明度而受到批评。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "主席，总统"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le président a annoncé une réforme des retraites devant l'Assemblée nationale.",
+        "cn": "总统在国民议会面前宣布了退休制度改革。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "总理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ministre de l'Intérieur a présenté son plan contre la délinquance urbaine.",
+        "cn": "内政部长提交了打击城市犯罪活动的计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "州长"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le préfet a décidé de fermer plusieurs écoles jugées dangereuses pour les élèves.",
+        "cn": "州长决定关闭几所被认为对学生有危险的学校。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "参议员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce sénateur défend depuis des années les droits des travailleurs les plus modestes.",
+        "cn": "这位参议员多年来一直为最普通劳动者的权利发声。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "众议员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le député a voté contre le texte proposé par la majorité présidentielle.",
+        "cn": "这位众议员对总统多数派提出的文本投了反对票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "参议院"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le Sénat a rejeté le projet de loi adopté par les députés.",
+        "cn": "参议院否决了众议员通过的这项法案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "国会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le Parlement européen examine une nouvelle directive sur la protection des données.",
+        "cn": "欧洲议会正在审议一项关于数据保护的新指令。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "主席团"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le présidium du parti s'est réuni pour préparer le prochain congrès.",
+        "cn": "党主席团开会筹备下届代表大会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -265,16 +325,21 @@
   },
   {
     "id": 13,
-    "word": "états-unis",
-    "phonetic0": "eta-yni",
-    "phonetic1": "eta-yni",
+    "word": "États-Unis",
+    "phonetic0": "etazyni",
+    "phonetic1": "etazyni",
     "trans": [
       {
-        "pos": "n.m.",
+        "pos": "n.m.pl.",
         "cn": "美国"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les États-Unis sont un pays très vaste.",
+        "cn": "美国是一个非常大的国家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "加拿大"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le Canada a accueilli un grand nombre d'immigrants ces dernières années.",
+        "cn": "近年来加拿大接纳了大量移民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "日本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le Japon vieillit vite et manque de main-d'œuvre dans plusieurs secteurs.",
+        "cn": "日本老龄化迅速，多个行业都缺人手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "澳大利亚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement australien a durci sa politique d'immigration cette année.",
+        "cn": "澳大利亚政府今年收紧了移民政策。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "英国"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En Angleterre, le système de santé public traverse une crise sans précédent.",
+        "cn": "在英国，公共医疗体系正经历一场空前的危机。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "德国"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'Allemagne accueille chaque année des milliers de réfugiés venus du Moyen-Orient.",
+        "cn": "德国每年接收数千名来自中东的难民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "意大利"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il nous a récité une litanie de plaintes contre l'administration.",
+        "cn": "他向我们罗列了一长串对行政部门的抱怨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "瑞典"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La Suède applique une politique sociale très généreuse envers les familles.",
+        "cn": "瑞典对家庭实行非常慷慨的社会政策。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "社会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La société française change rapidement sous l'effet de la mondialisation.",
+        "cn": "在全球化影响下，法国社会正在迅速变化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "社会的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement promet un plan social pour aider les quartiers les plus pauvres.",
+        "cn": "政府承诺出台一项社会计划，帮助最贫困的街区。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "封建的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce roman décrit la vie des paysans dans une société féodale du Moyen Âge.",
+        "cn": "这部小说描写了中世纪封建社会里农民的生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "封建制度"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les historiens discutent encore du rôle du féodalisme dans cette région.",
+        "cn": "历史学家至今仍在争论封建制度在这一地区所起的作用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "奴制"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'esclavage a été aboli en France au milieu du dix-neuvième siècle.",
+        "cn": "法国在十九世纪中叶废除了奴隶制。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "资本主义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Certains économistes critiquent le capitalisme pour son manque de solidarité.",
+        "cn": "一些经济学家批评资本主义缺乏互助精神。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "资本主义的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les pays capitalistes ont connu une forte croissance après la guerre.",
+        "cn": "资本主义国家战后经历了强劲增长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "最初的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La version originale du texte a été modifiée par les députés.",
+        "cn": "文本的最初版本已被众议员改动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "现代的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce grand musée présente l'art contemporain de plusieurs pays européens.",
+        "cn": "这座大博物馆展出多个欧洲国家的现代艺术。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "发展"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le développement économique de la région a créé de nombreux emplois.",
+        "cn": "该地区的经济发展创造了大量就业机会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "前进的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement prévoit un retrait progressif et prudent des troupes étrangères.",
+        "cn": "政府计划逐步而谨慎地撤出外国军队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "革命"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La révolution industrielle a transformé la vie des ouvriers européens.",
+        "cn": "工业革命改变了欧洲工人的生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "改革"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le nouveau ministre veut reformer le système de santé publique.",
+        "cn": "新部长想改革公共医疗体系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "改革"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La reformation du code du travail a provoqué de longues grèves.",
+        "cn": "劳动法典的重新修订引发了长期罢工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "开始"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les négociations ont commencé dans une atmosphère tendue entre les deux camps.",
+        "cn": "谈判在双方紧张的气氛中开始。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "颠覆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les jeunes manifestants espéraient renverser le régime en quelques semaines seulement.",
+        "cn": "年轻的示威者曾指望几周之内就推翻政权。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "全球化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La mondialisation a accéléré les échanges mais creusé les inégalités sociales.",
+        "cn": "全球化加快了交流，却也加深了社会不平等。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "城市化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'urbanisation rapide de la région a détruit de nombreuses terres agricoles.",
+        "cn": "该地区快速的城市化毁掉了大量农田。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "信息化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sécurité informatique est devenue une priorité pour les grandes entreprises.",
+        "cn": "信息安全已成为大企业的首要任务。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "发展的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le système est évolutif et peut s'adapter aux besoins de demain.",
+        "cn": "这套系统可以演进，能适应未来的需求。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "积累"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La ville a accumulé de nombreux problèmes sociaux au fil des années.",
+        "cn": "多年来这座城市积累了大量社会问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "马克思主义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le marxisme a inspiré de nombreux mouvements politiques du vingtième siècle.",
+        "cn": "马克思主义启发了二十世纪的许多政治运动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "王权"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La royauté française a été abolie pendant la Révolution de 1789.",
+        "cn": "法国王权在1789年大革命期间被废除。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "无产阶级"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prolétariat urbain vivait dans des conditions très difficiles au dix-neuvième siècle.",
+        "cn": "十九世纪城市无产阶级的生活条件极为艰难。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "资产阶级"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La bourgeoisie commerçante a soutenu les réformes politiques du roi.",
+        "cn": "经商的资产阶级支持国王的政治改革。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "专制"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette autocratie contrôle la presse et réprime toute opposition politique.",
+        "cn": "这个专制政权控制新闻界，镇压一切政治反对派。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "主权"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pays défend sa souveraineté face aux pressions des grandes puissances.",
+        "cn": "面对大国施压，这个国家捍卫自己的主权。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "独立的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La presse indépendante est menacée par les nouvelles lois sur l'information.",
+        "cn": "独立媒体受到新的信息法威胁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "中央集权制"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le centralisme démocratique reste un principe officiel du parti au pouvoir.",
+        "cn": "民主集中制仍是执政党的正式原则。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ministère de la Justice a publié un rapport sur les prisons françaises.",
+        "cn": "司法部发布了一份关于法国监狱的报告。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "运动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le président a lancé une croisade contre la fraude fiscale.",
+        "cn": "总统发起了一场打击逃税的运动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "总统的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La campagne présidentielle a dominé les débats pendant plusieurs mois.",
+        "cn": "总统竞选主导了几个月的公共讨论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "选举"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les citoyens vont élire un nouveau maire lors du scrutin de dimanche.",
+        "cn": "市民在周日的投票中选出了新市长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "演说"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le discours du président a été retransmis en direct à la télévision.",
+        "cn": "总统的演说在电视上现场直播。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "口号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les jeunes manifestants scandaient un slogan hostile au gouvernement dans la rue.",
+        "cn": "年轻的示威者在街上高喊敌视政府的口号。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "候选人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque candidat doit présenter son programme avant le premier tour.",
+        "cn": "每位候选人都必须在首轮投票前公布自己的纲领。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "反对者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son contradicteur lui a répondu avec une violence verbale surprenante.",
+        "cn": "他的反对者用令人意外的激烈言辞回应了他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "支持者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet ancien souteneur a été condamné pour exploitation de plusieurs jeunes femmes.",
+        "cn": "这个昔日的皮条客因剥削多名年轻女子被判刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1277,16 +1567,21 @@
   },
   {
     "id": 59,
-    "word": "électoral-liste",
-    "phonetic0": "elɛktoʁal-list",
-    "phonetic1": "elɛktoʁal-list",
+    "word": "referendum",
+    "phonetic0": "ʁefeʁɛ̃dɔm",
+    "phonetic1": "ʁefeʁɛ̃dɔm",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "选票主义的"
+        "pos": "n.m.",
+        "cn": "公民投票"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a organisé un référendum sur la réforme constitutionnelle.",
+        "cn": "政府就宪法改革组织了公民投票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1299,16 +1594,21 @@
   },
   {
     "id": 60,
-    "word": "referendum",
-    "phonetic0": "ʁefeʁɛ̃dɔm",
-    "phonetic1": "ʁefeʁɛ̃dɔm",
+    "word": "électorat",
+    "phonetic0": "elɛktoʁa",
+    "phonetic1": "elɛktoʁa",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "公民投票"
+        "cn": "全体选民"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'électorat jeune se détourne des partis traditionnels depuis plusieurs années.",
+        "cn": "年轻选民多年来正逐渐远离传统政党。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1321,16 +1621,21 @@
   },
   {
     "id": 61,
-    "word": "électorat",
-    "phonetic0": "elɛktoʁa",
-    "phonetic1": "elɛktoʁa",
+    "word": "série",
+    "phonetic0": "seʁi",
+    "phonetic1": "seʁi",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "全体选民"
+        "pos": "n.f.",
+        "cn": "轮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le président a prononcé une série de discours dans les grandes villes.",
+        "cn": "总统在大城市发表了一系列演说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1343,16 +1648,21 @@
   },
   {
     "id": 62,
-    "word": "série",
-    "phonetic0": "seʁi",
-    "phonetic1": "seʁi",
+    "word": "votant",
+    "phonetic0": "votɑ̃",
+    "phonetic1": "votɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "轮"
+        "pos": "adj.",
+        "cn": "投票者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le nombre de votants a baissé lors de ce second tour.",
+        "cn": "第二轮投票的投票人数有所下降。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1365,16 +1675,21 @@
   },
   {
     "id": 63,
-    "word": "votant",
-    "phonetic0": "votɑ̃",
-    "phonetic1": "votɑ̃",
+    "word": "diplomatie",
+    "phonetic0": "diplomasi",
+    "phonetic1": "diplomasi",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "投票者"
+        "pos": "n.f.",
+        "cn": "外交"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La diplomatie française tente de relancer le dialogue entre les deux pays.",
+        "cn": "法国外交正努力重启两国之间的对话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1387,16 +1702,21 @@
   },
   {
     "id": 64,
-    "word": "diplomatie",
-    "phonetic0": "diplomasi",
-    "phonetic1": "diplomasi",
+    "word": "diplomatique",
+    "phonetic0": "diplomatik",
+    "phonetic1": "diplomatik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "外交"
+        "pos": "adj.",
+        "cn": "外交的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les relations diplomatiques entre les deux pays se sont dégradées rapidement.",
+        "cn": "两国之间的外交关系迅速恶化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1409,16 +1729,21 @@
   },
   {
     "id": 65,
-    "word": "diplomatique",
-    "phonetic0": "diplomatik",
-    "phonetic1": "diplomatik",
+    "word": "voie",
+    "phonetic0": "vwa",
+    "phonetic1": "vwa",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "外交的"
+        "pos": "n.f.",
+        "cn": "途径"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le dialogue reste la seule voie possible pour sortir de cette crise.",
+        "cn": "对话仍是走出这场危机的唯一途径。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1431,16 +1756,21 @@
   },
   {
     "id": 66,
-    "word": "voie",
-    "phonetic0": "vwa",
-    "phonetic1": "vwa",
+    "word": "patronage",
+    "phonetic0": "patʁonaʒ",
+    "phonetic1": "patʁonaʒ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "途径"
+        "pos": "n.m.",
+        "cn": "底护"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce jeune homme a trouvé un emploi grâce au patronage d'un ancien ministre.",
+        "cn": "这个年轻人靠一位前部长的庇护找到了工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1453,16 +1783,21 @@
   },
   {
     "id": 67,
-    "word": "patronage",
-    "phonetic0": "patʁonaʒ",
-    "phonetic1": "patʁonaʒ",
+    "word": "ambassadeur",
+    "phonetic0": "ɑ̃basadœʁ",
+    "phonetic1": "ɑ̃basadœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "底护"
+        "cn": "大使"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'ambassadeur de France a été convoqué par le ministère des Affaires étrangères.",
+        "cn": "法国大使被外交部召见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1475,16 +1810,21 @@
   },
   {
     "id": 68,
-    "word": "ambassadeur",
-    "phonetic0": "ɑ̃basadœʁ",
-    "phonetic1": "ɑ̃basadœʁ",
+    "word": "consul",
+    "phonetic0": "kɔ̃syl",
+    "phonetic1": "kɔ̃syl",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "大使"
+        "cn": "领事"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le consul a aidé les ressortissants bloqués à l'étranger pendant la crise.",
+        "cn": "领事帮助了危机期间滞留国外的本国公民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1497,16 +1837,21 @@
   },
   {
     "id": 69,
-    "word": "consul",
-    "phonetic0": "kɔ̃syl",
-    "phonetic1": "kɔ̃syl",
+    "word": "chasser",
+    "phonetic0": "ʃase",
+    "phonetic1": "ʃase",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "领事"
+        "pos": "v.",
+        "cn": "驱逐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a chassé les manifestants de la place centrale.",
+        "cn": "警方把示威者赶出了中心广场。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1519,16 +1864,21 @@
   },
   {
     "id": 70,
-    "word": "chasser",
-    "phonetic0": "ʃase",
-    "phonetic1": "ʃase",
+    "word": "compatriote",
+    "phonetic0": "kɔ̃patʁijɔt",
+    "phonetic1": "kɔ̃patʁijɔt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "驱逐"
+        "pos": "n.",
+        "cn": "同胞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les nombreux compatriotes du défunt se sont recueillis devant l'ambassade.",
+        "cn": "死者的许多同胞在使馆前默哀。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1541,16 +1891,21 @@
   },
   {
     "id": 71,
-    "word": "compatriote",
-    "phonetic0": "kɔ̃patʁijɔt",
-    "phonetic1": "kɔ̃patʁijɔt",
+    "word": "fonder",
+    "phonetic0": "fɔ̃de",
+    "phonetic1": "fɔ̃de",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "同胞"
+        "pos": "v.",
+        "cn": "建立"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les députés ont fondé un nouveau parti après la scission.",
+        "cn": "众议员在分裂之后建立了一个新党。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1563,16 +1918,21 @@
   },
   {
     "id": 72,
-    "word": "fonder",
-    "phonetic0": "fɔ̃de",
-    "phonetic1": "fɔ̃de",
+    "word": "diplomate",
+    "phonetic0": "diplomat",
+    "phonetic1": "diplomat",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "建立"
+        "pos": "adj.",
+        "cn": "外交官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le diplomate a refusé de commenter cette affaire devant les journalistes.",
+        "cn": "这位外交官拒绝在记者面前评论此事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1585,16 +1945,21 @@
   },
   {
     "id": 73,
-    "word": "diplomate",
-    "phonetic0": "diplomat",
-    "phonetic1": "diplomat",
+    "word": "rompre",
+    "phonetic0": "ʁɔ̃pʁ",
+    "phonetic1": "ʁɔ̃pʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "外交官"
+        "pos": "v.",
+        "cn": "断绝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a décidé de rompre les relations avec ce régime.",
+        "cn": "政府决定与该政权断绝关系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1607,16 +1972,21 @@
   },
   {
     "id": 74,
-    "word": "rompre",
-    "phonetic0": "ʁɔ̃pʁ",
-    "phonetic1": "ʁɔ̃pʁ",
+    "word": "rétablir",
+    "phonetic0": "ʁetabliʁ",
+    "phonetic1": "ʁetabliʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "断绝"
+        "cn": "恢复"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux pays ont décidé de rétablir leurs relations diplomatiques.",
+        "cn": "两国决定恢复外交关系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1629,16 +1999,21 @@
   },
   {
     "id": 75,
-    "word": "rétablir",
-    "phonetic0": "ʁetabliʁ",
-    "phonetic1": "ʁetabliʁ",
+    "word": "consulaire",
+    "phonetic0": "kɔ̃sylɛʁ",
+    "phonetic1": "kɔ̃sylɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "恢复"
+        "pos": "adj.",
+        "cn": "领事的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le personnel consulaire a traité des centaines de dossiers de visas.",
+        "cn": "领事人员处理了数百份签证申请。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1651,16 +2026,21 @@
   },
   {
     "id": 76,
-    "word": "consulaire",
-    "phonetic0": "kɔ̃sylɛʁ",
-    "phonetic1": "kɔ̃sylɛʁ",
+    "word": "protester",
+    "phonetic0": "pʁotɛste",
+    "phonetic1": "pʁotɛste",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "领事的"
+        "pos": "v.",
+        "cn": "抗议"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des milliers de citoyens ont protesté contre la hausse des impôts.",
+        "cn": "数千市民抗议增税。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1673,16 +2053,21 @@
   },
   {
     "id": 77,
-    "word": "protester",
-    "phonetic0": "pʁotɛste",
-    "phonetic1": "pʁotɛste",
+    "word": "totalement",
+    "phonetic0": "totaləmɑ̃",
+    "phonetic1": "totaləmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "抗议"
+        "pos": "adv.",
+        "cn": "彻底地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a totalement changé sa position sur ce dossier.",
+        "cn": "政府在这一问题上的立场彻底改变了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1695,16 +2080,21 @@
   },
   {
     "id": 78,
-    "word": "totalement",
-    "phonetic0": "totaləmɑ̃",
-    "phonetic1": "totaləmɑ̃",
+    "word": "délégation",
+    "phonetic0": "delegasjɔ̃",
+    "phonetic1": "delegasjɔ̃",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "彻底地"
+        "pos": "n.f.",
+        "cn": "代表团"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une délégation de parlementaires s'est rendue dans la zone sinistrée.",
+        "cn": "一个议员代表团前往灾区。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1717,16 +2107,21 @@
   },
   {
     "id": 79,
-    "word": "délégation",
-    "phonetic0": "delegasjɔ̃",
-    "phonetic1": "delegasjɔ̃",
+    "word": "immigrant",
+    "phonetic0": "imigʁɑ̃",
+    "phonetic1": "imigʁɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "代表团"
+        "pos": "adj.",
+        "cn": "移民"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La population immigrante contribue largement à l'économie de ce pays.",
+        "cn": "移民人口对这个国家的经济贡献很大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1739,16 +2134,21 @@
   },
   {
     "id": 80,
-    "word": "immigrant",
-    "phonetic0": "imigʁɑ̃",
-    "phonetic1": "imigʁɑ̃",
+    "word": "posséder",
+    "phonetic0": "posede",
+    "phonetic1": "posede",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "移民"
+        "pos": "v.",
+        "cn": "享有"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tous les citoyens possèdent les mêmes droits devant la loi.",
+        "cn": "所有公民在法律面前享有同等权利。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1761,16 +2161,21 @@
   },
   {
     "id": 81,
-    "word": "posséder",
-    "phonetic0": "posede",
-    "phonetic1": "posede",
+    "word": "assumer",
+    "phonetic0": "asyme",
+    "phonetic1": "asyme",
     "trans": [
       {
         "pos": "v.",
-        "cn": "享有"
+        "cn": "承担"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ministre a assumé la responsabilité de cet échec devant le Parlement.",
+        "cn": "部长在议会面前承担了这次失败的责任。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1783,16 +2188,21 @@
   },
   {
     "id": 82,
-    "word": "assumer",
-    "phonetic0": "asyme",
-    "phonetic1": "asyme",
+    "word": "liberté",
+    "phonetic0": "libɛʁte",
+    "phonetic1": "libɛʁte",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "承担"
+        "pos": "n.f.",
+        "cn": "自由"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La liberté de la presse est garantie par la constitution de ce pays.",
+        "cn": "这个国家的宪法保障新闻自由。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1805,16 +2215,21 @@
   },
   {
     "id": 83,
-    "word": "liberté",
-    "phonetic0": "libɛʁte",
-    "phonetic1": "libɛʁte",
+    "word": "veto",
+    "phonetic0": "veto",
+    "phonetic1": "veto",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "自由"
+        "pos": "n.m.",
+        "cn": "否决权"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un seul membre permanent peut bloquer une résolution avec son veto.",
+        "cn": "一个常任理事国就能用否决权阻止一项决议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1827,16 +2242,21 @@
   },
   {
     "id": 84,
-    "word": "veto",
-    "phonetic0": "veto",
-    "phonetic1": "veto",
+    "word": "assemblée",
+    "phonetic0": "asɑ̃ble",
+    "phonetic1": "asɑ̃ble",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "否决权"
+        "pos": "n.f.",
+        "cn": "集会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'Assemblée nationale a adopté le texte par une large majorité.",
+        "cn": "国民议会以压倒多数通过了该文本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1849,16 +2269,21 @@
   },
   {
     "id": 85,
-    "word": "assemblée",
-    "phonetic0": "asɑ̃ble",
-    "phonetic1": "asɑ̃ble",
+    "word": "défiler",
+    "phonetic0": "defile",
+    "phonetic1": "defile",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "集会"
+        "pos": "v.",
+        "cn": "游行"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des milliers d'étudiants ont défilé dans les rues de la capitale.",
+        "cn": "数千名学生在首都街头游行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1871,16 +2296,21 @@
   },
   {
     "id": 86,
-    "word": "défiler",
-    "phonetic0": "defile",
-    "phonetic1": "defile",
+    "word": "personnalité",
+    "phonetic0": "pɛʁsonalite",
+    "phonetic1": "pɛʁsonalite",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "游行"
+        "pos": "n.f.",
+        "cn": "人格"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les psychologues judiciaires étudient la personnalité des criminels les plus violents.",
+        "cn": "司法心理学家研究最暴力罪犯的人格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1893,16 +2323,21 @@
   },
   {
     "id": 87,
-    "word": "personnalité",
-    "phonetic0": "pɛʁsonalite",
-    "phonetic1": "pɛʁsonalite",
+    "word": "dignité",
+    "phonetic0": "diɲite",
+    "phonetic1": "diɲite",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "人格"
+        "cn": "尊严"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tous les détenus doivent être traités avec respect et dignité.",
+        "cn": "所有在押人员都应受到尊重和有尊严的对待。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1915,16 +2350,21 @@
   },
   {
     "id": 88,
-    "word": "dignité",
-    "phonetic0": "diɲite",
-    "phonetic1": "diɲite",
+    "word": "unir",
+    "phonetic0": "yniʁ",
+    "phonetic1": "yniʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "尊严"
+        "pos": "v.",
+        "cn": "团结"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette tragédie a fini par unir les habitants de toute la région.",
+        "cn": "这场悲剧使整个地区的居民团结起来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1937,16 +2377,21 @@
   },
   {
     "id": 89,
-    "word": "unir",
-    "phonetic0": "yniʁ",
-    "phonetic1": "yniʁ",
+    "word": "race",
+    "phonetic0": "ʁas",
+    "phonetic1": "ʁas",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "团结"
+        "pos": "n.f.",
+        "cn": "种族"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La loi interdit toute discrimination fondée sur la race ou l'origine.",
+        "cn": "法律禁止基于种族或出身的任何歧视。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1959,16 +2404,21 @@
   },
   {
     "id": 90,
-    "word": "race",
-    "phonetic0": "ʁas",
-    "phonetic1": "ʁas",
+    "word": "agriculture",
+    "phonetic0": "agʁikyltyʁ",
+    "phonetic1": "agʁikyltyʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "种族"
+        "cn": "农业"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'agriculture biologique se développe rapidement dans le sud du pays.",
+        "cn": "有机农业在该国南部迅速发展。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1981,16 +2431,21 @@
   },
   {
     "id": 91,
-    "word": "agriculture",
-    "phonetic0": "agʁikyltyʁ",
-    "phonetic1": "agʁikyltyʁ",
+    "word": "immobilier",
+    "phonetic0": "imobilje",
+    "phonetic1": "imobilje",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "农业"
+        "pos": "adj.",
+        "cn": "房地产业"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le marché immobilier connaît une hausse des prix très inquiétante.",
+        "cn": "房地产市场出现了令人非常担忧的价格上涨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2003,16 +2458,21 @@
   },
   {
     "id": 92,
-    "word": "immobilier",
-    "phonetic0": "imobilje",
-    "phonetic1": "imobilje",
+    "word": "amusement",
+    "phonetic0": "amyzəmɑ̃",
+    "phonetic1": "amyzəmɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "房地产业"
+        "pos": "n.m.",
+        "cn": "娱乐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce grand parc d'amusement attire des familles entières chaque week-end.",
+        "cn": "这座大型游乐园每个周末都吸引全家老小前来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2025,16 +2485,21 @@
   },
   {
     "id": 93,
-    "word": "amusement",
-    "phonetic0": "amyzəmɑ̃",
-    "phonetic1": "amyzəmɑ̃",
+    "word": "consultant",
+    "phonetic0": "kɔ̃syltɑ̃",
+    "phonetic1": "kɔ̃syltɑ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "娱乐"
+        "pos": "adj.",
+        "cn": "咨询顾问"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le consultant a proposé une réforme du système fiscal au ministre.",
+        "cn": "这位咨询顾问向部长提出了税制改革方案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2047,16 +2512,21 @@
   },
   {
     "id": 94,
-    "word": "consultant",
-    "phonetic0": "kɔ̃syltɑ̃",
-    "phonetic1": "kɔ̃syltɑ̃",
+    "word": "nationaliser",
+    "phonetic0": "nasjonalize",
+    "phonetic1": "nasjonalize",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "咨询顾问"
+        "pos": "v.",
+        "cn": "使国有化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a décidé de nationaliser plusieurs banques en difficulté.",
+        "cn": "政府决定将几家陷入困境的银行国有化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2069,16 +2539,21 @@
   },
   {
     "id": 95,
-    "word": "nationaliser",
-    "phonetic0": "nasjonalize",
-    "phonetic1": "nasjonalize",
+    "word": "nationalisation",
+    "phonetic0": "nasjonalizasjɔ̃",
+    "phonetic1": "nasjonalizasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "使国有化"
+        "pos": "n.f.",
+        "cn": "国有化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nationalisation des chemins de fer a suscité un vif débat public.",
+        "cn": "铁路国有化引发了激烈的公共辩论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2091,16 +2566,21 @@
   },
   {
     "id": 96,
-    "word": "nationalisation",
-    "phonetic0": "nasjonalizasjɔ̃",
-    "phonetic1": "nasjonalizasjɔ̃",
+    "word": "privatisation",
+    "phonetic0": "pʁivatizasjɔ̃",
+    "phonetic1": "pʁivatizasjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "国有化"
+        "cn": "私有化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La privatisation des autoroutes a rapporté des milliards à l'État.",
+        "cn": "高速公路私有化为国家带来了数十亿收入。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2113,16 +2593,21 @@
   },
   {
     "id": 97,
-    "word": "privatisation",
-    "phonetic0": "pʁivatizasjɔ̃",
-    "phonetic1": "pʁivatizasjɔ̃",
+    "word": "économie",
+    "phonetic0": "ekonomi",
+    "phonetic1": "ekonomi",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "私有化"
+        "cn": "经济"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'économie de ce pays dépend fortement des exportations de pétrole.",
+        "cn": "这个国家的经济严重依赖石油出口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2135,16 +2620,21 @@
   },
   {
     "id": 98,
-    "word": "économie",
-    "phonetic0": "ekonomi",
-    "phonetic1": "ekonomi",
+    "word": "économiquement",
+    "phonetic0": "ekonomikəmɑ̃",
+    "phonetic1": "ekonomikəmɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "经济"
+        "pos": "adv.",
+        "cn": "经济地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette région du nord est économiquement dépendante des subventions publiques.",
+        "cn": "这个北部地区在经济上依赖公共补贴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2157,16 +2647,21 @@
   },
   {
     "id": 99,
-    "word": "économiquement",
-    "phonetic0": "ekonomikəmɑ̃",
-    "phonetic1": "ekonomikəmɑ̃",
+    "word": "financièrement",
+    "phonetic0": "finɑ̃sjɛʁəmɑ̃",
+    "phonetic1": "finɑ̃sjɛʁəmɑ̃",
     "trans": [
       {
         "pos": "adv.",
-        "cn": "经济地"
+        "cn": "金融地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "De nombreux étudiants sont encore financièrement dépendants de leurs parents.",
+        "cn": "许多学生在经济上仍依赖父母。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2179,16 +2674,21 @@
   },
   {
     "id": 100,
-    "word": "financièrement",
-    "phonetic0": "finɑ̃sjɛʁəmɑ̃",
-    "phonetic1": "finɑ̃sjɛʁəmɑ̃",
+    "word": "crise",
+    "phonetic0": "kʁiz",
+    "phonetic1": "kʁiz",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "金融地"
+        "pos": "n.f.",
+        "cn": "危机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La crise économique a provoqué une hausse brutale du chômage.",
+        "cn": "经济危机导致失业率急剧上升。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2201,16 +2701,21 @@
   },
   {
     "id": 101,
-    "word": "crise",
-    "phonetic0": "kʁiz",
-    "phonetic1": "kʁiz",
+    "word": "récession",
+    "phonetic0": "ʁesesjɔ̃",
+    "phonetic1": "ʁesesjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "危机"
+        "cn": "萧条"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pays est entré en récession après deux années de croissance faible.",
+        "cn": "在两年增长乏力之后，这个国家陷入了萧条。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2223,16 +2728,21 @@
   },
   {
     "id": 102,
-    "word": "récession",
-    "phonetic0": "ʁesesjɔ̃",
-    "phonetic1": "ʁesesjɔ̃",
+    "word": "revivre",
+    "phonetic0": "ʁəvivʁ",
+    "phonetic1": "ʁəvivʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "萧条"
+        "pos": "v.",
+        "cn": "复苏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'économie commence à revivre grâce à la baisse des taux.",
+        "cn": "得益于利率下降，经济开始复苏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2245,16 +2755,21 @@
   },
   {
     "id": 103,
-    "word": "revivre",
-    "phonetic0": "ʁəvivʁ",
-    "phonetic1": "ʁəvivʁ",
+    "word": "inflation",
+    "phonetic0": "ɛ̃flasjɔ̃",
+    "phonetic1": "ɛ̃flasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "复苏"
+        "pos": "n.f.",
+        "cn": "通货膨胀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'inflation a atteint un niveau record dans toute la zone euro.",
+        "cn": "整个欧元区的通货膨胀率达到创纪录水平。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2267,16 +2782,21 @@
   },
   {
     "id": 104,
-    "word": "inflation",
-    "phonetic0": "ɛ̃flasjɔ̃",
-    "phonetic1": "ɛ̃flasjɔ̃",
+    "word": "déficit",
+    "phonetic0": "defisit",
+    "phonetic1": "defisit",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "通货膨胀"
+        "pos": "n.m.",
+        "cn": "赤字"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le déficit public dépasse largement les limites fixées par Bruxelles.",
+        "cn": "公共赤字远超布鲁塞尔设定的上限。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2289,16 +2809,21 @@
   },
   {
     "id": 105,
-    "word": "déficit",
-    "phonetic0": "defisit",
-    "phonetic1": "defisit",
+    "word": "vachement",
+    "phonetic0": "vaʃəmɑ̃",
+    "phonetic1": "vaʃəmɑ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "赤字"
+        "pos": "adv.",
+        "cn": "大大地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les prix ont vachement augmenté depuis le début de l'année.",
+        "cn": "自年初以来物价涨得厉害。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2311,16 +2836,21 @@
   },
   {
     "id": 106,
-    "word": "vachement",
-    "phonetic0": "vaʃəmɑ̃",
-    "phonetic1": "vaʃəmɑ̃",
+    "word": "affaires",
+    "phonetic0": "afɛʁ",
+    "phonetic1": "afɛʁ",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "大大地"
+        "pos": "n.f.",
+        "cn": "生意，经济活动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a fait fortune dans les affaires avant d'entrer en politique.",
+        "cn": "他从政之前在生意场上发了财。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2333,16 +2863,21 @@
   },
   {
     "id": 107,
-    "word": "affaires",
-    "phonetic0": "afɛʁ",
-    "phonetic1": "afɛʁ",
+    "word": "façonner",
+    "phonetic0": "fasone",
+    "phonetic1": "fasone",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "生意，经济活动"
+        "pos": "v.",
+        "cn": "加工"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces années de guerre ont façonné la mentalité de toute une génération.",
+        "cn": "那些战争年代塑造了整整一代人的心态。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2355,16 +2890,21 @@
   },
   {
     "id": 108,
-    "word": "façonner",
-    "phonetic0": "fasone",
-    "phonetic1": "fasone",
+    "word": "projectionniste",
+    "phonetic0": "pʁoʒɛksjonist",
+    "phonetic1": "pʁoʒɛksjonist",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "加工"
+        "pos": "n.",
+        "cn": "贸易保护主义者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le projectionniste du cinéma a changé la pellicule avant la séance.",
+        "cn": "电影院的放映员在开演前换了胶片。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2377,16 +2917,21 @@
   },
   {
     "id": 109,
-    "word": "projectionniste",
-    "phonetic0": "pʁoʒɛksjonist",
-    "phonetic1": "pʁoʒɛksjonist",
+    "word": "concilier",
+    "phonetic0": "kɔ̃silje",
+    "phonetic1": "kɔ̃silje",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "贸易保护主义者"
+        "pos": "v.",
+        "cn": "调解"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médiateur tente de concilier les intérêts des deux parties.",
+        "cn": "调解人试图协调双方的利益。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2399,16 +2944,21 @@
   },
   {
     "id": 110,
-    "word": "concilier",
-    "phonetic0": "kɔ̃silje",
-    "phonetic1": "kɔ̃silje",
+    "word": "yen",
+    "phonetic0": "jɛn",
+    "phonetic1": "jɛn",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "调解"
+        "pos": "n.m.",
+        "cn": "日元"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le yen a fortement baissé face au dollar cette année.",
+        "cn": "今年日元对美元大幅下跌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2421,16 +2971,21 @@
   },
   {
     "id": 111,
-    "word": "yen",
-    "phonetic0": "jɛn",
-    "phonetic1": "jɛn",
+    "word": "peso",
+    "phonetic0": "pezo",
+    "phonetic1": "pezo",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "日元"
+        "cn": "比索"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le peso argentin a perdu la moitié de sa valeur en un an.",
+        "cn": "阿根廷比索一年内贬值一半。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2443,16 +2998,21 @@
   },
   {
     "id": 112,
-    "word": "peso",
-    "phonetic0": "pezo",
-    "phonetic1": "pezo",
+    "word": "contrefaire",
+    "phonetic0": "kɔ̃tʁəfɛʁ",
+    "phonetic1": "kɔ̃tʁəfɛʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "比索"
+        "pos": "v.",
+        "cn": "伪造"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils ont été condamnés pour avoir contrefait des billets de banque.",
+        "cn": "他们因伪造钞票而被判刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2465,16 +3025,21 @@
   },
   {
     "id": 113,
-    "word": "contrefaire",
-    "phonetic0": "kɔ̃tʁəfɛʁ",
-    "phonetic1": "kɔ̃tʁəfɛʁ",
+    "word": "dévalorisation",
+    "phonetic0": "devaloʁizasjɔ̃",
+    "phonetic1": "devaloʁizasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "伪造"
+        "pos": "n.f.",
+        "cn": "贬值"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La dévalorisation de la monnaie a renchéri toutes les importations.",
+        "cn": "货币贬值使所有进口商品都变贵了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2487,16 +3052,21 @@
   },
   {
     "id": 114,
-    "word": "dévalorisation",
-    "phonetic0": "devaloʁizasjɔ̃",
-    "phonetic1": "devaloʁizasjɔ̃",
+    "word": "fond",
+    "phonetic0": "fɔ̃",
+    "phonetic1": "fɔ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "贬值"
+        "pos": "n.m.",
+        "cn": "资金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fonds de solidarité aide les familles les plus démunies.",
+        "cn": "互助基金帮助最贫困的家庭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2509,16 +3079,21 @@
   },
   {
     "id": 115,
-    "word": "fond",
-    "phonetic0": "fɔ̃",
-    "phonetic1": "fɔ̃",
+    "word": "capital",
+    "phonetic0": "kapital",
+    "phonetic1": "kapital",
     "trans": [
       {
-        "pos": "n.m.",
+        "pos": "adj.",
         "cn": "资金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le capital de cette entreprise appartient à des investisseurs étrangers.",
+        "cn": "这家企业的资金属于外国投资者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2531,16 +3106,21 @@
   },
   {
     "id": 116,
-    "word": "capital",
-    "phonetic0": "kapital",
-    "phonetic1": "kapital",
+    "word": "plus-value",
+    "phonetic0": "plyvaly",
+    "phonetic1": "plyvaly",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "资金"
+        "pos": "n.f.",
+        "cn": "增值"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La plus-value réalisée lors de cette vente immobilière sera lourdement imposée.",
+        "cn": "这次房产交易获得的增值将被课以重税。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2553,16 +3133,21 @@
   },
   {
     "id": 117,
-    "word": "plus-value",
-    "phonetic0": "plyvaly",
-    "phonetic1": "plyvaly",
+    "word": "dévaloriser",
+    "phonetic0": "devaloʁize",
+    "phonetic1": "devaloʁize",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "增值"
+        "pos": "v.",
+        "cn": "使贬值假的！100"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette décision du gouvernement risque de dévaloriser la monnaie nationale.",
+        "cn": "政府的这一决定可能使本国货币贬值。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2575,16 +3160,21 @@
   },
   {
     "id": 118,
-    "word": "dévaloriser",
-    "phonetic0": "devaloʁize",
-    "phonetic1": "devaloʁize",
+    "word": "import",
+    "phonetic0": "ɛ̃pɔʁ",
+    "phonetic1": "ɛ̃pɔʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "使贬值假的！100"
+        "pos": "n.m.",
+        "cn": "进口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'import de voitures étrangères a fortement augmenté au cours de cette année.",
+        "cn": "今年外国汽车的进口大幅增长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2597,16 +3187,21 @@
   },
   {
     "id": 119,
-    "word": "import",
-    "phonetic0": "ɛ̃pɔʁ",
-    "phonetic1": "ɛ̃pɔʁ",
+    "word": "facture",
+    "phonetic0": "faktyʁ",
+    "phonetic1": "faktyʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "进口"
+        "pos": "n.f.",
+        "cn": "发票"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client refuse de payer cette facture jugée trop élevée.",
+        "cn": "客户拒绝支付这张被认为过高的发票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2619,16 +3214,21 @@
   },
   {
     "id": 120,
-    "word": "facture",
-    "phonetic0": "faktyʁ",
-    "phonetic1": "faktyʁ",
+    "word": "pourcentage",
+    "phonetic0": "puʁsɑ̃taʒ",
+    "phonetic1": "puʁsɑ̃taʒ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "发票"
+        "pos": "n.m.",
+        "cn": "百分比"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pourcentage de chômeurs a légèrement baissé au dernier trimestre.",
+        "cn": "失业者比例在上个季度略有下降。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2641,16 +3241,21 @@
   },
   {
     "id": 121,
-    "word": "pourcentage",
-    "phonetic0": "puʁsɑ̃taʒ",
-    "phonetic1": "puʁsɑ̃taʒ",
+    "word": "fret",
+    "phonetic0": "fʁɛ",
+    "phonetic1": "fʁɛ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "百分比"
+        "cn": "运费"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fret maritime a augmenté à cause de la hausse du carburant.",
+        "cn": "由于燃料涨价，海运运费上涨了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2663,16 +3268,21 @@
   },
   {
     "id": 122,
-    "word": "fret",
-    "phonetic0": "fʁɛ",
-    "phonetic1": "fʁɛ",
+    "word": "assurance",
+    "phonetic0": "asyʁɑ̃s",
+    "phonetic1": "asyʁɑ̃s",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "运费"
+        "pos": "n.f.",
+        "cn": "保险"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son assurance automobile couvre les dégâts causés par un accident.",
+        "cn": "他的汽车保险涵盖事故造成的损失。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2685,16 +3295,21 @@
   },
   {
     "id": 123,
-    "word": "assurance",
-    "phonetic0": "asyʁɑ̃s",
-    "phonetic1": "asyʁɑ̃s",
+    "word": "bénéfice",
+    "phonetic0": "benefis",
+    "phonetic1": "benefis",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "保险"
+        "pos": "n.m.",
+        "cn": "利润"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette entreprise a réalisé un bénéfice record malgré la crise économique.",
+        "cn": "尽管经济危机，这家企业仍实现了创纪录的利润。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2707,16 +3322,21 @@
   },
   {
     "id": 124,
-    "word": "bénéfice",
-    "phonetic0": "benefis",
-    "phonetic1": "benefis",
+    "word": "financement",
+    "phonetic0": "finɑ̃səmɑ̃",
+    "phonetic1": "finɑ̃səmɑ̃",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "利润"
+        "cn": "融资"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque a refusé le financement de ce projet trop risqué.",
+        "cn": "银行拒绝为这个风险过高的项目提供融资。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2729,16 +3349,21 @@
   },
   {
     "id": 125,
-    "word": "financement",
-    "phonetic0": "finɑ̃səmɑ̃",
-    "phonetic1": "finɑ̃səmɑ̃",
+    "word": "échéance",
+    "phonetic0": "eʃeɑ̃s",
+    "phonetic1": "eʃeɑ̃s",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "融资"
+        "pos": "n.f.",
+        "cn": "到期日"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La prochaine échéance du prêt tombe au mois de mars.",
+        "cn": "这笔贷款的下一个到期日在三月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2751,16 +3376,21 @@
   },
   {
     "id": 126,
-    "word": "échéance",
-    "phonetic0": "eʃeɑ̃s",
-    "phonetic1": "eʃeɑ̃s",
+    "word": "manifester",
+    "phonetic0": "manifɛste",
+    "phonetic1": "manifɛste",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "到期日"
+        "pos": "v.",
+        "cn": "表明"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les résultats manifestent une nette amélioration de la situation économique.",
+        "cn": "数据表明经济形势明显改善。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2773,16 +3403,21 @@
   },
   {
     "id": 127,
-    "word": "manifester",
-    "phonetic0": "manifɛste",
-    "phonetic1": "manifɛste",
+    "word": "résilier",
+    "phonetic0": "ʁezilje",
+    "phonetic1": "ʁezilje",
     "trans": [
       {
         "pos": "v.",
-        "cn": "表明"
+        "cn": "注销"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client peut résilier son contrat à tout moment sans frais.",
+        "cn": "客户可以随时免费注销合同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2795,16 +3430,21 @@
   },
   {
     "id": 128,
-    "word": "résilier",
-    "phonetic0": "ʁezilje",
-    "phonetic1": "ʁezilje",
+    "word": "contribution",
+    "phonetic0": "kɔ̃tʁibysjɔ̃",
+    "phonetic1": "kɔ̃tʁibysjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "注销"
+        "pos": "n.f.",
+        "cn": "份额"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque pays membre verse une contribution annuelle au budget commun.",
+        "cn": "每个成员国每年向共同预算缴纳份额。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2817,16 +3457,21 @@
   },
   {
     "id": 129,
-    "word": "contribution",
-    "phonetic0": "kɔ̃tʁibysjɔ̃",
-    "phonetic1": "kɔ̃tʁibysjɔ̃",
+    "word": "bénéfique",
+    "phonetic0": "benefik",
+    "phonetic1": "benefik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "份额"
+        "pos": "adj.",
+        "cn": "有益的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette réforme fiscale serait bénéfique pour les petites entreprises françaises.",
+        "cn": "这项税制改革对法国中小企业会有好处。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2839,16 +3484,21 @@
   },
   {
     "id": 130,
-    "word": "bénéfique",
-    "phonetic0": "benefik",
-    "phonetic1": "benefik",
+    "word": "épargné",
+    "phonetic0": "epaʁɲe",
+    "phonetic1": "epaʁɲe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "有益的"
+        "pos": "v.",
+        "cn": "储蓄"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a épargné pendant dix ans pour acheter un appartement.",
+        "cn": "他储蓄了十年才买下一套公寓。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2861,16 +3511,21 @@
   },
   {
     "id": 131,
-    "word": "épargné",
-    "phonetic0": "epaʁɲe",
-    "phonetic1": "epaʁɲe",
+    "word": "réserve",
+    "phonetic0": "ʁezɛʁv",
+    "phonetic1": "ʁezɛʁv",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "储蓄"
+        "pos": "n.f.",
+        "cn": "存款准备金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque centrale a relevé le taux de réserve obligatoire.",
+        "cn": "中央银行提高了法定存款准备金率。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2883,16 +3538,21 @@
   },
   {
     "id": 132,
-    "word": "réserve",
-    "phonetic0": "ʁezɛʁv",
-    "phonetic1": "ʁezɛʁv",
+    "word": "intérêt",
+    "phonetic0": "ɛ̃teʁɛ",
+    "phonetic1": "ɛ̃teʁɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "存款准备金"
+        "pos": "n.m.",
+        "cn": "利息"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les intérêts de ce livret ont été versés en janvier.",
+        "cn": "这个存折的利息在一月份支付了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2905,16 +3565,21 @@
   },
   {
     "id": 133,
-    "word": "intérêt",
-    "phonetic0": "ɛ̃teʁɛ",
-    "phonetic1": "ɛ̃teʁɛ",
+    "word": "tirelire",
+    "phonetic0": "tiʁəliʁ",
+    "phonetic1": "tiʁəliʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "利息"
+        "pos": "n.f.",
+        "cn": "存钱罐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enfant casse sa tirelire pour acheter un cadeau à sa mère.",
+        "cn": "孩子砸开存钱罐，给妈妈买礼物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2927,16 +3592,21 @@
   },
   {
     "id": 134,
-    "word": "tirelire",
-    "phonetic0": "tiʁəliʁ",
-    "phonetic1": "tiʁəliʁ",
+    "word": "investir",
+    "phonetic0": "ɛ̃vɛstiʁ",
+    "phonetic1": "ɛ̃vɛstiʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "存钱罐"
+        "pos": "v.",
+        "cn": "投资"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les investisseurs étrangers hésitent à investir dans ce pays politiquement instable.",
+        "cn": "外国投资者不愿在这个政治不稳的国家投资。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2949,16 +3619,21 @@
   },
   {
     "id": 135,
-    "word": "investir",
-    "phonetic0": "ɛ̃vɛstiʁ",
-    "phonetic1": "ɛ̃vɛstiʁ",
+    "word": "commanditaire",
+    "phonetic0": "komɑ̃ditɛʁ",
+    "phonetic1": "komɑ̃ditɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "投资"
+        "pos": "n.",
+        "cn": "投资者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le commanditaire exige un rapport trimestriel sur les résultats de l'entreprise.",
+        "cn": "投资者要求提交季度业绩报告。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2971,16 +3646,21 @@
   },
   {
     "id": 136,
-    "word": "commanditaire",
-    "phonetic0": "komɑ̃ditɛʁ",
-    "phonetic1": "komɑ̃ditɛʁ",
+    "word": "risquer",
+    "phonetic0": "ʁiske",
+    "phonetic1": "ʁiske",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "投资者"
+        "pos": "v.",
+        "cn": "冒险"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les petits épargnants ne veulent pas risquer tout leur argent.",
+        "cn": "小储户不愿拿全部积蓄去冒险。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2993,16 +3673,21 @@
   },
   {
     "id": 137,
-    "word": "risquer",
-    "phonetic0": "ʁiske",
-    "phonetic1": "ʁiske",
+    "word": "difficile",
+    "phonetic0": "difisil",
+    "phonetic1": "difisil",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "冒险"
+        "pos": "adj.",
+        "cn": "困难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est difficile d'obtenir un prêt sans garantie bancaire solide.",
+        "cn": "没有可靠的银行担保很难获得贷款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3015,16 +3700,21 @@
   },
   {
     "id": 138,
-    "word": "difficile",
-    "phonetic0": "difisil",
-    "phonetic1": "difisil",
+    "word": "capital-risque",
+    "phonetic0": "kapitalʁisk",
+    "phonetic1": "kapitalʁisk",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "困难"
+        "pos": "n.m.",
+        "cn": "风险资本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les fonds de capital-risque cherchent des projets innovants à fort potentiel.",
+        "cn": "风险资本基金在寻找潜力大的创新项目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3037,16 +3727,21 @@
   },
   {
     "id": 139,
-    "word": "investissement-risque",
-    "phonetic0": "ɛ̃vɛstisəmɑ̃-ʁisk",
-    "phonetic1": "ɛ̃vɛstisəmɑ̃-ʁisk",
+    "word": "propriété",
+    "phonetic0": "pʁopʁijete",
+    "phonetic1": "pʁopʁijete",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "风险投资"
+        "pos": "n.f.",
+        "cn": "财产"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La propriété privée est strictement protégée par la loi française.",
+        "cn": "私有财产受法国法律的严格保护。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3059,16 +3754,21 @@
   },
   {
     "id": 140,
-    "word": "capital-risque",
-    "phonetic0": "kapitalʁisk",
-    "phonetic1": "kapitalʁisk",
+    "word": "contribuer",
+    "phonetic0": "kɔ̃tʁibɥe",
+    "phonetic1": "kɔ̃tʁibɥe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "风险资本"
+        "pos": "v.",
+        "cn": "捐赠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque citoyen est invité à contribuer à cette collecte nationale.",
+        "cn": "每位公民都被邀请为这次全国募捐捐款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3081,16 +3781,21 @@
   },
   {
     "id": 141,
-    "word": "propriété",
-    "phonetic0": "pʁopʁijete",
-    "phonetic1": "pʁopʁijete",
+    "word": "possession",
+    "phonetic0": "posesjɔ̃",
+    "phonetic1": "posesjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "财产"
+        "cn": "所有物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a perdu toutes ses possessions dans l'incendie de sa maison.",
+        "cn": "他家失火，所有财物都化为乌有。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3103,16 +3808,21 @@
   },
   {
     "id": 142,
-    "word": "contribuer",
-    "phonetic0": "kɔ̃tʁibɥe",
-    "phonetic1": "kɔ̃tʁibɥe",
+    "word": "rupin",
+    "phonetic0": "ʁypɛ̃",
+    "phonetic1": "ʁypɛ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "捐赠"
+        "pos": "adj.",
+        "cn": "富有的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce quartier rupin attire les nouveaux riches de la capitale.",
+        "cn": "这个富人区吸引着首都的新贵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3125,16 +3835,21 @@
   },
   {
     "id": 143,
-    "word": "possession",
-    "phonetic0": "posesjɔ̃",
-    "phonetic1": "posesjɔ̃",
+    "word": "investissement",
+    "phonetic0": "ɛ̃vɛstisəmɑ̃",
+    "phonetic1": "ɛ̃vɛstisəmɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "所有物"
+        "pos": "n.m.",
+        "cn": "投资"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet investissement devrait être rentable dans cinq ou six ans.",
+        "cn": "这项投资应在五六年内收回成本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3147,16 +3862,21 @@
   },
   {
     "id": 144,
-    "word": "rupin",
-    "phonetic0": "ʁypɛ̃",
-    "phonetic1": "ʁypɛ̃",
+    "word": "client",
+    "phonetic0": "klijɑ̃",
+    "phonetic1": "klijɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "富有的"
+        "pos": "n.m.",
+        "cn": "客户"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client a demandé un remboursement complet de son achat.",
+        "cn": "客户要求全额退还购物款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3169,16 +3889,21 @@
   },
   {
     "id": 145,
-    "word": "investissement",
-    "phonetic0": "ɛ̃vɛstisəmɑ̃",
-    "phonetic1": "ɛ̃vɛstisəmɑ̃",
+    "word": "usure",
+    "phonetic0": "yzyʁ",
+    "phonetic1": "yzyʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "投资"
+        "pos": "n.f.",
+        "cn": "高利贷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce prêteur exigeait des taux proches de l'usure, ce qui est illégal.",
+        "cn": "这个放贷者索取的利率接近高利贷，这是违法的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3191,16 +3916,21 @@
   },
   {
     "id": 146,
-    "word": "client",
-    "phonetic0": "klijɑ̃",
-    "phonetic1": "klijɑ̃",
+    "word": "créditeur",
+    "phonetic0": "kʁeditœʁ",
+    "phonetic1": "kʁeditœʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "客户"
+        "pos": "adj.",
+        "cn": "贷方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le compte créditeur affiche un solde positif à la fin du mois.",
+        "cn": "贷方账户在月底显示为正余额。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3213,16 +3943,21 @@
   },
   {
     "id": 147,
-    "word": "usure",
-    "phonetic0": "yzyʁ",
-    "phonetic1": "yzyʁ",
+    "word": "éthique",
+    "phonetic0": "etik",
+    "phonetic1": "etik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "高利贷"
+        "pos": "adj.",
+        "cn": "道德的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les grandes banques doivent respecter des règles éthiques très strictes.",
+        "cn": "大银行必须遵守非常严格的道德规范。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3235,16 +3970,21 @@
   },
   {
     "id": 148,
-    "word": "créditeur",
-    "phonetic0": "kʁeditœʁ",
-    "phonetic1": "kʁeditœʁ",
+    "word": "dette",
+    "phonetic0": "dɛt",
+    "phonetic1": "dɛt",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "贷方"
+        "pos": "n.f.",
+        "cn": "债务"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pays croule sous une dette extérieure de plus en plus lourde.",
+        "cn": "这个国家被日益沉重的外债压得喘不过气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3257,16 +3997,21 @@
   },
   {
     "id": 149,
-    "word": "éthique",
-    "phonetic0": "etik",
-    "phonetic1": "etik",
+    "word": "emprunteur",
+    "phonetic0": "ɑ̃pʁœ̃tœʁ",
+    "phonetic1": "ɑ̃pʁœ̃tœʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "道德的"
+        "pos": "n.m.",
+        "cn": "借款方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'emprunteur doit rembourser la totalité du capital avant la fin juin.",
+        "cn": "借款方必须在六月底前偿还全部本金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3279,16 +4024,21 @@
   },
   {
     "id": 150,
-    "word": "dette",
-    "phonetic0": "dɛt",
-    "phonetic1": "dɛt",
+    "word": "gêne",
+    "phonetic0": "ʒɛn",
+    "phonetic1": "ʒɛn",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "债务"
+        "cn": "困境"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette famille vit dans une grande gêne depuis le licenciement du père.",
+        "cn": "这家人自父亲被解雇后一直处境艰难。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3301,16 +4051,21 @@
   },
   {
     "id": 151,
-    "word": "emprunteur",
-    "phonetic0": "ɑ̃pʁœ̃tœʁ",
-    "phonetic1": "ɑ̃pʁœ̃tœʁ",
+    "word": "escroc",
+    "phonetic0": "ɛskʁo",
+    "phonetic1": "ɛskʁo",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "借款方"
+        "cn": "骗子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'escroc a soutiré des millions à des personnes âgées crédules.",
+        "cn": "骗子从轻信的老年人那里骗走了数百万。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3323,16 +4078,21 @@
   },
   {
     "id": 152,
-    "word": "gêne",
-    "phonetic0": "ʒɛn",
-    "phonetic1": "ʒɛn",
+    "word": "garante",
+    "phonetic0": "gaʁɑ̃t",
+    "phonetic1": "gaʁɑ̃t",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "困境"
+        "pos": "adj.",
+        "cn": "担保"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque est garante du remboursement en cas de défaut.",
+        "cn": "如发生违约，银行对还款承担担保。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3345,16 +4105,21 @@
   },
   {
     "id": 153,
-    "word": "escroc",
-    "phonetic0": "ɛskʁo",
-    "phonetic1": "ɛskʁo",
+    "word": "hypothéquer",
+    "phonetic0": "ipoteke",
+    "phonetic1": "ipoteke",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "骗子"
+        "pos": "v.",
+        "cn": "抵押"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils ont dû hypothéquer leur maison pour financer l'entreprise familiale.",
+        "cn": "他们不得不抵押房子来为家族企业融资。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3367,16 +4132,21 @@
   },
   {
     "id": 154,
-    "word": "garante",
-    "phonetic0": "gaʁɑ̃t",
-    "phonetic1": "gaʁɑ̃t",
+    "word": "élargir",
+    "phonetic0": "elaʁʒiʁ",
+    "phonetic1": "elaʁʒiʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "担保"
+        "pos": "v.",
+        "cn": "扩大"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement veut élargir l'accès au crédit pour les jeunes.",
+        "cn": "政府想扩大年轻人获得信贷的渠道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3389,16 +4159,21 @@
   },
   {
     "id": 155,
-    "word": "hypothéquer",
-    "phonetic0": "ipoteke",
-    "phonetic1": "ipoteke",
+    "word": "grade",
+    "phonetic0": "gʁad",
+    "phonetic1": "gʁad",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "抵押"
+        "pos": "n.m.",
+        "cn": "等级"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet employé a obtenu un grade supérieur après dix ans.",
+        "cn": "这名职员十年后升到了更高的等级。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3411,16 +4186,21 @@
   },
   {
     "id": 156,
-    "word": "élargir",
-    "phonetic0": "elaʁʒiʁ",
-    "phonetic1": "elaʁʒiʁ",
+    "word": "rendre",
+    "phonetic0": "ʁɑ̃dʁ",
+    "phonetic1": "ʁɑ̃dʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "扩大"
+        "cn": "偿还"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il doit rendre l'argent qu'il a emprunté à son frère.",
+        "cn": "他必须把向哥哥借的钱还上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3433,16 +4213,21 @@
   },
   {
     "id": 157,
-    "word": "grade",
-    "phonetic0": "gʁad",
-    "phonetic1": "gʁad",
+    "word": "rembourser",
+    "phonetic0": "ʁɑ̃buʁse",
+    "phonetic1": "ʁɑ̃buʁse",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "等级"
+        "pos": "v.",
+        "cn": "偿还"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque accepte de rembourser les frais prélevés par erreur.",
+        "cn": "银行同意退还被错误扣除的费用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3455,16 +4240,21 @@
   },
   {
     "id": 158,
-    "word": "rendre",
-    "phonetic0": "ʁɑ̃dʁ",
-    "phonetic1": "ʁɑ̃dʁ",
+    "word": "égaler",
+    "phonetic0": "egale",
+    "phonetic1": "egale",
     "trans": [
       {
         "pos": "v.",
-        "cn": "偿还"
+        "cn": "等同"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le montant des frais finit par égaler le prix d'achat.",
+        "cn": "费用总额最终等同于购买价格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3477,16 +4267,21 @@
   },
   {
     "id": 159,
-    "word": "rembourser",
-    "phonetic0": "ʁɑ̃buʁse",
-    "phonetic1": "ʁɑ̃buʁse",
+    "word": "préalable",
+    "phonetic0": "pʁealabl",
+    "phonetic1": "pʁealabl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "偿还"
+        "pos": "adj.",
+        "cn": "预先的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un accord préalable du conseil est nécessaire avant le début des travaux.",
+        "cn": "动工之前必须得到委员会的预先同意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3499,16 +4294,21 @@
   },
   {
     "id": 160,
-    "word": "égaler",
-    "phonetic0": "egale",
-    "phonetic1": "egale",
+    "word": "subside",
+    "phonetic0": "sypzid",
+    "phonetic1": "sypzid",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "等同"
+        "pos": "n.m.",
+        "cn": "津贴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La région accorde un subside aux entreprises qui embauchent des jeunes.",
+        "cn": "大区向雇用年轻人的企业发放津贴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3521,16 +4321,21 @@
   },
   {
     "id": 161,
-    "word": "préalable",
-    "phonetic0": "pʁealabl",
-    "phonetic1": "pʁealabl",
+    "word": "stationnaire",
+    "phonetic0": "stasjonɛʁ",
+    "phonetic1": "stasjonɛʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "预先的"
+        "cn": "定的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le taux de chômage reste stationnaire depuis le début de l'année.",
+        "cn": "失业率自年初以来一直保持不变。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3543,16 +4348,21 @@
   },
   {
     "id": 162,
-    "word": "subside",
-    "phonetic0": "sypzid",
-    "phonetic1": "sypzid",
+    "word": "directe",
+    "phonetic0": "diʁɛkt",
+    "phonetic1": "diʁɛkt",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "津贴"
+        "pos": "adj.",
+        "cn": "移直接的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La taxation directe pèse davantage sur les ménages les plus modestes.",
+        "cn": "直接征税对最普通家庭的负担更重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3565,16 +4375,21 @@
   },
   {
     "id": 163,
-    "word": "stationnaire",
-    "phonetic0": "stasjonɛʁ",
-    "phonetic1": "stasjonɛʁ",
+    "word": "indirect",
+    "phonetic0": "ɛ̃diʁɛkt",
+    "phonetic1": "ɛ̃diʁɛkt",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "定的"
+        "cn": "间接的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet impôt indirect frappe surtout la consommation des ménages les plus pauvres.",
+        "cn": "这种间接税主要打击最贫困家庭的消费。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3587,16 +4402,21 @@
   },
   {
     "id": 164,
-    "word": "directe",
-    "phonetic0": "diʁɛkt",
-    "phonetic1": "diʁɛkt",
+    "word": "communauté",
+    "phonetic0": "komynote",
+    "phonetic1": "komynote",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "移直接的"
+        "pos": "n.f.",
+        "cn": "一致"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les membres de la communauté ont voté à l'unanimité contre le projet.",
+        "cn": "该群体成员一致投票反对这一方案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3609,16 +4429,21 @@
   },
   {
     "id": 165,
-    "word": "indirect",
-    "phonetic0": "ɛ̃diʁɛkt",
-    "phonetic1": "ɛ̃diʁɛkt",
+    "word": "opérer",
+    "phonetic0": "opeʁe",
+    "phonetic1": "opeʁe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "间接的"
+        "pos": "v.",
+        "cn": "韧操纵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a opéré une perquisition au siège de la banque.",
+        "cn": "警方在银行总部实施了一次搜查。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3631,16 +4456,21 @@
   },
   {
     "id": 166,
-    "word": "communauté",
-    "phonetic0": "komynote",
-    "phonetic1": "komynote",
+    "word": "capital-actions",
+    "phonetic0": "kapital-aksjɔ̃",
+    "phonetic1": "kapital-aksjɔ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "一致"
+        "pos": "n.m.",
+        "cn": "股本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La société a augmenté son capital-actions l'an dernier.",
+        "cn": "公司去年增加了股本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3653,16 +4483,21 @@
   },
   {
     "id": 167,
-    "word": "opérer",
-    "phonetic0": "opeʁe",
-    "phonetic1": "opeʁe",
+    "word": "comite",
+    "phonetic0": "kɔmit",
+    "phonetic1": "kɔmit",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "韧操纵"
+        "pos": "n.m.",
+        "cn": "委员会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le comité d'entreprise a demandé une hausse générale des salaires.",
+        "cn": "企业委员会要求全面加薪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3675,16 +4510,21 @@
   },
   {
     "id": 168,
-    "word": "capital-actions",
-    "phonetic0": "kapital-aksjɔ̃",
-    "phonetic1": "kapital-aksjɔ̃",
+    "word": "impôt",
+    "phonetic0": "ɛ̃po",
+    "phonetic1": "ɛ̃po",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "股本"
+        "pos": "n.m.",
+        "cn": "税"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement promet de baisser l'impôt sur le revenu dès 2027.",
+        "cn": "政府承诺从2027年起下调所得税。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3697,16 +4537,21 @@
   },
   {
     "id": 169,
-    "word": "comite",
-    "phonetic0": "kɔmit",
-    "phonetic1": "kɔmit",
+    "word": "fraude",
+    "phonetic0": "fʁod",
+    "phonetic1": "fʁod",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "委员会"
+        "pos": "n.f.",
+        "cn": "逃税"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fisc a découvert une fraude massive dans ce groupe immobilier.",
+        "cn": "税务部门在这个房地产集团查获大规模逃税行为。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3719,16 +4564,21 @@
   },
   {
     "id": 170,
-    "word": "impôt",
-    "phonetic0": "ɛ̃po",
-    "phonetic1": "ɛ̃po",
+    "word": "déductible",
+    "phonetic0": "dedyktibl",
+    "phonetic1": "dedyktibl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "税"
+        "pos": "adj.",
+        "cn": "可扣除的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces frais professionnels sont entièrement déductibles de votre revenu imposable.",
+        "cn": "这些职业开支可全部从应纳税所得中扣除。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3741,16 +4591,21 @@
   },
   {
     "id": 171,
-    "word": "fraude",
-    "phonetic0": "fʁod",
-    "phonetic1": "fʁod",
+    "word": "percepteur",
+    "phonetic0": "pɛʁsɛptœʁ",
+    "phonetic1": "pɛʁsɛptœʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "逃税"
+        "pos": "adj.",
+        "cn": "税务员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le percepteur a envoyé un avis de paiement au contribuable.",
+        "cn": "税务员向纳税人寄去了缴款通知。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3763,16 +4618,21 @@
   },
   {
     "id": 172,
-    "word": "déductible",
-    "phonetic0": "dedyktibl",
-    "phonetic1": "dedyktibl",
+    "word": "contribuable",
+    "phonetic0": "kɔ̃tʁibɥabl",
+    "phonetic1": "kɔ̃tʁibɥabl",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "可扣除的"
+        "pos": "n.",
+        "cn": "纳税人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque contribuable doit déclarer ses revenus avant la fin mai.",
+        "cn": "每位纳税人都必须在五月底前申报收入。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3785,16 +4645,21 @@
   },
   {
     "id": 173,
-    "word": "percepteur",
-    "phonetic0": "pɛʁsɛptœʁ",
-    "phonetic1": "pɛʁsɛptœʁ",
+    "word": "affranchir",
+    "phonetic0": "afʁɑ̃ʃiʁ",
+    "phonetic1": "afʁɑ̃ʃiʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "税务员"
+        "pos": "v.",
+        "cn": "免除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette mesure affranchit les petits salariés de la taxe locale.",
+        "cn": "这项措施免除了低收入工薪族的地方税。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3807,16 +4672,21 @@
   },
   {
     "id": 174,
-    "word": "contribuable",
-    "phonetic0": "kɔ̃tʁibɥabl",
-    "phonetic1": "kɔ̃tʁibɥabl",
+    "word": "bien-être",
+    "phonetic0": "bjɛ̃-ɛtʁ",
+    "phonetic1": "bjɛ̃-ɛtʁ",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "纳税人"
+        "pos": "adj.",
+        "cn": "福利"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bien-être social des salariés devient une priorité pour les entreprises.",
+        "cn": "员工的社会福利正成为企业的优先事项。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3829,16 +4699,21 @@
   },
   {
     "id": 175,
-    "word": "affranchir",
-    "phonetic0": "afʁɑ̃ʃiʁ",
-    "phonetic1": "afʁɑ̃ʃiʁ",
+    "word": "travailleur",
+    "phonetic0": "tʁavajœʁ",
+    "phonetic1": "tʁavajœʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "免除"
+        "pos": "adj.",
+        "cn": "工作者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les travailleurs étrangers représentent une part croissante de la main-d'œuvre.",
+        "cn": "外籍劳动者在劳动力中所占比例不断上升。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3851,16 +4726,21 @@
   },
   {
     "id": 176,
-    "word": "bien-être",
-    "phonetic0": "bjɛ̃-ɛtʁ",
-    "phonetic1": "bjɛ̃-ɛtʁ",
+    "word": "volontiers",
+    "phonetic0": "volɔ̃tje",
+    "phonetic1": "volɔ̃tje",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "福利"
+        "pos": "adv.",
+        "cn": "自愿地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les jeunes salariés acceptent volontiers ce nouvel horaire beaucoup plus souple.",
+        "cn": "年轻员工很乐意接受这个灵活得多的新作息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3873,16 +4753,21 @@
   },
   {
     "id": 177,
-    "word": "travailleur",
-    "phonetic0": "tʁavajœʁ",
-    "phonetic1": "tʁavajœʁ",
+    "word": "attendre",
+    "phonetic0": "atɑ̃dʁ",
+    "phonetic1": "atɑ̃dʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "工作者"
+        "pos": "v.",
+        "cn": "等待"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des centaines de chômeurs attendent encore une réponse de l'administration.",
+        "cn": "数百名失业者仍在等待行政部门的答复。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3895,16 +4780,21 @@
   },
   {
     "id": 178,
-    "word": "volontiers",
-    "phonetic0": "volɔ̃tje",
-    "phonetic1": "volɔ̃tje",
+    "word": "acquérir",
+    "phonetic0": "akeʁiʁ",
+    "phonetic1": "akeʁiʁ",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "自愿地"
+        "pos": "v.",
+        "cn": "获得"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ménages modestes ont du mal à acquérir un logement décent.",
+        "cn": "普通家庭很难买到像样的住房。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3917,16 +4807,21 @@
   },
   {
     "id": 179,
-    "word": "attendre",
-    "phonetic0": "atɑ̃dʁ",
-    "phonetic1": "atɑ̃dʁ",
+    "word": "croyance",
+    "phonetic0": "kʁwajɑ̃s",
+    "phonetic1": "kʁwajɑ̃s",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "等待"
+        "pos": "n.f.",
+        "cn": "信仰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La liberté de croyance reste garantie par la constitution de ce pays.",
+        "cn": "这个国家的宪法仍然保障信仰自由。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3939,16 +4834,21 @@
   },
   {
     "id": 180,
-    "word": "acquérir",
-    "phonetic0": "akeʁiʁ",
-    "phonetic1": "akeʁiʁ",
+    "word": "christianisme",
+    "phonetic0": "kʁistjanizm",
+    "phonetic1": "kʁistjanizm",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "获得"
+        "pos": "n.m.",
+        "cn": "基督教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le christianisme a profondément marqué la culture européenne pendant des siècles.",
+        "cn": "基督教几个世纪以来深刻影响了欧洲文化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3961,16 +4861,21 @@
   },
   {
     "id": 181,
-    "word": "croyance",
-    "phonetic0": "kʁwajɑ̃s",
-    "phonetic1": "kʁwajɑ̃s",
+    "word": "catholicisme",
+    "phonetic0": "katolisizm",
+    "phonetic1": "katolisizm",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "信仰"
+        "pos": "n.m.",
+        "cn": "天主教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le catholicisme reste la religion majoritaire dans plusieurs régions d'Europe.",
+        "cn": "天主教在欧洲多个地区仍是主要宗教。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3983,16 +4888,21 @@
   },
   {
     "id": 182,
-    "word": "christianisme",
-    "phonetic0": "kʁistjanizm",
-    "phonetic1": "kʁistjanizm",
+    "word": "judaïsme",
+    "phonetic0": "ʒydaizm",
+    "phonetic1": "ʒydaizm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "基督教"
+        "cn": "犹太教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le judaïsme compte des communautés anciennes dans toute l'Europe centrale.",
+        "cn": "犹太教在中欧各地都有历史悠久的社群。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4005,16 +4915,21 @@
   },
   {
     "id": 183,
-    "word": "catholicisme",
-    "phonetic0": "katolisizm",
-    "phonetic1": "katolisizm",
+    "word": "islamisme",
+    "phonetic0": "islamizm",
+    "phonetic1": "islamizm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "天主教"
+        "cn": "伊斯兰教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La montée de l'islamisme politique inquiète les autorités de plusieurs pays.",
+        "cn": "政治伊斯兰主义的抬头令多国当局担忧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4027,16 +4942,21 @@
   },
   {
     "id": 184,
-    "word": "judaïsme",
-    "phonetic0": "ʒydaizm",
-    "phonetic1": "ʒydaizm",
+    "word": "bouddhisme",
+    "phonetic0": "budizm",
+    "phonetic1": "budizm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "犹太教"
+        "cn": "佛教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bouddhisme attire de plus en plus d'Occidentaux en quête de sens.",
+        "cn": "佛教吸引着越来越多寻求人生意义的西方人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4049,16 +4969,21 @@
   },
   {
     "id": 185,
-    "word": "islamisme",
-    "phonetic0": "islamizm",
-    "phonetic1": "islamizm",
+    "word": "taoïsme",
+    "phonetic0": "taoizm",
+    "phonetic1": "taoizm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "伊斯兰教"
+        "cn": "道教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le taoïsme propose une vision très particulière de l'équilibre humain.",
+        "cn": "道教对人类平衡提出了非常独特的看法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4071,16 +4996,21 @@
   },
   {
     "id": 186,
-    "word": "bouddhisme",
-    "phonetic0": "budizm",
-    "phonetic1": "budizm",
+    "word": "hérésie",
+    "phonetic0": "eʁezi",
+    "phonetic1": "eʁezi",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "佛教"
+        "pos": "n.f.",
+        "cn": "异端"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'Église médiévale condamnait toute opinion contraire comme une véritable hérésie.",
+        "cn": "中世纪的教会把一切相反观点都斥为真正的异端。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4093,16 +5023,21 @@
   },
   {
     "id": 187,
-    "word": "taoïsme",
-    "phonetic0": "taoizm",
-    "phonetic1": "taoizm",
+    "word": "fétichisme",
+    "phonetic0": "fetiʃizm",
+    "phonetic1": "fetiʃizm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "道教"
+        "cn": "拜物教"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les jeunes anthropologues étudient le fétichisme dans plusieurs sociétés traditionnelles.",
+        "cn": "年轻的人类学家研究若干传统社会中的拜物教。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4115,16 +5050,21 @@
   },
   {
     "id": 188,
-    "word": "hérésie",
-    "phonetic0": "eʁezi",
-    "phonetic1": "eʁezi",
+    "word": "rachat",
+    "phonetic0": "ʁaʃa",
+    "phonetic1": "ʁaʃa",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "异端"
+        "pos": "n.m.",
+        "cn": "救赎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le rachat des péchés suppose un véritable repentir du croyant.",
+        "cn": "罪的救赎以信徒真心悔改为前提。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4137,16 +5077,21 @@
   },
   {
     "id": 189,
-    "word": "fétichisme",
-    "phonetic0": "fetiʃizm",
-    "phonetic1": "fetiʃizm",
+    "word": "disciple",
+    "phonetic0": "disipl",
+    "phonetic1": "disipl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "拜物教"
+        "pos": "n.",
+        "cn": "信徒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les disciples du maître ont poursuivi son enseignement après sa mort.",
+        "cn": "大师的信徒在他死后继续传承他的教诲。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4159,16 +5104,21 @@
   },
   {
     "id": 190,
-    "word": "rachat",
-    "phonetic0": "ʁaʃa",
-    "phonetic1": "ʁaʃa",
+    "word": "faute",
+    "phonetic0": "fot",
+    "phonetic1": "fot",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "救赎"
+        "pos": "n.f.",
+        "cn": "罪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prêtre a demandé pardon pour ses fautes devant l'assemblée.",
+        "cn": "神父在众人面前为自己的罪过请求宽恕。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4181,16 +5131,21 @@
   },
   {
     "id": 191,
-    "word": "disciple",
-    "phonetic0": "disipl",
-    "phonetic1": "disipl",
+    "word": "bible",
+    "phonetic0": "bibl",
+    "phonetic1": "bibl",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "信徒"
+        "pos": "n.f.",
+        "cn": "圣经"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La Bible reste le livre le plus traduit dans le monde entier.",
+        "cn": "圣经仍是全世界译本最多的书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4203,16 +5158,21 @@
   },
   {
     "id": 192,
-    "word": "faute",
-    "phonetic0": "fot",
-    "phonetic1": "fot",
+    "word": "ange",
+    "phonetic0": "ɑ̃ʒ",
+    "phonetic1": "ɑ̃ʒ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "罪"
+        "pos": "n.m.",
+        "cn": "天使"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants du chœur portaient des ailes d'ange en carton.",
+        "cn": "唱诗班的孩子们戴着纸板做的天使翅膀。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4225,16 +5185,21 @@
   },
   {
     "id": 193,
-    "word": "bible",
-    "phonetic0": "bibl",
-    "phonetic1": "bibl",
+    "word": "dieu",
+    "phonetic0": "djø",
+    "phonetic1": "djø",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "圣经"
+        "pos": "n.m.",
+        "cn": "上帝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les fidèles prient leur dieu avant chaque repas de la communauté.",
+        "cn": "信徒们在团体每次用餐前向他们的神祈祷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4247,16 +5212,21 @@
   },
   {
     "id": 194,
-    "word": "ange",
-    "phonetic0": "ɑ̃ʒ",
-    "phonetic1": "ɑ̃ʒ",
+    "word": "baptême",
+    "phonetic0": "batɛm",
+    "phonetic1": "batɛm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "天使"
+        "cn": "洗礼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le baptême du petit garçon aura lieu dimanche dans la vieille église.",
+        "cn": "小男孩的洗礼将于周日在老教堂举行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4269,16 +5239,21 @@
   },
   {
     "id": 195,
-    "word": "dieu",
-    "phonetic0": "djø",
-    "phonetic1": "djø",
+    "word": "abolition",
+    "phonetic0": "abolisjɔ̃",
+    "phonetic1": "abolisjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "上帝"
+        "pos": "n.f.",
+        "cn": "废除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'abolition de la peine de mort date de 1981 en France.",
+        "cn": "法国于1981年废除了死刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4291,16 +5266,21 @@
   },
   {
     "id": 196,
-    "word": "baptême",
-    "phonetic0": "batɛm",
-    "phonetic1": "batɛm",
+    "word": "cérémonie",
+    "phonetic0": "seʁemoni",
+    "phonetic1": "seʁemoni",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "洗礼"
+        "pos": "n.f.",
+        "cn": "仪式"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une cérémonie officielle a réuni les familles des victimes dans la cathédrale.",
+        "cn": "一场官方仪式在主教座堂把遇难者家属聚在一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4313,16 +5293,21 @@
   },
   {
     "id": 197,
-    "word": "abolition",
-    "phonetic0": "abolisjɔ̃",
-    "phonetic1": "abolisjɔ̃",
+    "word": "dogme",
+    "phonetic0": "dɔgm",
+    "phonetic1": "dɔgm",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "废除"
+        "pos": "n.m.",
+        "cn": "教义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce dogme religieux a été défini lors d'un concile ancien.",
+        "cn": "这条宗教教义是在一次古代公会议上确定的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4335,16 +5320,21 @@
   },
   {
     "id": 198,
-    "word": "cérémonie",
-    "phonetic0": "seʁemoni",
-    "phonetic1": "seʁemoni",
+    "word": "dévotion",
+    "phonetic0": "devosjɔ̃",
+    "phonetic1": "devosjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "仪式"
+        "cn": "崇拜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les pèlerins expriment leur dévotion par des chants et des prières.",
+        "cn": "朝圣者用歌声和祈祷表达他们的虔诚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4357,16 +5347,21 @@
   },
   {
     "id": 199,
-    "word": "dogme",
-    "phonetic0": "dɔgm",
-    "phonetic1": "dɔgm",
+    "word": "appel",
+    "phonetic0": "apɛl",
+    "phonetic1": "apɛl",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "教义"
+        "cn": "号召"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a lancé un appel au calme après les incidents.",
+        "cn": "事件发生后，政府发出了保持冷静的号召。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4379,16 +5374,21 @@
   },
   {
     "id": 200,
-    "word": "dévotion",
-    "phonetic0": "devosjɔ̃",
-    "phonetic1": "devosjɔ̃",
+    "word": "recruter",
+    "phonetic0": "ʁəkʁyte",
+    "phonetic1": "ʁəkʁyte",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "崇拜"
+        "pos": "v.",
+        "cn": "征募"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'armée cherche à recruter des jeunes dans les zones rurales.",
+        "cn": "军队正设法在乡村地区招募年轻人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4401,16 +5401,21 @@
   },
   {
     "id": 201,
-    "word": "appel",
-    "phonetic0": "apɛl",
-    "phonetic1": "apɛl",
+    "word": "évangéliste",
+    "phonetic0": "evɑ̃ʒelist",
+    "phonetic1": "evɑ̃ʒelist",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "号召"
+        "cn": "传福音"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet évangéliste parcourt les villages pour convertir de nouveaux fidèles.",
+        "cn": "这位传福音者走遍村庄，劝人皈依。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4423,16 +5428,21 @@
   },
   {
     "id": 202,
-    "word": "recruter",
-    "phonetic0": "ʁəkʁyte",
-    "phonetic1": "ʁəkʁyte",
+    "word": "canon",
+    "phonetic0": "kanɔ̃",
+    "phonetic1": "kanɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "征募"
+        "pos": "adj.",
+        "cn": "教规"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le droit canon régit encore certaines questions matrimoniales dans l'Église.",
+        "cn": "教会法仍规范教会内的某些婚姻问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4445,16 +5455,21 @@
   },
   {
     "id": 203,
-    "word": "évangéliste",
-    "phonetic0": "evɑ̃ʒelist",
-    "phonetic1": "evɑ̃ʒelist",
+    "word": "punissable",
+    "phonetic0": "pynisabl",
+    "phonetic1": "pynisabl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "传福音"
+        "pos": "adj.",
+        "cn": "该罚的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce délit grave est punissable de trois ans d'emprisonnement ferme.",
+        "cn": "这项严重罪行可判处三年实刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4467,16 +5482,21 @@
   },
   {
     "id": 204,
-    "word": "canon",
-    "phonetic0": "kanɔ̃",
-    "phonetic1": "kanɔ̃",
+    "word": "sculpteur",
+    "phonetic0": "skyltœʁ",
+    "phonetic1": "skyltœʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "教规"
+        "pos": "n.m.",
+        "cn": "雕刻师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sculpteur travaille le marbre depuis plus de trente ans.",
+        "cn": "这位雕刻师雕琢大理石已三十多年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4489,16 +5509,21 @@
   },
   {
     "id": 205,
-    "word": "punissable",
-    "phonetic0": "pynisabl",
-    "phonetic1": "pynisabl",
+    "word": "sculpter",
+    "phonetic0": "skylte",
+    "phonetic1": "skylte",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "该罚的"
+        "pos": "v.",
+        "cn": "雕刻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'artiste a sculpté une statue de bronze pour la place centrale.",
+        "cn": "艺术家为中央广场雕刻了一座铜像。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4511,16 +5536,21 @@
   },
   {
     "id": 206,
-    "word": "sculpteur",
-    "phonetic0": "skyltœʁ",
-    "phonetic1": "skyltœʁ",
+    "word": "effigie",
+    "phonetic0": "efiʒi",
+    "phonetic1": "efiʒi",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "雕刻师"
+        "pos": "n.f.",
+        "cn": "人像"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les manifestants ont brûlé une effigie du président devant le Parlement.",
+        "cn": "示威者在议会前焚烧了总统的人像。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4533,16 +5563,21 @@
   },
   {
     "id": 207,
-    "word": "sculpter",
-    "phonetic0": "skylte",
-    "phonetic1": "skylte",
+    "word": "cariatide",
+    "phonetic0": "kaʁjatid",
+    "phonetic1": "kaʁjatid",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "雕刻"
+        "pos": "n.f.",
+        "cn": "女像柱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une cariatide soutient le balcon de ce vieil immeuble parisien.",
+        "cn": "一尊女像柱支撑着这座巴黎老楼阳台。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4555,16 +5590,21 @@
   },
   {
     "id": 208,
-    "word": "effigie",
-    "phonetic0": "efiʒi",
-    "phonetic1": "efiʒi",
+    "word": "ciselait",
+    "phonetic0": "sizəlɛ",
+    "phonetic1": "sizəlɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "人像"
+        "pos": "v.",
+        "cn": "浮雕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'orfèvre ciselait patiemment les motifs délicats de la coupe d'argent.",
+        "cn": "金银匠耐心地镂刻银杯上精致的花纹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4577,16 +5617,21 @@
   },
   {
     "id": 209,
-    "word": "cariatide",
-    "phonetic0": "kaʁjatid",
-    "phonetic1": "kaʁjatid",
+    "word": "moule",
+    "phonetic0": "mul",
+    "phonetic1": "mul",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "女像柱"
+        "pos": "n.",
+        "cn": "模子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fondeur verse le métal chaud dans un moule en sable.",
+        "cn": "铸造工把炽热的金属倒进砂模。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4599,16 +5644,21 @@
   },
   {
     "id": 210,
-    "word": "ciselait",
-    "phonetic0": "sizəlɛ",
-    "phonetic1": "sizəlɛ",
+    "word": "modèle",
+    "phonetic0": "modɛl",
+    "phonetic1": "modɛl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "浮雕"
+        "pos": "adj.",
+        "cn": "模型"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce modèle réduit reproduit fidèlement la cathédrale de Strasbourg en bois.",
+        "cn": "这个木质模型逼真地再现了斯特拉斯堡主教座堂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4621,16 +5671,21 @@
   },
   {
     "id": 211,
-    "word": "moule",
-    "phonetic0": "mul",
-    "phonetic1": "mul",
+    "word": "graver",
+    "phonetic0": "gʁave",
+    "phonetic1": "gʁave",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "模子"
+        "pos": "v.",
+        "cn": "雕刻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'artisan a gravé le nom du défunt sur la pierre tombale.",
+        "cn": "工匠把逝者的名字刻在墓碑上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4643,16 +5698,21 @@
   },
   {
     "id": 212,
-    "word": "modèle",
-    "phonetic0": "modɛl",
-    "phonetic1": "modɛl",
+    "word": "ciseler",
+    "phonetic0": "sizəle",
+    "phonetic1": "sizəle",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "模型"
+        "pos": "v.",
+        "cn": "雕刻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut ciseler le métal avec beaucoup de patience et de précision.",
+        "cn": "加工这块金属需要极大的耐心和精确。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4665,16 +5725,21 @@
   },
   {
     "id": 213,
-    "word": "graver",
-    "phonetic0": "gʁave",
-    "phonetic1": "gʁave",
+    "word": "gravure",
+    "phonetic0": "gʁavyʁ",
+    "phonetic1": "gʁavyʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "雕刻"
+        "pos": "n.f.",
+        "cn": "雕刻术"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La gravure sur bois demande un apprentissage long et exigeant.",
+        "cn": "木刻需要长期而严格的训练。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4687,16 +5752,21 @@
   },
   {
     "id": 214,
-    "word": "ciseler",
-    "phonetic0": "sizəle",
-    "phonetic1": "sizəle",
+    "word": "découpage",
+    "phonetic0": "dekupaʒ",
+    "phonetic1": "dekupaʒ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "雕刻"
+        "pos": "n.m.",
+        "cn": "切开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le découpage du métal se fait à l'aide d'une machine laser.",
+        "cn": "金属切割是用激光机完成的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4709,16 +5779,21 @@
   },
   {
     "id": 215,
-    "word": "gravure",
-    "phonetic0": "gʁavyʁ",
-    "phonetic1": "gʁavyʁ",
+    "word": "statue",
+    "phonetic0": "staty",
+    "phonetic1": "staty",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "雕刻术"
+        "cn": "雕塑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une statue de bronze rend hommage au fondateur de la ville.",
+        "cn": "一座铜像纪念这座城市的创建者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4731,16 +5806,21 @@
   },
   {
     "id": 216,
-    "word": "découpage",
-    "phonetic0": "dekupaʒ",
-    "phonetic1": "dekupaʒ",
+    "word": "appareiller",
+    "phonetic0": "apaʁeje",
+    "phonetic1": "apaʁeje",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "切开"
+        "pos": "v.",
+        "cn": "凿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ouvriers doivent appareiller ces blocs avant de les poser.",
+        "cn": "工人必须先把这些石块凿修好再砌上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4753,16 +5833,21 @@
   },
   {
     "id": 217,
-    "word": "statue",
-    "phonetic0": "staty",
-    "phonetic1": "staty",
+    "word": "schlass",
+    "phonetic0": "ʃlas",
+    "phonetic1": "ʃlas",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "雕塑"
+        "pos": "adj.",
+        "cn": "刀子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après trois verres de vin, il était complètement schlass au mariage.",
+        "cn": "喝了三杯酒，他在婚礼上已经醉得不成样子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4775,16 +5860,21 @@
   },
   {
     "id": 218,
-    "word": "appareiller",
-    "phonetic0": "apaʁeje",
-    "phonetic1": "apaʁeje",
+    "word": "compact",
+    "phonetic0": "kɔ̃pakt",
+    "phonetic1": "kɔ̃pakt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "凿"
+        "pos": "adj.",
+        "cn": "密集的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce centre-ville compact se parcourt facilement à pied en une heure.",
+        "cn": "这个紧凑的市中心一小时就能步行逛完。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4797,16 +5887,21 @@
   },
   {
     "id": 219,
-    "word": "schlass",
-    "phonetic0": "ʃlas",
-    "phonetic1": "ʃlas",
+    "word": "constructeur",
+    "phonetic0": "kɔ̃stʁyktœʁ",
+    "phonetic1": "kɔ̃stʁyktœʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "刀子"
+        "cn": "建筑师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le constructeur du pont promet une livraison avant la fin d'année.",
+        "cn": "桥梁承建方承诺年底前交付。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4819,16 +5914,21 @@
   },
   {
     "id": 220,
-    "word": "compact",
-    "phonetic0": "kɔ̃pakt",
-    "phonetic1": "kɔ̃pakt",
+    "word": "rotondes",
+    "phonetic0": "ʁotɔ̃d",
+    "phonetic1": "ʁotɔ̃d",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "密集的"
+        "pos": "n.f.",
+        "cn": "形建筑物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Deux grandes rotondes encadrent l'entrée du nouveau quartier administratif de la ville.",
+        "cn": "两座大型圆形建筑夹着城市新行政区的入口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4841,16 +5941,21 @@
   },
   {
     "id": 221,
-    "word": "constructeur",
-    "phonetic0": "kɔ̃stʁyktœʁ",
-    "phonetic1": "kɔ̃stʁyktœʁ",
+    "word": "grandiose",
+    "phonetic0": "gʁɑ̃djoz",
+    "phonetic1": "gʁɑ̃djoz",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "建筑师"
+        "cn": "雄伟的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La façade grandiose de la cathédrale impressionne tous les visiteurs.",
+        "cn": "主教座堂雄伟的正面令所有参观者震撼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4863,16 +5968,21 @@
   },
   {
     "id": 222,
-    "word": "rotondes",
-    "phonetic0": "ʁotɔ̃d",
-    "phonetic1": "ʁotɔ̃d",
+    "word": "dôme",
+    "phonetic0": "dom",
+    "phonetic1": "dom",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "形建筑物"
+        "pos": "n.m.",
+        "cn": "屋顶"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le dôme de la cathédrale domine toute la vieille ville.",
+        "cn": "主教座堂的穹顶俯瞰着整个老城。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4885,16 +5995,21 @@
   },
   {
     "id": 223,
-    "word": "grandiose",
-    "phonetic0": "gʁɑ̃djoz",
-    "phonetic1": "gʁɑ̃djoz",
+    "word": "ouverture",
+    "phonetic0": "uvɛʁtyʁ",
+    "phonetic1": "uvɛʁtyʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "雄伟的"
+        "pos": "n.f.",
+        "cn": "孔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une étroite ouverture dans le mur laissait passer un peu de lumière.",
+        "cn": "墙上一道窄孔透进一点光。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4907,16 +6022,21 @@
   },
   {
     "id": 224,
-    "word": "dôme",
-    "phonetic0": "dom",
-    "phonetic1": "dom",
+    "word": "triangulaire",
+    "phonetic0": "tʁijɑ̃gylɛʁ",
+    "phonetic1": "tʁijɑ̃gylɛʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "屋顶"
+        "pos": "adj.",
+        "cn": "三角形的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La petite fenêtre triangulaire éclaire faiblement l'escalier du vieux donjon.",
+        "cn": "那扇三角形小窗微弱地照亮老主塔的楼梯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4929,16 +6049,21 @@
   },
   {
     "id": 225,
-    "word": "ouverture",
-    "phonetic0": "uvɛʁtyʁ",
-    "phonetic1": "uvɛʁtyʁ",
+    "word": "marionnette",
+    "phonetic0": "maʁjonɛt",
+    "phonetic1": "maʁjonɛt",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "孔"
+        "cn": "木偶"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants applaudissent la marionnette qui danse sur la scène.",
+        "cn": "孩子们为在台上跳舞的木偶鼓掌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4951,16 +6076,21 @@
   },
   {
     "id": 226,
-    "word": "triangulaire",
-    "phonetic0": "tʁijɑ̃gylɛʁ",
-    "phonetic1": "tʁijɑ̃gylɛʁ",
+    "word": "pantomime",
+    "phonetic0": "pɑ̃tomim",
+    "phonetic1": "pɑ̃tomim",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "三角形的"
+        "pos": "n.f.",
+        "cn": "哑剧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La troupe présente une pantomime muette devant un public enchanté.",
+        "cn": "剧团在一群着迷的观众面前表演哑剧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4973,16 +6103,21 @@
   },
   {
     "id": 227,
-    "word": "marionnette",
-    "phonetic0": "maʁjonɛt",
-    "phonetic1": "maʁjonɛt",
+    "word": "incarner",
+    "phonetic0": "ɛ̃kaʁne",
+    "phonetic1": "ɛ̃kaʁne",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "木偶"
+        "pos": "v.",
+        "cn": "扮演"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce jeune acteur incarne un juge intègre dans cette série policière.",
+        "cn": "这位年轻演员在这部警匪剧里扮演一位正直的法官。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4995,16 +6130,21 @@
   },
   {
     "id": 228,
-    "word": "pantomime",
-    "phonetic0": "pɑ̃tomim",
-    "phonetic1": "pɑ̃tomim",
+    "word": "prologue",
+    "phonetic0": "pʁolɔg",
+    "phonetic1": "pʁolɔg",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "哑剧"
+        "pos": "n.m.",
+        "cn": "序幕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le long prologue de la pièce présente les personnages principaux.",
+        "cn": "这部戏冗长的序幕介绍了主要人物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5017,16 +6157,21 @@
   },
   {
     "id": 229,
-    "word": "incarner",
-    "phonetic0": "ɛ̃kaʁne",
-    "phonetic1": "ɛ̃kaʁne",
+    "word": "unique",
+    "phonetic0": "ynik",
+    "phonetic1": "ynik",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "扮演"
+        "pos": "adj.",
+        "cn": "独有的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque région de ce pays possède une identité culturelle unique et précieuse.",
+        "cn": "这个国家的每个地区都有独特而珍贵的文化身份。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5039,16 +6184,21 @@
   },
   {
     "id": 230,
-    "word": "prologue",
-    "phonetic0": "pʁolɔg",
-    "phonetic1": "pʁolɔg",
+    "word": "promener",
+    "phonetic0": "pʁɔmne",
+    "phonetic1": "pʁɔmne",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "序幕"
+        "pos": "v.",
+        "cn": "散步.数量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous aimons promener le chien le long de la rivière.",
+        "cn": "我们喜欢沿着河边遛狗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5061,16 +6211,21 @@
   },
   {
     "id": 231,
-    "word": "forma-radio",
-    "phonetic0": "fɔʁma-ʁadjo",
-    "phonetic1": "fɔʁma-ʁadjo",
+    "word": "nouvelles",
+    "phonetic0": "nuvɛl",
+    "phonetic1": "nuvɛl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "收音机"
+        "pos": "n.f.",
+        "cn": "消息"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les nouvelles du front arrivent avec plusieurs jours de retard.",
+        "cn": "前线的消息要晚好几天才传到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5083,16 +6238,21 @@
   },
   {
     "id": 232,
-    "word": "unique",
-    "phonetic0": "ynik",
-    "phonetic1": "ynik",
+    "word": "radio",
+    "phonetic0": "ʁadjo",
+    "phonetic1": "ʁadjo",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "独有的"
+        "pos": "n.",
+        "cn": "收音机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il écoute la radio tous les matins en prenant son café.",
+        "cn": "他每天早上一边喝咖啡一边听收音机。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5105,16 +6265,21 @@
   },
   {
     "id": 233,
-    "word": "promener",
-    "phonetic0": "pʁɔmne",
-    "phonetic1": "pʁɔmne",
+    "word": "porte-parole",
+    "phonetic0": "pɔʁt-paʁɔl",
+    "phonetic1": "pɔʁt-paʁɔl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "散步.数量"
+        "pos": "n.m.",
+        "cn": "发言人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le porte-parole du gouvernement a confirmé la nouvelle.",
+        "cn": "政府发言人证实了这一消息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5127,16 +6292,21 @@
   },
   {
     "id": 234,
-    "word": "nouvelles",
-    "phonetic0": "nuvɛl",
-    "phonetic1": "nuvɛl",
+    "word": "grève",
+    "phonetic0": "gʁɛv",
+    "phonetic1": "gʁɛv",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "消息"
+        "cn": "罢工"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les conducteurs de train ont entamé une grève de trois jours.",
+        "cn": "火车司机开始了为期三天的罢工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5149,16 +6319,21 @@
   },
   {
     "id": 235,
-    "word": "radio",
-    "phonetic0": "ʁadjo",
-    "phonetic1": "ʁadjo",
+    "word": "défécation",
+    "phonetic0": "defekasjɔ̃",
+    "phonetic1": "defekasjɔ̃",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "收音机"
+        "pos": "n.f.",
+        "cn": "澄清"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les autorités sanitaires rappellent les règles d'hygiène liées à la défécation en plein air.",
+        "cn": "卫生部门重申了露天排便相关的卫生规定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5171,16 +6346,21 @@
   },
   {
     "id": 236,
-    "word": "porte-parole",
-    "phonetic0": "pɔʁt-paʁɔl",
-    "phonetic1": "pɔʁt-paʁɔl",
+    "word": "rumeur",
+    "phonetic0": "ʁymœʁ",
+    "phonetic1": "ʁymœʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "代言人"
+        "cn": "谣言"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une rumeur de démission du ministre circule depuis hier soir.",
+        "cn": "从昨晚起就流传着部长辞职的谣言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5193,16 +6373,21 @@
   },
   {
     "id": 237,
-    "word": "grève",
-    "phonetic0": "gʁɛv",
-    "phonetic1": "gʁɛv",
+    "word": "embrouille",
+    "phonetic0": "ɑ̃bʁuj",
+    "phonetic1": "ɑ̃bʁuj",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "罢工"
+        "cn": "扰乱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette embrouille administrative a longtemps retardé le versement des aides sociales.",
+        "cn": "这场行政纠纷长期拖延了社会补助的发放。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5215,16 +6400,21 @@
   },
   {
     "id": 238,
-    "word": "défécation",
-    "phonetic0": "defekasjɔ̃",
-    "phonetic1": "defekasjɔ̃",
+    "word": "absurde",
+    "phonetic0": "apsyʁd",
+    "phonetic1": "apsyʁd",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "澄清"
+        "pos": "adj.",
+        "cn": "荒谬的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est absurde de croire que cette loi protège vraiment les citoyens.",
+        "cn": "认为这条法律真正保护公民是荒谬的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5237,16 +6427,21 @@
   },
   {
     "id": 239,
-    "word": "rumeur",
-    "phonetic0": "ʁymœʁ",
-    "phonetic1": "ʁymœʁ",
+    "word": "convoquer",
+    "phonetic0": "kɔ̃voke",
+    "phonetic1": "kɔ̃voke",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "谣言"
+        "pos": "v.",
+        "cn": "召开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a convoqué une réunion d'urgence avec les syndicats.",
+        "cn": "政府与工会紧急召开了一次会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5259,16 +6454,21 @@
   },
   {
     "id": 240,
-    "word": "embrouille",
-    "phonetic0": "ɑ̃bʁuj",
-    "phonetic1": "ɑ̃bʁuj",
+    "word": "media",
+    "phonetic0": "medja",
+    "phonetic1": "medja",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "扰乱"
+        "cn": "媒体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les médias ont publié des informations contradictoires sur cette affaire.",
+        "cn": "媒体对这起案件发布了相互矛盾的消息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5281,16 +6481,21 @@
   },
   {
     "id": 241,
-    "word": "absurde",
-    "phonetic0": "apsyʁd",
-    "phonetic1": "apsyʁd",
+    "word": "dernière",
+    "phonetic0": "dɛʁnjɛʁ",
+    "phonetic1": "dɛʁnjɛʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "荒谬的"
+        "cn": "最新的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La dernière réforme du code du travail a provoqué de vives protestations.",
+        "cn": "最新的劳动法典改革引发了强烈的抗议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5303,16 +6508,21 @@
   },
   {
     "id": 242,
-    "word": "convoquer",
-    "phonetic0": "kɔ̃voke",
-    "phonetic1": "kɔ̃voke",
+    "word": "formuler",
+    "phonetic0": "fɔʁmyle",
+    "phonetic1": "fɔʁmyle",
     "trans": [
       {
         "pos": "v.",
-        "cn": "召开"
+        "cn": "制定"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les députés ont formulé plusieurs propositions pour réformer la justice.",
+        "cn": "议员们提出了多项司法改革建议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5325,16 +6535,21 @@
   },
   {
     "id": 243,
-    "word": "media",
-    "phonetic0": "medja",
-    "phonetic1": "medja",
+    "word": "ordonnance",
+    "phonetic0": "ɔʁdonɑ̃s",
+    "phonetic1": "ɔʁdonɑ̃s",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "媒体"
+        "pos": "n.",
+        "cn": "法令"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette ordonnance permet au préfet de fermer les lieux publics dangereux.",
+        "cn": "这项法令允许省长关闭危险的公共场所。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5347,16 +6562,21 @@
   },
   {
     "id": 244,
-    "word": "dernière",
-    "phonetic0": "dɛʁnjɛʁ",
-    "phonetic1": "dɛʁnjɛʁ",
+    "word": "législation",
+    "phonetic0": "leʒislasjɔ̃",
+    "phonetic1": "leʒislasjɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "最新的"
+        "pos": "n.f.",
+        "cn": "立法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nouvelle législation oblige les entreprises à publier leurs comptes.",
+        "cn": "新立法强制企业公开其账目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5369,16 +6589,21 @@
   },
   {
     "id": 245,
-    "word": "formuler",
-    "phonetic0": "fɔʁmyle",
-    "phonetic1": "fɔʁmyle",
+    "word": "criminel",
+    "phonetic0": "kʁiminɛl",
+    "phonetic1": "kʁiminɛl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "制定"
+        "pos": "adj.",
+        "cn": "刑事的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tribunal criminel examine les affaires les plus graves du pays.",
+        "cn": "刑事法院审理全国最严重的案件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5391,16 +6616,21 @@
   },
   {
     "id": 246,
-    "word": "ordonnance",
-    "phonetic0": "ɔʁdonɑ̃s",
-    "phonetic1": "ɔʁdonɑ̃s",
+    "word": "civil",
+    "phonetic0": "sivil",
+    "phonetic1": "sivil",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "法令"
+        "pos": "adj.",
+        "cn": "民法的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le code civil fixe les règles du mariage et de l'héritage.",
+        "cn": "民法典规定了婚姻与继承的规则。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5413,16 +6643,21 @@
   },
   {
     "id": 247,
-    "word": "législation",
-    "phonetic0": "leʒislasjɔ̃",
-    "phonetic1": "leʒislasjɔ̃",
+    "word": "législature",
+    "phonetic0": "leʒislatyʁ",
+    "phonetic1": "leʒislatyʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "立法"
+        "cn": "立法机关"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette législature a voté peu de lois malgré de longues discussions.",
+        "cn": "本届立法机关虽经长时间讨论，却只通过了很少的法律。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5435,16 +6670,21 @@
   },
   {
     "id": 248,
-    "word": "criminel",
-    "phonetic0": "kʁiminɛl",
-    "phonetic1": "kʁiminɛl",
+    "word": "obéir",
+    "phonetic0": "obeiʁ",
+    "phonetic1": "obeiʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "刑事的"
+        "pos": "v.",
+        "cn": "顺从"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les fonctionnaires doivent obéir aux ordres de leur supérieur hiérarchique.",
+        "cn": "公务员必须服从上级的命令。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5457,16 +6697,21 @@
   },
   {
     "id": 249,
-    "word": "civil",
-    "phonetic0": "sivil",
-    "phonetic1": "sivil",
+    "word": "fiscalité",
+    "phonetic0": "fiskalite",
+    "phonetic1": "fiskalite",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "民法的"
+        "pos": "n.f.",
+        "cn": "税法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fiscalité locale finance une grande partie des services publics.",
+        "cn": "地方税收为大部分公共服务提供资金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5479,16 +6724,21 @@
   },
   {
     "id": 250,
-    "word": "législature",
-    "phonetic0": "leʒislatyʁ",
-    "phonetic1": "leʒislatyʁ",
+    "word": "code",
+    "phonetic0": "kɔd",
+    "phonetic1": "kɔd",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "立法机关"
+        "pos": "n.m.",
+        "cn": "法典"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le code pénal prévoit des peines sévères pour ce type de fraude.",
+        "cn": "刑法典对这类欺诈规定了严厉的刑罚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5501,16 +6751,21 @@
   },
   {
     "id": 251,
-    "word": "obéir",
-    "phonetic0": "obeiʁ",
-    "phonetic1": "obeiʁ",
+    "word": "commettre",
+    "phonetic0": "komɛtʁ",
+    "phonetic1": "komɛtʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "顺从"
+        "cn": "犯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il refuse de commettre une erreur grave en signant ce contrat sans le lire.",
+        "cn": "他拒绝在没看合同的情况下签字，以免犯下大错。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5523,16 +6778,21 @@
   },
   {
     "id": 252,
-    "word": "fiscalité",
-    "phonetic0": "fiskalite",
-    "phonetic1": "fiskalite",
+    "word": "crime",
+    "phonetic0": "kʁim",
+    "phonetic1": "kʁim",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "税法"
+        "pos": "n.m.",
+        "cn": "罪行"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police enquête sur un crime commis près de la gare centrale.",
+        "cn": "警方正在调查一起发生在中央车站附近的罪行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5545,16 +6805,21 @@
   },
   {
     "id": 253,
-    "word": "code",
-    "phonetic0": "kɔd",
-    "phonetic1": "kɔd",
+    "word": "pécher",
+    "phonetic0": "peʃe",
+    "phonetic1": "peʃe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "法典"
+        "pos": "v.",
+        "cn": "犯罪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans ce roman, le héros pense avoir péché en trahissant son ami.",
+        "cn": "在这部小说里，主人公认为自己背叛朋友是有罪的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5567,16 +6832,21 @@
   },
   {
     "id": 254,
-    "word": "commettre",
-    "phonetic0": "komɛtʁ",
-    "phonetic1": "komɛtʁ",
+    "word": "délibérément",
+    "phonetic0": "delibeʁemɑ̃",
+    "phonetic1": "delibeʁemɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "犯"
+        "pos": "adv.",
+        "cn": "蓄意地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le témoin affirme que l'accusé a délibérément caché la vérité.",
+        "cn": "证人断言被告蓄意隐瞒了真相。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5589,16 +6859,21 @@
   },
   {
     "id": 255,
-    "word": "crime",
-    "phonetic0": "kʁim",
-    "phonetic1": "kʁim",
+    "word": "voulu",
+    "phonetic0": "vuly",
+    "phonetic1": "vuly",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "罪行"
+        "pos": "adj.",
+        "cn": "故意的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a conclu à un incendie voulu, et non à un accident.",
+        "cn": "法官认定这是一起故意纵火，而非意外事故。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5611,16 +6886,21 @@
   },
   {
     "id": 256,
-    "word": "pécher",
-    "phonetic0": "peʃe",
-    "phonetic1": "peʃe",
+    "word": "intention",
+    "phonetic0": "ɛ̃tɑ̃sjɔ̃",
+    "phonetic1": "ɛ̃tɑ̃sjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "犯罪"
+        "pos": "n.f.",
+        "cn": "意图"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le procureur doit prouver l'intention de nuire devant la cour.",
+        "cn": "检察官必须向法庭证明其恶意意图。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5633,16 +6913,21 @@
   },
   {
     "id": 257,
-    "word": "délibérément",
-    "phonetic0": "delibeʁemɑ̃",
-    "phonetic1": "delibeʁemɑ̃",
+    "word": "motif",
+    "phonetic0": "motif",
+    "phonetic1": "motif",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "蓄意地"
+        "pos": "n.m.",
+        "cn": "动机犯罪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enquêteurs cherchent le motif exact de ce crime violent.",
+        "cn": "调查人员正在寻找这起暴力罪行的确切动机。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5655,16 +6940,21 @@
   },
   {
     "id": 258,
-    "word": "voulu",
-    "phonetic0": "vuly",
-    "phonetic1": "vuly",
+    "word": "voler",
+    "phonetic0": "vole",
+    "phonetic1": "vole",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "故意的"
+        "pos": "v.",
+        "cn": "抢劫把手伸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Deux hommes ont volé le sac d'une femme devant la banque.",
+        "cn": "两名男子在银行门前抢劫了一位女士的包。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5677,16 +6967,21 @@
   },
   {
     "id": 259,
-    "word": "intention",
-    "phonetic0": "ɛ̃tɑ̃sjɔ̃",
-    "phonetic1": "ɛ̃tɑ̃sjɔ̃",
+    "word": "dérober",
+    "phonetic0": "deʁobe",
+    "phonetic1": "deʁobe",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "意图"
+        "pos": "v.",
+        "cn": "偷窃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le voleur a réussi à dérober un tableau très célèbre.",
+        "cn": "窃贼成功偷走了一幅非常著名的画作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5699,16 +6994,21 @@
   },
   {
     "id": 260,
-    "word": "motif",
-    "phonetic0": "motif",
-    "phonetic1": "motif",
+    "word": "corruption",
+    "phonetic0": "koʁypsjɔ̃",
+    "phonetic1": "koʁypsjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "动机犯罪"
+        "pos": "n.f.",
+        "cn": "腐败家陆续成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Plusieurs élus sont soupçonnés de corruption dans cette affaire de marchés publics.",
+        "cn": "在这起公共采购案中，多名民选官员涉嫌腐败。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5721,16 +7021,21 @@
   },
   {
     "id": 261,
-    "word": "voler",
-    "phonetic0": "vole",
-    "phonetic1": "vole",
+    "word": "exaction",
+    "phonetic0": "ɛgzaksjɔ̃",
+    "phonetic1": "ɛgzaksjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "抢劫把手伸"
+        "pos": "n.f.",
+        "cn": "敲诈"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le rapport dénonce les exactions commises par certains policiers locaux.",
+        "cn": "报告揭露了部分地方警察的敲诈行为。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5743,16 +7048,21 @@
   },
   {
     "id": 262,
-    "word": "dérober",
-    "phonetic0": "deʁobe",
-    "phonetic1": "deʁobe",
+    "word": "incendiaire",
+    "phonetic0": "ɛ̃sɑ̃djɛʁ",
+    "phonetic1": "ɛ̃sɑ̃djɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "偷窃"
+        "pos": "adj.",
+        "cn": "纵火犯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police recherche l'auteur de l'attaque incendiaire contre ce marché.",
+        "cn": "警方正在追查对这处市场实施纵火袭击的作案者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5765,16 +7075,21 @@
   },
   {
     "id": 263,
-    "word": "corruption",
-    "phonetic0": "koʁypsjɔ̃",
-    "phonetic1": "koʁypsjɔ̃",
+    "word": "tueur",
+    "phonetic0": "tɥœʁ",
+    "phonetic1": "tɥœʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "腐败家陆续成"
+        "pos": "n.m.",
+        "cn": "杀手"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tueur présumé a été arrêté hier soir à la frontière.",
+        "cn": "这名凶杀嫌疑人昨晚在边境被捕。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5787,16 +7102,21 @@
   },
   {
     "id": 264,
-    "word": "exaction",
-    "phonetic0": "ɛgzaksjɔ̃",
-    "phonetic1": "ɛgzaksjɔ̃",
+    "word": "bombardement",
+    "phonetic0": "bɔ̃baʁdəmɑ̃",
+    "phonetic1": "bɔ̃baʁdəmɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "敲诈"
+        "pos": "n.m.",
+        "cn": "用炸弹袭击"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les habitants ont fui la ville après un violent bombardement.",
+        "cn": "居民们在一次猛烈轰炸后逃离了这座城市。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5809,16 +7129,21 @@
   },
   {
     "id": 265,
-    "word": "incendiaire",
-    "phonetic0": "ɛ̃sɑ̃djɛʁ",
-    "phonetic1": "ɛ̃sɑ̃djɛʁ",
+    "word": "parjure",
+    "phonetic0": "paʁʒyʁ",
+    "phonetic1": "paʁʒyʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "纵火犯"
+        "pos": "n.m.",
+        "cn": "伪证罪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le témoin risque une peine pour parjure s'il ment devant le tribunal.",
+        "cn": "证人若在法庭上撒谎，将面临伪证罪的刑罚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5831,16 +7156,21 @@
   },
   {
     "id": 266,
-    "word": "tueur",
-    "phonetic0": "tɥœʁ",
-    "phonetic1": "tɥœʁ",
+    "word": "désertion",
+    "phonetic0": "dezɛʁsjɔ̃",
+    "phonetic1": "dezɛʁsjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "杀手"
+        "pos": "n.f.",
+        "cn": "背叛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soldat a été condamné pour désertion après trois semaines d'absence.",
+        "cn": "这名士兵因擅离部队三周而被判背叛罪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5853,16 +7183,21 @@
   },
   {
     "id": 267,
-    "word": "bombardement",
-    "phonetic0": "bɔ̃baʁdəmɑ̃",
-    "phonetic1": "bɔ̃baʁdəmɑ̃",
+    "word": "kidnapper",
+    "phonetic0": "kidnape",
+    "phonetic1": "kidnape",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "用炸弹袭击"
+        "pos": "v.",
+        "cn": "绑架"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des inconnus ont tenté de kidnapper le fils d'un homme d'affaires.",
+        "cn": "几名陌生人企图绑架一位企业家的儿子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5875,16 +7210,21 @@
   },
   {
     "id": 268,
-    "word": "parjure",
-    "phonetic0": "paʁʒyʁ",
-    "phonetic1": "paʁʒyʁ",
+    "word": "prison",
+    "phonetic0": "pʁizɔ̃",
+    "phonetic1": "pʁizɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "伪证罪"
+        "pos": "n.f.",
+        "cn": "监狱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il risque cinq ans de prison pour avoir frappé un policier.",
+        "cn": "他因殴打警察可能面临五年监禁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5897,16 +7237,21 @@
   },
   {
     "id": 269,
-    "word": "désertion",
-    "phonetic0": "dezɛʁsjɔ̃",
-    "phonetic1": "dezɛʁsjɔ̃",
+    "word": "cachot",
+    "phonetic0": "kaʃo",
+    "phonetic1": "kaʃo",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "背叛"
+        "pos": "n.m.",
+        "cn": "监狱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prisonnier politique est resté longtemps dans un cachot humide.",
+        "cn": "这名政治犯在潮湿的牢房里被关了很久。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5919,16 +7264,21 @@
   },
   {
     "id": 270,
-    "word": "kidnapper",
-    "phonetic0": "kidnape",
-    "phonetic1": "kidnape",
+    "word": "condamne",
+    "phonetic0": "kɔ̃dan",
+    "phonetic1": "kɔ̃dan",
     "trans": [
       {
         "pos": "v.",
-        "cn": "绑架"
+        "cn": "犯人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tribunal condamne le conducteur à deux ans de prison ferme.",
+        "cn": "法院判处这名司机两年实刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5941,16 +7291,21 @@
   },
   {
     "id": 271,
-    "word": "prison",
-    "phonetic0": "pʁizɔ̃",
-    "phonetic1": "pʁizɔ̃",
+    "word": "fusiller",
+    "phonetic0": "fyzije",
+    "phonetic1": "fyzije",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "监狱"
+        "pos": "v.",
+        "cn": "枪决"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le résistant a été fusillé par l'armée ennemie en 1944.",
+        "cn": "这名抵抗者于1944年被敌军枪决。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5963,16 +7318,21 @@
   },
   {
     "id": 272,
-    "word": "cachot",
-    "phonetic0": "kaʃo",
-    "phonetic1": "kaʃo",
+    "word": "libérer",
+    "phonetic0": "libeʁe",
+    "phonetic1": "libeʁe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "监狱"
+        "pos": "v.",
+        "cn": "释放"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a décidé de libérer le suspect faute de preuves.",
+        "cn": "由于证据不足，法官决定释放这名嫌疑人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5985,16 +7345,21 @@
   },
   {
     "id": 273,
-    "word": "condamne",
-    "phonetic0": "kɔ̃dan",
-    "phonetic1": "kɔ̃dan",
+    "word": "pénalement",
+    "phonetic0": "penaləmɑ̃",
+    "phonetic1": "penaləmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "犯人"
+        "pos": "adv.",
+        "cn": "刑罚上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pénalement, l'entreprise est responsable des actes de ses salariés.",
+        "cn": "在刑罚上，企业对其员工的行为负有责任。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6007,16 +7372,21 @@
   },
   {
     "id": 274,
-    "word": "fusiller",
-    "phonetic0": "fyzije",
-    "phonetic1": "fyzije",
+    "word": "dénoncer",
+    "phonetic0": "denɔ̃se",
+    "phonetic1": "denɔ̃se",
     "trans": [
       {
         "pos": "v.",
-        "cn": "枪决"
+        "cn": "检举"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un employé a dénoncé les pratiques illégales de son directeur.",
+        "cn": "一名员工检举了其主管的违法行为。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6029,16 +7399,21 @@
   },
   {
     "id": 275,
-    "word": "libérer",
-    "phonetic0": "libeʁe",
-    "phonetic1": "libeʁe",
+    "word": "accuser",
+    "phonetic0": "akyze",
+    "phonetic1": "akyze",
     "trans": [
       {
         "pos": "v.",
-        "cn": "释放"
+        "cn": "控告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La victime accuse son voisin de lui avoir volé son portefeuille.",
+        "cn": "受害人控告邻居偷了他的钱包。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6051,16 +7426,21 @@
   },
   {
     "id": 276,
-    "word": "pénalement",
-    "phonetic0": "penaləmɑ̃",
-    "phonetic1": "penaləmɑ̃",
+    "word": "prisonnier",
+    "phonetic0": "pʁizonje",
+    "phonetic1": "pʁizonje",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "刑罚上"
+        "pos": "adj.",
+        "cn": "犯人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prisonnier a refusé de répondre aux questions du juge.",
+        "cn": "这名犯人拒绝回答法官的提问。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6073,16 +7453,21 @@
   },
   {
     "id": 277,
-    "word": "dénoncer",
-    "phonetic0": "denɔ̃se",
-    "phonetic1": "denɔ̃se",
+    "word": "tribunal",
+    "phonetic0": "tʁibynal",
+    "phonetic1": "tʁibynal",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "检举"
+        "pos": "n.m.",
+        "cn": "法院"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tribunal doit rendre son jugement avant la fin du mois.",
+        "cn": "法院必须在本月底之前作出判决。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6095,16 +7480,21 @@
   },
   {
     "id": 278,
-    "word": "accuser",
-    "phonetic0": "akyze",
-    "phonetic1": "akyze",
+    "word": "palis",
+    "phonetic0": "pali",
+    "phonetic1": "pali",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "控告"
+        "pos": "n.m.",
+        "cn": "围栏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Autour du champ, un palis de bois empêche les animaux d'entrer.",
+        "cn": "田地四周有一道木围栏，防止牲畜进入。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6117,16 +7507,21 @@
   },
   {
     "id": 279,
-    "word": "prisonnier",
-    "phonetic0": "pʁizonje",
-    "phonetic1": "pʁizonje",
+    "word": "juge",
+    "phonetic0": "ʒyʒ",
+    "phonetic1": "ʒyʒ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "犯人"
+        "pos": "n.m.",
+        "cn": "法官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a demandé le silence avant de lire la décision.",
+        "cn": "法官在宣读裁定前要求全场安静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6139,16 +7534,21 @@
   },
   {
     "id": 280,
-    "word": "tribunal",
-    "phonetic0": "tʁibynal",
-    "phonetic1": "tʁibynal",
+    "word": "magistrat",
+    "phonetic0": "maʒistʁa",
+    "phonetic1": "maʒistʁa",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "法院"
+        "cn": "地方法官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce magistrat travaille depuis vingt ans au parquet de Lyon.",
+        "cn": "这位地方法官在里昂检察院工作了二十年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6161,16 +7561,21 @@
   },
   {
     "id": 281,
-    "word": "palis",
-    "phonetic0": "pali",
-    "phonetic1": "pali",
+    "word": "ajourner",
+    "phonetic0": "aʒuʁne",
+    "phonetic1": "aʒuʁne",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "围栏"
+        "pos": "v.",
+        "cn": "休庭"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le président a décidé d'ajourner l'audience à la semaine prochaine.",
+        "cn": "庭长决定将庭审休庭至下周。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6183,16 +7588,21 @@
   },
   {
     "id": 282,
-    "word": "juge",
-    "phonetic0": "ʒyʒ",
-    "phonetic1": "ʒyʒ",
+    "word": "justifier",
+    "phonetic0": "ʒystifje",
+    "phonetic1": "ʒystifje",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "法官"
+        "pos": "v.",
+        "cn": "辩护"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'avocat tente de justifier le comportement de son client devant le jury.",
+        "cn": "律师试图在陪审团面前为其当事人的行为辩护。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6205,16 +7615,21 @@
   },
   {
     "id": 283,
-    "word": "magistrat",
-    "phonetic0": "maʒistʁa",
-    "phonetic1": "maʒistʁa",
+    "word": "défendeur",
+    "phonetic0": "defɑ̃dœʁ",
+    "phonetic1": "defɑ̃dœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "地方法官"
+        "cn": "被告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le défendeur conteste les faits reprochés par la partie adverse.",
+        "cn": "被告对对方当事人所指控的事实提出异议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6227,16 +7642,21 @@
   },
   {
     "id": 284,
-    "word": "ajourner",
-    "phonetic0": "aʒuʁne",
-    "phonetic1": "aʒuʁne",
+    "word": "juger",
+    "phonetic0": "ʒyʒe",
+    "phonetic1": "ʒyʒe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "休庭"
+        "cn": "判决"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les jurés vont juger cette affaire très médiatisée la semaine prochaine.",
+        "cn": "陪审员们下周将审理这起备受媒体关注的案件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6249,16 +7669,21 @@
   },
   {
     "id": 285,
-    "word": "justifier",
-    "phonetic0": "ʒystifje",
-    "phonetic1": "ʒystifje",
+    "word": "assignation",
+    "phonetic0": "asiɲasjɔ̃",
+    "phonetic1": "asiɲasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "辩护"
+        "pos": "n.f.",
+        "cn": "传票"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a reçu une assignation à comparaître devant le tribunal correctionnel.",
+        "cn": "他收到了一张轻罪法庭的出庭传票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6271,16 +7696,21 @@
   },
   {
     "id": 286,
-    "word": "défendeur",
-    "phonetic0": "defɑ̃dœʁ",
-    "phonetic1": "defɑ̃dœʁ",
+    "word": "détenir",
+    "phonetic0": "dɛtəniʁ",
+    "phonetic1": "dɛtəniʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "被告"
+        "pos": "v.",
+        "cn": "拘留"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police peut détenir un suspect pendant quarante-huit heures maximum.",
+        "cn": "警方最多可拘留嫌疑人四十八小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6293,16 +7723,21 @@
   },
   {
     "id": 287,
-    "word": "juger",
-    "phonetic0": "ʒyʒe",
-    "phonetic1": "ʒyʒe",
+    "word": "emprisonner",
+    "phonetic0": "ɑ̃pʁizone",
+    "phonetic1": "ɑ̃pʁizone",
     "trans": [
       {
         "pos": "v.",
-        "cn": "判决"
+        "cn": "监禁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a décidé d'emprisonner l'homme malgré ses protestations.",
+        "cn": "尽管这名男子抗议，法官仍决定将其监禁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6315,16 +7750,21 @@
   },
   {
     "id": 288,
-    "word": "assignation",
-    "phonetic0": "asiɲasjɔ̃",
-    "phonetic1": "asiɲasjɔ̃",
+    "word": "appréhender",
+    "phonetic0": "apʁeɑ̃de",
+    "phonetic1": "apʁeɑ̃de",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "传票"
+        "pos": "v.",
+        "cn": "速捕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les agents ont réussi à appréhender le fugitif dans un hôtel.",
+        "cn": "警员们在一家旅馆成功逮捕了这名逃犯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6337,16 +7777,21 @@
   },
   {
     "id": 289,
-    "word": "détenir",
-    "phonetic0": "dɛtəniʁ",
-    "phonetic1": "dɛtəniʁ",
+    "word": "sursis",
+    "phonetic0": "syʁsi",
+    "phonetic1": "syʁsi",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "拘留"
+        "pos": "n.m.",
+        "cn": "缓刑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le jeune homme a été condamné à six mois avec sursis.",
+        "cn": "这名年轻人被判处六个月缓刑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6359,16 +7804,21 @@
   },
   {
     "id": 290,
-    "word": "emprisonner",
-    "phonetic0": "ɑ̃pʁizone",
-    "phonetic1": "ɑ̃pʁizone",
+    "word": "acquittement",
+    "phonetic0": "akitəmɑ̃",
+    "phonetic1": "akitəmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "监禁"
+        "pos": "n.m.",
+        "cn": "宣告无罪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'acquittement de l'accusé a provoqué la colère de la famille.",
+        "cn": "被告被宣告无罪，激起了家属的愤怒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6381,16 +7831,21 @@
   },
   {
     "id": 291,
-    "word": "appréhender",
-    "phonetic0": "apʁeɑ̃de",
-    "phonetic1": "apʁeɑ̃de",
+    "word": "poursuite",
+    "phonetic0": "puʁsɥit",
+    "phonetic1": "puʁsɥit",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "速捕"
+        "pos": "n.f.",
+        "cn": "起诉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le parquet a annoncé la poursuite de l'ancien ministre pour fraude.",
+        "cn": "检察院宣布以欺诈罪起诉前部长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6403,16 +7858,21 @@
   },
   {
     "id": 292,
-    "word": "sursis",
-    "phonetic0": "syʁsi",
-    "phonetic1": "syʁsi",
+    "word": "déférer",
+    "phonetic0": "defeʁe",
+    "phonetic1": "defeʁe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "缓刑"
+        "pos": "v.",
+        "cn": "提起公诉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le procureur a décidé de déférer le suspect devant la cour d'assises.",
+        "cn": "检察官决定将嫌疑人提交重罪法庭提起公诉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6425,16 +7885,21 @@
   },
   {
     "id": 293,
-    "word": "acquittement",
-    "phonetic0": "akitəmɑ̃",
-    "phonetic1": "akitəmɑ̃",
+    "word": "interroger",
+    "phonetic0": "ɛ̃tɛʁoʒe",
+    "phonetic1": "ɛ̃tɛʁoʒe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "宣告无罪"
+        "pos": "v.",
+        "cn": "审讯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les policiers vont interroger le témoin pendant plusieurs heures.",
+        "cn": "警察将对证人进行数小时的审讯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6447,16 +7912,21 @@
   },
   {
     "id": 294,
-    "word": "poursuite",
-    "phonetic0": "puʁsɥit",
-    "phonetic1": "puʁsɥit",
+    "word": "cuisiner",
+    "phonetic0": "kɥizine",
+    "phonetic1": "kɥizine",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "起诉"
+        "pos": "v.",
+        "cn": "审问"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enquêteurs ont cuisiné le suspect jusqu'à ce qu'il avoue.",
+        "cn": "调查人员反复审问嫌疑人，直到他招供。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6469,16 +7939,21 @@
   },
   {
     "id": 295,
-    "word": "déférer",
-    "phonetic0": "defeʁe",
-    "phonetic1": "defeʁe",
+    "word": "doute",
+    "phonetic0": "dut",
+    "phonetic1": "dut",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "提起公诉"
+        "pos": "n.m.",
+        "cn": "疑问"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il reste un doute sérieux sur l'heure exacte du crime.",
+        "cn": "关于案发的确切时间仍存在重大疑问。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6491,16 +7966,21 @@
   },
   {
     "id": 296,
-    "word": "interroger",
-    "phonetic0": "ɛ̃tɛʁoʒe",
-    "phonetic1": "ɛ̃tɛʁoʒe",
+    "word": "audition",
+    "phonetic0": "odisjɔ̃",
+    "phonetic1": "odisjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "审讯"
+        "pos": "n.f.",
+        "cn": "听证"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'audition du ministre devant la commission a duré trois heures.",
+        "cn": "部长在委员会面前的听证持续了三个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6513,16 +7993,21 @@
   },
   {
     "id": 297,
-    "word": "cuisiner",
-    "phonetic0": "kɥizine",
-    "phonetic1": "kɥizine",
+    "word": "inculper",
+    "phonetic0": "ɛ̃kylpe",
+    "phonetic1": "ɛ̃kylpe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "审问"
+        "cn": "控告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a décidé d'inculper deux responsables de l'entreprise.",
+        "cn": "法官决定控告该企业的两名负责人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6535,16 +8020,21 @@
   },
   {
     "id": 298,
-    "word": "doute",
-    "phonetic0": "dut",
-    "phonetic1": "dut",
+    "word": "procès",
+    "phonetic0": "pʁosɛ",
+    "phonetic1": "pʁosɛ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "疑问"
+        "cn": "诉讼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le procès de l'ancien maire commence lundi au tribunal de Paris.",
+        "cn": "前市长的诉讼将于周一在巴黎法院开庭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6557,16 +8047,21 @@
   },
   {
     "id": 299,
-    "word": "audition",
-    "phonetic0": "odisjɔ̃",
-    "phonetic1": "odisjɔ̃",
+    "word": "témoin",
+    "phonetic0": "temwɛ̃",
+    "phonetic1": "temwɛ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "听证"
+        "pos": "n.m.",
+        "cn": "证人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le seul témoin de l'accident a accepté de parler aux journalistes.",
+        "cn": "事故的唯一证人同意接受记者采访。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6579,16 +8074,21 @@
   },
   {
     "id": 300,
-    "word": "inculper",
-    "phonetic0": "ɛ̃kylpe",
-    "phonetic1": "ɛ̃kylpe",
+    "word": "débouter",
+    "phonetic0": "debute",
+    "phonetic1": "debute",
     "trans": [
       {
         "pos": "v.",
-        "cn": "控告"
+        "cn": "驳回"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tribunal a décidé de débouter le locataire de sa demande.",
+        "cn": "法院决定驳回该租户的请求。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6601,16 +8101,21 @@
   },
   {
     "id": 301,
-    "word": "procès",
-    "phonetic0": "pʁosɛ",
-    "phonetic1": "pʁosɛ",
+    "word": "menacer",
+    "phonetic0": "mənase",
+    "phonetic1": "mənase",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "诉讼"
+        "pos": "v.",
+        "cn": "恐吓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le suspect aurait menacé le témoin pour l'empêcher de parler.",
+        "cn": "嫌疑人涉嫌恐吓证人，阻止其作证。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6623,16 +8128,21 @@
   },
   {
     "id": 302,
-    "word": "témoin",
-    "phonetic0": "temwɛ̃",
-    "phonetic1": "temwɛ̃",
+    "word": "escroquer",
+    "phonetic0": "ɛskʁoke",
+    "phonetic1": "ɛskʁoke",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "证人"
+        "pos": "v.",
+        "cn": "诈骗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Deux hommes ont escroqué des personnes âgées en se faisant passer pour des banquiers.",
+        "cn": "两名男子冒充银行人员诈骗了老年人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6645,16 +8155,21 @@
   },
   {
     "id": 303,
-    "word": "débouter",
-    "phonetic0": "debute",
-    "phonetic1": "debute",
+    "word": "faux-fuyant",
+    "phonetic0": "fofɥijɑ̃",
+    "phonetic1": "fofɥijɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "驳回"
+        "pos": "n.m.",
+        "cn": "推语"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ministre a répondu par un faux-fuyant pour éviter la question.",
+        "cn": "部长用一句推托之词回避了这个问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6667,16 +8182,21 @@
   },
   {
     "id": 304,
-    "word": "menacer",
-    "phonetic0": "mənase",
-    "phonetic1": "mənase",
+    "word": "requête",
+    "phonetic0": "ʁəkɛt",
+    "phonetic1": "ʁəkɛt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "恐吓"
+        "pos": "n.f.",
+        "cn": "诉状"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'avocat a déposé une requête auprès du tribunal administratif.",
+        "cn": "律师向行政法院提交了一份诉状。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6689,16 +8209,21 @@
   },
   {
     "id": 305,
-    "word": "escroquer",
-    "phonetic0": "ɛskʁoke",
-    "phonetic1": "ɛskʁoke",
+    "word": "régiment",
+    "phonetic0": "ʁeʒimɑ̃",
+    "phonetic1": "ʁeʒimɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "诈骗"
+        "pos": "n.m.",
+        "cn": "团"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce régiment est stationné près de la frontière depuis six mois.",
+        "cn": "这个团在边境附近驻扎了六个月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6711,16 +8236,21 @@
   },
   {
     "id": 306,
-    "word": "faux-fuyant",
-    "phonetic0": "fofɥijɑ̃",
-    "phonetic1": "fofɥijɑ̃",
+    "word": "armée",
+    "phonetic0": "aʁme",
+    "phonetic1": "aʁme",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "推语"
+        "pos": "n.f.",
+        "cn": "部队"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'armée a été envoyée pour aider les victimes de la tempête.",
+        "cn": "部队被派去援助风暴的受灾者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6733,16 +8263,21 @@
   },
   {
     "id": 307,
-    "word": "requête",
-    "phonetic0": "ʁəkɛt",
-    "phonetic1": "ʁəkɛt",
+    "word": "brigade",
+    "phonetic0": "bʁigad",
+    "phonetic1": "bʁigad",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "诉状"
+        "cn": "旅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une brigade de gendarmerie a ouvert une enquête sur place.",
+        "cn": "一支宪兵队在现场展开了调查。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6755,16 +8290,21 @@
   },
   {
     "id": 308,
-    "word": "régiment",
-    "phonetic0": "ʁeʒimɑ̃",
-    "phonetic1": "ʁeʒimɑ̃",
+    "word": "bataillon",
+    "phonetic0": "batajɔ̃",
+    "phonetic1": "batajɔ̃",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "团"
+        "cn": "营"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bataillon entier a participé aux opérations de secours dans la montagne.",
+        "cn": "整整一个营参加了山区的救援行动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6777,16 +8317,21 @@
   },
   {
     "id": 309,
-    "word": "armée",
-    "phonetic0": "aʁme",
-    "phonetic1": "aʁme",
+    "word": "infanterie",
+    "phonetic0": "ɛ̃fɑ̃təʁi",
+    "phonetic1": "ɛ̃fɑ̃təʁi",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "部队"
+        "cn": "步兵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les soldats d'infanterie ont marché toute la nuit sous la pluie.",
+        "cn": "步兵们在雨中走了一整夜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6799,16 +8344,21 @@
   },
   {
     "id": 310,
-    "word": "brigade",
-    "phonetic0": "bʁigad",
-    "phonetic1": "bʁigad",
+    "word": "sauveteur",
+    "phonetic0": "sovətœʁ",
+    "phonetic1": "sovətœʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "旅"
+        "pos": "n.m.",
+        "cn": "救援人员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les sauveteurs ont retrouvé l'enfant sain et sauf près de la rivière.",
+        "cn": "救援人员在河边找到了安然无恙的孩子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6821,16 +8371,21 @@
   },
   {
     "id": 311,
-    "word": "bataillon",
-    "phonetic0": "batajɔ̃",
-    "phonetic1": "batajɔ̃",
+    "word": "rebelles",
+    "phonetic0": "ʁəbɛl",
+    "phonetic1": "ʁəbɛl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "营"
+        "pos": "adj.",
+        "cn": "反叛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les groupes rebelles contrôlent une partie du nord du pays.",
+        "cn": "反叛武装控制着该国北部的一部分地区。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6843,16 +8398,21 @@
   },
   {
     "id": 312,
-    "word": "infanterie",
-    "phonetic0": "ɛ̃fɑ̃təʁi",
-    "phonetic1": "ɛ̃fɑ̃təʁi",
+    "word": "artillerie",
+    "phonetic0": "aʁtijəʁi",
+    "phonetic1": "aʁtijəʁi",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "步兵"
+        "cn": "炮兵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'artillerie a bombardé les positions ennemies pendant deux jours.",
+        "cn": "炮兵对敌方阵地进行了两天的炮击。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6865,16 +8425,21 @@
   },
   {
     "id": 313,
-    "word": "sauveteur",
-    "phonetic0": "sovətœʁ",
-    "phonetic1": "sovətœʁ",
+    "word": "commandant",
+    "phonetic0": "komɑ̃dɑ̃",
+    "phonetic1": "komɑ̃dɑ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "救援人员"
+        "pos": "adj.",
+        "cn": "指挥官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le commandant a donné l'ordre de rentrer au camp.",
+        "cn": "指挥官下令返回营地。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6887,16 +8452,21 @@
   },
   {
     "id": 314,
-    "word": "rebelles",
-    "phonetic0": "ʁəbɛl",
-    "phonetic1": "ʁəbɛl",
+    "word": "ordre",
+    "phonetic0": "ɔʁdʁ",
+    "phonetic1": "ɔʁdʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "反叛"
+        "pos": "n.m.",
+        "cn": "命令"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soldat a refusé d'obéir à cet ordre dangereux.",
+        "cn": "这名士兵拒绝执行这道危险的命令。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6909,16 +8479,21 @@
   },
   {
     "id": 315,
-    "word": "artillerie",
-    "phonetic0": "aʁtijəʁi",
-    "phonetic1": "aʁtijəʁi",
+    "word": "pistolet",
+    "phonetic0": "pistolɛ",
+    "phonetic1": "pistolɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "炮兵"
+        "pos": "n.m.",
+        "cn": "手枪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'homme portait un pistolet caché sous sa veste noire.",
+        "cn": "这名男子在黑色外套下藏着一把手枪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6931,16 +8506,21 @@
   },
   {
     "id": 316,
-    "word": "commandant",
-    "phonetic0": "komɑ̃dɑ̃",
-    "phonetic1": "komɑ̃dɑ̃",
+    "word": "fusil",
+    "phonetic0": "fyzi",
+    "phonetic1": "fyzi",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "指挥官"
+        "pos": "n.m.",
+        "cn": "步枪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chasseur a posé son fusil contre le mur de la cabane.",
+        "cn": "猎人把步枪靠在木屋的墙上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6953,16 +8533,21 @@
   },
   {
     "id": 317,
-    "word": "ordre",
-    "phonetic0": "ɔʁdʁ",
-    "phonetic1": "ɔʁdʁ",
+    "word": "mitrailleuse",
+    "phonetic0": "mitʁajøz",
+    "phonetic1": "mitʁajøz",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "命令"
+        "pos": "n.f.",
+        "cn": "机关枪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une mitrailleuse lourde était installée au sommet de la colline.",
+        "cn": "一挺重机枪架在山丘顶上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6975,16 +8560,21 @@
   },
   {
     "id": 318,
-    "word": "pistolet",
-    "phonetic0": "pistolɛ",
-    "phonetic1": "pistolɛ",
+    "word": "revolver",
+    "phonetic0": "ʁevɔlvɛʁ",
+    "phonetic1": "ʁevɔlvɛʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "手枪"
+        "cn": "左轮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On a retrouvé un revolver dans le tiroir de la chambre.",
+        "cn": "人们在房间的抽屉里找到了一把左轮手枪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6997,16 +8587,21 @@
   },
   {
     "id": 319,
-    "word": "fusil",
-    "phonetic0": "fyzi",
-    "phonetic1": "fyzi",
+    "word": "déclic",
+    "phonetic0": "deklik",
+    "phonetic1": "deklik",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "步枪"
+        "cn": "扳机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le déclic du pistolet a fait sursauter toute la salle.",
+        "cn": "手枪扳机的一声轻响让全场人都吓了一跳。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7019,16 +8614,21 @@
   },
   {
     "id": 320,
-    "word": "mitrailleuse",
-    "phonetic0": "mitʁajøz",
-    "phonetic1": "mitʁajøz",
+    "word": "munitions",
+    "phonetic0": "mynisjɔ̃",
+    "phonetic1": "mynisjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "机关枪"
+        "cn": "弹药"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les soldats manquaient de munitions après trois jours de combats.",
+        "cn": "战斗三天后，士兵们缺乏弹药。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7041,16 +8641,21 @@
   },
   {
     "id": 321,
-    "word": "revolver",
-    "phonetic0": "ʁevɔlvɛʁ",
-    "phonetic1": "ʁevɔlvɛʁ",
+    "word": "épauler",
+    "phonetic0": "epole",
+    "phonetic1": "epole",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "左轮"
+        "pos": "v.",
+        "cn": "瞄准"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chasseur a épaulé son fusil avant de viser la cible.",
+        "cn": "猎人端起枪托瞄准了目标。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7063,16 +8668,21 @@
   },
   {
     "id": 322,
-    "word": "déclic",
-    "phonetic0": "deklik",
-    "phonetic1": "deklik",
+    "word": "canonnade",
+    "phonetic0": "kanonad",
+    "phonetic1": "kanonad",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "扳机"
+        "pos": "n.f.",
+        "cn": "炮火"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La canonnade a cessé au lever du soleil, selon les habitants.",
+        "cn": "据居民说，炮火在日出时停止了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7085,16 +8695,21 @@
   },
   {
     "id": 323,
-    "word": "munitions",
-    "phonetic0": "mynisjɔ̃",
-    "phonetic1": "mynisjɔ̃",
+    "word": "pare-balles",
+    "phonetic0": "paʁbal",
+    "phonetic1": "paʁbal",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "弹药"
+        "pos": "adj.",
+        "cn": "防弹衣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les agents portent un gilet pare-balles lors des interventions risquées.",
+        "cn": "警员在危险行动中穿着防弹衣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7107,16 +8722,21 @@
   },
   {
     "id": 324,
-    "word": "épauler",
-    "phonetic0": "epole",
-    "phonetic1": "epole",
+    "word": "nucléaire",
+    "phonetic0": "nykleɛʁ",
+    "phonetic1": "nykleɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "瞄准"
+        "pos": "adj.",
+        "cn": "核的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pays discute de la construction d'une nouvelle centrale nucléaire.",
+        "cn": "该国正在讨论建造一座新的核电站。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7129,16 +8749,21 @@
   },
   {
     "id": 325,
-    "word": "canonnade",
-    "phonetic0": "kanonad",
-    "phonetic1": "kanonad",
+    "word": "rayonner",
+    "phonetic0": "ʁɛjone",
+    "phonetic1": "ʁɛjone",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "炮火"
+        "pos": "v.",
+        "cn": "放射"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette substance dangereuse continue de rayonner dans le sol pendant des années.",
+        "cn": "这种危险物质会在土壤中持续放射多年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7151,16 +8776,21 @@
   },
   {
     "id": 326,
-    "word": "pare-balles",
-    "phonetic0": "paʁbal",
-    "phonetic1": "paʁbal",
+    "word": "bombe",
+    "phonetic0": "bɔ̃b",
+    "phonetic1": "bɔ̃b",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "防弹衣"
+        "pos": "n.f.",
+        "cn": "炸弹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une bombe artisanale a explosé près du marché sans faire de victimes.",
+        "cn": "一枚自制炸弹在市场附近爆炸，未造成人员伤亡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7173,16 +8803,21 @@
   },
   {
     "id": 327,
-    "word": "nucléaire",
-    "phonetic0": "nykleɛʁ",
-    "phonetic1": "nykleɛʁ",
+    "word": "radiation",
+    "phonetic0": "ʁadjasjɔ̃",
+    "phonetic1": "ʁadjasjɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "核的"
+        "pos": "n.f.",
+        "cn": "放射"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ouvriers ont été exposés à une forte radiation pendant leur travail.",
+        "cn": "工人们在工作中受到了强烈的辐射。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7195,16 +8830,21 @@
   },
   {
     "id": 328,
-    "word": "rayonner",
-    "phonetic0": "ʁɛjone",
-    "phonetic1": "ʁɛjone",
+    "word": "canadair",
+    "phonetic0": "kanadɛʁ",
+    "phonetic1": "kanadɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "放射"
+        "pos": "n.m.",
+        "cn": "通气道"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un canadair a survolé la forêt pour éteindre les flammes.",
+        "cn": "一架灭火飞机飞过森林上空扑灭火焰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7217,16 +8857,21 @@
   },
   {
     "id": 329,
-    "word": "bombe",
-    "phonetic0": "bɔ̃b",
-    "phonetic1": "bɔ̃b",
+    "word": "larguer",
+    "phonetic0": "laʁge",
+    "phonetic1": "laʁge",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "炸弹"
+        "pos": "v.",
+        "cn": "投放"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'avion a largué de l'eau sur l'incendie qui menaçait le village.",
+        "cn": "飞机向威胁村庄的大火投放了水。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7239,16 +8884,21 @@
   },
   {
     "id": 330,
-    "word": "radiation",
-    "phonetic0": "ʁadjasjɔ̃",
-    "phonetic1": "ʁadjasjɔ̃",
+    "word": "souffle",
+    "phonetic0": "sufl",
+    "phonetic1": "sufl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "放射"
+        "pos": "n.m.",
+        "cn": "冲击波"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le souffle de l'explosion a brisé toutes les vitres du quartier.",
+        "cn": "爆炸的冲击波震碎了整个街区的玻璃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7261,16 +8911,21 @@
   },
   {
     "id": 331,
-    "word": "canadair",
-    "phonetic0": "kanadɛʁ",
-    "phonetic1": "kanadɛʁ",
+    "word": "radioactif",
+    "phonetic0": "ʁadjoaktif",
+    "phonetic1": "ʁadjoaktif",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "通气道"
+        "pos": "adj.",
+        "cn": "放射性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sol de la zone reste radioactif plusieurs décennies après la catastrophe.",
+        "cn": "灾难发生几十年后，该区域的土壤仍具有放射性。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7283,16 +8938,21 @@
   },
   {
     "id": 332,
-    "word": "larguer",
-    "phonetic0": "laʁge",
-    "phonetic1": "laʁge",
+    "word": "ogive",
+    "phonetic0": "oʒiv",
+    "phonetic1": "oʒiv",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "投放"
+        "pos": "n.f.",
+        "cn": "弹头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les experts examinent une vieille ogive retrouvée par des pêcheurs au large.",
+        "cn": "专家们正在检查渔民在近海打捞出的一枚旧弹头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7305,16 +8965,21 @@
   },
   {
     "id": 333,
-    "word": "souffle",
-    "phonetic0": "sufl",
-    "phonetic1": "sufl",
+    "word": "engins",
+    "phonetic0": "ɑ̃ʒɛ̃",
+    "phonetic1": "ɑ̃ʒɛ̃",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "冲击波"
+        "cn": "地对地导弹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'armée a détruit plusieurs engins explosifs retrouvés près de la route.",
+        "cn": "军队销毁了在公路附近发现的多枚爆炸装置。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7327,16 +8992,21 @@
   },
   {
     "id": 334,
-    "word": "radioactif",
-    "phonetic0": "ʁadjoaktif",
-    "phonetic1": "ʁadjoaktif",
+    "word": "périscope",
+    "phonetic0": "peʁiskɔp",
+    "phonetic1": "peʁiskɔp",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "放射性的"
+        "pos": "n.m.",
+        "cn": "潜望镜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sous-marin a remonté son périscope pour observer la côte.",
+        "cn": "潜艇升起了潜望镜观察海岸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7349,16 +9019,21 @@
   },
   {
     "id": 335,
-    "word": "ogive",
-    "phonetic0": "oʒiv",
-    "phonetic1": "oʒiv",
+    "word": "torpille",
+    "phonetic0": "tɔʁpij",
+    "phonetic1": "tɔʁpij",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "弹头"
+        "cn": "鱼雷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une torpille a touché le navire avant qu'il ne coule.",
+        "cn": "一枚鱼雷击中了那艘船，随后它便沉没了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7371,16 +9046,21 @@
   },
   {
     "id": 336,
-    "word": "engins",
-    "phonetic0": "ɑ̃ʒɛ̃",
-    "phonetic1": "ɑ̃ʒɛ̃",
+    "word": "émetteur",
+    "phonetic0": "emetœʁ",
+    "phonetic1": "emetœʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "地对地导弹"
+        "pos": "adj.",
+        "cn": "发射机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un émetteur installé sur la colline diffuse les programmes locaux.",
+        "cn": "一台架在山丘上的发射机播放本地节目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7393,16 +9073,21 @@
   },
   {
     "id": 337,
-    "word": "périscope",
-    "phonetic0": "peʁiskɔp",
-    "phonetic1": "peʁiskɔp",
+    "word": "tank",
+    "phonetic0": "tɑ̃k",
+    "phonetic1": "tɑ̃k",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "潜望镜"
+        "cn": "坦克"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un tank est stationné devant l'entrée du bâtiment officiel.",
+        "cn": "一辆坦克停在官方大楼的入口前。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7415,16 +9100,21 @@
   },
   {
     "id": 338,
-    "word": "torpille",
-    "phonetic0": "tɔʁpij",
-    "phonetic1": "tɔʁpij",
+    "word": "contre-torpilleur",
+    "phonetic0": "kɔ̃tʁətɔʁpijœʁ",
+    "phonetic1": "kɔ̃tʁətɔʁpijœʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "鱼雷"
+        "pos": "n.m.",
+        "cn": "驱逐舰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le contre-torpilleur a quitté le port au milieu de la nuit.",
+        "cn": "这艘驱逐舰在午夜时分离开了港口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7437,16 +9127,21 @@
   },
   {
     "id": 339,
-    "word": "émetteur",
-    "phonetic0": "emetœʁ",
-    "phonetic1": "emetœʁ",
+    "word": "aviso",
+    "phonetic0": "avizo",
+    "phonetic1": "avizo",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "发射机"
+        "pos": "n.m.",
+        "cn": "护卫舰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet aviso patrouille le long des côtes depuis lundi matin.",
+        "cn": "这艘护卫舰从周一早上起沿海南巡逻。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7459,16 +9154,21 @@
   },
   {
     "id": 340,
-    "word": "tank",
-    "phonetic0": "tɑ̃k",
-    "phonetic1": "tɑ̃k",
+    "word": "escorteur",
+    "phonetic0": "ɛskɔʁtœʁ",
+    "phonetic1": "ɛskɔʁtœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "坦克"
+        "cn": "护卫舰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un escorteur accompagne le convoi jusqu'à la sortie du détroit.",
+        "cn": "一艘护卫舰护送船队直到海峡出口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7481,16 +9181,21 @@
   },
   {
     "id": 341,
-    "word": "contre-torpilleur",
-    "phonetic0": "kɔ̃tʁətɔʁpijœʁ",
-    "phonetic1": "kɔ̃tʁətɔʁpijœʁ",
+    "word": "cosmologie",
+    "phonetic0": "kɔsmoloʒi",
+    "phonetic1": "kɔsmoloʒi",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "驱逐舰"
+        "pos": "n.f.",
+        "cn": "宇宙论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cosmologie moderne étudie l'origine et l'évolution de tout l'univers.",
+        "cn": "现代宇宙论研究整个宇宙的起源与演化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7503,16 +9208,21 @@
   },
   {
     "id": 342,
-    "word": "aviso",
-    "phonetic0": "avizo",
-    "phonetic1": "avizo",
+    "word": "ciel",
+    "phonetic0": "sjɛl",
+    "phonetic1": "sjɛl",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "护卫舰"
+        "cn": "天"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ciel était si clair qu'on voyait des milliers d'étoiles.",
+        "cn": "天空如此晴朗，能看到成千上万颗星星。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7525,16 +9235,21 @@
   },
   {
     "id": 343,
-    "word": "escorteur",
-    "phonetic0": "ɛskɔʁtœʁ",
-    "phonetic1": "ɛskɔʁtœʁ",
+    "word": "soleil",
+    "phonetic0": "solɛj",
+    "phonetic1": "solɛj",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "护卫舰"
+        "cn": "太阳"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soleil se couche derrière les montagnes vers huit heures.",
+        "cn": "太阳大约八点落在群山之后。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7547,16 +9262,21 @@
   },
   {
     "id": 344,
-    "word": "cosmologie",
-    "phonetic0": "kɔsmoloʒi",
-    "phonetic1": "kɔsmoloʒi",
+    "word": "chromosphère",
+    "phonetic0": "kʁomosfɛʁ",
+    "phonetic1": "kʁomosfɛʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "宇宙论"
+        "cn": "色球"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chromosphère du soleil est visible pendant une éclipse totale.",
+        "cn": "日全食期间可以看到太阳的色球层。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7569,16 +9289,21 @@
   },
   {
     "id": 345,
-    "word": "ciel",
-    "phonetic0": "sjɛl",
-    "phonetic1": "sjɛl",
+    "word": "couronne",
+    "phonetic0": "kuʁɔn",
+    "phonetic1": "kuʁɔn",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "天"
+        "pos": "n.f.",
+        "cn": "光环"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pendant l'éclipse, une couronne de lumière entoure le soleil noir.",
+        "cn": "日食期间，一圈光环围绕着黑色的太阳。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7591,16 +9316,21 @@
   },
   {
     "id": 346,
-    "word": "soleil",
-    "phonetic0": "solɛj",
-    "phonetic1": "solɛj",
+    "word": "satellite",
+    "phonetic0": "satelit",
+    "phonetic1": "satelit",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "太阳"
+        "cn": "卫星"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce satellite transmet des images de la Terre toutes les heures.",
+        "cn": "这颗卫星每小时传送一次地球图像。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7613,16 +9343,21 @@
   },
   {
     "id": 347,
-    "word": "chromosphère",
-    "phonetic0": "kʁomosfɛʁ",
-    "phonetic1": "kʁomosfɛʁ",
+    "word": "radar",
+    "phonetic0": "ʁadaʁ",
+    "phonetic1": "ʁadaʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "色球"
+        "pos": "n.m.",
+        "cn": "雷达"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le radar de l'aéroport a détecté un objet inconnu cette nuit.",
+        "cn": "机场雷达昨夜探测到一个不明物体。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7635,16 +9370,21 @@
   },
   {
     "id": 348,
-    "word": "couronne",
-    "phonetic0": "kuʁɔn",
-    "phonetic1": "kuʁɔn",
+    "word": "fusée",
+    "phonetic0": "fyze",
+    "phonetic1": "fyze",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "光环"
+        "cn": "火箭"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fusée a décollé de la base spatiale à l'heure prévue.",
+        "cn": "火箭按预定时间从航天基地升空。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7657,16 +9397,21 @@
   },
   {
     "id": 349,
-    "word": "satellite",
-    "phonetic0": "satelit",
-    "phonetic1": "satelit",
+    "word": "astronef",
+    "phonetic0": "astʁonɛf",
+    "phonetic1": "astʁonɛf",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "卫星"
+        "cn": "太空船"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'astronef a passé six mois en orbite autour de la planète.",
+        "cn": "这艘太空船在行星轨道上停留了六个月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7679,16 +9424,21 @@
   },
   {
     "id": 350,
-    "word": "radar",
-    "phonetic0": "ʁadaʁ",
-    "phonetic1": "ʁadaʁ",
+    "word": "biens-fonds",
+    "phonetic0": "bjɛ̃-fɔ̃",
+    "phonetic1": "bjɛ̃-fɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "雷达"
+        "pos": "n.m.pl.",
+        "cn": "房地产；不动产"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a investi toute sa fortune dans des biens-fonds.",
+        "cn": "他把全部财产都投进了房地产。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7701,16 +9451,21 @@
   },
   {
     "id": 351,
-    "word": "fusée",
-    "phonetic0": "fyze",
-    "phonetic1": "fyze",
+    "word": "licence",
+    "phonetic0": "lisɑ̃s",
+    "phonetic1": "lisɑ̃s",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "火箭"
+        "cn": "许可证"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'entreprise a obtenu une licence pour vendre ces médicaments.",
+        "cn": "该企业获得了销售这些药品的许可证。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7723,16 +9478,21 @@
   },
   {
     "id": 352,
-    "word": "astronef",
-    "phonetic0": "astʁonɛf",
-    "phonetic1": "astʁonɛf",
+    "word": "adjuger",
+    "phonetic0": "adʒyʒe",
+    "phonetic1": "adʒyʒe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "太空船"
+        "pos": "v.",
+        "cn": "拍卖给"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tribunal a décidé d'adjuger la maison au plus offrant.",
+        "cn": "法院决定将这栋房子拍卖给出价最高者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7745,16 +9505,21 @@
   },
   {
     "id": 353,
-    "word": "biens-fonds",
-    "phonetic0": "bjɛ̃-fɔ̃",
-    "phonetic1": "bjɛ̃-fɔ̃",
+    "word": "foncier",
+    "phonetic0": "fɔ̃sje",
+    "phonetic1": "fɔ̃sje",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "房地产"
+        "pos": "adj.",
+        "cn": "地产"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prix du marché foncier a beaucoup augmenté dans cette région.",
+        "cn": "该地区地产市场的价格大幅上涨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7767,16 +9532,21 @@
   },
   {
     "id": 354,
-    "word": "licence",
-    "phonetic0": "lisɑ̃s",
-    "phonetic1": "lisɑ̃s",
+    "word": "domiciliaires",
+    "phonetic0": "domisiljɛʁ",
+    "phonetic1": "domisiljɛʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "许可证"
+        "pos": "adj.",
+        "cn": "住宅的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Plusieurs perquisitions domiciliaires ont eu lieu tôt ce matin chez les suspects.",
+        "cn": "今天清早对嫌疑人住所进行了多次搜查。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7789,16 +9559,21 @@
   },
   {
     "id": 355,
-    "word": "adjuger",
-    "phonetic0": "adʒyʒe",
-    "phonetic1": "adʒyʒe",
+    "word": "céder",
+    "phonetic0": "sede",
+    "phonetic1": "sede",
     "trans": [
       {
         "pos": "v.",
-        "cn": "拍卖给"
+        "cn": "割让"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le propriétaire a accepté de céder une partie de son terrain.",
+        "cn": "业主同意割让其部分土地。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7811,72 +9586,6 @@
   },
   {
     "id": 356,
-    "word": "foncier",
-    "phonetic0": "fɔ̃sje",
-    "phonetic1": "fɔ̃sje",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "地产"
-      }
-    ],
-    "sentences": [],
-    "phrases": [],
-    "synos": [],
-    "etymology": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "inflections": null,
-    "langType": "fr"
-  },
-  {
-    "id": 357,
-    "word": "domiciliaires",
-    "phonetic0": "domisiljɛʁ",
-    "phonetic1": "domisiljɛʁ",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "住宅的"
-      }
-    ],
-    "sentences": [],
-    "phrases": [],
-    "synos": [],
-    "etymology": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "inflections": null,
-    "langType": "fr"
-  },
-  {
-    "id": 358,
-    "word": "céder",
-    "phonetic0": "sede",
-    "phonetic1": "sede",
-    "trans": [
-      {
-        "pos": "v.",
-        "cn": "割让"
-      }
-    ],
-    "sentences": [],
-    "phrases": [],
-    "synos": [],
-    "etymology": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "inflections": null,
-    "langType": "fr"
-  },
-  {
-    "id": 359,
     "word": "synthétique",
     "phonetic0": "sɛ̃tetik",
     "phonetic1": "sɛ̃tetik",
@@ -7886,7 +9595,12 @@
         "cn": "综合的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce rapport synthétique présente les principales conclusions de la longue enquête.",
+        "cn": "这份综合报告呈现了长期调查的主要结论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

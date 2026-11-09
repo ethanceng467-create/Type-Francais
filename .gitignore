@@ -43,3 +43,8 @@ apps/TypeWordsMiniApp
 
 # 静态站点部署产物（pnpm generate 后用于托管，不入库）
 dist-web
+
+# 本地中间产物（OCR / 例句生成 / 备份）
+.tmp/
+md/
+data/fr-bak/

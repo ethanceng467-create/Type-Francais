@@ -10,7 +10,12 @@
         "cn": "额头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a posé sa main sur le front brûlant de son fils.",
+        "cn": "她把手放在儿子滚烫的额头上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "眼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ferme un œil et vise lentement la cible rouge.",
+        "cn": "他闭上一只眼睛，慢慢瞄准红色的靶心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "睫毛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses cils sont si longs qu'ils touchent ses lunettes.",
+        "cn": "她的睫毛长得都碰到眼镜了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "眉毛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il lève un sourcil quand il ne comprend pas.",
+        "cn": "他听不懂的时候就挑起一根眉毛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "脸颊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une larme coule doucement le long de sa joue gauche.",
+        "cn": "一滴眼泪顺着她的左脸颊缓缓流下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "鼻子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le froid a rougi le bout de son nez.",
+        "cn": "寒冷把他的鼻尖冻红了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "鼻孔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fumée lui pique les narines dès qu'il entre.",
+        "cn": "他一进门就被烟呛得鼻孔发痒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "嘴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle garde la bouche fermée pendant toute la photo.",
+        "cn": "拍整张照片时她都闭着嘴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "嘴唇"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses lèvres tremblent un peu quand elle raconte cette histoire.",
+        "cn": "她讲这件事的时候嘴唇有点发抖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "舌头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin lui demande de tirer la langue devant la glace.",
+        "cn": "医生让他在镜子前伸出舌头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "牙齿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est cassé une dent en croquant un bonbon.",
+        "cn": "他嚼糖时崩掉了一颗牙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "门牙"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a perdu une incisive en tombant de vélo.",
+        "cn": "她从自行车上摔下来，磕掉了一颗门牙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "耳朵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il parle fort à mon oreille et me fait rire.",
+        "cn": "他凑到我耳边大声说话，把我逗笑了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "下巴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est coupé le menton en se rasant ce matin.",
+        "cn": "他今天早上刮胡子时刮伤了下巴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "眼皮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses paupières sont lourdes après une nuit trop courte.",
+        "cn": "睡得太少，她的眼皮很沉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "眼眶"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ballon l'a frappé juste au-dessus de l'orbite gauche.",
+        "cn": "球正好打在他左眼眶上方。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "瞳孔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses pupilles se dilatent lentement quand la lumière baisse.",
+        "cn": "光线变暗时，他的瞳孔慢慢放大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "颌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il serre les mâchoires très fort pour ne pas crier.",
+        "cn": "他紧紧咬住牙关，免得叫出声来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "身体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sport détend le corps et calme vraiment l'esprit.",
+        "cn": "运动能放松身体，也真能让心情平静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a posé la tête sur l'oreiller et s'est endormi.",
+        "cn": "他把头靠在枕头上就睡着了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "脖子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soleil tape fort sur ma nuque depuis ce matin.",
+        "cn": "从今天早上起太阳就狠狠地晒着我的后颈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "手"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Donne-moi la main pour traverser cette rue très passante.",
+        "cn": "拉着我的手过这条车很多的街。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "手指"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il compte sur ses doigts les jours avant les vacances.",
+        "cn": "他掰着手指算离假期还有几天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "手腕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle porte un bracelet en argent à son poignet droit.",
+        "cn": "她右手腕上戴着一只银手镯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "手掌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a une ampoule au milieu de la paume.",
+        "cn": "他手掌中间磨出了一个水泡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "食指"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle montre la fenêtre du bout de l'index droit.",
+        "cn": "她用右手食指指了指那扇窗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "中指"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médius est le plus long des cinq doigts.",
+        "cn": "中指是五根手指中最长的一根。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "无名指"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est à l'annulaire gauche qu'elle porte cette bague ancienne.",
+        "cn": "那枚旧戒指她戴在左手无名指上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "脚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est blessé le pied en jouant au foot.",
+        "cn": "他踢足球时伤了脚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "腿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a une jambe un peu plus longue que l'autre.",
+        "cn": "她一条腿比另一条稍长一点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "胳膊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bébé dort dans mes bras depuis une heure.",
+        "cn": "宝宝在我怀里睡了一个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "胸部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tousse et sent une douleur dans la poitrine.",
+        "cn": "他咳嗽，觉得胸口疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "肩膀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle pose son sac sur son épaule et sort.",
+        "cn": "她把包往肩上一挎就出门了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "腹部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chat dort sur le dos, le ventre en l'air.",
+        "cn": "猫仰面躺着睡，肚子朝天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "腰部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a mal aux lombes après avoir porté ce carton.",
+        "cn": "搬完那个纸箱后他腰疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "髋部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle appuie la main sur sa hanche et soupire.",
+        "cn": "她把手按在髋部，叹了口气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "背部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il porte son fils sur le dos jusqu'à la maison.",
+        "cn": "他把儿子背在背上一直背到家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "臀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est tombé sur les fesses en glissant sur le sol mouillé.",
+        "cn": "他在湿地上滑了一跤，一屁股坐在地上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "屁股"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a glissé et est tombé sur son postérieur.",
+        "cn": "他一滑，摔了个屁股蹲儿。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "肚子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ressent une gêne au niveau de l'abdomen depuis hier.",
+        "cn": "从昨天起他就觉得腹部不舒服。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "脚趾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est cogné le petit orteil contre la table.",
+        "cn": "他的小脚趾撞到了桌子上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "骨头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est fracturé un os du poignet au ski.",
+        "cn": "他滑雪时手腕骨折了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "大腿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chien pose sa grosse tête sur ma cuisse.",
+        "cn": "狗把大脑袋搁在我的大腿上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "脚踝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle s'est tordu la cheville en descendant l'escalier hier.",
+        "cn": "她昨天下楼时崴了脚踝。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "肘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il pose son coude sur la table et réfléchit.",
+        "cn": "他把胳膊肘支在桌上思考。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "膝盖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est mis à genoux pour ramasser la pièce.",
+        "cn": "他跪下来捡那枚硬币。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "骨架"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le squelette humain compte plus de deux cents os.",
+        "cn": "人体骨架由两百多块骨头组成。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "锁骨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est cassé la clavicule en tombant du vélo.",
+        "cn": "他从自行车上摔下来，摔断了锁骨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "脊椎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle sent un frisson descendre le long de son échine.",
+        "cn": "她感到一阵寒意顺着脊背往下走。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "有脊椎的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est cassé une vertèbre dans cet accident de ski.",
+        "cn": "他在那次滑雪事故中断了一节椎骨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "肢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a perdu l'usage d'un membre après ce grave accident.",
+        "cn": "那场严重的事故后，他一条肢体失去了功能。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "肋骨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est cassé une cote en jouant au rugby.",
+        "cn": "他打橄榄球时断了一根肋骨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "软骨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cartilage du genou s'use peu à peu avec les années.",
+        "cn": "膝盖软骨随着年岁一点点磨损。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "肌肉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il fait des exercices pour renforcer les muscles du dos.",
+        "cn": "他做锻炼来增强背部肌肉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "韧带"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle s'est déchiré un ligament du genou droit au foot.",
+        "cn": "她踢球时右膝韧带撕裂了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "组织"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'organisation des cellules du foie reste très complexe à étudier.",
+        "cn": "肝细胞的组织结构研究起来仍十分复杂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "皮肤"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa peau devient très sèche dès les premiers froids d'hiver.",
+        "cn": "一到初冬，她的皮肤就变得很干。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "表皮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cuticule protège l'ongle contre les petites infections de la peau.",
+        "cn": "表皮保护指甲免受轻微的皮肤感染。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "骨盆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pelvis soutient les organes du bas du ventre.",
+        "cn": "骨盆托住下腹部的器官。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "骨髓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La moelle des os produit les cellules du sang.",
+        "cn": "骨髓生成血液细胞。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "大脑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cerveau a besoin de sommeil pour bien fonctionner.",
+        "cn": "大脑需要睡眠才能正常运转。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "器官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le foie est un organe essentiel du corps humain.",
+        "cn": "肝脏是人体重要的器官。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "内脏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les viscères sont bien protégés par la cage thoracique.",
+        "cn": "内脏受到胸廓的良好保护。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "内脏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vigneron pressure les raisins pour obtenir un jus clair.",
+        "cn": "酿酒师压榨葡萄，得到清澈的果汁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "血管"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un vaisseau bouché peut provoquer un grave accident cardiaque.",
+        "cn": "一根堵塞的血管可能引发严重的心脏事故。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "心"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son cœur bat très vite après cette longue course.",
+        "cn": "跑完这么长的路，他的心跳得很快。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "肺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a une infection au poumon gauche depuis une semaine.",
+        "cn": "他左肺感染已经一周了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "肝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le foie filtre les toxines présentes dans le sang.",
+        "cn": "肝脏过滤血液中的毒素。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "肾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il boit beaucoup d'eau chaque jour pour protéger ses reins.",
+        "cn": "他每天喝很多水来保护肾脏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "脾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La rate aide le corps à lutter contre les infections.",
+        "cn": "脾脏帮助身体抵抗感染。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "胆汁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La bile aide le foie à digérer les matières grasses.",
+        "cn": "胆汁帮助肝脏消化脂肪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "肠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'intestin grêle absorbe la plupart des aliments que nous mangeons.",
+        "cn": "小肠吸收我们吃下去的大部分食物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "胃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a l'estomac vide depuis le début de la matinée.",
+        "cn": "他从一早就空着肚子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "阑尾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin a retiré son appendice hier matin à l'hôpital.",
+        "cn": "医生昨天上午在医院切除了他的阑尾。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "膀胱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il doit boire beaucoup d'eau pour protéger sa vessie.",
+        "cn": "他得多喝水来保护膀胱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "子宫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bébé grandit doucement dans l'utérus de sa mère.",
+        "cn": "宝宝在母亲的子宫里慢慢长大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "尿道"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une infection de l'urètre provoque souvent de vives brûlures.",
+        "cn": "尿道感染常常引起剧烈的灼痛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "腺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La glande thyroïde règle le rythme de notre métabolisme.",
+        "cn": "甲状腺调节我们新陈代谢的节奏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "食道"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les aliments descendent lentement par l'œsophage puis arrivent dans l'estomac.",
+        "cn": "食物顺着食管慢慢下行，然后进入胃里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "健康的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand-père reste encore valide malgré ses quatre-vingts ans.",
+        "cn": "他祖父虽然八十岁了，身体仍然很硬朗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "健康"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le manque de sommeil nuit gravement à la santé.",
+        "cn": "睡眠不足严重损害健康。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "健康的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une alimentation saine protège le cœur et les artères.",
+        "cn": "健康的饮食保护心脏和动脉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "病"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette maladie se soigne bien si on la détecte tôt.",
+        "cn": "这种病如果发现得早是很好治的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "身体的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le travail physique fatigue plus que le travail de bureau.",
+        "cn": "体力活比坐办公室更累人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "精神的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une longue solitude peut causer une profonde fatigue psychique.",
+        "cn": "长期的孤独可能造成深度的精神疲惫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "正常的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est tout à fait naturel d'avoir peur avant un examen.",
+        "cn": "考试前害怕是完全正常的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "焦虑的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa mère est inquiète parce qu'il ne répond pas.",
+        "cn": "他妈妈因为他不回电话而焦虑不安。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "强壮的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet homme robuste porte seul toutes ces lourdes caisses.",
+        "cn": "这个壮实的男人一个人搬所有这些沉重的箱子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "使忧愁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette nouvelle a affligé toute la famille pendant des jours.",
+        "cn": "这个消息让全家人难过了好几天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "医院"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille dans un hôpital près de la gare.",
+        "cn": "他在火车站附近的一家医院工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "症状"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fièvre est le premier symptôme de cette maladie.",
+        "cn": "发烧是这种病的第一个症状。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "脉搏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque matin, l'infirmière prend mon pouls avant les soins.",
+        "cn": "每天早上，护士在护理前给我量脉搏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "测量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin a mesuré ma tension et mon pouls.",
+        "cn": "医生量了我的血压和脉搏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "描述"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa description précise des symptômes aide beaucoup le médecin.",
+        "cn": "他对症状的准确描述对医生帮助很大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "处方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pharmacien prépare le médicament selon la prescription du médecin.",
+        "cn": "药剂师按照医生的处方配药。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "开药方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin m'a prescrit des antibiotiques pour une semaine.",
+        "cn": "医生给我开了一周的抗生素。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2119,10 +2599,15 @@
     "trans": [
       {
         "pos": "adv.",
-        "cn": "明确地"
+        "cn": "显然；确实Décidément, ce médicament ne me fait vraiment aucun effet."
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "这药对我确实一点效果都没有。",
+        "cn": ""
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "诊断"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin a diagnostiqué une grippe dès la première visite.",
+        "cn": "医生第一次就诊就诊断出是流感。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "药片"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il comprime doucement la plaie avec une compresse propre.",
+        "cn": "他用一块干净的纱布轻轻压住伤口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "药物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce médicament se prend après chaque repas, sans exception.",
+        "cn": "这种药每次饭后服用，无一例外。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "初步的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin fait un examen préliminaire avant les analyses.",
+        "cn": "医生在化验之前先做初步检查。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "治疗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce médecin traite les maladies du cœur depuis vingt ans.",
+        "cn": "这位医生治疗心脏病已经二十年了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2254,7 +2764,12 @@
         "cn": "治疗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle soigne les enfants malades dans un petit dispensaire.",
+        "cn": "她在一家小诊所里给生病的孩子治病。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "治疗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette pommade guérit vite les petites brûlures de la peau.",
+        "cn": "这种药膏能很快治好轻微的皮肤烫伤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "针灸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'acuponcture soulage parfois les douleurs du dos et du cou.",
+        "cn": "针灸有时能缓解背部和颈部的疼痛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "牙科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La dentisterie moderne utilise aujourd'hui des instruments très précis.",
+        "cn": "现代牙科如今使用非常精密的器械。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "心脏病科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille en cardiologie depuis la fin de ses études.",
+        "cn": "他毕业后一直在心脏科工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "儿科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a choisi la pédiatrie parce qu'elle adore les enfants.",
+        "cn": "她选择儿科是因为她特别喜欢孩子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2386,7 +2926,12 @@
         "cn": "妇科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce service de gynécologie reçoit les femmes chaque matin.",
+        "cn": "这个妇科门诊每天早上接待女性患者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2408,7 +2953,12 @@
         "cn": "化验室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les analyses sont envoyées au laboratoire dès le matin.",
+        "cn": "化验样本一大早就送到化验室。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2430,7 +2980,12 @@
         "cn": "检查"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin m'a examiné pendant près de vingt minutes.",
+        "cn": "医生给我检查了将近二十分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2452,7 +3007,12 @@
         "cn": "抽取"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prélèvement de sang se fait le matin à jeun.",
+        "cn": "抽血要在早上空腹时进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2474,7 +3034,12 @@
         "cn": "细胞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les cellules du sang se renouvellent sans arrêt dans le corps.",
+        "cn": "血液细胞在体内不停地更新。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2496,7 +3061,12 @@
         "cn": "红细胞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les hématies transportent l'oxygène vers tous les organes du corps.",
+        "cn": "红细胞把氧气输送到全身各个器官。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2518,7 +3088,12 @@
         "cn": "血红蛋白"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le taux d'hémoglobine dans le sang révèle parfois une anémie.",
+        "cn": "血液中的血红蛋白含量有时能反映贫血。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2540,7 +3115,12 @@
         "cn": "含量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La teneur en sucre de ce jus reste élevée.",
+        "cn": "这种果汁的含糖量仍然偏高。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2562,7 +3142,12 @@
         "cn": "体积"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le volume de ce poumon paraît normal sur l'image.",
+        "cn": "从影像上看，这个肺的体积似乎正常。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2584,7 +3169,12 @@
         "cn": "浓度"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La concentration de glucose dans le sang doit rester stable.",
+        "cn": "血液中的葡萄糖浓度应保持稳定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2606,7 +3196,12 @@
         "cn": "感冒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai attrapé un gros rhume en attendant le bus.",
+        "cn": "我等公交车时得了重感冒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2628,7 +3223,12 @@
         "cn": "感冒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'est enrhumé après avoir marché sous la pluie.",
+        "cn": "他在雨里走了一趟就感冒了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2650,7 +3250,12 @@
         "cn": "感染性"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La septicité de cette plaie inquiète beaucoup le chirurgien.",
+        "cn": "这个伤口的感染性让外科医生十分担心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2672,7 +3277,12 @@
         "cn": "体温"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soir, l'infirmière prend ma température avant de partir.",
+        "cn": "晚上，护士在离开前给我量体温。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2694,7 +3304,12 @@
         "cn": "体温计"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce thermomètre électronique donne la température en quelques secondes.",
+        "cn": "这支电子体温计几秒钟就能测出体温。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2716,7 +3331,12 @@
         "cn": "流感"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La grippe l'a obligé à rester au lit toute la semaine.",
+        "cn": "流感逼着他在床上躺了整整一周。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2738,7 +3358,12 @@
         "cn": "发烧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a de la fièvre et ne mange presque rien.",
+        "cn": "他发烧了，几乎什么都吃不下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2760,7 +3385,12 @@
         "cn": "发汗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il transpire beaucoup et sa chemise est toute trempée.",
+        "cn": "他出了很多汗，衬衫都湿透了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2782,7 +3412,12 @@
         "cn": "打喷嚏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle éternue sans arrêt à cause de la poussière.",
+        "cn": "因为灰尘，她不停地打喷嚏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2804,7 +3439,12 @@
         "cn": "严重的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La situation du blessé est devenue dramatique en quelques heures.",
+        "cn": "伤者的情况几个小时之内就变得十分严重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2826,7 +3466,12 @@
         "cn": "轻微的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ressent encore une douleur légère au genou gauche.",
+        "cn": "他左膝还感到轻微的疼痛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2848,7 +3493,12 @@
         "cn": "疼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette douleur au dos revient chaque fois qu'il court.",
+        "cn": "他每次跑步，这种背痛就会复发。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2870,7 +3520,12 @@
         "cn": "剧痛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque pas dans l'escalier lui cause un véritable supplice.",
+        "cn": "每爬一级楼梯都让他剧痛难忍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2892,7 +3547,12 @@
         "cn": "胃疼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il souffre de gastralgie depuis qu'il mange trop vite.",
+        "cn": "自从他吃得太快，就一直胃疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2914,7 +3574,12 @@
         "cn": "绞痛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une douleur colique le plie en deux chaque nuit.",
+        "cn": "每天夜里一阵绞痛都让他疼得弯下腰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2936,7 +3601,12 @@
         "cn": "刺痛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle sent un picotement bizarre au bout des doigts.",
+        "cn": "她觉得指尖有一种奇怪的刺痛感。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2958,7 +3628,12 @@
         "cn": "伤口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette vieille blessure au pied met longtemps à guérir.",
+        "cn": "脚上这个旧伤口很久都不见好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2980,7 +3655,12 @@
         "cn": "受伤的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La jeune fille blessée a été transportée à l'hôpital.",
+        "cn": "受伤的姑娘被送到了医院。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3002,7 +3682,12 @@
         "cn": "伤口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut nettoyer la plaie avant de la bander.",
+        "cn": "包扎之前得先清洗伤口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3024,7 +3709,12 @@
         "cn": "阑尾炎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On l'a opéré hier soir à cause d'une appendicite aiguë.",
+        "cn": "昨晚他因为急性阑尾炎动了手术。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3046,7 +3736,12 @@
         "cn": "贫血"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'anémie provoque souvent une grande fatigue et des vertiges.",
+        "cn": "贫血常常引起极度疲劳和头晕。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3068,7 +3763,12 @@
         "cn": "低血糖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un diabétique doit toujours surveiller les premiers signes d'hypoglycémie.",
+        "cn": "糖尿病人必须随时留意低血糖的最初迹象。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3090,7 +3790,12 @@
         "cn": "支气管炎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tousse depuis deux longues semaines, c'est une bronchite.",
+        "cn": "他咳了整整两周，是支气管炎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3112,7 +3817,12 @@
         "cn": "糖尿病"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son père souffre du diabète depuis déjà plusieurs années.",
+        "cn": "他父亲患糖尿病已经好几年了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3134,7 +3844,12 @@
         "cn": "糖尿病人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une personne diabétique doit éviter tous les sucres rapides.",
+        "cn": "糖尿病人应当避免各种快糖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3156,7 +3871,12 @@
         "cn": "偏头痛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une forte migraine l'oblige à rester dans le noir.",
+        "cn": "剧烈的偏头痛逼着他待在黑暗里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3178,7 +3898,12 @@
         "cn": "风湿病"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand-père se plaint souvent de rhumatismes en hiver.",
+        "cn": "他祖父冬天常抱怨风湿病发作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3200,7 +3925,12 @@
         "cn": "营养不良"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La malnutrition touche encore beaucoup d'enfants dans le monde.",
+        "cn": "世界上仍有许多儿童营养不良。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3222,7 +3952,12 @@
         "cn": "失眠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son insomnie empire depuis qu'il a changé de travail.",
+        "cn": "他换了工作以后失眠更严重了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3244,7 +3979,12 @@
         "cn": "僵硬的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il se réveille avec une nuque raide et douloureuse.",
+        "cn": "他醒来时后颈僵硬又酸痛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3266,7 +4006,12 @@
         "cn": "打幅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bébé hoquette longtemps après avoir bu son lait trop vite.",
+        "cn": "宝宝喝奶喝得太急，打嗝打了很久。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3288,7 +4033,12 @@
         "cn": "使痒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle chatouille son petit frère pour le faire rire.",
+        "cn": "她挠弟弟痒痒，逗他笑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3310,7 +4060,12 @@
         "cn": "痛风"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il souffre de la goutte depuis l'âge de cinquante ans.",
+        "cn": "他从五十岁起就患痛风。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3332,7 +4087,12 @@
         "cn": "癌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cancer du poumon reste très fréquent chez les fumeurs.",
+        "cn": "肺癌在吸烟者中仍然很常见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3354,7 +4114,12 @@
         "cn": "中风"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une apoplexie l'a laissé paralysé tout le côté droit.",
+        "cn": "一次中风让他整个右侧都瘫痪了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3376,7 +4141,12 @@
         "cn": "白血病"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La leucémie se soigne mieux chez les jeunes patients.",
+        "cn": "白血病在年轻患者身上治疗效果更好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3398,7 +4168,12 @@
         "cn": "破伤风"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tétanos reste dangereux si l'on n'est pas vacciné.",
+        "cn": "如果不接种疫苗，破伤风仍然很危险。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3420,7 +4195,12 @@
         "cn": "精神病"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa psychose nécessite aujourd'hui un suivi médical très régulier.",
+        "cn": "他的精神病如今需要非常规律的医疗跟踪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3442,7 +4222,12 @@
         "cn": "瘫痰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La paralysie du bras gauche a disparu en un mois.",
+        "cn": "左臂的瘫痪一个月就消失了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3464,7 +4249,12 @@
         "cn": "咽炎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a une pharyngite et parle encore avec difficulté.",
+        "cn": "他得了咽炎，说话仍然很吃力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3486,7 +4276,12 @@
         "cn": "肿瘤"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les médecins ont retiré une petite tumeur de son épaule.",
+        "cn": "医生从他肩部切除了一个小肿瘤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3508,7 +4303,12 @@
         "cn": "遗传的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette maladie héréditaire touche plusieurs membres de sa famille.",
+        "cn": "这种遗传病影响了他家好几个人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3530,7 +4330,12 @@
         "cn": "移植"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les chirurgiens ont transplanté un rein à mon cousin.",
+        "cn": "外科医生给我表兄移植了一个肾。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3552,7 +4357,12 @@
         "cn": "视力"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa vision baisse depuis quelques mois, il faut consulter.",
+        "cn": "他的视力这几个月在下降，得去看医生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3574,7 +4384,12 @@
         "cn": "近视"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa myopie l'oblige à porter des lunettes en cours.",
+        "cn": "他近视，上课必须戴眼镜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3596,7 +4411,12 @@
         "cn": "近视者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je suis très myope depuis l'âge de dix ans.",
+        "cn": "我从十岁起就近视得很厉害。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3618,7 +4438,12 @@
         "cn": "看不清的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il voit trouble depuis sa chute sur la tête.",
+        "cn": "他自从摔了头就看东西模糊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3640,7 +4465,12 @@
         "cn": "眼科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il consulte un spécialiste en ophtalmologie deux fois par an.",
+        "cn": "他每年看两次眼科专家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3662,7 +4492,12 @@
         "cn": "发炎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette inflammation de l'œil exige un traitement très rapide.",
+        "cn": "这只眼睛发炎，需要尽快治疗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3684,7 +4519,12 @@
         "cn": "失去"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a perdu la vue après un grave accident.",
+        "cn": "一场严重的事故后他失明了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3706,7 +4546,12 @@
         "cn": "白内障"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cataracte se traite par une opération simple aujourd'hui.",
+        "cn": "如今白内障可以通过一个小手术治好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3728,7 +4573,12 @@
         "cn": "青光眼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le glaucome peut rendre aveugle si on le néglige.",
+        "cn": "青光眼如果被忽视可能导致失明。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3750,7 +4600,12 @@
         "cn": "药房"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pharmacie du quartier ferme ses portes à dix-neuf heures.",
+        "cn": "街区里的药房十九点关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3772,7 +4627,12 @@
         "cn": "止疼药"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce comprimé analgésique calme la douleur en vingt minutes.",
+        "cn": "这片止痛药二十分钟就能缓解疼痛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3794,7 +4654,12 @@
         "cn": "止疼片"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce médicament paraît anodin mais il faut rester prudent.",
+        "cn": "这种药看起来没什么，但还是得小心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3816,7 +4681,12 @@
         "cn": "阿司匹林"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il prend une aspirine dès qu'il a mal à la tête.",
+        "cn": "他一头疼就吃一片阿司匹林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3838,7 +4708,12 @@
         "cn": "青霉素"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin lui a prescrit de la pénicilline pendant huit jours.",
+        "cn": "医生给他开了八天的青霉素。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3860,7 +4735,12 @@
         "cn": "维生素"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce jus contient beaucoup de vitamine C et de sucre.",
+        "cn": "这种果汁含大量维生素C和糖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3882,7 +4762,12 @@
         "cn": "安定剂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le neuroleptique l'aide à dormir et à rester calme.",
+        "cn": "这种安定剂帮他入睡，让他保持平静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3904,7 +4789,12 @@
         "cn": "葡萄糖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le glucose fournit de l'énergie à tous nos muscles.",
+        "cn": "葡萄糖为我们全身肌肉提供能量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3926,7 +4816,12 @@
         "cn": "说明书"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prospectus explique clairement comment prendre ce médicament correctement.",
+        "cn": "说明书清楚地说明了如何正确服用这种药。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3948,7 +4843,12 @@
         "cn": "当归"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il fait des études linguistiques à l'université de Lyon.",
+        "cn": "他在里昂大学读语言学。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3970,7 +4870,12 @@
         "cn": "鹿茸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cerf perd ses andouillers au début du printemps.",
+        "cn": "公鹿在初春时脱落鹿角。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3992,7 +4897,12 @@
         "cn": "人参"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa grand-mère ajoute toujours du ginseng dans sa soupe.",
+        "cn": "他奶奶总往汤里加人参。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4014,7 +4924,12 @@
         "cn": "住院治疗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son hospitalisation durera au moins une semaine, peut-être deux.",
+        "cn": "他住院至少要一个星期，也许两个。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4036,7 +4951,12 @@
         "cn": "诊断"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le diagnostic du médecin reste incertain pour le moment.",
+        "cn": "医生的诊断目前仍不确定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4058,7 +4978,12 @@
         "cn": "看护"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une infirmière surveille le patient toutes les deux heures.",
+        "cn": "一名护士每两小时查看一次病人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4080,7 +5005,12 @@
         "cn": "限制"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin lui conseille de limiter le sel et le sucre.",
+        "cn": "医生建议他限制盐和糖的摄入。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4102,7 +5032,12 @@
         "cn": "过敏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a une allergie aux arachides depuis son enfance.",
+        "cn": "他从小就对花生过敏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4124,7 +5059,12 @@
         "cn": "医务室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'élève blessé a été conduit tout de suite à l'infirmerie.",
+        "cn": "受伤的学生立刻被送到了医务室。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4146,7 +5086,12 @@
         "cn": "做"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils fabriquent eux-mêmes leurs meubles en bois depuis des années.",
+        "cn": "他们家多年来自己做木家具。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4168,7 +5113,12 @@
         "cn": "手术"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son opération du genou s'est très bien passée hier matin.",
+        "cn": "他昨天上午的膝盖手术非常顺利。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4190,7 +5140,12 @@
         "cn": "手术刀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chirurgien pose le bistouri et retire ses gants.",
+        "cn": "外科医生放下手术刀，脱下手套。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4212,7 +5167,12 @@
         "cn": "生命"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette opération difficile lui a sauvé la vie hier soir.",
+        "cn": "昨晚那场艰难的手术救了他的命。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4234,7 +5194,12 @@
         "cn": "镊子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'infirmière retire l'écharde du doigt avec une pince fine.",
+        "cn": "护士用一把细镊子把手指里的刺取出来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4256,7 +5221,12 @@
         "cn": "缝合"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin a suturé la plaie en dix minutes.",
+        "cn": "医生十分钟就缝合了伤口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4278,7 +5248,12 @@
         "cn": "切除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les chirurgiens ont excisé la petite tumeur sans difficulté.",
+        "cn": "外科医生顺利地切除了那个小肿瘤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4300,7 +5275,12 @@
         "cn": "麻醉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'anesthésie générale l'a fait dormir pendant deux longues heures.",
+        "cn": "全身麻醉让他沉睡了两个多小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4322,7 +5302,12 @@
         "cn": "使麻醉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin doit anesthésier la zone avant de coudre.",
+        "cn": "医生在缝针前必须给这个部位麻醉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4335,16 +5320,21 @@
   },
   {
     "id": 198,
-    "word": "anesthésie-logue",
-    "phonetic0": "anɛstezi-lɔg",
-    "phonetic1": "anɛstezi-lɔg",
+    "word": "anesthésiste",
+    "phonetic0": "anɛstezist",
+    "phonetic1": "anɛstezist",
     "trans": [
       {
-        "pos": "n.f.",
+        "pos": "n.",
         "cn": "麻醉师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'anesthésiste est venu me voir avant l'opération.",
+        "cn": "手术前麻醉师来看过我。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4366,7 +5356,12 @@
         "cn": "麻醉药"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette drogue soulage la douleur mais endort le patient.",
+        "cn": "这种麻醉药能止痛，但会让病人昏睡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4388,7 +5383,12 @@
         "cn": "麻醉剂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un produit anesthésiant rend la peau insensible pendant l'opération.",
+        "cn": "麻醉剂能让皮肤在手术期间失去知觉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4410,7 +5410,12 @@
         "cn": "无菌的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chirurgien travaille toujours avec des instruments parfaitement stériles.",
+        "cn": "外科医生始终使用完全无菌的器械。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4432,7 +5437,12 @@
         "cn": "神经"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce nerf transmet la douleur jusqu'au bout des doigts.",
+        "cn": "这条神经把疼痛传到指尖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4454,7 +5464,12 @@
         "cn": "邮局"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La poste du village ferme à midi le samedi.",
+        "cn": "村里的邮局星期六中午关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4476,7 +5491,12 @@
         "cn": "邮差"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le facteur passe devant chez nous vers huit heures.",
+        "cn": "邮差八点左右经过我们家门口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4498,7 +5518,12 @@
         "cn": "收集"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il collectionne les timbres depuis son plus jeune âge.",
+        "cn": "他从小就集邮。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4520,7 +5545,12 @@
         "cn": "递送"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le facteur délivre le courrier chaque matin sauf le dimanche.",
+        "cn": "邮差除星期天外每天早上送信。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4542,7 +5572,12 @@
         "cn": "邮件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai trouvé votre courrier dans la boîte aux lettres.",
+        "cn": "我在信箱里看到了您的邮件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4564,7 +5599,12 @@
         "cn": "信"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a écrit une longue lettre à sa grand-mère.",
+        "cn": "她给祖母写了一封长信。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4586,7 +5626,12 @@
         "cn": "分开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut diviser ce colis en deux paquets plus légers.",
+        "cn": "得把这个包裹分成两个轻一点的包。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4608,7 +5653,12 @@
         "cn": "电报"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un télégramme annonçait enfin la naissance de son fils.",
+        "cn": "一封电报终于报来了他儿子出生的消息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4630,7 +5680,12 @@
         "cn": "汇款"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a envoyé un mandat-poste à son frère étudiant.",
+        "cn": "她给上大学的弟弟汇了一笔款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4652,7 +5707,12 @@
         "cn": "城市"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette grande ville compte plus de deux millions d'habitants.",
+        "cn": "这座大城市有两百多万居民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4674,7 +5734,12 @@
         "cn": "行政区"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre région produit beaucoup de vin et de fromage.",
+        "cn": "我们这一地区出产大量葡萄酒和奶酪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4696,7 +5761,12 @@
         "cn": "州"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La préfecture se trouve au centre de la ville.",
+        "cn": "州政府位于市中心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4718,7 +5788,12 @@
         "cn": "首都"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La capitale attire chaque année des millions de touristes.",
+        "cn": "首都每年吸引数百万游客。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4740,7 +5815,12 @@
         "cn": "区域"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette zone de la ville reste calme le soir.",
+        "cn": "城市的这个区域晚上很安静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4762,7 +5842,12 @@
         "cn": "区域"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce secteur du centre est réservé aux piétons le week-end.",
+        "cn": "市中心这一片周末只对行人开放。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4784,7 +5869,12 @@
         "cn": "街"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a une boulangerie au bout de la rue.",
+        "cn": "街的尽头有一家面包店。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4806,7 +5896,12 @@
         "cn": "市中心"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils habitent un petit appartement au cœur du centre-ville.",
+        "cn": "他们住在市中心核心区的一套小公寓里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4828,7 +5923,12 @@
         "cn": "市镇的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La bibliothèque communale propose des ateliers gratuits pour enfants.",
+        "cn": "市镇图书馆为孩子提供免费的活动课。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4850,7 +5950,12 @@
         "cn": "郊区"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils ont acheté une petite maison en banlieue parisienne.",
+        "cn": "他们在巴黎郊区买了一栋小房子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4872,7 +5977,12 @@
         "cn": "镇子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce joli bourg compte encore à peine mille habitants.",
+        "cn": "这个漂亮的小镇如今还只有不到一千居民。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4894,7 +6004,12 @@
         "cn": "乡下"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous passons tous les étés chez mes parents à la campagne.",
+        "cn": "我们每年夏天都去我父母乡下家里过。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4916,7 +6031,12 @@
         "cn": "省份"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa famille vit en province depuis plus de trois générations.",
+        "cn": "他家在外省已经住了三代以上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4938,7 +6058,12 @@
         "cn": "县"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce district rural manque encore de médecins et d'écoles.",
+        "cn": "这个乡村县仍然缺少医生和学校。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4960,7 +6085,12 @@
         "cn": "地址"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Écrivez votre adresse complète au dos de cette enveloppe.",
+        "cn": "请把您的详细地址写在这个信封背面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4982,7 +6112,12 @@
         "cn": "名字"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le facteur a mal écrit mon nom sur le paquet.",
+        "cn": "邮差把我的名字写在包裹上时写错了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5004,7 +6139,12 @@
         "cn": "收件人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le destinataire habite au deuxième étage de ce bâtiment.",
+        "cn": "收件人住在这栋楼的二层。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5026,7 +6166,12 @@
         "cn": "发件人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'expéditeur a oublié d'écrire son nom et son adresse.",
+        "cn": "寄件人忘了写上自己的姓名和地址。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5048,7 +6193,12 @@
         "cn": "邮资已付"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette enveloppe affranchie peut partir dès ce soir même.",
+        "cn": "这个已付邮资的信封今晚就能寄出。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5070,7 +6220,12 @@
         "cn": "邮票"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il colle un timbre sur l'enveloppe avant de sortir.",
+        "cn": "他出门前在信封上贴了一张邮票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5092,7 +6247,12 @@
         "cn": "集邮册"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon oncle garde ses plus beaux timbres dans un album.",
+        "cn": "我叔叔把最好的邮票保存在集邮册里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5114,7 +6274,12 @@
         "cn": "集邮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La philatélie passionne encore beaucoup de collectionneurs très âgés.",
+        "cn": "集邮仍然让许多年长的收藏者着迷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5136,7 +6301,12 @@
         "cn": "信封"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a glissé la lettre dans une grande enveloppe blanche.",
+        "cn": "他把信装进了一个白色大信封。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5158,7 +6328,12 @@
         "cn": "纸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle écrit l'adresse sur un petit morceau de papier.",
+        "cn": "她把地址写在一小片纸上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5180,7 +6355,12 @@
         "cn": "浆糊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il met un peu de colle sur le rabat de l'enveloppe.",
+        "cn": "他在信封的封口处涂了一点浆糊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5202,7 +6382,12 @@
         "cn": "回信"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'attends encore la réponse à ma dernière longue lettre.",
+        "cn": "我还在等对我那封长信的回信。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5224,7 +6409,12 @@
         "cn": "做记号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le facteur cote chaque colis avant de le ranger.",
+        "cn": "邮差给每个包裹做记号后才收起来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5246,7 +6436,12 @@
         "cn": "快递的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a envoyé le dossier exprès pour qu'il arrive lundi.",
+        "cn": "他用快递寄了材料，好让它星期一寄到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5268,7 +6463,12 @@
         "cn": "送信者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les porteurs de courrier partent très tôt le matin.",
+        "cn": "送信的人一大早就出发了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5290,7 +6490,12 @@
         "cn": "附带的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce n'est qu'un problème épisodique, sans lien avec le bail.",
+        "cn": "这只是一个偶发的小问题，和租约无关。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5312,7 +6517,12 @@
         "cn": "包裹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un paquet est arrivé ce matin pour les voisins du troisième étage.",
+        "cn": "今天早上有一个包裹送到，是给四楼邻居的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5334,7 +6544,12 @@
         "cn": "包裹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai reçu un grand colis à la maison hier après-midi.",
+        "cn": "昨天下午我在家收到一个大包裹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5356,7 +6571,12 @@
         "cn": "细长的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un jeune homme élancé attend devant la porte de l'immeuble.",
+        "cn": "一个身材细长的年轻人在楼门口等着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5378,7 +6598,12 @@
         "cn": "邮费"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'affranchissement de cette lettre coûte presque deux euros aujourd'hui.",
+        "cn": "现在寄这封信的邮费将近两欧元。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5400,7 +6625,12 @@
         "cn": "海外"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon cousin habite outre-mer et nous appelle chaque dimanche soir.",
+        "cn": "我表兄住在海外，每周日晚上都给我们打电话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5422,7 +6652,12 @@
         "cn": "签收"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il doit acquitter la facture d'électricité avant la fin du mois.",
+        "cn": "他必须在月底之前付清电费单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5444,7 +6679,12 @@
         "cn": "银行"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque ferme ses portes à dix-sept heures ce vendredi.",
+        "cn": "这家银行这个周五十七点关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5466,7 +6706,12 @@
         "cn": "账户"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon compte n'a plus assez d'argent pour payer le loyer.",
+        "cn": "我的账户里钱不够付房租了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5488,7 +6733,12 @@
         "cn": "银行家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le banquier nous a proposé un prêt sur dix ans.",
+        "cn": "银行家向我们推荐了一笔十年期的贷款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5510,7 +6760,12 @@
         "cn": "证实"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le propriétaire demande une justification écrite pour chaque dépense.",
+        "cn": "房东要求每一笔支出都有一份书面证明。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5532,7 +6787,12 @@
         "cn": "冻结"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La banque a gelé son compte après plusieurs chèques sans provision.",
+        "cn": "在几张空头支票之后，银行冻结了他的账户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5554,7 +6814,12 @@
         "cn": "透支额"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon compte est à découvert depuis le début du mois.",
+        "cn": "我的账户从这个月初起就透支了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5576,7 +6841,12 @@
         "cn": "背书"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a endossé le chèque avant de le déposer à la banque.",
+        "cn": "他在把支票存进银行之前先做了背书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5598,7 +6868,12 @@
         "cn": "货"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je n'ai pas la monnaie pour payer le livreur.",
+        "cn": "我没有零钱付给送货员。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5620,7 +6895,12 @@
         "cn": "钱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle garde son argent dans une petite boîte sous le lit.",
+        "cn": "她把钱放在床底下的一个小盒子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5642,7 +6922,12 @@
         "cn": "兑换"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons changer de l'argent avant de partir en vacances.",
+        "cn": "我们出发度假前得去兑换一些钱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5664,7 +6949,12 @@
         "cn": "货币的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La crise monétaire a fait monter le prix des meubles importés.",
+        "cn": "货币危机让进口家具的价格上涨了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5686,7 +6976,12 @@
         "cn": "欧元"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux canapé ne coûte que cinquante euros au marché.",
+        "cn": "这张旧沙发在市场上只要五十欧元。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5708,7 +7003,12 @@
         "cn": "法郎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand-père payait son loyer en francs, il y a longtemps.",
+        "cn": "他祖父很久以前是用法郎付房租的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5730,7 +7030,12 @@
         "cn": "纸币"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le papier-monnaie reste encore rare dans plusieurs pays voisins.",
+        "cn": "纸币在好几个邻国仍然很少见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5752,7 +7057,12 @@
         "cn": "银行存款余额"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je vérifie le solde de mon compte chaque fin de mois.",
+        "cn": "我每个月底都会查一下账户余额。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5774,7 +7084,12 @@
         "cn": "存款"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il dépose cent euros sur son compte chaque premier lundi.",
+        "cn": "他每个月第一个周一往账户里存一百欧元。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5796,7 +7111,12 @@
         "cn": "支付"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous versons chaque mois une somme fixe pour le loyer.",
+        "cn": "我们每月支付一笔固定的房租。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5818,7 +7138,12 @@
         "cn": "转账"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a viré la caution au propriétaire la semaine dernière.",
+        "cn": "她上周把押金转给了房东。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5840,7 +7165,12 @@
         "cn": "取出"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un retrait de deux cents euros suffit pour le week-end.",
+        "cn": "取两百欧元就够这个周末用了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5862,7 +7192,12 @@
         "cn": "清单"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bordereau de livraison est posé sur la table de l'entrée.",
+        "cn": "送货单放在玄关的桌子上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5884,7 +7219,12 @@
         "cn": "支票本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai oublié mon chéquier chez le notaire ce matin.",
+        "cn": "今天早上我把支票本忘在公证人那里了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5906,7 +7246,12 @@
         "cn": "债券"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son mari préfère les obligations aux actions depuis deux ans.",
+        "cn": "她丈夫两年来更偏爱债券而不是股票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5928,7 +7273,12 @@
         "cn": "贷款"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous remboursons encore notre prêt immobilier chaque mois depuis cinq ans.",
+        "cn": "五年来我们每月还在还房贷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5950,7 +7300,12 @@
         "cn": "如期支付"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a honoré toutes ses factures avant de quitter l'appartement.",
+        "cn": "他在搬出公寓前付清了所有账单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5972,7 +7327,12 @@
         "cn": "投资"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce placement rapporte peu, mais il reste très sûr.",
+        "cn": "这项投资收益不高，但非常稳妥。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5994,7 +7354,12 @@
         "cn": "有价证券"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon banquier gère un portefeuille diversifié pour toute la famille.",
+        "cn": "我的银行家为全家管理一个多元化的证券组合。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6016,7 +7381,12 @@
         "cn": "兑现"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le commerçant a encaissé le chèque sans vérifier la signature.",
+        "cn": "商家没有核对签名就兑现了支票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6038,7 +7408,12 @@
         "cn": "证券"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces titres perdent de la valeur depuis le début de l'année.",
+        "cn": "这些证券从年初起就在贬值。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6060,7 +7435,12 @@
         "cn": "头发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses cheveux blonds sont encore mouillés après la douche.",
+        "cn": "她的金发洗完澡后还是湿的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6082,7 +7462,12 @@
         "cn": "头皮屑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a des pellicules sur le col de sa veste.",
+        "cn": "他外套领子上有头皮屑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6104,7 +7489,12 @@
         "cn": "长的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a les jambes longues et une démarche très légère.",
+        "cn": "她腿很长，走路的样子很轻盈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6126,7 +7516,12 @@
         "cn": "短的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses cheveux courts lui donnent un air plus sérieux.",
+        "cn": "短发让他看起来更稳重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6148,7 +7543,12 @@
         "cn": "秀的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son oncle est chauve depuis l'âge de trente ans.",
+        "cn": "他叔叔从三十岁起就秃顶了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6170,7 +7570,12 @@
         "cn": "光秀的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chat pelé dort sur le vieux fauteuil du salon.",
+        "cn": "那只掉毛的猫睡在客厅的旧扶手椅上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6192,7 +7597,12 @@
         "cn": "弄乱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants ont bouleversé toute la chambre en une heure.",
+        "cn": "孩子们一个小时就把整个房间弄得乱七八糟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6214,7 +7624,12 @@
         "cn": "蓬乱的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est sortie échevelée, sans même se regarder dans la glace.",
+        "cn": "她头发蓬乱地就出门了，连镜子都没照。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6236,7 +7651,12 @@
         "cn": "混乱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a un grand désordre dans la cuisine après le repas.",
+        "cn": "饭后厨房里一片凌乱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6258,7 +7678,12 @@
         "cn": "假发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il porte une perruque brune pour cacher sa calvitie.",
+        "cn": "他戴一顶棕色假发来遮掩秃顶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6280,7 +7705,12 @@
         "cn": "假发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette barbe postiche est trop visible sous la lumière.",
+        "cn": "这假胡子在灯光下太显眼了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6302,7 +7732,12 @@
         "cn": "卷发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses frisures naturelles sèchent très lentement devant le miroir de l'entrée.",
+        "cn": "她天生的卷发在玄关的镜子前干得很慢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6324,7 +7759,12 @@
         "cn": "直的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses cheveux sont raides et tombent droit sur ses épaules.",
+        "cn": "她的头发很直，笔直地垂在肩上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6346,7 +7786,12 @@
         "cn": "干燥的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'air de la chambre est trop sec en hiver.",
+        "cn": "冬天卧室里的空气太干燥了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6368,7 +7813,12 @@
         "cn": "理发师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le barbier du quartier rase encore ses clients au couteau.",
+        "cn": "街区的理发师还在用剃刀给客人刮脸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6390,7 +7840,12 @@
         "cn": "理发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle se coiffe devant la glace chaque matin avant de partir.",
+        "cn": "她每天早上出门前都在镜子前梳头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6412,7 +7867,12 @@
         "cn": "剪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le coiffeur tond les cheveux très courts du petit garçon.",
+        "cn": "理发师把小男孩的头发剪得很短。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6434,7 +7894,12 @@
         "cn": "卷曲的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son petit frère a les cheveux frisés comme sa mère.",
+        "cn": "他弟弟和妈妈一样是卷发。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6456,7 +7921,12 @@
         "cn": "分开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La division du salon en deux pièces demande des travaux.",
+        "cn": "把客厅分成两间需要施工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6478,7 +7948,12 @@
         "cn": "分开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons séparé la grande chambre avec un rideau épais.",
+        "cn": "我们用一块厚帘子把大卧室隔开了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6500,7 +7975,12 @@
         "cn": "边"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a refait l'ourlet de son pantalon avant le mariage.",
+        "cn": "她在婚礼前把裤脚重新缝好了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6522,7 +8002,12 @@
         "cn": "卷起"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un léger rebroussement du tapis bloque la porte d'entrée.",
+        "cn": "地毯微微卷起，卡住了大门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6544,7 +8029,12 @@
         "cn": "乳胶"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut remuer l'émulsion avant de peindre le mur.",
+        "cn": "刷墙之前要把乳胶漆搅匀。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6566,7 +8056,12 @@
         "cn": "软化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chaleur a amolli la cire sur le parquet ancien.",
+        "cn": "高温让旧木地板上的蜡变软了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6588,7 +8083,12 @@
         "cn": "染色"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette coloration naturelle donne un reflet doré à ses cheveux.",
+        "cn": "这种天然染发剂给她的头发添了一层金色光泽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6610,7 +8110,12 @@
         "cn": "剪刀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ciseaux de cuisine sont rangés dans le tiroir du haut.",
+        "cn": "厨房剪刀收在上面的抽屉里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6632,7 +8137,12 @@
         "cn": "冲洗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut rincer les verres à l'eau chaude avant de les essuyer.",
+        "cn": "擦干之前要用热水把杯子冲一遍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6654,7 +8164,12 @@
         "cn": "梳理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle essaie de démêler ses cheveux mouillés avec patience.",
+        "cn": "她耐心地试着把湿头发梳开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6676,7 +8191,12 @@
         "cn": "副食商场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous achetons les légumes frais aux halles chaque samedi matin.",
+        "cn": "我们每周六早上都去副食商场买新鲜蔬菜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6698,7 +8218,12 @@
         "cn": "店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le magasin de meubles ferme plus tôt le lundi soir.",
+        "cn": "家具店周一晚上关门更早。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6720,7 +8245,12 @@
         "cn": "店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette petite boutique vend des coussins faits à la main.",
+        "cn": "这家小店卖手工做的靠垫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6742,7 +8272,12 @@
         "cn": "杂货铺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On trouve de tout dans le bazar du coin de la rue.",
+        "cn": "街角的杂货铺里什么都能找到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6764,7 +8299,12 @@
         "cn": "超市"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le supermarché du quartier livre les courses à domicile.",
+        "cn": "街区超市提供食品杂货送货上门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6786,7 +8326,12 @@
         "cn": "书店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La librairie près de la gare reste ouverte jusqu'à neuf heures.",
+        "cn": "火车站附近的书店开到九点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6808,7 +8353,12 @@
         "cn": "杂货店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'épicerie du village ouvre tôt et ferme très tard.",
+        "cn": "村里的杂货店开门早，关门很晚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6830,7 +8380,12 @@
         "cn": "珠宝店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La bijouterie de la place expose des bagues assez chères.",
+        "cn": "广场上的珠宝店摆着一些相当贵的戒指。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6852,7 +8407,12 @@
         "cn": "当铺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a porté sa montre au mont-de-piété pour payer le loyer.",
+        "cn": "他把手表拿到当铺，好付房租。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6874,7 +8434,12 @@
         "cn": "宠物店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'animalerie vend des chats et des cages en bois.",
+        "cn": "宠物店卖猫和木笼子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6896,7 +8461,12 @@
         "cn": "肉店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La petite boucherie du quartier ferme le dimanche après-midi.",
+        "cn": "街区那家小肉店周日下午关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6918,7 +8488,12 @@
         "cn": "面包店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je passe à la boulangerie avant de rentrer à la maison.",
+        "cn": "我回家前会先去一趟面包店。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6940,7 +8515,12 @@
         "cn": "花"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a posé une fleur blanche sur la table de la cuisine.",
+        "cn": "她在厨房桌上放了一朵白花。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6962,7 +8542,12 @@
         "cn": "百合"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bouquet de lys parfume tout le salon depuis hier soir.",
+        "cn": "从昨晚起，一束百合就让整个客厅满是香气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6984,7 +8569,12 @@
         "cn": "向日葵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vase du salon contient trois tournesols jaunes très hauts.",
+        "cn": "客厅的花瓶里插着三支很高的黄向日葵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7006,7 +8596,12 @@
         "cn": "子花"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gardénia fleurit près de la fenêtre de la salle à manger.",
+        "cn": "栀子花在餐厅窗边开花。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7028,7 +8623,12 @@
         "cn": "山茶花"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce camélia rose pousse contre le mur du jardin.",
+        "cn": "这株粉色山茶花贴着花园的墙生长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7050,7 +8650,12 @@
         "cn": "郁金香"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a planté des tulipes rouges devant la porte d'entrée.",
+        "cn": "她在门口种了些红色郁金香。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7072,7 +8677,12 @@
         "cn": "茉莉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le jasmin grimpe le long de la fenêtre de la chambre.",
+        "cn": "茉莉顺着卧室的窗户往上爬。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7094,7 +8704,12 @@
         "cn": "菊花"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On offre des chrysanthèmes aux grands-parents au mois de novembre.",
+        "cn": "十一月人们会送菊花给祖父母。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7116,7 +8731,12 @@
         "cn": "雏菊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une marguerite blanche décore la petite table du balcon.",
+        "cn": "一朵白雏菊装点着阳台的小桌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7138,7 +8758,12 @@
         "cn": "凤仙花"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La balsamine rose fleurit près du vieux mur de la cour.",
+        "cn": "粉色凤仙花在院子旧墙边开花。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7160,7 +8785,12 @@
         "cn": "丁香"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tu allas au marché acheter des fleurs pour ta mère.",
+        "cn": "那天你去市场给母亲买了些花。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7182,7 +8812,12 @@
         "cn": "牡丹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les pivoines du jardin s'ouvrent au début du printemps.",
+        "cn": "花园里的牡丹在初春开放。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7204,7 +8839,12 @@
         "cn": "薰衣草"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un sachet de lavande parfume l'armoire de la chambre.",
+        "cn": "一个薰衣草香包让卧室的衣柜带着香味。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7226,7 +8866,12 @@
         "cn": "紫罗兰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a mis quelques violettes dans un petit verre.",
+        "cn": "她把几朵紫罗兰插在一个小玻璃杯里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7248,7 +8893,12 @@
         "cn": "眼镜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mes lunettes sont restées sur la table de nuit.",
+        "cn": "我的眼镜落在床头柜上了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7270,7 +8920,12 @@
         "cn": "眼镜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon grand-père cherche encore son binocle dans le salon.",
+        "cn": "我祖父还在客厅里找他的眼镜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7292,7 +8947,12 @@
         "cn": "眼镜店"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'opticien du centre-ville répare mes lunettes en une heure.",
+        "cn": "市中心的眼镜店一小时内就修好我的眼镜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7314,7 +8974,12 @@
         "cn": "验光"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'examen de la vue dure environ vingt minutes chez l'opticien.",
+        "cn": "在眼镜店验光大约要二十分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7336,7 +9001,12 @@
         "cn": "视力好的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon voisin a des yeux perçants malgré son âge.",
+        "cn": "我邻居虽然年纪大了，视力却很好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7358,7 +9028,12 @@
         "cn": "配镜师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'optométriste ajuste chaque monture avant de la vendre au client.",
+        "cn": "配镜师在把每副镜架卖给顾客前都会调好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7380,7 +9055,12 @@
         "cn": "散光"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son astigmatisme l'oblige à porter des lunettes spéciales pour conduire.",
+        "cn": "他的散光让他开车时必须戴特制眼镜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7402,7 +9082,12 @@
         "cn": "度数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma vue a baissé de deux degrés en un an.",
+        "cn": "我的视力一年里下降了两度。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7424,7 +9109,12 @@
         "cn": "磅秤"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La bascule du marché indique un poids un peu différent.",
+        "cn": "市场的磅秤显示的重量有点不一样。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7446,7 +9136,12 @@
         "cn": "标签"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce label garantit que les meubles viennent de forêts gérées.",
+        "cn": "这个标签保证家具来自受管理的森林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7468,7 +9163,12 @@
         "cn": "价格"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prix du loyer augmente chaque année dans ce quartier.",
+        "cn": "这个街区的房租每年都在涨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7490,7 +9190,12 @@
         "cn": "口香糖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a collé un chewing-gum sous la table du salon.",
+        "cn": "他把一块口香糖粘在了客厅桌子底下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7512,7 +9217,12 @@
         "cn": "昂贵的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux canapé est trop cher pour notre budget.",
+        "cn": "这张旧沙发对我们的预算来说太贵了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7534,7 +9244,12 @@
         "cn": "可食用的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce pain rassis n'est plus vraiment mangeable après trois jours.",
+        "cn": "这面包放三天后真的不能吃了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7556,7 +9271,12 @@
         "cn": "不景气的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'économie stagnante inquiète beaucoup les petits commerçants du quartier.",
+        "cn": "停滞的经济让街区的小商贩很不安。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7578,7 +9298,12 @@
         "cn": "生意平淡"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La mévente des meubles anciens oblige le magasin à fermer.",
+        "cn": "旧家具卖不动，这家店只好关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7600,7 +9325,12 @@
         "cn": "广场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants jouent sur la place devant la mairie.",
+        "cn": "孩子们在市政厅前的广场上玩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7622,7 +9352,12 @@
         "cn": "喷泉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fontaine de la place ne marche plus depuis l'été.",
+        "cn": "广场上的喷泉从夏天起就不出水了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7644,7 +9379,12 @@
         "cn": "花坛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le parterre devant l'immeuble est plein de tulipes jaunes.",
+        "cn": "楼前的花坛里开满了黄郁金香。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7666,7 +9406,12 @@
         "cn": "没有阻碍的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vue est bien dégagée depuis la fenêtre du salon.",
+        "cn": "从客厅的窗户望出去视野很开阔。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7688,7 +9433,12 @@
         "cn": "长椅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un vieux banc de bois attend les habitants sous les arbres.",
+        "cn": "一张旧木长椅在树下等着居民们。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7710,7 +9460,12 @@
         "cn": "花坛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une jardinière de géraniums décore le balcon du deuxième étage.",
+        "cn": "一个种满天竺葵的花箱装点着二楼的阳台。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7732,7 +9487,12 @@
         "cn": "鸽子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un pigeon gris s'est posé sur le rebord de la fenêtre.",
+        "cn": "一只灰鸽子落在窗台上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7754,7 +9514,12 @@
         "cn": "连续地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a visité successivement trois appartements avant de choisir le sien.",
+        "cn": "他接连看了三套公寓才挑中自己那套。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7776,7 +9541,12 @@
         "cn": "底座"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soubassement du vieil immeuble est couvert de mousse.",
+        "cn": "这栋老楼的底座上长满了青苔。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7798,7 +9568,12 @@
         "cn": "公开的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le jardin est ouvert au public tous les après-midi.",
+        "cn": "这个花园每天下午向公众开放。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7820,7 +9595,12 @@
         "cn": "小贩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un colporteur vend des tapis devant la gare chaque matin.",
+        "cn": "每天早上都有个小贩在火车站前卖地毯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7842,7 +9622,12 @@
         "cn": "多样化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La diversité des commerces rend ce quartier très agréable.",
+        "cn": "商铺的多样化让这个街区非常舒适。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7864,7 +9649,12 @@
         "cn": "摊位"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le stand de fruits attire beaucoup de monde le samedi.",
+        "cn": "水果摊周六吸引很多人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7886,7 +9676,12 @@
         "cn": "水果摊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le rayon fruitier du supermarché propose des pommes locales.",
+        "cn": "超市的水果区有本地产的苹果。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7908,7 +9703,12 @@
         "cn": "成衣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La confection de rideaux sur mesure coûte assez cher.",
+        "cn": "定做窗帘相当贵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7930,7 +9730,12 @@
         "cn": "搜寻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous recherchons depuis un mois un appartement calme près du centre.",
+        "cn": "我们找了一个月，想租市中心附近一套安静的房子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7952,7 +9757,12 @@
         "cn": "热闹的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le quartier est très animé le soir grâce aux terrasses.",
+        "cn": "因为那些露天座位，这里晚上很热闹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7974,7 +9784,12 @@
         "cn": "使活跃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces nouveaux magasins ont activé le commerce du quartier.",
+        "cn": "这些新店铺让街区的商业活跃起来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7996,7 +9811,12 @@
         "cn": "兽医"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vétérinaire passe à la maison pour soigner notre chien.",
+        "cn": "兽医上门来给我们家的狗看病。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8018,7 +9838,12 @@
         "cn": "液体喷射器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vétérinaire prépare une seringue pour le vieux chat.",
+        "cn": "兽医在给那只老猫准备一支注射器。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8040,7 +9865,12 @@
         "cn": "培养"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle cultive des tomates et des herbes sur son balcon.",
+        "cn": "她在阳台上种西红柿和香草。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8062,7 +9892,12 @@
         "cn": "怀孕的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa sœur est enceinte et prépare déjà la chambre du bébé.",
+        "cn": "她姐姐怀孕了，已经在布置婴儿房。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8084,7 +9919,12 @@
         "cn": "澜割"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'émasculation du chat demande une nuit de repos à la maison.",
+        "cn": "给猫做阉割手术后需要在家静养一晚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8106,7 +9946,12 @@
         "cn": "疯狂地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chien remue la queue frénétiquement quand je rentre.",
+        "cn": "我一回家，狗就拼命摇尾巴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8128,7 +9973,12 @@
         "cn": "喂养"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut nourrir le chat deux fois par jour, pas plus.",
+        "cn": "猫一天要喂两次，不能更多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8150,7 +10000,12 @@
         "cn": "减轻痛苦的事物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La plomberie fonctionne enfin, c'est un vrai soulagement pour nous.",
+        "cn": "水管终于通了，这对我们真是莫大的安慰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8172,7 +10027,12 @@
         "cn": "小便池"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pissoir du couloir sent mauvais depuis plusieurs jours.",
+        "cn": "走廊里的小便池好几天来一直很难闻。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8194,7 +10054,12 @@
         "cn": "小便"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chien veut uriner dès qu'il sort dans la rue.",
+        "cn": "狗一上街就想撒尿。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8216,7 +10081,12 @@
         "cn": "大解"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin demande si ses selles sont normales depuis hier.",
+        "cn": "医生问他从昨天起大便是否正常。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8238,7 +10108,12 @@
         "cn": "臭味"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une puanteur étrange monte de l'égout devant notre immeuble.",
+        "cn": "一股奇怪的臭味从楼前的下水道冒上来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8260,7 +10135,12 @@
         "cn": "使畅通"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut dégager le couloir avant l'arrivée des déménageurs.",
+        "cn": "搬家工人来之前得把走廊清空。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8282,7 +10162,12 @@
         "cn": "垃圾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ordures sont sorties le mardi et le vendredi soir.",
+        "cn": "垃圾在周二和周五晚上拿出去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8304,7 +10189,12 @@
         "cn": "垃圾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle jette les balayures dans le sac gris de la cuisine.",
+        "cn": "她把扫起来的垃圾倒进厨房的灰袋子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8326,7 +10216,12 @@
         "cn": "废物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous trions les déchets dans trois poubelles différentes chaque semaine.",
+        "cn": "我们每周把垃圾分装进三个不同的垃圾桶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8348,7 +10243,12 @@
         "cn": "废料"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux fauteuil est bon pour le rebut depuis longtemps.",
+        "cn": "这张旧扶手椅早就该当废品扔了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8370,7 +10270,12 @@
         "cn": "下水道"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'égout de la rue est bouché depuis la semaine dernière.",
+        "cn": "街上的下水道从上星期起就堵了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8392,7 +10297,12 @@
         "cn": "净化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette plante purifie l'air de la chambre pendant la nuit.",
+        "cn": "这种植物夜里能净化卧室的空气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8414,7 +10324,12 @@
         "cn": "净化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La purification de l'eau du robinet rassure beaucoup les habitants.",
+        "cn": "自来水的净化让居民们放心不少。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8436,7 +10351,12 @@
         "cn": "清除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je balaie la cuisine chaque soir après le dîner.",
+        "cn": "我每天晚上吃完饭都扫一遍厨房。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8458,7 +10378,12 @@
         "cn": "分解"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est difficile de dissocier ces deux odeurs dans la cuisine.",
+        "cn": "在厨房里很难把这两种气味区分开。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8480,7 +10405,12 @@
         "cn": "垃圾场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La décharge se trouve loin des maisons du village.",
+        "cn": "垃圾场离村里的房子很远。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8502,7 +10432,12 @@
         "cn": "捡垃圾者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un vieux chiffonnier trie les poubelles derrière notre immeuble chaque matin.",
+        "cn": "每天早上都有个年老的拾荒者在楼后翻垃圾桶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

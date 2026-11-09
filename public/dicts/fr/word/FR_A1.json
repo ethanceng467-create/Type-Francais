@@ -5450,7 +5450,12 @@
         "cn": "看见"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je veux voir ce film avec toi ce soir.",
+        "cn": "今晚我想和你一起看这部电影。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5472,7 +5477,12 @@
         "cn": "必须；需要（无人称）"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il va falloir travailler plus vite pour finir aujourd'hui.",
+        "cn": "今天得干得更快些才能完成。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5494,7 +5504,12 @@
         "cn": "跟随；接着"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous suivons le petit chemin jusqu'au village à pied.",
+        "cn": "我们步行沿着小路走到村里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5516,7 +5531,12 @@
         "cn": "事情；东西"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a beaucoup de choses à faire aujourd'hui.",
+        "cn": "今天有很多事情要做。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5538,7 +5558,12 @@
         "cn": "经过；度过"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je passe devant ta maison tous les matins.",
+        "cn": "我每天早上都经过你家门口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5560,7 +5585,12 @@
         "cn": "相信；认为"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je crois que ce garçon dit toujours la vérité.",
+        "cn": "我相信这个男孩总是说实话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5582,7 +5612,12 @@
         "cn": "想；认为"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je pense souvent à mes amis de Paris.",
+        "cn": "我常常想起巴黎的朋友们。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5604,7 +5639,12 @@
         "cn": "次；回"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je vais au cinéma deux fois par semaine.",
+        "cn": "我每周去看两次电影。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5626,7 +5666,12 @@
         "cn": "留下；让"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Laisse ton sac ici, on revient tout à l'heure.",
+        "cn": "把包放这儿吧，我们一会儿就回来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5648,7 +5693,12 @@
         "cn": "手"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle tient un livre dans la main droite.",
+        "cn": "她右手拿着一本书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5670,7 +5720,12 @@
         "cn": "眼睛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a quelque chose de bizarre dans l'œil gauche.",
+        "cn": "他左眼里有个奇怪的东西。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5692,7 +5747,12 @@
         "cn": "问；要求"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il me demande où se trouve la gare.",
+        "cn": "他问我车站在哪儿。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5714,7 +5774,12 @@
         "cn": "等待"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous attendons le bus devant la gare depuis longtemps.",
+        "cn": "我们在车站前等公交车很久了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5736,7 +5801,12 @@
         "cn": "生活；生命"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vie à la campagne est très calme et simple.",
+        "cn": "乡下的生活非常平静而简单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5758,7 +5828,12 @@
         "cn": "留下；停留"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je reste à la maison ce soir avec ma sœur.",
+        "cn": "今晚我和妹妹待在家里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5780,7 +5855,12 @@
         "cn": "别的；另一个"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tu veux un autre café ou du thé?",
+        "cn": "你想再来一杯咖啡还是喝茶？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5802,7 +5882,12 @@
         "cn": "头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a mal à la tête depuis ce matin.",
+        "cn": "从今天早上起他就头疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5824,7 +5909,12 @@
         "cn": "世界；人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Beaucoup de gens dans le monde parlent français.",
+        "cn": "世界上很多人说法语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5846,7 +5936,12 @@
         "cn": "也许"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Peut-être que le magasin est fermé le lundi.",
+        "cn": "也许这家商店星期一关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5868,7 +5963,12 @@
         "cn": "听见；听懂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'entends un bruit étrange derrière la vieille porte.",
+        "cn": "我听见旧门后面有奇怪的声音。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5890,7 +5990,12 @@
         "cn": "一击；一次"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il donne un coup de pied dans le ballon.",
+        "cn": "他踢了球一脚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5912,7 +6017,12 @@
         "cn": "出去；拿出"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous sortons de la maison à huit heures.",
+        "cn": "我们八点出门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5934,7 +6044,12 @@
         "cn": "叫；打电话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je vais appeler ma mère ce soir après dîner.",
+        "cn": "今晚晚饭后我要给妈妈打电话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5956,7 +6071,12 @@
         "cn": "夜晚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nuit, les rues de la ville sont très calmes.",
+        "cn": "夜里城市的街道非常安静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5978,7 +6098,12 @@
         "cn": "拿着；握住"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il peut tenir ce sac toute la journée.",
+        "cn": "他能提着这个包一整天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6000,7 +6125,12 @@
         "cn": "感觉；闻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous sentons une bonne odeur de pain chaud.",
+        "cn": "我们闻到一股热面包的香味。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6022,7 +6152,12 @@
         "cn": "停止；逮捕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bus s'arrête devant l'école tous les matins.",
+        "cn": "公交车每天早上停在学校门口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6044,7 +6179,12 @@
         "cn": "空气；神态"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'air est frais ce matin dans la forêt.",
+        "cn": "今天早上森林里的空气很凉爽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6066,7 +6206,12 @@
         "cn": "时刻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je reviens dans un petit moment, attendez-moi ici.",
+        "cn": "我一会儿就回来，你在这儿等我。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6088,7 +6233,12 @@
         "cn": "确定的；安全的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je suis sûr que tu vas réussir cet examen.",
+        "cn": "我确信你会通过这次考试。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6110,7 +6260,12 @@
         "cn": "第一的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est mon premier jour de travail dans cette entreprise.",
+        "cn": "这是我在该公司上班的第一天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6132,7 +6287,12 @@
         "cn": "死"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les plantes peuvent mourir sans eau en été.",
+        "cn": "夏天植物没有水会死。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6154,7 +6314,12 @@
         "cn": "神；上帝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans ce livre, un dieu protège les voyageurs.",
+        "cn": "在这本书里，一位神保护着旅人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6176,7 +6341,12 @@
         "cn": "真的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce n'est pas vrai, il raconte toujours des histoires.",
+        "cn": "这不是真的，他总爱编故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6198,7 +6368,12 @@
         "cn": "回来"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils doivent revenir à la maison avant la nuit.",
+        "cn": "他们必须在天黑前回家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6220,7 +6395,12 @@
         "cn": "真地；确实"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce film est vraiment très intéressant, tout le monde l'aime.",
+        "cn": "这部电影确实很有趣，大家都喜欢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6242,7 +6422,12 @@
         "cn": "变成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devenons tous un peu différents avec l'âge.",
+        "cn": "随着年龄增长，我们都会变得有些不同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6264,7 +6449,12 @@
         "cn": "更好地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille mieux le matin que le soir.",
+        "cn": "他早上比晚上干得好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6286,7 +6476,12 @@
         "cn": "归还；使变成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je dois rendre ce livre à la bibliothèque demain.",
+        "cn": "明天我得把这本书还给图书馆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6308,7 +6503,12 @@
         "cn": "活着；生活"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils veulent vivre en France avec leurs enfants.",
+        "cn": "他们想和孩子们一起在法国生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6330,7 +6530,12 @@
         "cn": "旁边；方面"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon frère marche à côté de moi sans parler.",
+        "cn": "我哥哥走在我旁边，一言不发。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6352,7 +6557,12 @@
         "cn": "人们"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les gens de ce village sont très gentils.",
+        "cn": "这个村子里的人都很友善。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6374,7 +6584,12 @@
         "cn": "词；话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je ne comprends pas ce mot, tu peux m'aider?",
+        "cn": "我不懂这个词，你能帮我吗？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6396,7 +6611,12 @@
         "cn": "好像；似乎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il semble fatigué ce matin, il ne dit rien.",
+        "cn": "他今天早上好像很累，什么也不说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6418,7 +6638,12 @@
         "cn": "死亡"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La mort fait peur à beaucoup de gens.",
+        "cn": "死亡让很多人害怕。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6440,7 +6665,12 @@
         "cn": "名字；姓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je ne connais pas le nom de cette rue.",
+        "cn": "我不知道这条街的名字。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6462,7 +6692,12 @@
         "cn": "声音；嗓音"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix est douce et calme au téléphone.",
+        "cn": "她在电话里的声音柔和而平静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6484,7 +6719,12 @@
         "cn": "需要"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai besoin de ton aide pour ce travail.",
+        "cn": "这项工作我需要你的帮助。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6506,7 +6746,12 @@
         "cn": "丢失；输"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je perds toujours mes clés dans cette maison.",
+        "cn": "我老是把这房子里的钥匙弄丢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6528,7 +6773,12 @@
         "cn": "跌倒；掉落"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon petit frère tombe souvent en faisant du vélo.",
+        "cn": "我弟弟骑车时经常摔倒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6550,7 +6800,12 @@
         "cn": "脸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son visage devient rouge quand il parle en public.",
+        "cn": "他在众人面前说话时脸会变红。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6572,7 +6827,12 @@
         "cn": "杀死"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce médicament peut tuer les insectes de la maison.",
+        "cn": "这种药能杀死屋里的虫子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6594,7 +6854,12 @@
         "cn": "携带；穿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle porte une robe bleue à la fête.",
+        "cn": "她穿着一条蓝裙子去参加聚会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6616,7 +6881,12 @@
         "cn": "爱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'amour de sa famille lui donne beaucoup de force.",
+        "cn": "家人的爱给了他很多力量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6638,7 +6908,12 @@
         "cn": "尝试"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'essaie de parler français un peu tous les jours.",
+        "cn": "我尽量每天说一点法语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6660,7 +6935,12 @@
         "cn": "进入"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il entre dans la salle sans dire un mot.",
+        "cn": "他一句话不说就走进大厅。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6682,7 +6962,12 @@
         "cn": "玩；演奏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants jouent au ballon dans le jardin.",
+        "cn": "孩子们在花园里玩球。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6704,7 +6989,12 @@
         "cn": "位置；广场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il n'y a plus de place dans ce train.",
+        "cn": "这趟火车上没有空位了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6726,7 +7016,12 @@
         "cn": "最后的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est le dernier train pour Paris ce soir.",
+        "cn": "这是今晚去巴黎的最后一班火车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6748,7 +7043,12 @@
         "cn": "身体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sport est bon pour le corps et l'esprit.",
+        "cn": "运动对身体和精神都有好处。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6770,7 +7070,12 @@
         "cn": "大地；土地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les paysans travaillent la terre du matin au soir.",
+        "cn": "农民们从早到晚在地里干活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6792,7 +7097,12 @@
         "cn": "脚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai mal au pied depuis ma chute hier.",
+        "cn": "昨天摔了一跤后我的脚一直疼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6814,7 +7124,12 @@
         "cn": "回答"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle répond à toutes mes questions avec patience.",
+        "cn": "她耐心地回答我所有的问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6836,7 +7151,12 @@
         "cn": "拉；抽出"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tire la porte derrière lui en sortant.",
+        "cn": "他出门时随手把门拉上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6858,7 +7178,12 @@
         "cn": "害怕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon chien a peur des orages la nuit.",
+        "cn": "我的狗怕夜里打雷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6880,7 +7205,12 @@
         "cn": "远"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'école n'est vraiment pas loin de notre maison.",
+        "cn": "学校离我们家真的不远。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6902,7 +7232,12 @@
         "cn": "疼；不好"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai mal à la gorge et je tousse beaucoup.",
+        "cn": "我嗓子疼，而且咳得厉害。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6924,7 +7259,12 @@
         "cn": "重新找到；重逢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je retrouve mes amis devant la gare à midi.",
+        "cn": "中午我在车站前和朋友们碰面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6946,7 +7286,12 @@
         "cn": "手臂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle porte son bébé endormi dans ses bras.",
+        "cn": "她怀里抱着睡着的宝宝。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6968,7 +7313,12 @@
         "cn": "使坐下"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur fait asseoir les élèves avant le cours.",
+        "cn": "老师让学生们在课前坐下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6990,7 +7340,12 @@
         "cn": "黑色的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon chat noir dort sur le canapé du salon.",
+        "cn": "我的黑猫睡在客厅的沙发上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7012,7 +7367,12 @@
         "cn": "上升；登上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous montons au troisième étage sans prendre l'ascenseur.",
+        "cn": "我们不坐电梯，走上三楼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7034,7 +7394,12 @@
         "cn": "理由；道理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a raison, ce projet est trop difficile.",
+        "cn": "他说得对，这个项目太难了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7056,7 +7421,12 @@
         "cn": "故事；历史"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma grand-mère raconte une belle histoire aux enfants.",
+        "cn": "奶奶给孩子们讲了一个好听的故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7078,7 +7448,12 @@
         "cn": "仅仅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je prends seulement un café et un peu de pain.",
+        "cn": "我早上只喝一杯咖啡，吃一点面包。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7100,7 +7475,12 @@
         "cn": "问题"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur pose une question difficile à ses élèves.",
+        "cn": "老师向学生们提出一个难题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7122,7 +7502,12 @@
         "cn": "忘记"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je ne veux pas oublier ton anniversaire cette année.",
+        "cn": "今年我不想忘记你的生日。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7144,7 +7529,12 @@
         "cn": "长的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le voyage est long, mais le paysage est beau.",
+        "cn": "旅途很长，但风景很美。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7166,7 +7556,12 @@
         "cn": "举起；起床"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je me lève à sept heures tous les jours.",
+        "cn": "我每天七点起床。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7188,7 +7583,12 @@
         "cn": "想法；主意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est une bonne idée, allons au cinéma ce soir.",
+        "cn": "这主意不错，今晚去看电影吧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7210,7 +7610,12 @@
         "cn": "心；心脏"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon cœur bat vite quand je danse longtemps.",
+        "cn": "我跳舞跳久了心就跳得很快。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7232,7 +7637,12 @@
         "cn": "晚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est tard, je dois rentrer à la maison.",
+        "cn": "很晚了，我得回家了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7254,7 +7664,12 @@
         "cn": "同意；一致"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous sommes d'accord pour changer la date du voyage.",
+        "cn": "我们同意更改旅行的日期。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7276,7 +7691,12 @@
         "cn": "放置；提出"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle pose le livre sur la table et sort.",
+        "cn": "她把书放在桌上就出去了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7298,7 +7718,12 @@
         "cn": "出现；似乎"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette histoire paraît vraie, mais je doute encore.",
+        "cn": "这个故事听起来是真的，但我还是怀疑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7320,7 +7745,12 @@
         "cn": "走路；运转"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous marchons vite pour arriver avant la pluie.",
+        "cn": "我们快步走，想在雨来之前赶到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7342,7 +7772,12 @@
         "cn": "帮助"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tu peux m'aider à porter ces deux valises?",
+        "cn": "你能帮我搬这两个箱子吗？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7364,7 +7799,12 @@
         "cn": "辛苦；痛苦"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille dur et gagne à peine sa vie.",
+        "cn": "他辛苦干活，勉强维持生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7386,7 +7826,12 @@
         "cn": "白色的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il porte une chemise blanche et un pantalon noir.",
+        "cn": "他穿着白衬衫和黑裤子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7408,7 +7853,12 @@
         "cn": "儿子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur fils a dix ans et aime le football.",
+        "cn": "他们的儿子十岁，喜欢足球。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7430,7 +7880,12 @@
         "cn": "胖的；粗的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce gros chat gris dort près de la cheminée.",
+        "cn": "这只灰色的大胖猫睡在壁炉旁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7452,7 +7907,12 @@
         "cn": "正确的；公正的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ta réponse est juste, tu as bien compris.",
+        "cn": "你的答案是对的，你理解得很好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7474,7 +7934,12 @@
         "cn": "很久"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il reste longtemps devant la fenêtre à regarder la mer.",
+        "cn": "他在窗前久久地望着大海。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7496,7 +7961,12 @@
         "cn": "转；转向"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tourne à gauche après la banque et continue tout droit.",
+        "cn": "过了银行向左转，然后一直往前走。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7518,7 +7988,12 @@
         "cn": "满的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le panier est plein de pommes et de poires.",
+        "cn": "篮子里装满了苹果和梨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7540,7 +8015,12 @@
         "cn": "部分；份额"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il donne une part de gâteau à chaque enfant.",
+        "cn": "他给每个孩子分了一块蛋糕。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7562,7 +8042,12 @@
         "cn": "战争"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La guerre fait beaucoup de mal aux enfants.",
+        "cn": "战争给孩子们带来很多苦难。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7584,7 +8069,12 @@
         "cn": "末端；尽头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La boulangerie est au bout de cette rue.",
+        "cn": "面包店在这条街的尽头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7606,7 +8096,12 @@
         "cn": "离开"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il quitte son travail à six heures chaque soir.",
+        "cn": "他每天晚上六点下班。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7628,7 +8123,12 @@
         "cn": "目光；注视"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle baisse le regard quand on lui parle.",
+        "cn": "别人跟他说话时，他垂下目光。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7650,7 +8150,12 @@
         "cn": "改变；更换"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je change de train à la prochaine gare.",
+        "cn": "我在下一站换乘火车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7672,7 +8177,12 @@
         "cn": "钱；银"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il gagne assez d'argent pour vivre avec sa famille.",
+        "cn": "他挣的钱够一家人生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7694,7 +8204,12 @@
         "cn": "事情；生意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette affaire est sérieuse, il faut parler au directeur.",
+        "cn": "这件事很严重，得跟经理谈谈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7716,7 +8231,12 @@
         "cn": "使喜欢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce petit restaurant me plaît beaucoup le dimanche.",
+        "cn": "这家小餐馆我很喜欢，尤其是在星期天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7738,7 +8258,12 @@
         "cn": "服务；上菜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le serveur nous sert un bon repas chaud.",
+        "cn": "服务员给我们端上一顿热腾腾的好饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7760,7 +8285,12 @@
         "cn": "出示；表明"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il me montre sa nouvelle voiture avec fierté.",
+        "cn": "他自豪地给我看他的新车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7782,7 +8312,12 @@
         "cn": "点；要点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je ne suis pas d'accord sur ce point précis.",
+        "cn": "在这一点上我不同意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7804,7 +8339,12 @@
         "cn": "瞬间"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Attends un petit instant, je cherche mes clés.",
+        "cn": "稍等一下，我找一下钥匙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7826,7 +8366,12 @@
         "cn": "扔；投"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ne faut pas jeter ces papiers par terre.",
+        "cn": "不要把这些纸扔在地上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7848,7 +8393,12 @@
         "cn": "底部；深处"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les clés sont au fond de mon sac noir.",
+        "cn": "钥匙在我黑色包的最里面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7870,7 +8420,12 @@
         "cn": "床"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chat dort sur mon lit depuis une heure.",
+        "cn": "猫在我床上睡了一个小时了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7892,7 +8447,12 @@
         "cn": "保留；看守"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle garde les photos de son enfance dans une boîte.",
+        "cn": "她把童年的照片留在一个盒子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7914,7 +8474,12 @@
         "cn": "结束；目的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fin du film est triste et très belle.",
+        "cn": "电影的结尾悲伤却很美。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7936,7 +8501,12 @@
         "cn": "力量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il pousse la porte avec toute sa force.",
+        "cn": "他用尽全力推门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7958,7 +8528,12 @@
         "cn": "下来；下降"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous descendons du train à la gare centrale.",
+        "cn": "我们在中央车站下火车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7980,7 +8555,12 @@
         "cn": "继续"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le petit chemin continue tout droit jusqu'au village.",
+        "cn": "这条小路一直通到村里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8002,7 +8582,12 @@
         "cn": "妈妈"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Maman prépare le dîner dans la cuisine ce soir.",
+        "cn": "妈妈今晚在厨房做晚饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8024,7 +8609,12 @@
         "cn": "后续；一连串"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je te raconte la suite de l'histoire demain.",
+        "cn": "明天我给你讲故事的后续。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8046,7 +8636,12 @@
         "cn": "返回；翻转"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je retourne à Paris avec ma sœur la semaine prochaine.",
+        "cn": "下周我和妹妹回巴黎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8068,7 +8663,12 @@
         "cn": "别处"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je cherche mon chat partout, il dort ailleurs.",
+        "cn": "我到处找我的猫，它睡在别处。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8090,7 +8690,12 @@
         "cn": "占据；忙于"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon père occupe un petit bureau au centre-ville.",
+        "cn": "我父亲在市中心占用一间小办公室。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8112,7 +8717,12 @@
         "cn": "一圈；轮次"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous faisons un tour du jardin après le dîner.",
+        "cn": "晚饭后我们在花园里转一圈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8134,7 +8744,12 @@
         "cn": "周围"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants jouent autour de la grande table du salon.",
+        "cn": "孩子们围着客厅的大桌子玩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8156,7 +8771,12 @@
         "cn": "怀疑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai un doute sur la date de son arrivée.",
+        "cn": "我对他到达的日期有疑问。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8178,7 +8798,12 @@
         "cn": "重新拿起；恢复"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle reprend son livre et continue à lire.",
+        "cn": "她又拿起书继续读。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8200,7 +8825,12 @@
         "cn": "太阳"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le soleil brille et le ciel est très bleu.",
+        "cn": "阳光明媚，天空很蓝。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8222,7 +8852,12 @@
         "cn": "方式"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il explique la leçon d'une façon très simple.",
+        "cn": "他用非常简单的方式讲解这一课。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8244,7 +8879,12 @@
         "cn": "讲述"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma grand-mère nous raconte une histoire chaque soir.",
+        "cn": "奶奶每天晚上给我们讲一个故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8266,7 +8906,12 @@
         "cn": "宁可；相当"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce café est plutôt bon, mais un peu cher.",
+        "cn": "这咖啡相当不错，但有点贵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -8288,7 +8933,12 @@
         "cn": "沉默；安静"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans la bibliothèque, tout le monde garde le silence.",
+        "cn": "在图书馆里，大家都保持安静。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

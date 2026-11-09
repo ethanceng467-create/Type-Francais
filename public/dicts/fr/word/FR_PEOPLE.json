@@ -10,7 +10,12 @@
         "cn": "肥胖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa forte corpulence l'empêche de monter facilement les escaliers.",
+        "cn": "他过于肥胖，上楼很吃力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "身材"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a la stature d'un ancien joueur de basket.",
+        "cn": "他有着昔日篮球运动员的身材。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "苗条的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa sœur est grande et mince comme leur mère.",
+        "cn": "他姐姐像母亲一样又高又苗条。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "高的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est de haute taille et marche très droite.",
+        "cn": "她个子很高，走路很直。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "胖的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La voisine grosse et souriante garde toujours ses petits-enfants.",
+        "cn": "那位胖胖的、总带笑的邻居一直照看孙辈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "瘦的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est resté maigre malgré les repas copieux de sa mère.",
+        "cn": "尽管母亲做的饭菜很丰盛，他还是那么瘦。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "小的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa petite sœur a les yeux bleus de leur père.",
+        "cn": "他妹妹有和父亲一样的蓝眼睛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "大的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand frère mesure presque deux mètres depuis l'année dernière.",
+        "cn": "他哥哥从去年起身高快两米了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "细长的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a des doigts fuselés et une voix très douce.",
+        "cn": "她的手指细长，声音很柔和。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "优美健壮的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un homme fort, mais il reste très doux.",
+        "cn": "他身体健壮，但性情很温和。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "笨拙的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce grand garçon balourd renverse souvent les verres à table.",
+        "cn": "这个笨手笨脚的大男孩在饭桌上常打翻杯子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "比例"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sur cette vieille photo, l'échelle des visages paraît vraiment étrange.",
+        "cn": "在这张老照片上，人脸的比例显得很奇怪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "眼神"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son regard calme rassure les enfants de la classe.",
+        "cn": "他平静的眼神让班上的孩子安心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "金发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa fille blonde ressemble beaucoup à sa grand-mère paternelle.",
+        "cn": "他的金发女儿很像她奶奶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "悲伤的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il nous a regardés d'un air dolent avant de partir.",
+        "cn": "他走之前用一种哀伤的神情看着我们。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "深陷的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses yeux enfoncés lui donnent un air grave et fatigué.",
+        "cn": "他深陷的眼睛让他显得严肃又疲惫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "凹陷的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a les joues déprimées après sa longue maladie.",
+        "cn": "久病之后他的双颊凹陷下去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "斜眼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son strabisme se voit surtout quand il est fatigué.",
+        "cn": "他的斜眼在他累的时候尤其明显。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "独眼的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vieux borgne du village raconte souvent des histoires.",
+        "cn": "村里那个独眼的老人常常讲故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "棕色的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a les cheveux bruns et les yeux verts.",
+        "cn": "他头发是棕色的，眼睛是绿的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "眼睛咪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un clignement des yeux suffit pour lui faire comprendre.",
+        "cn": "眨一下眼就足以让他明白。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "圆的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son visage rond et ses joues roses plaisent aux enfants.",
+        "cn": "他圆圆的脸和粉红的脸颊很讨孩子喜欢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "椭圆的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a un visage ovalaire et de grands yeux noirs.",
+        "cn": "她有一张椭圆的脸和一双黑色的大眼睛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "胖的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bébé dodu dort dans les bras de sa mère.",
+        "cn": "胖乎乎的婴儿在母亲怀里睡着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "浮肿的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son visage bouffi après la nuit montre qu'il a pleuré.",
+        "cn": "他过了一夜脸有些浮肿，看得出哭过。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son beau visage flétri garde encore un certain charme.",
+        "cn": "他那张憔悴的俊脸仍带着几分魅力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "皱纹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une ride profonde traverse son front quand elle réfléchit.",
+        "cn": "她思考时额头上会有一道深皱纹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "痤疮，粉刺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "À quinze ans, il souffrait beaucoup de son acné.",
+        "cn": "十五岁时，他因满脸粉刺十分苦恼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "胡子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand-père porte une moustache blanche vraiment très fournie.",
+        "cn": "他祖父留着一把非常浓密的白胡子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "胡须"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il laisse pousser sa barbe depuis le début des vacances.",
+        "cn": "他从假期开始就任胡须长着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "脸蛋儿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa petite frimousse couverte de taches amuse tout le monde.",
+        "cn": "他那张满是斑点的小脸蛋逗得大家直笑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "麻脸的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa peau grêlée garde les traces de son enfance.",
+        "cn": "他那张麻点的皮肤留着童年的痕迹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "露出笑容"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette histoire drôle réussit toujours à dérider mon père.",
+        "cn": "这个有趣的故事总能让我父亲露出笑容。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "快活"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son caractère sémillant plaît beaucoup aux amis de la famille.",
+        "cn": "他快活的性格很受家里朋友们的喜爱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "开朗的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son oncle jovial raconte des blagues à chaque repas.",
+        "cn": "他那开朗的叔叔每顿饭都讲笑话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "迷人的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a un sourire attrayant qui met tout le monde à l'aise.",
+        "cn": "她迷人的微笑让所有人都自在。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "繁荣的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce commerçant prospère habite une belle maison près du parc.",
+        "cn": "这位生意兴隆的商人住在公园附近的漂亮房子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "微笑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son sourire discret cache une grande timidité devant les inconnus.",
+        "cn": "他腼腆的微笑掩藏着面对陌生人时的羞怯。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "可笑的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son chapeau trop grand le rend un peu ridicule.",
+        "cn": "他那顶太大的帽子让他有点可笑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "轻葳的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa réponse dédaigneuse a blessé toute la famille hier soir.",
+        "cn": "她轻蔑的回答昨晚伤了全家人的心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "笑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses camarades aiment railler son accent du sud devant tout le monde.",
+        "cn": "他的同学喜欢当着大家的面取笑他的南方口音。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "噪音"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bruit des voisins l'empêche de dormir depuis une semaine.",
+        "cn": "邻居的噪音让他一星期没睡好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "声音"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix grave le rend facile à reconnaître au téléphone.",
+        "cn": "他低沉的嗓音让他在电话里很容易被认出。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "清晰的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix limpide passe très bien dans cette grande salle.",
+        "cn": "他清亮的声音在这个大厅里传得很清楚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "低沉的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a répondu d'une voix sourde, presque un murmure.",
+        "cn": "他用一种低沉的、近乎耳语的声音回答。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "响亮的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix éclatante remplit toute la cour de l'école.",
+        "cn": "他响亮的嗓音传遍了整个校园。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "刺耳的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a une voix dure qui surprend au premier abord.",
+        "cn": "她的嗓音很刺耳，初见时让人吃惊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "刺耳的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bruit strident sort de la machine à laver.",
+        "cn": "洗衣机里传出一阵刺耳的响声。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "温柔的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son frère est gentil avec tout le monde, même les étrangers.",
+        "cn": "他弟弟对谁都很温和，连陌生人也不例外。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "甜蜜的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle parle d'une voix suave qui endort presque les invités.",
+        "cn": "她用甜腻的嗓音说话，几乎把客人都哄睡了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "单调的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix monotone rend le cours vraiment très long.",
+        "cn": "他单调的声音让这节课显得格外漫长。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "微弱的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On entendait une voix frêle derrière la porte fermée.",
+        "cn": "门后传来一个微弱的声音。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "微弱的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son visage pâle inquiète sa mère depuis hier soir.",
+        "cn": "他从昨晚起脸色苍白，让母亲很担心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "高音的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voix aiguë traverse facilement le bruit de la rue.",
+        "cn": "他尖细的嗓音轻易就盖过了街上的噪音。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "美妙的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le décor féerique du jardin émerveille les enfants chaque hiver.",
+        "cn": "花园里如梦似幻的装饰每年冬天都让孩子们惊叹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "地位"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa position dans l'entreprise lui donne beaucoup de pouvoir.",
+        "cn": "他在公司里的地位给了他很大权力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "平民"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son accent plébéien choque certains invités un peu snobs.",
+        "cn": "他平民腔的口音让几个有点势利的客人不适。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "农民"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La paysannerie de cette région travaille surtout la vigne.",
+        "cn": "这个地区的农民主要种葡萄。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "干部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son père est cadre dans une grande entreprise de transport.",
+        "cn": "他父亲在一家大型运输公司当干部。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "军人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son oncle militaire rentre rarement à la maison pendant l'année.",
+        "cn": "他那当兵的叔叔一年里很少回家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "官员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est fonctionnaire et travaille à la mairie du quartier.",
+        "cn": "她是公务员，在街区市政厅工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "领导"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il dirige une petite équipe de dix personnes depuis janvier.",
+        "cn": "他从一月起带领一个十人的小团队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "贵族"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa famille noble possède encore un château près de la Loire.",
+        "cn": "他的贵族家族在卢瓦尔河附近还有一座城堡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "贵族"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'aristocratie locale fréquentait autrefois ce salon de thé très cher.",
+        "cn": "当地贵族从前常来这家昂贵的茶馆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "卓越的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle porte une robe magnifique pour la cérémonie de ce soir.",
+        "cn": "她为今晚的典礼穿了一条漂亮的裙子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "杰出的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est une excellente professeure, aimée de tous ses élèves.",
+        "cn": "她是一位杰出的老师，深受所有学生喜爱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "好的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un bon voisin, toujours prêt à rendre service.",
+        "cn": "他是个好邻居，总是乐于帮忙。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "积极的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son attitude positive aide toute l'équipe à avancer malgré les difficultés.",
+        "cn": "他积极的态度帮助全队在困难中前进。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "善良的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un homme honnête qui ne ment jamais à ses amis.",
+        "cn": "他是个正直的人，从不对朋友撒谎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "诚实的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son récit véridique a finalement convaincu tous les policiers.",
+        "cn": "他那真实的叙述最终说服了所有警察。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "勤奋的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un élève assidu qui travaille sérieusement chaque soir.",
+        "cn": "他是个用功的学生，每天晚上都认真学习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "聪明的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son grand-père sagace comprend tout bien avant les autres.",
+        "cn": "他那睿智的祖父总比别人先明白一切。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "精明的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce petit futé trouve toujours une solution à tout.",
+        "cn": "这个小机灵鬼总能想出办法应对一切。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "创造者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet artiste créateur imagine des meubles très simples et beaux.",
+        "cn": "这位有创造力的艺术家设计出极简又美观的家具。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "负责的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est responsable du rayon meubles depuis trois ans.",
+        "cn": "她负责家具区已经三年了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "认真地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille sérieusement pour réussir son examen de français.",
+        "cn": "他认真学习，想通过法语考试。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "消极的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son regard négatif décourage souvent les plus jeunes de l'équipe.",
+        "cn": "他消极的看法常让队里最年轻的人泄气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "悲观的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon voisin pessimiste pense que tout va mal ici.",
+        "cn": "我那位悲观的邻居觉得这里一切都不好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "吹毛求症的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un patron sourcilleux vérifie chaque détail avant de signer.",
+        "cn": "挑剔的老板签字前会核查每个细节。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "优柔寡断的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est trop mou pour prendre une décision ce soir.",
+        "cn": "他太优柔寡断，今晚做不了决定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "音的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce voisin pingre ne prête jamais rien à personne.",
+        "cn": "这个吝啬的邻居从不借东西给任何人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "敏感的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est chatouilleuse sur le sujet de son âge.",
+        "cn": "一提到年龄她就很敏感。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "卑部的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette odeur dégueulasse vient du frigo, il faut le nettoyer.",
+        "cn": "这股恶心的味道来自冰箱，得清理一下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "邪恶的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son sourire satanique fait vraiment peur aux petits enfants.",
+        "cn": "他邪恶的笑容真把小孩子吓着了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "不诚实的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce commerçant malhonnête a trompé tous ses clients du quartier.",
+        "cn": "这个不诚实的商家骗了街区所有顾客。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "愚鑫的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Quel garçon bêta, il croit encore toutes ces histoires.",
+        "cn": "这男孩真傻，还相信那些说法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "患鑫的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette décision stupide a coûté cher à toute la famille.",
+        "cn": "这个愚蠢的决定让全家付出了很大代价。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "国籍"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a demandé la nationalité française après dix ans ici.",
+        "cn": "她在这里住了十年后申请了法国国籍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "美国人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un touriste yankee demande son chemin devant la boulangerie.",
+        "cn": "一个美国游客在面包店门口问路。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "加拿大人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa femme canadienne adore les hivers très froids de Québec.",
+        "cn": "他加拿大籍的妻子很喜欢魁北克严寒的冬天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "日本人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa voisine japonaise prépare d'excellents petits gâteaux le dimanche.",
+        "cn": "他的日本邻居周日会做很棒的小点心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "法国人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon professeur français explique la grammaire avec beaucoup de patience.",
+        "cn": "我的法国老师讲语法非常有耐心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "澳大利亚人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une amie australienne nous a invités chez elle cet été.",
+        "cn": "一位澳大利亚朋友今年夏天请我们去她家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "俄罗斯人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son mari russe lit des romans français tous les soirs.",
+        "cn": "他俄罗斯籍的丈夫每天晚上读法国小说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "德国人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre voisin allemand répare lui-même sa vieille voiture le dimanche.",
+        "cn": "我们那位德国邻居周日自己修旧车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "英国人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un couple britannique a loué l'appartement du dessus cet été.",
+        "cn": "今年夏天一对英国夫妇租下了楼上的公寓。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2122,7 +2602,12 @@
         "cn": "爱尔兰人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son ami irlandais chante très bien après quelques verres.",
+        "cn": "他的爱尔兰朋友喝上几杯后唱得很好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "芬兰人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce photographe finlandais travaille surtout pendant les nuits d'hiver.",
+        "cn": "这位芬兰摄影师主要在冬夜工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "瑞士人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un médecin suisse a ouvert une petite clinique ici.",
+        "cn": "一位瑞士医生在这里开了一家小诊所。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "希腊人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon voisin grec nous invite souvent à manger chez lui.",
+        "cn": "我的希腊邻居常请我们到他家吃饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "西班牙人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa sœur espagnole danse vraiment très bien le flamenco traditionnel.",
+        "cn": "他西班牙籍的姐姐传统弗拉门戈跳得非常好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "年龄"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "À son âge, il monte encore les cinq étages à pied.",
+        "cn": "到了他这年纪，他还能步行上五楼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2245,16 +2755,21 @@
   },
   {
     "id": 103,
-    "word": "nouveau-ne",
-    "phonetic0": "nuvo-nə",
-    "phonetic1": "nuvo-nə",
+    "word": "nouveau-né",
+    "phonetic0": "nuvo ne",
+    "phonetic1": "nuvo ne",
     "trans": [
       {
-        "pos": "adj.",
+        "pos": "n.m.",
         "cn": "新生儿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le nouveau-né dort presque toute la journée.",
+        "cn": "新生儿几乎整天都在睡觉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "早产儿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce bébé prématuré reste encore quelques jours à l'hôpital.",
+        "cn": "这个早产儿还要在医院待几天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "婴儿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bébé pleure dès que sa mère quitte la chambre.",
+        "cn": "母亲一离开房间，婴儿就哭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "小孩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet enfant joue seul dans le jardin depuis une heure.",
+        "cn": "这个孩子一个人在花园里玩了一小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "未成年"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est encore mineure et ne peut pas signer le bail.",
+        "cn": "她还未成年，不能签租约。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "成年的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Depuis l'an dernier, sa fille est majeure et indépendante.",
+        "cn": "从去年起，他女儿就成年独立了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2386,7 +2926,12 @@
         "cn": "年轻的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est encore jeune, mais il travaille déjà beaucoup.",
+        "cn": "他还年轻，但已经很努力工作了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2408,7 +2953,12 @@
         "cn": "成年"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque adulte doit signer le contrat avant de déménager.",
+        "cn": "每个成年人都必须在搬家前签合同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2430,7 +2980,12 @@
         "cn": "老人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un vieillard très maigre habite seul au dernier étage.",
+        "cn": "一位很瘦的老人独自住在顶层。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2452,7 +3007,12 @@
         "cn": "未成年"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce garçon mineur ne peut pas voyager sans ses parents.",
+        "cn": "这个未成年的男孩不能独自出行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2474,7 +3034,12 @@
         "cn": "职业"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a choisi le métier de fleuriste par passion.",
+        "cn": "她出于热爱选择了花艺师这个职业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2496,7 +3061,12 @@
         "cn": "工作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il préfère travailler le matin pour rentrer plus tôt.",
+        "cn": "他更喜欢上午工作，好早点回家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2518,7 +3088,12 @@
         "cn": "工作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle cherche un emploi stable près de son nouvel appartement.",
+        "cn": "她在新公寓附近找一份稳定的工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2540,7 +3115,12 @@
         "cn": "领域"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon frère travaille dans le domaine de la décoration intérieure.",
+        "cn": "我哥哥从事室内装饰这一行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2562,7 +3142,12 @@
         "cn": "职业生涯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son long cursus impressionne tous les directeurs qu'il rencontre.",
+        "cn": "他长长的履历让遇到的每位主管都印象深刻。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2584,7 +3169,12 @@
         "cn": "医生"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le docteur lui conseille de marcher un peu chaque jour.",
+        "cn": "医生建议他每天走一走。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2606,7 +3196,12 @@
         "cn": "设计师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette designer a dessiné tous les meubles de notre salon.",
+        "cn": "这位设计师设计了我们客厅里的所有家具。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2628,7 +3223,12 @@
         "cn": "老师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon professeur de français habite dans le même immeuble.",
+        "cn": "我的法语老师就住在同一栋楼里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2650,7 +3250,12 @@
         "cn": "业余运动员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon cousin est un joueur de tennis amateur très motivé.",
+        "cn": "我表哥是个非常投入的业余网球选手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2672,7 +3277,12 @@
         "cn": "清洁工"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les nettoyeurs de la ville passent tôt le matin dans notre rue.",
+        "cn": "市里的清洁工一大早就来到我们这条街。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2694,7 +3304,12 @@
         "cn": "学者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette femme savante parle de philosophie avec une grande simplicité.",
+        "cn": "这位学识渊博的女士谈论哲学时非常平易近人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2716,7 +3331,12 @@
         "cn": "科学家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce chercheur scientifique travaille sur un projet important.",
+        "cn": "这位科研人员正在做一个重要项目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2738,7 +3358,12 @@
         "cn": "售货员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vendeur du magasin m'a conseillé un manteau plus chaud.",
+        "cn": "店里的售货员给我推荐了一件更暖和的大衣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2760,7 +3385,12 @@
         "cn": "说话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle aime parler de ses voyages avec ses amis le soir.",
+        "cn": "她喜欢晚上和朋友们聊自己的旅行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2782,7 +3412,12 @@
         "cn": "说话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il n'ose pas dire la vérité devant toute la famille.",
+        "cn": "他不敢当着一家人的面说出真相。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2804,7 +3439,12 @@
         "cn": "演讲"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le maire a prononcé une longue harangue devant les habitants.",
+        "cn": "市长在居民面前发表了一通长篇演讲。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2826,7 +3466,12 @@
         "cn": "喊叫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants se sont mis à crier quand le spectacle a commencé.",
+        "cn": "演出开始时，孩子们开始大喊大叫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2848,7 +3493,12 @@
         "cn": "叫喊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les manifestants ont clamé leur colère toute la journée.",
+        "cn": "示威者整天高声表达他们的愤怒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2870,7 +3520,12 @@
         "cn": "喊叫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son braillement nous a empêchés de dormir toute la nuit.",
+        "cn": "他的大声嚷嚷害我们一整夜没睡着。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2892,7 +3547,12 @@
         "cn": "劝说"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur nous a exhortés à lire davantage de romans français.",
+        "cn": "老师劝我们多读一些法国小说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2914,7 +3574,12 @@
         "cn": "解释"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a expliqué la règle aux nouveaux élèves avec patience.",
+        "cn": "她耐心地给新来的学生解释了这条规则。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2936,7 +3601,12 @@
         "cn": "责备"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Personne dans la salle n'a blâmé le jeune serveur pour cette erreur.",
+        "cn": "在场没有人因为这点差错责怪那位年轻服务员。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2958,7 +3628,12 @@
         "cn": "批评"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il critique souvent ses collègues mais il ne les écoute jamais.",
+        "cn": "他常常批评同事，却从不听别人说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2980,7 +3655,12 @@
         "cn": "介绍"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur m'a introduit auprès de ses partenaires étrangers.",
+        "cn": "经理把我介绍给了他的外国合作伙伴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3002,7 +3682,12 @@
         "cn": "表扬"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le journaliste a exalté le courage des sauveteurs après l'accident.",
+        "cn": "记者赞扬了事故后救援人员的勇气。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3024,7 +3709,12 @@
         "cn": "撒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ne faut jamais mentir à ses parents sur ses notes.",
+        "cn": "绝不能在成绩上对父母撒谎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3046,7 +3736,12 @@
         "cn": "叹息"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a poussé un long soupir avant de répondre.",
+        "cn": "她长长地叹了一口气才回答。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3068,7 +3763,12 @@
         "cn": "推荐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je te recommande ce petit restaurant près de la gare.",
+        "cn": "我推荐你去火车站附近那家小餐馆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3090,7 +3790,12 @@
         "cn": "点头"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a répondu par un simple hochement de tête.",
+        "cn": "他只是点了点头作为回答。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3112,7 +3817,12 @@
         "cn": "摇动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vent a fait branler la vieille enseigne du café.",
+        "cn": "风把咖啡馆那块旧招牌吹得晃来晃去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3134,7 +3844,12 @@
         "cn": "翰射"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a incliné la tête pour saluer les invités.",
+        "cn": "他低下头向客人们致意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3156,7 +3871,12 @@
         "cn": "鼓掌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les spectateurs ont applaudi la troupe pendant plusieurs minutes.",
+        "cn": "观众为剧团鼓掌了好几分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3178,7 +3898,12 @@
         "cn": "欢呼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La foule a acclamé les champions à leur retour au village.",
+        "cn": "冠军们回到村里时，人群为他们欢呼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3200,7 +3925,12 @@
         "cn": "口译"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le discours a été interprété en direct par une traductrice.",
+        "cn": "这场讲话由一位女译员现场口译。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3222,7 +3952,12 @@
         "cn": "做"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Qu'est-ce que tu vas faire ce week-end avec tes cousins?",
+        "cn": "你这个周末打算和表兄弟们做什么？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3244,7 +3979,12 @@
         "cn": "表演"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les élèves ont représenté une pièce de Molière devant toute l'école.",
+        "cn": "学生们在全校面前表演了一出莫里哀的戏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3266,7 +4006,12 @@
         "cn": "行为"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son action courageuse a sauvé la vie d'un enfant.",
+        "cn": "他勇敢的举动救了一个孩子的命。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3288,7 +4033,12 @@
         "cn": "练习"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle pratique le piano deux heures chaque soir après le dîner.",
+        "cn": "她每天晚饭后练两小时钢琴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3310,7 +4060,12 @@
         "cn": "问"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il m'a demandé où se trouvait la station de métro.",
+        "cn": "他问我地铁站在哪里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3332,7 +4087,12 @@
         "cn": "质疑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les habitants contestent la décision du maire depuis plusieurs semaines.",
+        "cn": "居民们质疑市长的决定已经好几周了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3354,7 +4114,12 @@
         "cn": "蜷缩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une crispation du visage trahissait sa peur devant le jury.",
+        "cn": "他脸上一阵紧绷，流露出面对评委时的恐惧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3376,7 +4141,12 @@
         "cn": "致敬"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a salué les invités avant de commencer son discours.",
+        "cn": "他先向宾客们致意，然后开始讲话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3398,7 +4168,12 @@
         "cn": "谢谢"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je voudrais remercier tous ceux qui m'ont aidé.",
+        "cn": "我想感谢所有帮助过我的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3420,7 +4195,12 @@
         "cn": "弯腰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a dû courber la tête pour entrer dans la cave.",
+        "cn": "他不得不低下头才走进地窖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3442,7 +4222,12 @@
         "cn": "摇晃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vieil homme a chancelé avant de s'appuyer au mur.",
+        "cn": "老人晃了一下，然后靠到墙上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3464,7 +4249,12 @@
         "cn": "跛行"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa claudication est devenue plus visible après la longue marche.",
+        "cn": "走了那么久之后，他走路一瘸一拐的样子更明显了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3486,7 +4276,12 @@
         "cn": "高雅的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il porte toujours un costume élégant pour les grandes occasions.",
+        "cn": "遇到大场合他总是穿一套讲究的西装。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3508,7 +4303,12 @@
         "cn": "满"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le blessé clopinait lentement vers la porte de l'hôpital.",
+        "cn": "伤者一瘸一拐地慢慢走向医院大门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3530,7 +4330,12 @@
         "cn": "跨蹦"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Depuis sa chute, il boite un peu en montant les escaliers.",
+        "cn": "自从摔了一跤，他上楼梯时有点跛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3552,7 +4357,12 @@
         "cn": "狗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous aimons flâner dans les rues du vieux quartier.",
+        "cn": "我们喜欢在老城区的街上闲逛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3574,7 +4384,12 @@
         "cn": "赞成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses parents ont approuvé son projet de voyage en Italie.",
+        "cn": "他父母赞成了他去意大利旅行的计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3596,7 +4411,12 @@
         "cn": "乐观的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Malgré les difficultés, elle reste optimiste sur l'avenir du projet.",
+        "cn": "尽管困难重重，她对项目的前景依然乐观。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3618,7 +4438,12 @@
         "cn": "观的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bon journaliste doit rester objectif dans ses reportages.",
+        "cn": "好记者在报道中必须保持客观。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3640,7 +4465,12 @@
         "cn": "公平的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le juge a rendu une décision juste et claire.",
+        "cn": "法官作出了一个公正而明确的判决。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3662,7 +4492,12 @@
         "cn": "公正的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce fonctionnaire désintéressé juge les dossiers avec beaucoup d'équité.",
+        "cn": "这位不谋私利的公务员判案十分公道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3684,7 +4519,12 @@
         "cn": "谨慎地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a traversé la route prudemment en regardant des deux côtés.",
+        "cn": "她左右看了看，才小心地穿过马路。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3706,7 +4546,12 @@
         "cn": "热心助人的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gardien de notre immeuble est très serviable et toujours souriant.",
+        "cn": "我们楼的看门人非常热心，总是笑眯眯的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3728,7 +4573,12 @@
         "cn": "骄傲的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses parents sont très fiers de son travail à l'université.",
+        "cn": "他父母为他在大学的工作感到非常骄傲。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3750,7 +4600,12 @@
         "cn": "令人信服的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les résultats de cette étude sont vraiment concluants.",
+        "cn": "这项研究的结果确实很有说服力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3772,7 +4627,12 @@
         "cn": "令人信服的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son argument était si convaincant que tout le monde a accepté.",
+        "cn": "他的理由如此有力，大家都接受了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3794,7 +4654,12 @@
         "cn": "耐心的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bon professeur doit être patient avec les débutants.",
+        "cn": "好老师对初学者必须有耐心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3816,7 +4681,12 @@
         "cn": "喜爱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je préfère le thé au café le matin.",
+        "cn": "早上我更喜欢喝茶而不是咖啡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3838,7 +4708,12 @@
         "cn": "悲观"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son pessimisme inquiète toute l'équipe avant le match.",
+        "cn": "他的悲观情绪让全队在赛前都很不安。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3860,7 +4735,12 @@
         "cn": "武断的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il parle de façon dogmatique sans écouter les autres.",
+        "cn": "他说话很武断，从不听别人的意见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3882,7 +4762,12 @@
         "cn": "令人丧的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La situation de ces familles est vraiment affligeante.",
+        "cn": "这些家庭的处境实在令人难受。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3904,7 +4789,12 @@
         "cn": "令人失望的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son manque d'effort est désespérant pour ses professeurs.",
+        "cn": "他不用功，让老师们很失望。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3926,7 +4816,12 @@
         "cn": "怀疑的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je reste sceptique devant ces promesses trop faciles.",
+        "cn": "面对这些过于轻巧的承诺，我仍然持怀疑态度。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3948,7 +4843,12 @@
         "cn": "反对"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette nouvelle a contrarié tous nos projets de vacances.",
+        "cn": "这个消息打乱了我们所有的度假计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3970,7 +4870,12 @@
         "cn": "愤怒的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il se fâche vite quand on critique son travail.",
+        "cn": "别人批评他的工作时，他很容易发火。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3992,7 +4897,12 @@
         "cn": "轻视"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On ne doit pas mépriser ceux qui pensent autrement.",
+        "cn": "不应当轻视想法不同的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4014,7 +4924,12 @@
         "cn": "沮丧的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est frustrée de ne pas pouvoir partir cet été.",
+        "cn": "今年夏天走不了，她感到很沮丧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4036,7 +4951,12 @@
         "cn": "模棱两可的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa réponse équivoque a laissé tout le monde perplexe.",
+        "cn": "他模棱两可的回答让所有人都摸不着头脑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4058,7 +4978,12 @@
         "cn": "便携的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'emporte toujours mon ordinateur portable quand je pars en voyage.",
+        "cn": "我出门旅行时总带着笔记本电脑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4080,7 +5005,12 @@
         "cn": "移动的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet escalier mobile permet d'accéder au premier étage.",
+        "cn": "这部移动楼梯可以通到二楼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4102,7 +5032,12 @@
         "cn": "手机铃声"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sonnerie de son téléphone a interrompu la réunion.",
+        "cn": "他的手机铃声响了起来，打断了会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4124,7 +5059,12 @@
         "cn": "关机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fermeture du magasin est prévue pour huit heures.",
+        "cn": "商店定于八点关门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4146,7 +5086,12 @@
         "cn": "短信"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle m'a envoyé un message pour confirmer le rendez-vous.",
+        "cn": "她给我发了条短信确认约会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4168,7 +5113,12 @@
         "cn": "电脑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon ordinateur est tombé en panne hier soir.",
+        "cn": "我的电脑昨晚坏了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4190,7 +5140,12 @@
         "cn": "键盘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le clavier de mon ordinateur est couvert de poussière.",
+        "cn": "我电脑的键盘上全是灰。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4212,7 +5167,12 @@
         "cn": "平板电脑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette table tactile remplace les anciens livres de classe.",
+        "cn": "这台平板电脑取代了以前的课本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4234,7 +5194,12 @@
         "cn": "数据"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les data de cette enquête sont difficiles à interpréter.",
+        "cn": "这次调查的数据很难解读。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4256,7 +5221,12 @@
         "cn": "黑客"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un pirate a volé les données de plusieurs milliers de clients.",
+        "cn": "一名黑客窃取了数千名客户的数据。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4278,7 +5248,12 @@
         "cn": "硬件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le matériel informatique de l'école sera remplacé cet été.",
+        "cn": "学校的硬件设备将在今年夏天更换。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4300,7 +5275,12 @@
         "cn": "软件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce logiciel gratuit protège les fichiers personnels des utilisateurs.",
+        "cn": "这款免费软件保护用户的个人文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4322,7 +5302,12 @@
         "cn": "鼠标"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma souris sans fil ne fonctionne plus depuis ce matin.",
+        "cn": "我的无线鼠标从今天早上起就不能用了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4344,7 +5329,12 @@
         "cn": "程序"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce programme permet de traduire un texte en quelques secondes.",
+        "cn": "这个程序可以在几秒钟内翻译一篇文章。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4366,7 +5356,12 @@
         "cn": "缩放"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La condensation de l'eau sur la vitre empêche de voir la rue.",
+        "cn": "玻璃上的水汽让人看不清街道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4388,7 +5383,12 @@
         "cn": "同步"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La synchronisation de mes fichiers prend quelques minutes chaque matin.",
+        "cn": "我的文件同步每天早上要花几分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4410,7 +5410,12 @@
         "cn": "网络"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le réseau internet est très lent dans ce village.",
+        "cn": "这个村子的网络非常慢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4432,7 +5437,12 @@
         "cn": "无线的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette imprimante sans-fil fonctionne avec toutes les tablettes.",
+        "cn": "这台无线打印机可以和所有平板电脑配合使用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4454,7 +5464,12 @@
         "cn": "网"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mes grands-parents apprennent à utiliser internet avec leurs petits-enfants.",
+        "cn": "我祖父母正跟着孙辈学上网。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4476,7 +5491,12 @@
         "cn": "点击数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'affichage de la page est trop petit sur mon écran.",
+        "cn": "这个页面在我屏幕上显示得太小。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4498,7 +5518,12 @@
         "cn": "网上冲浪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il aime surfer sur internet pendant des heures le dimanche.",
+        "cn": "他星期天喜欢在网上逛上好几个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4520,7 +5545,12 @@
         "cn": "注销"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons annulé notre réservation à cause de la pluie.",
+        "cn": "因为下雨，我们取消了预订。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4542,7 +5572,12 @@
         "cn": "网民"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque internaute doit protéger ses mots de passe personnels.",
+        "cn": "每个网民都应该保护好自己的密码。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4564,7 +5599,12 @@
         "cn": "刷新"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut renouveler votre abonnement avant la fin du mois.",
+        "cn": "您得在月底前续订。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4586,7 +5626,12 @@
         "cn": "联系"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je n'arrive pas à me connecter au réseau de l'hôtel.",
+        "cn": "我连不上酒店的网。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4608,7 +5653,12 @@
         "cn": "博客"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle écrit chaque semaine un nouvel article sur son bloc.",
+        "cn": "她每周都在自己的博客上写一篇新文章。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4630,7 +5680,12 @@
         "cn": "订阅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je me suis abonné à une revue scientifique mensuelle.",
+        "cn": "我订阅了一份科学月刊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4652,7 +5707,12 @@
         "cn": "回复"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a répondu à mon message en moins de deux minutes.",
+        "cn": "他不到两分钟就回复了我的消息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4674,7 +5734,12 @@
         "cn": "文章"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet article explique très clairement les causes du réchauffement.",
+        "cn": "这篇文章把变暖的原因讲得非常清楚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4696,7 +5761,12 @@
         "cn": "电子邮件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai reçu un e-mail de mon ancien professeur ce matin.",
+        "cn": "今天早上我收到了以前老师的一封邮件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4718,7 +5788,12 @@
         "cn": "发送"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chaîne va émettre le débat en direct ce soir.",
+        "cn": "电视台今晚将直播这场辩论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4740,7 +5815,12 @@
         "cn": "新词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce néologisme apparaît de plus en plus dans la presse.",
+        "cn": "这个新词越来越多地出现在报刊上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4762,7 +5842,12 @@
         "cn": "家庭"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Toute la famille se réunit chez ma grand-mère le dimanche.",
+        "cn": "星期天全家都到我奶奶家聚会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4784,7 +5869,12 @@
         "cn": "关系"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il entretient une bonne relation avec ses anciens collègues.",
+        "cn": "他和以前的同事保持着良好关系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4806,7 +5896,12 @@
         "cn": "妻子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa femme travaille comme infirmière à l'hôpital du centre.",
+        "cn": "他妻子在市中心医院当护士。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4828,7 +5923,12 @@
         "cn": "文夫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son mari prépare le dîner pendant qu'elle lit au salon.",
+        "cn": "她在客厅看书，她丈夫在做晚饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4850,7 +5950,12 @@
         "cn": "妈妈"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma mère m'appelle tous les dimanches pour prendre des nouvelles.",
+        "cn": "我妈妈每个星期天都打电话来问候我。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4872,7 +5977,12 @@
         "cn": "父亲"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon père m'a appris à faire du vélo à six ans.",
+        "cn": "我六岁时父亲教会了我骑车。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4894,7 +6004,12 @@
         "cn": "儿子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur fils aîné étudie la médecine à Lyon depuis trois ans.",
+        "cn": "他们的大儿子在里昂学医三年了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4916,7 +6031,12 @@
         "cn": "女儿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur fille cadette adore dessiner des animaux dans son cahier.",
+        "cn": "他们的小女儿喜欢在笔记本上画动物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4938,7 +6058,12 @@
         "cn": "爷爷，外公"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon grand-père raconte souvent des histoires de son village.",
+        "cn": "我爷爷常讲他村子的故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4960,7 +6085,12 @@
         "cn": "叔叔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon oncle habite une petite maison près de la mer.",
+        "cn": "我叔叔住在海边的一所小房子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4982,7 +6112,12 @@
         "cn": "姑母"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma tante nous invite à déjeuner chaque premier janvier.",
+        "cn": "我姑妈每年元旦都请我们吃午饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5004,7 +6139,12 @@
         "cn": "亲近的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son visage m'est familier, mais je ne trouve pas son nom.",
+        "cn": "他的脸我很眼熟，可就是想不起名字。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5026,7 +6166,12 @@
         "cn": "亲属"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une parente de ma mère habite dans le même immeuble.",
+        "cn": "我母亲的一位亲戚住在同一栋楼里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5048,7 +6193,12 @@
         "cn": "表兄弟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon cousin joue au football dans un club de la ville.",
+        "cn": "我表弟在市里一家俱乐部踢足球。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5070,7 +6220,12 @@
         "cn": "侄子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon neveu fête son anniversaire samedi prochain à la maison.",
+        "cn": "我侄子下周六在家里过生日。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5092,7 +6247,12 @@
         "cn": "情人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a retrouvé son amant dans un petit café du port.",
+        "cn": "她在港口的一家小咖啡馆里与情人重逢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5114,7 +6274,12 @@
         "cn": "朋友"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un ami fidèle depuis nos années d'école.",
+        "cn": "他从学生时代起就是我忠实的朋友。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5136,7 +6301,12 @@
         "cn": "友谊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur amitié résiste au temps et à la distance.",
+        "cn": "他们的友谊经得起时间和距离的考验。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5158,7 +6328,12 @@
         "cn": "增进"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses professeurs l'encouragent à continuer ses études à l'étranger.",
+        "cn": "老师们鼓励他继续到国外深造。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5180,7 +6355,12 @@
         "cn": "浪漫的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a préparé un dîner romantique pour son anniversaire de mariage.",
+        "cn": "他为结婚纪念日准备了一顿浪漫的晚餐。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5202,7 +6382,12 @@
         "cn": "惊喜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous lui avons préparé une surprise pour son départ.",
+        "cn": "我们为他的离开准备了一个惊喜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5224,7 +6409,12 @@
         "cn": "约会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai un rendez-vous chez le dentiste à trois heures.",
+        "cn": "我三点钟约了牙医。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5246,7 +6436,12 @@
         "cn": "约会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a donné un rancard à sa copine près de la fontaine.",
+        "cn": "他约女朋友在喷泉旁边见面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5268,7 +6463,12 @@
         "cn": "真诚的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses excuses étaient sincères et tout le monde l'a pardonné.",
+        "cn": "他的道歉很真诚，大家都原谅了他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5290,7 +6490,12 @@
         "cn": "无私的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette bénévole désintéressée aide les sans-abri chaque hiver.",
+        "cn": "这位无私的志愿者每年冬天都帮助无家可归的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5312,7 +6517,12 @@
         "cn": "伙伴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son compagnon de voyage parle trois langues étrangères.",
+        "cn": "他的旅伴会说三门外语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5334,7 +6544,12 @@
         "cn": "陪伴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je vais accompagner ma sœur à la gare ce soir.",
+        "cn": "今晚我要送妹妹去火车站。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5356,7 +6571,12 @@
         "cn": "性别"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce formulaire demande le sexe et la date de naissance.",
+        "cn": "这张表格要求填写性别和出生日期。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5378,7 +6598,12 @@
         "cn": "敌人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce peuple ennemi a finalement accepté la paix.",
+        "cn": "这个敌对民族最终接受了和平。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5400,7 +6625,12 @@
         "cn": "有敌意的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La foule était hostile aux journalistes venus couvrir l'événement.",
+        "cn": "人群对前来报道事件的记者充满敌意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5422,7 +6652,12 @@
         "cn": "打架"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux garçons se sont bagarrés pendant la récréation.",
+        "cn": "两个男孩在课间打了起来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5444,7 +6679,12 @@
         "cn": "竞争"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette compétition attire des athlètes venus de toute l'Europe.",
+        "cn": "这项比赛吸引了来自全欧洲的运动员。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5466,7 +6706,12 @@
         "cn": "竞争者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il cherche toujours un émule capable de le pousser au sommet.",
+        "cn": "他总在寻找一个能把他推到顶峰去的对手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5488,7 +6733,12 @@
         "cn": "竞争的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La concurrence entre ces deux marques devient très rude.",
+        "cn": "这两个品牌之间的竞争变得非常激烈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5510,7 +6760,12 @@
         "cn": "对手"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon adversaire jouait mieux que moi pendant le match.",
+        "cn": "比赛中我的对手打得比我好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5532,7 +6787,12 @@
         "cn": "等地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle parle également russe et italien pendant ses voyages.",
+        "cn": "她旅行时也会说俄语和意大利语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5554,7 +6814,12 @@
         "cn": "理所当然地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a dignement accepté sa défaite devant tout le public.",
+        "cn": "他在全场观众面前体面地接受了失败。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5576,7 +6841,12 @@
         "cn": "争论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette décision a provoqué une vive controverse dans le pays.",
+        "cn": "这个决定在国内引发了激烈的争论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5598,7 +6868,12 @@
         "cn": "主意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai une bonne idée pour organiser la fête de fin d'année.",
+        "cn": "我有个好主意来筹办年终聚会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5620,7 +6895,12 @@
         "cn": "论战"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le débat sur le climat a duré plus de trois heures.",
+        "cn": "关于气候的辩论持续了三个多小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5642,7 +6922,12 @@
         "cn": "辩论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle sait argumenter calmement sans jamais hausser la voix devant ses collègues.",
+        "cn": "她善于平心静气地辩论，从不在同事面前提高嗓门。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5664,7 +6949,12 @@
         "cn": "争论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une dispute a éclaté entre les deux voisins hier soir.",
+        "cn": "昨晚两个邻居之间爆发了一场争吵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5686,7 +6976,12 @@
         "cn": "大声争吵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils se querellent souvent pour des choses sans importance.",
+        "cn": "他们常为一些无关紧要的事大声争吵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5708,7 +7003,12 @@
         "cn": "已订婚的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle se fiance avec un jeune ingénieur qu'elle adore.",
+        "cn": "她和一个她很喜欢的年轻工程师订了婚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5730,7 +7030,12 @@
         "cn": "订婚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leurs fiançailles seront célébrées dans un petit village.",
+        "cn": "他们的订婚仪式将在一个小村子里举行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5752,7 +7057,12 @@
         "cn": "婚礼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les noces de leur fille ont réuni toute la famille.",
+        "cn": "他们女儿的婚礼把全家人都聚在了一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5774,7 +7084,12 @@
         "cn": "结婚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a décidé de se remarier dix ans après son divorce.",
+        "cn": "离婚十年后她决定再婚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5796,7 +7111,12 @@
         "cn": "嫁妆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa grand-mère lui a préparé un beau trousseau de mariage.",
+        "cn": "她奶奶为她准备了一份漂亮的嫁妆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5818,7 +7138,12 @@
         "cn": "主持"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prêtre va desservir la messe de onze heures.",
+        "cn": "神甫将主持十一点的弥撒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5840,7 +7165,12 @@
         "cn": "牧师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pasteur a prononcé un discours très émouvant dimanche.",
+        "cn": "牧师星期天发表了一段非常感人的讲话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5862,7 +7192,12 @@
         "cn": "誓言"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux amis ont fait un serment d'amitié éternelle.",
+        "cn": "两个朋友立下了友谊长存的誓言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5884,7 +7219,12 @@
         "cn": "婚姻"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur mariage dure depuis plus de trente ans déjà.",
+        "cn": "他们的婚姻已经维持了三十多年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5906,7 +7246,12 @@
         "cn": "婚庆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les épousailles de leur fille ont duré jusqu'au matin.",
+        "cn": "他们女儿的婚宴一直持续到早上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

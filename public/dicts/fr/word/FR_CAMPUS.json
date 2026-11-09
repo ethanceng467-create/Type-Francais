@@ -10,7 +10,12 @@
         "cn": "学校"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque matin, je vais à l'école à vélo avec ma voisine.",
+        "cn": "每天早上我都和邻居家的女孩一起骑车去学校。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "高中"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon frère entre au lycée l'année prochaine et il est déjà un peu nerveux.",
+        "cn": "我弟弟明年上高中，他已经有点紧张了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "大学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle étudie la biologie à l'université depuis deux ans et elle adore ça.",
+        "cn": "她在大学学生物已经两年了，而且非常喜欢。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "学院"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre institut organise une journée portes ouvertes pour les futurs étudiants.",
+        "cn": "我们学院为未来的学生举办开放日活动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "寄宿学校"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a passé trois ans dans un pensionnat loin de sa famille.",
+        "cn": "他在一所远离家人的寄宿学校待了三年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "教育"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'éducation des enfants demande beaucoup de patience et de temps.",
+        "cn": "教育孩子需要很多耐心和时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "教育"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet enseignement insiste sur la pratique plutôt que sur la théorie.",
+        "cn": "这门课强调实践而非理论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "延长"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur a décidé de prolonger le cours de dix minutes.",
+        "cn": "老师决定把这节课延长十分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "考试"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons un test de grammaire vendredi, donc je révise ce soir.",
+        "cn": "我们周五有语法测验，所以今晚我在复习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "考试"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'épreuve écrite dure trois heures et compte pour la moitié de la note.",
+        "cn": "笔试持续三个小时，占总成绩的一半。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "试卷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le surveillant a ramassé chaque feuille à la fin de l'examen.",
+        "cn": "监考老师在考试结束时收走了每一张试卷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "复习"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je révise mes notes à la bibliothèque parce que ma chambre est trop bruyante.",
+        "cn": "我在图书馆复习笔记，因为我的房间太吵了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "作弊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a été puni pour avoir copié pendant le contrôle de maths.",
+        "cn": "他因为数学测验时作弊而受到了处罚。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "口语的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre professeur insiste sur la langue parlée plutôt que sur l'écrit.",
+        "cn": "我们老师强调的是口语，而不是书面语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "办公室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Passe au bureau des inscriptions si tu as perdu ta carte d'étudiant.",
+        "cn": "如果你学生证丢了，就去注册办公室一趟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "行政"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'administration a changé la date de la rentrée sans prévenir personne.",
+        "cn": "行政部门没通知任何人就改了开学日期。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "档案室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les archives de l'école se trouvent au sous-sol, derrière la salle des profs.",
+        "cn": "学校的档案室在地下室，就在教师办公室后面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "教室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il fait trop chaud dans la classe, on pourrait ouvrir la fenêtre ?",
+        "cn": "教室里太热了，我们能把窗户打开吗？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "粉笔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur écrit son nom à la craie sur le tableau noir.",
+        "cn": "老师用粉笔在黑板上写下自己的名字。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "课桌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a gravé son prénom sur le pupitre quand elle était en seconde.",
+        "cn": "她读高二时把自己的名字刻在了课桌上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "凳子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bibliothécaire a monté sur un escabeau pour attraper le dictionnaire.",
+        "cn": "图书管理员登上凳子去拿那本词典。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "讲台"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le conférencier est monté sur l'estrade et a allumé son ordinateur.",
+        "cn": "演讲者走上讲台，打开了电脑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "讲台"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vieux professeur parlait encore de sa chaire avec une certaine fierté.",
+        "cn": "那位老教授说起自己的讲台时仍带着几分自豪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "投影仪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le projecteur ne marche plus, alors le cours se fait sans diapositives.",
+        "cn": "投影仪坏了，所以这节课没有幻灯片。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "教科书"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons oublié notre manuel de chimie à la maison.",
+        "cn": "我们把化学课本忘在家里了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "电风扇"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le ventilateur du plafond fait un bruit étrange depuis hier matin.",
+        "cn": "天花板上的电风扇从昨天早上起就发出怪声。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "场地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les étudiants jouent au football sur le terrain derrière le bâtiment principal.",
+        "cn": "学生们在主楼后面的场地上踢足球。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "秋千"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants se disputent la balançoire pendant toute la récréation.",
+        "cn": "孩子们整个课间都在抢秋千。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "观众"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque spectateur a reçu un petit programme à l'entrée de la salle.",
+        "cn": "每位观众进场时都拿到了一份小节目单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "吊环"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il s'entraîne aux anneaux tous les mardis au gymnase du campus.",
+        "cn": "他每周二都在校园体育馆练吊环。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "跑步"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je cours autour du stade chaque matin avant les cours de huit heures.",
+        "cn": "每天早上八点的课之前，我都绕着体育场跑步。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "最高点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pour un étudiant, réussir cet examen serait le summum du bonheur.",
+        "cn": "对一个学生来说，通过这场考试就是幸福的顶点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "宿舍"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le dortoir ferme à onze heures, donc rentre avant minuit.",
+        "cn": "宿舍十一点关门，所以午夜前要回来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "宿舍"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai trouvé un logement près du campus, à dix minutes à pied.",
+        "cn": "我在校园附近找了个住处，步行十分钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "困乏的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après le déjeuner, je me sens toujours un peu somnolent en cours.",
+        "cn": "午饭后我上课时总是有点犯困。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "拖鞋"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle rentre au dortoir et met ses pantoufles avant de travailler.",
+        "cn": "她回到宿舍，换上拖鞋才开始学习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "被子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il fait froid cette nuit, prends une couverture de plus sur ton lit.",
+        "cn": "今晚很冷，在你床上多盖一床被子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "床单"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma mère m'a envoyé un drap propre par la poste.",
+        "cn": "我妈妈给我邮寄了一条干净的床单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "画家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce peintre expose ses toiles dans le hall de l'université.",
+        "cn": "这位画家在大学门厅里展出他的画作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "艺术家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon voisin de chambre est un artiste qui peint des portraits.",
+        "cn": "我的室友是位艺术家，他画肖像。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pendant le cours d'arts plastiques, nous devons dessiner un objet de la salle.",
+        "cn": "美术课上，我们要画教室里的一个物品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle aime peindre des aquarelles le dimanche après-midi au parc.",
+        "cn": "她喜欢周日下午在公园里画水彩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "人物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le personnage principal du roman est un jeune étudiant comme nous.",
+        "cn": "这部小说的主人公是个像我们一样的年轻学生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "模特"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pour la fête de l'école, elle a posé comme mannequin devant tout le monde.",
+        "cn": "为了学校庆典，她在众人面前当了一回模特。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "水粉画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il prépare sa gouache avant de commencer le sujet du concours.",
+        "cn": "他开始画考试题目之前先把水粉颜料准备好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "风景画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce paysage de montagne a été peint par un élève de terminale.",
+        "cn": "这幅山景画是一个高三学生画的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "水彩画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle offre une petite aquarelle à son professeur à la fin du semestre.",
+        "cn": "学期末她送给老师一幅小水彩画。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "画架"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le chevalet de l'atelier penche un peu, il faudrait le réparer.",
+        "cn": "画室的画架有点歪了，得修一下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "画夹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle range ses dessins dans un grand carton sous son lit.",
+        "cn": "她把自己的画收在床下的一个大画夹里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "素描"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'esquisse au crayon est presque finie, il ne reste que les ombres.",
+        "cn": "铅笔素描快画完了，只剩下阴影部分。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "橡皮"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Prête-moi ta gomme, j'ai fait une erreur sur mon schéma.",
+        "cn": "把橡皮借我，我的示意图画错了一处。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "颜料"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur nous a expliqué comment mélanger les pigments pour obtenir du vert.",
+        "cn": "老师给我们讲解了怎样调颜料才能调出绿色。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "试管"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Attention, l'éprouvette est encore chaude, prends-la avec un chiffon propre.",
+        "cn": "小心，试管还很烫，用干净的布拿它。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "烧杯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bécher contient un liquide bleu que nous devons analyser.",
+        "cn": "烧杯里装着一种蓝色的液体，我们需要分析它。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "搅拌"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut mélanger doucement la poudre avec un litre d'eau tiède.",
+        "cn": "要把粉末和一升温水慢慢搅拌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "实验"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre expérimentation commence demain matin dans le laboratoire de chimie du bâtiment B.",
+        "cn": "我们的实验明天早上在B楼的化学实验室开始。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "方法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette méthode est plus simple, mais elle demande beaucoup de concentration.",
+        "cn": "这个方法更简单，但需要高度集中注意力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "微生物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce micro-organisme observé au microscope se déplace vraiment très vite.",
+        "cn": "这种在显微镜下观察到的微生物移动得非常快。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "显微镜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons passé une heure à régler le microscope avant l'expérience.",
+        "cn": "实验前我们花了一个小时调显微镜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "稀释"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut diluer l'acide avant de le verser dans l'éprouvette.",
+        "cn": "要先把酸稀释，再倒进试管里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "液态的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'azote liquide doit être manipulé avec beaucoup de précaution au laboratoire.",
+        "cn": "液氮在实验室里必须非常小心地操作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "氧气"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sans oxygène, la flamme du bec de gaz s'éteint presque aussitôt.",
+        "cn": "没有氧气，煤气灯的火焰几乎立刻就灭了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "同学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un camarade de classe m'a prêté ses notes de biologie.",
+        "cn": "一位同学把他的生物笔记借给了我。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "同学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il retrouve un ancien condisciple dans le couloir de la fac.",
+        "cn": "他在学院的走廊里遇到了一位老同学。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "男生"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un petit écolier attend son père devant la grille de l'école.",
+        "cn": "一个小男孩在学校门口等他的父亲。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "女生"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La petite écolière range ses crayons dans sa trousse avant de sortir.",
+        "cn": "小女孩出门前把铅笔收进笔袋里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "授课"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle veut enseigner le français dans un lycée après ses études.",
+        "cn": "她毕业后想在一所高中教法语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "代理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre professeur intérimaire reste avec nous jusqu'à la fin du trimestre.",
+        "cn": "我们的代课老师会一直教到本学期末。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "教育学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle étudie la pédagogie depuis deux ans parce qu'elle veut devenir institutrice.",
+        "cn": "她学习教育学两年了，因为她想当小学老师。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "艺术"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cours d'art est le seul où je me sens vraiment libre.",
+        "cn": "美术课是唯一让我真正感到自由的课。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "自动化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'automatisation de la bibliothèque a supprimé plusieurs postes réservés aux étudiants.",
+        "cn": "图书馆的自动化取消了好几个留给学生的岗位。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "电子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un électron porte une charge négative, comme le rappelle le cours.",
+        "cn": "正如课上所讲，电子带负电荷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "化学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chimie est devenue ma matière préférée depuis mon entrée au lycée.",
+        "cn": "自从上了高中，化学就成了我最喜欢的科目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "航天"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce laboratoire aérospatial accueille chaque été des stagiaires de troisième année.",
+        "cn": "这个航天实验室每年夏天都接收三年级实习生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "光学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre cours d'optique explique enfin comment fonctionne une lentille simple.",
+        "cn": "我们的光学课终于讲清楚了一个简单透镜的原理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "生物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai choisi la biologie parce que j'aime travailler sur le terrain.",
+        "cn": "我选了生物，因为我喜欢在野外工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "管理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cours de management nous apprend à diriger une petite équipe.",
+        "cn": "管理课教我们如何带领一个小团队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "财务"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il étudie les finances pour travailler plus tard dans une banque.",
+        "cn": "他学财务，为了以后在银行工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "营销"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le marketing l'intéresse bien plus que la comptabilité, répète-t-il souvent.",
+        "cn": "他常说，营销比会计更让他感兴趣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "借"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Est-ce que je peux emprunter ton livre de maths jusqu'à vendredi ?",
+        "cn": "我能借你的数学书到周五吗？"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "借"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle m'a gentiment prêté son vélo pour rentrer au dortoir.",
+        "cn": "她好心把自行车借给我骑回宿舍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "目录"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le catalogue des cours est disponible en ligne depuis lundi.",
+        "cn": "课程目录从周一起可以在网上查到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "预约"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai souscrit un abonnement à la bibliothèque pour tout le semestre.",
+        "cn": "我订了整学期的图书馆借阅服务。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "书架"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les livres rendus sont posés sur l'étagère près de l'entrée.",
+        "cn": "还回来的书放在入口旁的书架上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "寂静的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La salle de lecture est calme, on entend seulement les pages tourner.",
+        "cn": "阅览室很安静，只听得见翻书页的声音。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "到期的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque étudiant doit régler les sommes échéant avant la rentrée de septembre.",
+        "cn": "每位学生都必须在九月开学前付清到期的款项。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "扫描机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le scanner de la bibliothèque est en panne depuis trois jours.",
+        "cn": "图书馆的扫描机坏了三天了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "分类"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons classifier ces articles par thème avant de les ranger.",
+        "cn": "我们得先把这些文章按主题分类再归档。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "专业"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa spécialité est la littérature comparée, et non la linguistique.",
+        "cn": "她的专业是比较文学，不是语言学。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "课程"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cours de philosophie commence à huit heures et demie.",
+        "cn": "哲学课八点半开始。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "学校的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le calendrier scolaire de cette année compte deux semaines de vacances.",
+        "cn": "今年的校历上有两周假期。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "学期"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce semestre, j'ai choisi quatre cours et un atelier de théâtre.",
+        "cn": "这学期我选了四门课和一个戏剧工作坊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "学科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque discipline a son propre examen à la fin du semestre.",
+        "cn": "每门学科在学期末都有自己的考试。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "实习"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je commence mon stage dans une maison d'édition lundi prochain.",
+        "cn": "下周一我开始在一家出版社实习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "必修的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce cours est obligatoire, même pour les étudiants de troisième année.",
+        "cn": "这门课是必修的，连三年级学生也要上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "选择的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'entrée dans ce master est sélective et le dossier compte beaucoup.",
+        "cn": "这个硕士项目的入学筛选很严格，材料很重要。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2122,7 +2602,12 @@
         "cn": "体育"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sport est obligatoire le mercredi après-midi pour les premières années.",
+        "cn": "一年级学生周三下午必须参加体育课。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "出席"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je vais assister à la conférence sur les métiers de l'édition.",
+        "cn": "我要去听那场关于出版行业的讲座。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "出席的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Tous les étudiants doivent être présents à la réunion de rentrée.",
+        "cn": "所有学生都必须出席开学会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "集中"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je n'arrive pas à me concentrer avec ce bruit dans le couloir.",
+        "cn": "走廊里这么吵，我根本没法集中精神。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "笔记"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses notes sont si claires que toute la classe les photocopie.",
+        "cn": "他的笔记非常清楚，全班都去复印。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "处罚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur pénalise sévèrement les copies rendues après l'heure limite.",
+        "cn": "老师对超时交的试卷扣分很重。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2254,7 +2764,12 @@
         "cn": "提问"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après l'exposé, le public peut questionner librement les deux intervenants.",
+        "cn": "报告结束后，听众可以自由向两位发言人提问。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "讲座"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La conférence de jeudi porte sur l'histoire de l'art moderne.",
+        "cn": "周四的讲座讲的是现代艺术史。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "扩音器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le microphone de la salle ne fonctionne pas, parle plus fort.",
+        "cn": "教室的扩音器坏了，你说大声点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "目的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le but de cet exercice est de nous faire parler en public.",
+        "cn": "这个练习的目的是让我们当众讲话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "主旨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'essentiel de son exposé tient finalement en trois idées simples.",
+        "cn": "他的报告要点最后归结为三个简单的观点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "内容"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le contenu du cours sera publié sur la plateforme ce soir.",
+        "cn": "课程内容今晚会发布在平台上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2386,7 +2926,12 @@
         "cn": "长度"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La longueur du devoir ne doit pas dépasser cinq pages.",
+        "cn": "作业的长度不能超过五页。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2408,7 +2953,12 @@
         "cn": "草稿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Garde ton brouillon, il peut servir pour la deuxième partie.",
+        "cn": "留着你的草稿，第二部分可能用得上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2430,7 +2980,12 @@
         "cn": "背诵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La récitation du poème compte pour un quart de la note.",
+        "cn": "背诵这首诗占总分的四分之一。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2452,7 +3007,12 @@
         "cn": "目的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a agi dans le dessein de convaincre le jury, sans aucune arrière-pensée.",
+        "cn": "他那样做是为了说服评委，没有任何别的用心。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2474,7 +3034,12 @@
         "cn": "创新"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette innovation pédagogique a beaucoup plu aux étudiants de première année.",
+        "cn": "这项教学创新很受一年级学生欢迎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2496,7 +3061,12 @@
         "cn": "理论的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La partie théorique du cours est plus difficile que les travaux pratiques.",
+        "cn": "课程的理论部分比实践课难。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2518,7 +3088,12 @@
         "cn": "实践"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet atelier de chimie est très pratique, on apprend vraiment en faisant.",
+        "cn": "这个化学工作坊很实用，我们真的是边做边学。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2540,7 +3115,12 @@
         "cn": "鼓舞"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son parcours m'inspire beaucoup et me donne envie de continuer.",
+        "cn": "他的经历很鼓舞我，让我想继续坚持下去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2562,7 +3142,12 @@
         "cn": "成功"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son premier exposé a été un vrai succès devant la classe.",
+        "cn": "他第一次在班上做报告就大获成功。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2584,7 +3169,12 @@
         "cn": "成功"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa réussite au concours d'entrée a surpris tous ses camarades.",
+        "cn": "他考上入学考试让所有同学都很意外。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2606,7 +3196,12 @@
         "cn": "奖学金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a obtenu une bourse qui couvre le logement et les repas.",
+        "cn": "她拿到了涵盖住宿和餐费的奖学金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2628,7 +3223,12 @@
         "cn": "荣誉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce lycée a bonne réputation, surtout pour ses classes de sciences.",
+        "cn": "这所高中名声很好，尤其是理科班。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2650,7 +3250,12 @@
         "cn": "有资格"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ton inscription n'est valable que si tu paies avant vendredi.",
+        "cn": "你的注册只有在周五之前付款后才有效。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2672,7 +3277,12 @@
         "cn": "颁发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'université va communiquer les résultats officiels dès la semaine prochaine.",
+        "cn": "大学从下周起就会公布正式成绩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2694,7 +3304,12 @@
         "cn": "获得"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a obtenu son diplôme avec une mention très bien.",
+        "cn": "他以优异的成绩拿到了学位。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2716,7 +3331,12 @@
         "cn": "爱好"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a le goût des langues anciennes depuis le collège.",
+        "cn": "她从初中起就喜欢古代语言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2738,7 +3358,12 @@
         "cn": "活动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce mouvement de solidarité a réuni tous les étudiants du campus.",
+        "cn": "这场互助活动把校园里所有学生都聚到了一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2760,7 +3385,12 @@
         "cn": "地点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet endroit est parfait pour réviser au calme entre deux cours.",
+        "cn": "这个地方很适合在两节课之间安静地复习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2782,7 +3412,12 @@
         "cn": "定义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La définition du mot est donnée au début du chapitre.",
+        "cn": "这个词的定义在本章开头给出。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2804,7 +3439,12 @@
         "cn": "地点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le lieu de l'examen a changé, vérifie sur le panneau.",
+        "cn": "考试地点变了，去公告牌上确认一下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2826,7 +3466,12 @@
         "cn": "比赛"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le match de basket entre les deux facultés aura lieu samedi.",
+        "cn": "两个学院之间的篮球赛将在周六举行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2848,7 +3493,12 @@
         "cn": "赞助"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La mairie a soutenu le club sportif de l'université pendant dix ans.",
+        "cn": "市政府资助这所大学的体育俱乐部已有十年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2870,7 +3520,12 @@
         "cn": "资助"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une entreprise locale a accepté de commanditer notre projet de fin d'année.",
+        "cn": "一家本地企业同意资助我们的年终项目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2892,7 +3547,12 @@
         "cn": "奖品"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gagnant du concours recevra une récompense et un livre.",
+        "cn": "比赛的获胜者会得到一份奖品和一本书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2914,7 +3574,12 @@
         "cn": "俱乐部"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je me suis inscrit au club de théâtre de la fac.",
+        "cn": "我报名参加了学院的戏剧社。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2936,7 +3601,12 @@
         "cn": "策划"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons planifier la sortie du club avant les vacances.",
+        "cn": "我们得在假期前把社团出游策划好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2958,7 +3628,12 @@
         "cn": "组织"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les étudiants organisent une fête pour la fin du semestre.",
+        "cn": "学生们正在为学期末组织一场聚会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2980,7 +3655,12 @@
         "cn": "留级"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a redoublé sa deuxième année parce qu'il travaillait trop peu.",
+        "cn": "他因为太不用功而留级了一年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3002,7 +3682,12 @@
         "cn": "长处"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le principal avantage de ce logement est sa proximité du campus.",
+        "cn": "这个住处最大的长处是离校园近。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3024,7 +3709,12 @@
         "cn": "区分"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut savoir différencier le conditionnel du futur simple en français.",
+        "cn": "法语里要会区分条件式与简单将来时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3046,7 +3736,12 @@
         "cn": "出众的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa présentation était vraiment remarquable, claire et bien documentée.",
+        "cn": "他的报告确实出众，条理清楚，资料翔实。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3068,7 +3763,12 @@
         "cn": "优秀的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce professeur est exceptionnel, il explique chaque point avec patience.",
+        "cn": "这位老师非常优秀，每个要点都耐心讲解。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3090,7 +3790,12 @@
         "cn": "分数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a perdu deux points à cause d'une faute d'orthographe.",
+        "cn": "他因为一个拼写错误丢了两分。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3112,7 +3817,12 @@
         "cn": "成绩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les résultats du partiel de janvier seront affichés lundi matin.",
+        "cn": "一月份期中考试的成绩周一早上公布。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3134,7 +3844,12 @@
         "cn": "成绩单"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai demandé une transcription de mes notes pour mon dossier.",
+        "cn": "我为自己的材料申请了一份成绩单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3156,7 +3871,12 @@
         "cn": "表现"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son expression écrite s'est nettement améliorée depuis le début du semestre.",
+        "cn": "他的书面表达从学期初起明显进步了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3178,7 +3898,12 @@
         "cn": "论文"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle travaille sur son mémoire de master depuis six mois.",
+        "cn": "她写硕士论文已经写了六个月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3200,7 +3925,12 @@
         "cn": "学位"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sans diplôme, il est difficile de trouver un bon stage.",
+        "cn": "没有学位，很难找到好的实习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3222,7 +3952,12 @@
         "cn": "硕士"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle s'est inscrite en master de sociologie à la rentrée.",
+        "cn": "她在开学时注册了社会学硕士。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3244,7 +3979,12 @@
         "cn": "博士学位"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il prépare un doctorat en histoire de l'art médiéval à Lyon.",
+        "cn": "他在里昂攻读中世纪艺术史博士学位。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3257,16 +3997,21 @@
   },
   {
     "id": 149,
-    "word": "post-docteur",
-    "phonetic0": "pɔst-dɔktœʁ",
-    "phonetic1": "pɔst-dɔktœʁ",
+    "word": "post-doctorat",
+    "phonetic0": "pɔst dɔktɔʁa",
+    "phonetic1": "pɔst dɔktɔʁa",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "博士后"
+        "pos": "n.m.",
+        "cn": "博士后阶段"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a fait un post-doctorat aux États-Unis après sa thèse.",
+        "cn": "她博士毕业后去美国做了博士后。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3288,7 +4033,12 @@
         "cn": "证书"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce certificat de langue est exigé pour partir en échange.",
+        "cn": "去交换必须要有这份语言证书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3310,7 +4060,12 @@
         "cn": "导师"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon maître de mémoire m'a conseillé de relire tout le chapitre.",
+        "cn": "我的论文导师建议我把整章重读一遍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3332,7 +4087,12 @@
         "cn": "阅读"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La lecture de cet article m'a pris toute la soirée.",
+        "cn": "读这篇文章花了我一整个晚上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3354,7 +4114,12 @@
         "cn": "申请"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai déposé ma demande de bourse avant la date limite.",
+        "cn": "我在截止日期前提交了奖学金申请。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3376,7 +4141,12 @@
         "cn": "录取"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette école n'admet que trente étudiants sur deux cents candidats.",
+        "cn": "这所学校在两百名考生中只录取三十人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3398,7 +4168,12 @@
         "cn": "预科"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il suit une année de fondation avant d'entrer en master.",
+        "cn": "他先读一年预科，然后才进入硕士阶段。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3420,7 +4195,12 @@
         "cn": "论文"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La dissertation de philosophie doit faire quatre pages en moyenne.",
+        "cn": "哲学论文一般要写四页。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3442,7 +4222,12 @@
         "cn": "提及"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur a mentionné cet auteur dans son dernier cours.",
+        "cn": "老师在上次课上提到了这位作者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3464,7 +4249,12 @@
         "cn": "方案"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre plan de révision tient finalement sur une seule feuille.",
+        "cn": "我们的复习方案最后只写了一页纸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3486,7 +4276,12 @@
         "cn": "部分"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La deuxième partie de l'examen écrit est la plus longue.",
+        "cn": "笔试的第二部分是最长的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3508,7 +4303,12 @@
         "cn": "作者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet auteur est très étudié en deuxième année de lettres.",
+        "cn": "这位作者在文学专业二年级被重点研究。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3530,7 +4330,12 @@
         "cn": "摘要"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il résume chaque chapitre en une phrase avant de réviser.",
+        "cn": "复习之前他把每一章缩写成一句话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3552,7 +4357,12 @@
         "cn": "总结"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur récapitule les points clés avant la fin du cours.",
+        "cn": "老师在课结束前总结了要点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3574,7 +4384,12 @@
         "cn": "结论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ta conclusion doit répondre clairement à la question du sujet.",
+        "cn": "你的结论必须清楚地回答题目的问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3596,7 +4411,12 @@
         "cn": "图表"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce graphique montre bien l'évolution de nos notes depuis septembre.",
+        "cn": "这张图表清楚地显示了九月以来我们成绩的变化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3618,7 +4438,12 @@
         "cn": "批注"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'annote toujours mes textes au crayon pour mieux les comprendre.",
+        "cn": "我总是用铅笔给课文做批注，以便更好地理解。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3640,7 +4465,12 @@
         "cn": "建议"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon conseiller pédagogique m'a aidé à choisir tous mes cours.",
+        "cn": "我的学业顾问帮我选好了所有课程。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3662,7 +4492,12 @@
         "cn": "论题"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La thèse de son article est simple mais bien défendue.",
+        "cn": "他这篇文章的论题简单，但论证得很好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3684,7 +4519,12 @@
         "cn": "论据"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il manque une preuve solide pour appuyer cette idée principale.",
+        "cn": "缺少有力的论据来支持这个主要观点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3706,7 +4546,12 @@
         "cn": "抱负"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son ambition est de devenir un jour chercheuse en biologie.",
+        "cn": "她的抱负是有朝一日成为生物学家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3728,7 +4573,12 @@
         "cn": "有抱负的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce projet est vraiment ambitieux, mais toute l'équipe y croit.",
+        "cn": "这个项目确实很有抱负，但整个团队都相信它。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3750,7 +4600,12 @@
         "cn": "梦想"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son plus grand rêve est d'étudier un an à l'étranger.",
+        "cn": "他最大的梦想是去国外学习一年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3772,7 +4627,12 @@
         "cn": "梦想家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce n'est pas un songe-creux, il travaille vraiment pour réussir.",
+        "cn": "他不是空想家，他真的在为成功努力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3794,7 +4654,12 @@
         "cn": "追求"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle poursuit ses études malgré les difficultés financières de sa famille.",
+        "cn": "尽管家里经济困难，她仍在继续学业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3816,7 +4681,12 @@
         "cn": "实现"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a enfin réalisé son projet de partir en échange.",
+        "cn": "他终于实现了去交换的计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3838,7 +4708,12 @@
         "cn": "成就"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette publication reste sa plus grande réalisation scientifique à ce jour.",
+        "cn": "这篇论文至今仍是他最大的科研成就。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3860,7 +4735,12 @@
         "cn": "成就"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Terminer ce mémoire en trois mois est un véritable exploit.",
+        "cn": "三个月写完这篇论文真是个了不起的成就。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3882,7 +4762,12 @@
         "cn": "有事业心的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet étudiant entreprenant a créé sa petite entreprise pendant ses études.",
+        "cn": "这个有事业心的学生在读书期间创办了自己的小公司。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3904,7 +4789,12 @@
         "cn": "动力"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa motivation reste intacte malgré deux échecs au même concours.",
+        "cn": "尽管同一个考试失败了两次，他的动力依然不减。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3926,7 +4816,12 @@
         "cn": "坚定的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est très assurée lorsqu'elle présente son exposé devant la classe.",
+        "cn": "她在班上做报告时显得非常自信。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3948,7 +4843,12 @@
         "cn": "决心"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa détermination à finir son doctorat impressionne vraiment ses professeurs.",
+        "cn": "他读完博士的决心让老师们印象深刻。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3970,7 +4870,12 @@
         "cn": "目标"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La visée de ce cours est de former de bons rédacteurs.",
+        "cn": "这门课的目标是培养优秀的写作者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3992,7 +4897,12 @@
         "cn": "热情"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son enthousiasme est contagieux, tout le groupe travaille mieux depuis.",
+        "cn": "他的热情很有感染力，整个小组从此干得更好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4014,7 +4924,12 @@
         "cn": "战斗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les étudiants veulent combattre l'échec scolaire avec plus de tutorat.",
+        "cn": "学生们想用更多辅导来对抗学业失败。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4036,7 +4951,12 @@
         "cn": "历史"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'adore l'histoire ancienne, en particulier celle de la Grèce antique.",
+        "cn": "我特别喜欢古代史，尤其是古希腊史。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4058,7 +4978,12 @@
         "cn": "文化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce cours présente la culture française à travers ses films.",
+        "cn": "这门课通过电影介绍法国文化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4080,7 +5005,12 @@
         "cn": "法律"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette loi protège les étudiants qui travaillent à temps partiel.",
+        "cn": "这条法律保护做兼职的学生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4102,7 +5032,12 @@
         "cn": "翻译"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons traduire ce passage du latin avant le cours de jeudi.",
+        "cn": "我们得在周四上课前把这段拉丁文翻译出来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4124,7 +5059,12 @@
         "cn": "文学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La littérature comparée demande de lire des textes dans plusieurs langues.",
+        "cn": "比较文学要求阅读多种语言的文本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4146,7 +5086,12 @@
         "cn": "出版学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle fait un stage dans une maison d'édition depuis janvier.",
+        "cn": "她从一月起在一家出版社实习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4168,7 +5113,12 @@
         "cn": "社会学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sociologie l'intéresse bien plus que l'économie depuis cette année.",
+        "cn": "从今年起，社会学比经济学更让他感兴趣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4190,7 +5140,12 @@
         "cn": "心理学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il lit des livres de psychologie pour mieux comprendre ses camarades.",
+        "cn": "他读心理学书籍，为了更好地理解同学。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4212,7 +5167,12 @@
         "cn": "书法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le club de calligraphie se réunit chaque mardi au foyer.",
+        "cn": "书法社每周二在学生活动室活动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4234,7 +5194,12 @@
         "cn": "英语"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cours d'anglais du lundi matin est souvent annulé sans prévenir.",
+        "cn": "周一早上的英语课常常不通知就取消。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4256,7 +5221,12 @@
         "cn": "对话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons lu un dialogue entre un élève et son professeur.",
+        "cn": "我们读了一段学生和老师之间的对话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4278,7 +5248,12 @@
         "cn": "语法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La grammaire française me pose encore quelques problèmes assez sérieux.",
+        "cn": "法语语法仍然给我带来一些相当棘手的问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4300,7 +5275,12 @@
         "cn": "形容词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un adjectif s'accorde toujours en genre et en nombre avec le nom.",
+        "cn": "形容词总是要与名词的性和数一致。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4322,7 +5302,12 @@
         "cn": "介词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette préposition ne va jamais avec ce verbe, il faut le noter.",
+        "cn": "这个介词永远不和这个动词搭配，要记下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4344,7 +5329,12 @@
         "cn": "代词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Remplace ce groupe de mots par un pronom plus court.",
+        "cn": "把这个词组换成一个更短的代词。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4366,7 +5356,12 @@
         "cn": "副词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet adverbe se place après le verbe dans ta phrase.",
+        "cn": "这个副词在你的句子里放在动词后面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4388,7 +5383,12 @@
         "cn": "动词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce verbe irrégulier est difficile, il faut l'apprendre par cœur.",
+        "cn": "这个动词不规则，很难，得背下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4410,7 +5410,12 @@
         "cn": "数词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Écris ce nombre en lettres si tu as le temps.",
+        "cn": "如果有时间，把这个数词用字母写出来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4432,7 +5437,12 @@
         "cn": "词组"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette locution s'emploie surtout à l'écrit, il faut la retenir.",
+        "cn": "这个词组主要用于书面语，要记住它。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4454,7 +5464,12 @@
         "cn": "单词"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je ne connais pas ce mot, je le cherche dans le dictionnaire.",
+        "cn": "我不认识这个单词，我在词典里查一下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4476,7 +5491,12 @@
         "cn": "复数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mets ce nom au pluriel et vérifie l'accord de l'adjectif.",
+        "cn": "把这个名词变成复数，再检查形容词的配合。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4498,7 +5518,12 @@
         "cn": "句子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette phrase est bien trop longue pour être comprise facilement.",
+        "cn": "这个句子太长了，不容易看懂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4520,7 +5545,12 @@
         "cn": "浏览"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai parcouru le sommaire en entier avant d'acheter ce livre.",
+        "cn": "买这本书之前我把目录整个浏览了一遍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4542,7 +5572,12 @@
         "cn": "思考"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Prends le temps de réfléchir avant de choisir ta spécialité.",
+        "cn": "选专业之前花点时间好好想想。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4564,7 +5599,12 @@
         "cn": "独立地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille indépendamment des autres et rend ses travaux à l'heure.",
+        "cn": "他独立于其他人工作，而且按时交作业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4586,7 +5626,12 @@
         "cn": "沉默"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un long silence a suivi la question un peu gênante du professeur.",
+        "cn": "老师那个有点尴尬的问题之后是一阵长久的沉默。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4608,7 +5653,12 @@
         "cn": "高声地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les étudiants discutaient bruyamment dans le couloir de la fac.",
+        "cn": "学生们在学院的走廊里高声交谈。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4630,7 +5680,12 @@
         "cn": "联想"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette photo me rappelle mes années de lycée à la campagne.",
+        "cn": "这张照片让我想起在乡下读高中的那些年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4652,7 +5707,12 @@
         "cn": "详细的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son rapport détaille chaque étape de l'expérience, du début à la fin.",
+        "cn": "他的报告详细叙述了实验的每一个步骤，从头到尾。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4674,7 +5734,12 @@
         "cn": "博学的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce professeur érudit cite aussi bien les poètes que les historiens.",
+        "cn": "这位博学的教授既引用诗人也引用历史学家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4696,7 +5761,12 @@
         "cn": "博学的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son ton docte agace un peu ses camarades de classe.",
+        "cn": "他那博学的腔调让同学们有点烦。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4718,7 +5788,12 @@
         "cn": "知识"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce cours m'a donné des connaissances utiles en statistiques appliquées.",
+        "cn": "这门课让我掌握了实用的应用统计学知识。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4740,7 +5815,12 @@
         "cn": "范围"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce sujet dépasse largement la sphère de mes connaissances actuelles.",
+        "cn": "这个题目远远超出了我目前的知识范围。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4762,7 +5842,12 @@
         "cn": "考古学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle étudie l'archéologie et passe ses étés sur des fouilles.",
+        "cn": "她学考古学，夏天都在考古发掘现场度过。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4784,7 +5869,12 @@
         "cn": "考古学的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le petit musée du campus présente une collection archéologique très riche.",
+        "cn": "校园里的小博物馆藏有一批很丰富的考古藏品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4806,7 +5896,12 @@
         "cn": "考古学家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un archéologue est venu parler de ses fouilles en Égypte.",
+        "cn": "一位考古学家来讲述他在埃及的发掘工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4828,7 +5923,12 @@
         "cn": "化石的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils ont trouvé un os fossile près de la rivière.",
+        "cn": "他们在河边发现了一块化石骨头。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4850,7 +5950,12 @@
         "cn": "类人猿的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce squelette anthropoïde intrigue beaucoup les jeunes chercheurs du labo.",
+        "cn": "这具类人猿骨架让实验室的年轻研究人员很感兴趣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4872,7 +5977,12 @@
         "cn": "镐"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'étudiant a emporté une pioche pour creuser le sol dur.",
+        "cn": "那个学生带了一把镐去挖坚硬的地面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4894,7 +6004,12 @@
         "cn": "斧子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On a trouvé une hache en pierre près de la tombe.",
+        "cn": "人们在墓旁发现了一把石斧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4916,7 +6031,12 @@
         "cn": "挖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut percer la terre à cet endroit précis du terrain.",
+        "cn": "得在场地这个确切的位置挖土。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4938,7 +6058,12 @@
         "cn": "墓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une tombe ancienne a été découverte derrière le vieux mur.",
+        "cn": "一座古墓在老墙后面被发现了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4960,7 +6085,12 @@
         "cn": "墓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce mausolée de pierre blanche date du troisième siècle de notre ère.",
+        "cn": "这座白色石砌陵墓建于公元三世纪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4982,7 +6112,12 @@
         "cn": "古代的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils étudient les textes antiques dans le cours de latin.",
+        "cn": "他们在拉丁语课上研读古代文本。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5004,7 +6139,12 @@
         "cn": "葬礼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enterrement a eu lieu le lendemain matin, sans aucune cérémonie.",
+        "cn": "葬礼第二天早上举行，没有任何仪式。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5026,7 +6166,12 @@
         "cn": "葬礼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les funérailles ont réuni toute la famille dans le village.",
+        "cn": "葬礼把全家人聚到了村子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5048,7 +6193,12 @@
         "cn": "陶器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les poteries trouvées sur le site sont exposées au musée.",
+        "cn": "在遗址上发现的陶器在博物馆展出。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5070,7 +6220,12 @@
         "cn": "宝物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce joyau de bronze est le plus beau du musée.",
+        "cn": "这件青铜宝物是博物馆里最精美的。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5092,7 +6247,12 @@
         "cn": "挖掘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les archéologues ont déterré une petite statuette près du temple.",
+        "cn": "考古学家在神庙附近挖出了一尊小雕像。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5114,7 +6274,12 @@
         "cn": "心理学的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fatigue psychologique explique en partie ce blocage devant l'examen.",
+        "cn": "心理上的疲劳部分解释了这种考前卡壳。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5136,7 +6301,12 @@
         "cn": "心理学家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un psychologue reçoit les étudiants stressés chaque après-midi au campus.",
+        "cn": "一位心理学家每天下午在校园接待压力大的学生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5158,7 +6328,12 @@
         "cn": "心理障碍"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce blocage devant la page blanche lui arrive de plus en plus.",
+        "cn": "他面对空白纸页写不出东西的情况越来越常发生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5180,7 +6355,12 @@
         "cn": "意识"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a enfin pris conscience de ses erreurs après l'examen.",
+        "cn": "考试之后他终于意识到了自己的错误。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5202,7 +6382,12 @@
         "cn": "行为的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette étude comportementale suit trente étudiants pendant une année.",
+        "cn": "这项行为研究对三十名学生进行了一年的跟踪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5224,7 +6409,12 @@
         "cn": "认知"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La cognition humaine fascine beaucoup les jeunes étudiants de psychologie.",
+        "cn": "人类认知让年轻的心理学学生十分着迷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5246,7 +6436,12 @@
         "cn": "依赖性"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa dépendance au téléphone l'empêche vraiment de travailler le soir.",
+        "cn": "他对手机的依赖确实让他晚上没法学习。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5268,7 +6463,12 @@
         "cn": "诱导"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces images peuvent facilement induire les jeunes étudiants en erreur.",
+        "cn": "这些图片很容易把年轻学生引入歧途。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5290,7 +6490,12 @@
         "cn": "沉思"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Assis près de la fenêtre, il contemplait longtemps les toits gris sous la pluie.",
+        "cn": "他坐在窗边，久久凝望着雨中灰色的屋顶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5312,7 +6517,12 @@
         "cn": "混乱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après la panne, une grande confusion régnait dans la gare bondée.",
+        "cn": "故障发生之后，拥挤的车站里一片混乱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5334,7 +6544,12 @@
         "cn": "自恋的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce garçon si narcissique passe des heures devant son miroir.",
+        "cn": "这个男孩太自恋了，能在镜子前待上好几个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5356,7 +6571,12 @@
         "cn": "古典的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle préfère la musique classique aux chansons modernes qu'on entend à la radio.",
+        "cn": "比起电台里放的现代歌曲，她更喜欢古典音乐。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5378,7 +6598,12 @@
         "cn": "民间文学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce professeur passionné collectionne les contes du folklore breton depuis vingt ans.",
+        "cn": "这位热心的教授二十年来一直收集布列塔尼民间文学中的故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5400,7 +6625,12 @@
         "cn": "散文"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son dernier livre mélange la prose et la poésie avec beaucoup de finesse.",
+        "cn": "他最新的一本书把散文和诗歌巧妙地融合在一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5422,7 +6652,12 @@
         "cn": "随笔"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a publié un essai sur la vie des artistes au dix-neuvième siècle.",
+        "cn": "她出版了一部关于十九世纪艺术家生活的随笔。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5444,7 +6679,12 @@
         "cn": "长篇小说"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai lu ce roman policier en deux nuits, tant l'histoire était captivante.",
+        "cn": "这本侦探小说我两个晚上就读完了，故事实在太吸引人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5466,7 +6706,12 @@
         "cn": "自传"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans son autobiographie, l'écrivain raconte son enfance dans un petit village.",
+        "cn": "作家在自传里讲述了他在小村庄度过的童年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5488,7 +6733,12 @@
         "cn": "戏剧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous sommes allés au théâtre voir une pièce de Molière samedi soir.",
+        "cn": "周六晚上我们去剧院看了一出莫里哀的戏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5510,7 +6760,12 @@
         "cn": "诗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a écrit un poème pour sa mère le jour de son anniversaire.",
+        "cn": "他在母亲生日那天写了一首诗送给她。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5532,7 +6787,12 @@
         "cn": "十四行诗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce sonnet de Baudelaire décrit un chat qui marche dans la nuit.",
+        "cn": "波德莱尔的这首十四行诗描写了一只夜里行走的猫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5554,7 +6814,12 @@
         "cn": "讽刺作品"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son roman est une satire féroce du monde politique moderne.",
+        "cn": "他的小说是对现代政界的尖锐讽刺。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5576,7 +6841,12 @@
         "cn": "剧本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le scénario de ce film est si compliqué que personne ne le comprend.",
+        "cn": "这部电影的剧本太复杂了，没人看得懂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5598,7 +6868,12 @@
         "cn": "故事"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon grand-père adore raconter une anecdote drôle sur son premier voyage.",
+        "cn": "我祖父特别喜欢讲他第一次旅行时的一件趣事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5620,7 +6895,12 @@
         "cn": "寓言"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce tableau est une allégorie de la paix et de la justice.",
+        "cn": "这幅画是和平与正义的寓言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5642,7 +6922,12 @@
         "cn": "笑话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il nous a raconté une facétie qui a fait rire toute la table.",
+        "cn": "他讲了一个笑话，逗得整桌人都笑了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5664,7 +6949,12 @@
         "cn": "剧作家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce jeune dramaturge écrit des pièces que les critiques admirent beaucoup.",
+        "cn": "这位年轻剧作家写的戏很受评论家赞赏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5686,7 +6976,12 @@
         "cn": "幽默的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son discours humoristique a détendu l'atmosphère tendue de la réunion.",
+        "cn": "他幽默的发言缓和了会议紧张的气氛。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5708,7 +7003,12 @@
         "cn": "兴奋的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La veille du départ, les enfants étaient fébriles et ne dormaient pas.",
+        "cn": "出发前一天晚上，孩子们兴奋得睡不着觉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5730,7 +7030,12 @@
         "cn": "复杂的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce problème est trop complexe pour être résolu en une seule soirée.",
+        "cn": "这个问题太复杂，一个晚上解决不了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5752,7 +7057,12 @@
         "cn": "古怪的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon oncle a des idées farfelues qui amusent toute la famille.",
+        "cn": "我叔叔总有些古怪的念头，逗得全家发笑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5774,7 +7084,12 @@
         "cn": "鬼故事连环画"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans sa bibliothèque, il garde un vieux recueil de diableries.",
+        "cn": "他的书房里保存着一本古老的鬼故事连环画。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5796,7 +7111,12 @@
         "cn": "冒险"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Personne n'osait hasarder une réponse devant le professeur si sévère.",
+        "cn": "面对这么严厉的老师，谁也不敢冒险作答。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5818,7 +7138,12 @@
         "cn": "荒唐的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son projet dément a choqué tous les habitants du quartier.",
+        "cn": "他那个荒唐的计划让街区的居民都很震惊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5840,7 +7165,12 @@
         "cn": "转折"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce film policier est plein de péripéties inattendues et de rebondissements.",
+        "cn": "这部警匪片充满了意外的转折和反转。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5862,7 +7192,12 @@
         "cn": "小狐狸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Au printemps, un renardeau curieux est venu près de notre jardin.",
+        "cn": "春天时，一只好奇的小狐狸来到了我们的花园附近。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5884,7 +7219,12 @@
         "cn": "童话"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma mère me lisait un conte chaque soir avant que je m'endorme.",
+        "cn": "小时候妈妈每晚都在我睡着前给我读一个童话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5906,7 +7246,12 @@
         "cn": "魔法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans ce conte, la magie transforme un pauvre garçon en prince.",
+        "cn": "在这个童话里，魔法把一个穷小子变成了王子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5928,7 +7273,12 @@
         "cn": "女巫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vieille sorcière du village préparait des potions dans sa cave.",
+        "cn": "村里的老女巫在地窖里熬制各种魔药。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5950,7 +7300,12 @@
         "cn": "怪物"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants croyaient qu'un monstre vivait dans le grenier sombre.",
+        "cn": "孩子们以为阁楼的暗处住着一只怪物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5972,7 +7327,12 @@
         "cn": "小精灵"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un petit elfe aux cheveux blancs gardait l'entrée de la forêt.",
+        "cn": "一个白发小精灵守在森林的入口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5994,7 +7354,12 @@
         "cn": "巨人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans la légende, un géant protège le pont contre les voyageurs.",
+        "cn": "传说中，一个巨人守护着那座桥，不让旅人通过。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6016,7 +7381,12 @@
         "cn": "残忍的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce roi impitoyable punissait sévèrement tous ceux qui le critiquaient.",
+        "cn": "这个残忍的国王严惩所有批评他的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6038,7 +7408,12 @@
         "cn": "吸血鬼"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux film raconte l'histoire d'un vampire qui déteste la lumière.",
+        "cn": "这部老电影讲的是一个讨厌阳光的吸血鬼的故事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6060,7 +7435,12 @@
         "cn": "咒语"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vieille sorcière murmurait une incantation étrange devant le feu de bois.",
+        "cn": "老女巫在柴火前低声念着奇怪的咒语。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6082,7 +7462,12 @@
         "cn": "炼金术"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Au Moyen Âge, certains savants croyaient que l'alchimie pouvait changer le plomb en or.",
+        "cn": "中世纪时，一些学者相信炼金术能把铅变成黄金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6104,7 +7489,12 @@
         "cn": "印刷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'éditeur va imprimer trois mille exemplaires de ce nouveau roman.",
+        "cn": "出版社要印三千册这本新小说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6126,7 +7516,12 @@
         "cn": "杰作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce tableau est considéré comme un chef-d'oeuvre de la Renaissance.",
+        "cn": "这幅画被认为是文艺复兴时期的杰作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6148,7 +7543,12 @@
         "cn": "侦探"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon frère lit un roman policier avant de s'endormir chaque nuit.",
+        "cn": "我弟弟每晚睡前都读一本侦探小说。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6170,7 +7570,12 @@
         "cn": "完整的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il me manque encore deux pages pour avoir le dossier complet.",
+        "cn": "我还差两页才能凑齐完整的材料。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6192,7 +7597,12 @@
         "cn": "卷"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a acheté un rouleau de papier peint pour sa chambre.",
+        "cn": "她买了一卷壁纸来装饰自己的房间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6214,7 +7624,12 @@
         "cn": "历史的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce roman historique décrit la vie des paysans au dix-huitième siècle.",
+        "cn": "这部历史小说描写了十八世纪农民的生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6236,7 +7651,12 @@
         "cn": "作家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet écrivain célèbre vit seul dans une maison au bord de la mer.",
+        "cn": "这位著名作家独自住在海边的一栋房子里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6258,7 +7678,12 @@
         "cn": "描述"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son livre dépeint avec justesse la vie difficile des ouvriers parisiens.",
+        "cn": "他的书准确地描绘了巴黎工人艰难的生活。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6280,7 +7705,12 @@
         "cn": "版权"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux disque est encore protégé par le copyright américain.",
+        "cn": "这张老唱片仍受美国版权保护。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6302,7 +7732,12 @@
         "cn": "装订"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'artisan va relier ces feuilles pour en faire un joli livre.",
+        "cn": "工匠要把这些纸页装订成一本漂亮的册子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6324,7 +7759,12 @@
         "cn": "自然"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle aime se promener en pleine nature le dimanche matin.",
+        "cn": "她喜欢周日早上去大自然中散步。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6346,7 +7786,12 @@
         "cn": "动物学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "À l'université, elle étudie la zoologie et passe ses vacances en Afrique.",
+        "cn": "她在大学学动物学，假期还去非洲。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6368,7 +7813,12 @@
         "cn": "数学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les mathématiques l'effrayaient tellement qu'elle évitait tous les cours de sciences.",
+        "cn": "她过去特别害怕数学，所有理科课都躲着上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6390,7 +7840,12 @@
         "cn": "机械"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette vieille machine à laver fait un bruit insupportable depuis hier.",
+        "cn": "这台旧洗衣机从昨天起就吵得让人受不了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6412,7 +7867,12 @@
         "cn": "海洋学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Grâce à l'océanographie, nous comprenons mieux la vie des grands fonds.",
+        "cn": "借助海洋学，我们更了解深海中的生命。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6434,7 +7894,12 @@
         "cn": "地质学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon cousin étudie la géologie pour devenir guide de montagne.",
+        "cn": "我表哥学地质学，想以后当高山向导。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6456,7 +7921,12 @@
         "cn": "地理学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En géographie, nous avons appris les fleuves et les montagnes d'Europe.",
+        "cn": "地理课上我们学了欧洲的河流和山脉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6478,7 +7948,12 @@
         "cn": "气象学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La météorologie annonce de la pluie pour tout le week-end.",
+        "cn": "天气预报说整个周末都有雨。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6500,7 +7975,12 @@
         "cn": "微生物学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle travaille en microbiologie et étudie les bactéries des rivières.",
+        "cn": "她从事微生物学研究，研究河流里的细菌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6522,7 +8002,12 @@
         "cn": "行星"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette planète lointaine tourne autour d'une étoile presque invisible à l'oeil nu.",
+        "cn": "这颗遥远的行星围绕着一颗肉眼几乎看不见的恒星运行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6544,7 +8029,12 @@
         "cn": "彗星"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants ont observé une comète brillante dans le ciel d'été.",
+        "cn": "孩子们在夏夜的天空中看到了一颗明亮的彗星。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6566,7 +8056,12 @@
         "cn": "恒星"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque étoile que nous voyons appartient peut-être à une galaxie lointaine.",
+        "cn": "我们看到的每颗恒星也许都属于一个遥远的星系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6588,7 +8083,12 @@
         "cn": "电"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sans électricité, tout le quartier est resté dans le noir.",
+        "cn": "停电之后，整个街区一片漆黑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6610,7 +8110,12 @@
         "cn": "电学家"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'électricien est venu réparer les prises de la cuisine ce matin.",
+        "cn": "电工今天上午来修了厨房的插座。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6632,7 +8137,12 @@
         "cn": "电流表"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pour mesurer le courant, il utilise un ampèremètre branché sur le circuit.",
+        "cn": "为了测量电流，他用一个接在电路上的电流表。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6645,16 +8155,21 @@
   },
   {
     "id": 303,
-    "word": "électron-philo",
-    "phonetic0": "elɛktʁɔ̃-filo",
-    "phonetic1": "elɛktʁɔ̃-filo",
+    "word": "anode",
+    "phonetic0": "anɔd",
+    "phonetic1": "anɔd",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "电子爱好者"
+        "cn": "正极"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans cette pile, l'anode attire les électrons et libère de l'énergie.",
+        "cn": "在这块电池里，正极吸引电子并释放能量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6667,16 +8182,21 @@
   },
   {
     "id": 304,
-    "word": "anode",
-    "phonetic0": "anɔd",
-    "phonetic1": "anɔd",
+    "word": "cathodique",
+    "phonetic0": "katodik",
+    "phonetic1": "katodik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "正极"
+        "pos": "adj.",
+        "cn": "负极的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux téléviseur cathodique pèse bien plus lourd qu'un écran plat.",
+        "cn": "这台老式显像管电视比平板屏幕重得多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6689,16 +8209,21 @@
   },
   {
     "id": 305,
-    "word": "cathodique",
-    "phonetic0": "katodik",
-    "phonetic1": "katodik",
+    "word": "voltage",
+    "phonetic0": "vɔltaʒ",
+    "phonetic1": "vɔltaʒ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "负极的"
+        "pos": "n.m.",
+        "cn": "电压"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le voltage de cette installation est trop élevé pour un appareil domestique.",
+        "cn": "这套设备的电压对家用电器来说太高了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6711,16 +8236,21 @@
   },
   {
     "id": 306,
-    "word": "voltage",
-    "phonetic0": "vɔltaʒ",
-    "phonetic1": "vɔltaʒ",
+    "word": "électrode",
+    "phonetic0": "elɛktʁɔd",
+    "phonetic1": "elɛktʁɔd",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "电压"
+        "pos": "n.f.",
+        "cn": "电极"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une électrode usée peut empêcher la machine de fonctionner correctement.",
+        "cn": "电极磨损会让机器无法正常运转。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6733,16 +8263,21 @@
   },
   {
     "id": 307,
-    "word": "électrode",
-    "phonetic0": "elɛktʁɔd",
-    "phonetic1": "elɛktʁɔd",
+    "word": "isolation",
+    "phonetic0": "izolasjɔ̃",
+    "phonetic1": "izolasjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "电极"
+        "cn": "绝缘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'isolation de ce vieux bâtiment est si mauvaise qu'on y gèle.",
+        "cn": "这栋老楼的绝缘太差，人在里面冻得发抖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6755,16 +8290,21 @@
   },
   {
     "id": 308,
-    "word": "isolation",
-    "phonetic0": "izolasjɔ̃",
-    "phonetic1": "izolasjɔ̃",
+    "word": "pile",
+    "phonetic0": "pil",
+    "phonetic1": "pil",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "绝缘"
+        "pos": "adv.",
+        "cn": "电池"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon téléphone est tombé en panne parce que la pile était vide.",
+        "cn": "我的手机没电关机了，因为电池用完了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6777,16 +8317,21 @@
   },
   {
     "id": 309,
-    "word": "pile",
-    "phonetic0": "pil",
-    "phonetic1": "pil",
+    "word": "conductivité",
+    "phonetic0": "kɔ̃dyktivite",
+    "phonetic1": "kɔ̃dyktivite",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "电池"
+        "pos": "n.f.",
+        "cn": "导电性"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cuivre est apprécié pour sa grande conductivité et son prix raisonnable.",
+        "cn": "铜因其良好的导电性和合理的价格而受欢迎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6799,16 +8344,21 @@
   },
   {
     "id": 310,
-    "word": "conductivité",
-    "phonetic0": "kɔ̃dyktivite",
-    "phonetic1": "kɔ̃dyktivite",
+    "word": "forme",
+    "phonetic0": "fɔʁm",
+    "phonetic1": "fɔʁm",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "导电性"
+        "cn": "形状"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce nuage a pris la forme d'un dragon pendant notre promenade.",
+        "cn": "我们散步时，那朵云变成了龙的形状。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6821,16 +8371,21 @@
   },
   {
     "id": 311,
-    "word": "forme",
-    "phonetic0": "fɔʁm",
-    "phonetic1": "fɔʁm",
+    "word": "triangle",
+    "phonetic0": "tʁijɑ̃gl",
+    "phonetic1": "tʁijɑ̃gl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "形状"
+        "pos": "n.m.",
+        "cn": "三角形"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'enfant a dessiné un triangle rouge au milieu de la feuille.",
+        "cn": "孩子在纸的中央画了一个红色的三角形。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6843,16 +8398,21 @@
   },
   {
     "id": 312,
-    "word": "triangle",
-    "phonetic0": "tʁijɑ̃gl",
-    "phonetic1": "tʁijɑ̃gl",
+    "word": "carre",
+    "phonetic0": "kaʁ",
+    "phonetic1": "kaʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "三角形"
+        "pos": "n.f.",
+        "cn": "正方形"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a posé un livre carré sur la petite table du salon.",
+        "cn": "他把一本方形的书放在客厅的小桌上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6865,16 +8425,21 @@
   },
   {
     "id": 313,
-    "word": "carre",
-    "phonetic0": "kaʁ",
-    "phonetic1": "kaʁ",
+    "word": "cercle",
+    "phonetic0": "sɛʁkl",
+    "phonetic1": "sɛʁkl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "正方形"
+        "pos": "n.m.",
+        "cn": "圆形"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les élèves doivent tracer un cercle parfait avec leur compas.",
+        "cn": "学生们要用圆规画一个标准的圆形。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6887,16 +8452,21 @@
   },
   {
     "id": 314,
-    "word": "cercle",
-    "phonetic0": "sɛʁkl",
-    "phonetic1": "sɛʁkl",
+    "word": "demi-cercle",
+    "phonetic0": "dəmisɛʁkl",
+    "phonetic1": "dəmisɛʁkl",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "圆形"
+        "cn": "半圆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants se sont installés en demi-cercle autour du vieux conteur.",
+        "cn": "孩子们围着老说书人坐成半圆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6909,16 +8479,21 @@
   },
   {
     "id": 315,
-    "word": "demi-cercle",
-    "phonetic0": "dəmisɛʁkl",
-    "phonetic1": "dəmisɛʁkl",
+    "word": "perpendiculaire",
+    "phonetic0": "pɛʁpɑ̃dikylɛʁ",
+    "phonetic1": "pɛʁpɑ̃dikylɛʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "半圆"
+        "pos": "adj.",
+        "cn": "垂直的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette rue est perpendiculaire à l'avenue qui longe la rivière.",
+        "cn": "这条街与沿河的林荫大道垂直。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6931,16 +8506,21 @@
   },
   {
     "id": 316,
-    "word": "perpendiculaire",
-    "phonetic0": "pɛʁpɑ̃dikylɛʁ",
-    "phonetic1": "pɛʁpɑ̃dikylɛʁ",
+    "word": "angle",
+    "phonetic0": "ɑ̃gl",
+    "phonetic1": "ɑ̃gl",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "垂直的"
+        "pos": "n.m.",
+        "cn": "角"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le menuisier a mesuré l'angle avant de couper la planche.",
+        "cn": "木匠量好角度才锯木板。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6953,16 +8533,21 @@
   },
   {
     "id": 317,
-    "word": "angle",
-    "phonetic0": "ɑ̃gl",
-    "phonetic1": "ɑ̃gl",
+    "word": "isocèle",
+    "phonetic0": "izosɛl",
+    "phonetic1": "izosɛl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "角"
+        "pos": "adj.",
+        "cn": "等腰的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce triangle isocèle possède deux côtés parfaitement égaux et une base.",
+        "cn": "这个等腰三角形有两条完全相等的边和一个底边。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6975,16 +8560,21 @@
   },
   {
     "id": 318,
-    "word": "isocèle",
-    "phonetic0": "izosɛl",
-    "phonetic1": "izosɛl",
+    "word": "équilatéral",
+    "phonetic0": "ekɥilateʁal",
+    "phonetic1": "ekɥilateʁal",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "等腰的"
+        "cn": "等边的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans un triangle équilatéral, les trois angles mesurent soixante degrés.",
+        "cn": "在等边三角形中，三个角都是六十度。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6997,16 +8587,21 @@
   },
   {
     "id": 319,
-    "word": "équilatéral",
-    "phonetic0": "ekɥilateʁal",
-    "phonetic1": "ekɥilateʁal",
+    "word": "bord",
+    "phonetic0": "bɔʁ",
+    "phonetic1": "bɔʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "等边的"
+        "pos": "n.m.",
+        "cn": "边"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle s'est assise au bord du lac pour lire tranquillement.",
+        "cn": "她坐在湖边安静地看书。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7019,16 +8614,21 @@
   },
   {
     "id": 320,
-    "word": "bord",
-    "phonetic0": "bɔʁ",
-    "phonetic1": "bɔʁ",
+    "word": "parallèle",
+    "phonetic0": "paʁalɛl",
+    "phonetic1": "paʁalɛl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "边"
+        "pos": "adj.",
+        "cn": "平行的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux routes sont parallèles et ne se croisent jamais.",
+        "cn": "这两条路平行，永不相交。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7041,16 +8641,21 @@
   },
   {
     "id": 321,
-    "word": "parallèle",
-    "phonetic0": "paʁalɛl",
-    "phonetic1": "paʁalɛl",
+    "word": "centre",
+    "phonetic0": "sɑ̃tʁ",
+    "phonetic1": "sɑ̃tʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "平行的"
+        "pos": "n.m.",
+        "cn": "中点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le centre du cercle se trouve exactement au milieu de la figure.",
+        "cn": "圆心正好位于图形的中点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7063,16 +8668,21 @@
   },
   {
     "id": 322,
-    "word": "centre",
-    "phonetic0": "sɑ̃tʁ",
-    "phonetic1": "sɑ̃tʁ",
+    "word": "centimètre",
+    "phonetic0": "sɑ̃timɛtʁ",
+    "phonetic1": "sɑ̃timɛtʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "中点"
+        "cn": "厘米"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette table mesure environ un mètre vingt sur soixante centimètres.",
+        "cn": "这张桌子大约一米二长、六十厘米宽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7085,16 +8695,21 @@
   },
   {
     "id": 323,
-    "word": "centimètre",
-    "phonetic0": "sɑ̃timɛtʁ",
-    "phonetic1": "sɑ̃timɛtʁ",
+    "word": "millimètre",
+    "phonetic0": "milimɛtʁ",
+    "phonetic1": "milimɛtʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "厘米"
+        "cn": "毫米"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il manque deux millimètres pour que la porte ferme correctement.",
+        "cn": "还差两毫米门才能关严。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7107,16 +8722,21 @@
   },
   {
     "id": 324,
-    "word": "millimètre",
-    "phonetic0": "milimɛtʁ",
-    "phonetic1": "milimɛtʁ",
+    "word": "signe",
+    "phonetic0": "siɲ",
+    "phonetic1": "siɲ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "毫米"
+        "cn": "符号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le professeur a dessiné un signe étrange au tableau pour nous faire rire.",
+        "cn": "老师在黑板上画了个奇怪的符号逗我们笑。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7129,16 +8749,21 @@
   },
   {
     "id": 325,
-    "word": "signe",
-    "phonetic0": "siɲ",
-    "phonetic1": "siɲ",
+    "word": "ponctuation",
+    "phonetic0": "pɔ̃ktɥasjɔ̃",
+    "phonetic1": "pɔ̃ktɥasjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "符号"
+        "pos": "n.f.",
+        "cn": "标点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une ponctuation correcte rend un texte beaucoup plus facile à lire.",
+        "cn": "正确的标点让文章读起来容易得多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7151,16 +8776,21 @@
   },
   {
     "id": 326,
-    "word": "ponctuation",
-    "phonetic0": "pɔ̃ktɥasjɔ̃",
-    "phonetic1": "pɔ̃ktɥasjɔ̃",
+    "word": "symbole",
+    "phonetic0": "sɛ̃bɔl",
+    "phonetic1": "sɛ̃bɔl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "标点"
+        "pos": "n.m.",
+        "cn": "符号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le drapeau est devenu le symbole de leur longue lutte.",
+        "cn": "这面旗帜成了他们长期斗争的象征。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7173,16 +8803,21 @@
   },
   {
     "id": 327,
-    "word": "symbole",
-    "phonetic0": "sɛ̃bɔl",
-    "phonetic1": "sɛ̃bɔl",
+    "word": "marque",
+    "phonetic0": "maʁk",
+    "phonetic1": "maʁk",
     "trans": [
       {
-        "pos": "n.m.",
+        "pos": "n.f.",
         "cn": "符号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette petite marque sur la carte indique l'emplacement du trésor.",
+        "cn": "地图上这个小记号标出了宝藏的位置。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7195,16 +8830,21 @@
   },
   {
     "id": 328,
-    "word": "marque",
-    "phonetic0": "maʁk",
-    "phonetic1": "maʁk",
+    "word": "plus",
+    "phonetic0": "ply",
+    "phonetic1": "ply",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "符号"
+        "pos": "adv.",
+        "cn": "加号"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Trois plus quatre font sept, tout le monde le sait depuis l'école.",
+        "cn": "三加四等于七，这一点大家从小学就知道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7217,16 +8857,21 @@
   },
   {
     "id": 329,
-    "word": "plus",
-    "phonetic0": "ply",
-    "phonetic1": "ply",
+    "word": "multiplier",
+    "phonetic0": "myltiplije",
+    "phonetic1": "myltiplije",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "加号"
+        "pos": "v.",
+        "cn": "乘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut multiplier la longueur par la largeur pour obtenir la surface.",
+        "cn": "要算面积就得把长乘以宽。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7239,16 +8884,21 @@
   },
   {
     "id": 330,
-    "word": "multiplier",
-    "phonetic0": "myltiplije",
-    "phonetic1": "myltiplije",
+    "word": "égal",
+    "phonetic0": "egal",
+    "phonetic1": "egal",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "乘"
+        "pos": "adj.",
+        "cn": "相等的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans cette équation, chaque côté du signe reste parfaitement égal.",
+        "cn": "在这个等式里，等号的每一边都完全相等。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7261,16 +8911,21 @@
   },
   {
     "id": 331,
-    "word": "égal",
-    "phonetic0": "egal",
-    "phonetic1": "egal",
+    "word": "équivalent",
+    "phonetic0": "ekivalɑ̃",
+    "phonetic1": "ekivalɑ̃",
     "trans": [
       {
         "pos": "adj.",
         "cn": "相等的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces deux volumes sont équivalents, même si leurs formes diffèrent.",
+        "cn": "这两个体积相等，尽管形状不同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7283,16 +8938,21 @@
   },
   {
     "id": 332,
-    "word": "équivalent",
-    "phonetic0": "ekivalɑ̃",
-    "phonetic1": "ekivalɑ̃",
+    "word": "approximativement",
+    "phonetic0": "apʁɔksimativəmɑ̃",
+    "phonetic1": "apʁɔksimativəmɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "相等的"
+        "pos": "adv.",
+        "cn": "近似地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le trajet dure approximativement deux heures quand la route est libre.",
+        "cn": "路况好的时候，这段路程大约要两个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7305,16 +8965,21 @@
   },
   {
     "id": 333,
-    "word": "approximativement",
-    "phonetic0": "apʁɔksimativəmɑ̃",
-    "phonetic1": "apʁɔksimativəmɑ̃",
+    "word": "illimité",
+    "phonetic0": "ilimite",
+    "phonetic1": "ilimite",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "近似地"
+        "pos": "adj.",
+        "cn": "无穷的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Avec cet abonnement, l'accès à la piscine est presque illimité.",
+        "cn": "有了这张卡，游泳池几乎可以随便进。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7327,16 +8992,21 @@
   },
   {
     "id": 334,
-    "word": "illimité",
-    "phonetic0": "ilimite",
-    "phonetic1": "ilimite",
+    "word": "élément",
+    "phonetic0": "elemɑ̃",
+    "phonetic1": "elemɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "无穷的"
+        "pos": "n.m.",
+        "cn": "元素"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'oxygène est un élément essentiel à la vie sur Terre.",
+        "cn": "氧是地球上生命不可缺少的元素。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7349,16 +9019,21 @@
   },
   {
     "id": 335,
-    "word": "élément",
-    "phonetic0": "elemɑ̃",
-    "phonetic1": "elemɑ̃",
+    "word": "fer",
+    "phonetic0": "fɛʁ",
+    "phonetic1": "fɛʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "元素"
+        "cn": "铁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette vieille grille en fer protège encore l'entrée du jardin.",
+        "cn": "这道旧铁栅栏仍然护着花园的入口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7371,16 +9046,21 @@
   },
   {
     "id": 336,
-    "word": "fer",
-    "phonetic0": "fɛʁ",
-    "phonetic1": "fɛʁ",
+    "word": "aluminium",
+    "phonetic0": "alyminjɔm",
+    "phonetic1": "alyminjɔm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "铁"
+        "cn": "铝"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les fenêtres en aluminium sont légères et résistent bien à la pluie.",
+        "cn": "铝制窗户很轻，而且很耐雨淋。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7393,16 +9073,21 @@
   },
   {
     "id": 337,
-    "word": "aluminium",
-    "phonetic0": "alyminjɔm",
-    "phonetic1": "alyminjɔm",
+    "word": "cuivre",
+    "phonetic0": "kɥivʁ",
+    "phonetic1": "kɥivʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "铝"
+        "cn": "铜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux chaudron en cuivre brille encore dans la lumière du matin.",
+        "cn": "这口旧铜锅在晨光里依然发亮。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7415,16 +9100,21 @@
   },
   {
     "id": 338,
-    "word": "cuivre",
-    "phonetic0": "kɥivʁ",
-    "phonetic1": "kɥivʁ",
+    "word": "calcium",
+    "phonetic0": "kalsjɔm",
+    "phonetic1": "kalsjɔm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "铜"
+        "cn": "钙"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le lait apporte du calcium, ce qui renforce les os des enfants.",
+        "cn": "牛奶提供钙，能让孩子的骨骼更结实。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7437,16 +9127,21 @@
   },
   {
     "id": 339,
-    "word": "calcium",
-    "phonetic0": "kalsjɔm",
-    "phonetic1": "kalsjɔm",
+    "word": "baryum",
+    "phonetic0": "baʁjɔm",
+    "phonetic1": "baʁjɔm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "钙"
+        "cn": "锁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le baryum sert souvent à examiner l'intérieur du corps humain.",
+        "cn": "钡常用于检查人体内部。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7459,16 +9154,21 @@
   },
   {
     "id": 340,
-    "word": "baryum",
-    "phonetic0": "baʁjɔm",
-    "phonetic1": "baʁjɔm",
+    "word": "potassium",
+    "phonetic0": "potasjɔm",
+    "phonetic1": "potasjɔm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "锁"
+        "cn": "钾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les bananes contiennent beaucoup de potassium, utile pour les muscles.",
+        "cn": "香蕉含大量钾，对肌肉很有好处。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7481,16 +9181,21 @@
   },
   {
     "id": 341,
-    "word": "potassium",
-    "phonetic0": "potasjɔm",
-    "phonetic1": "potasjɔm",
+    "word": "ammoniac",
+    "phonetic0": "amonjak",
+    "phonetic1": "amonjak",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "钾"
+        "pos": "adj.",
+        "cn": "氨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette odeur forte vient sûrement d'un produit à base d'ammoniac.",
+        "cn": "这股刺鼻的气味肯定来自含氨的产品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7503,16 +9208,21 @@
   },
   {
     "id": 342,
-    "word": "ammoniac",
-    "phonetic0": "amonjak",
-    "phonetic1": "amonjak",
+    "word": "carbone",
+    "phonetic0": "kaʁbɔn",
+    "phonetic1": "kaʁbɔn",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "氨"
+        "pos": "n.m.",
+        "cn": "碳"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les scientifiques mesurent la quantité de carbone dans l'atmosphère chaque année.",
+        "cn": "科学家每年都测量大气中的碳含量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7525,16 +9235,21 @@
   },
   {
     "id": 343,
-    "word": "carbone",
-    "phonetic0": "kaʁbɔn",
-    "phonetic1": "kaʁbɔn",
+    "word": "soufre",
+    "phonetic0": "sufʁ",
+    "phonetic1": "sufʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "碳"
+        "cn": "硫磺"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'eau de cette source sent le soufre et attire peu de baigneurs.",
+        "cn": "这处泉水有硫磺味，很少有人来泡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7547,16 +9262,21 @@
   },
   {
     "id": 344,
-    "word": "soufre",
-    "phonetic0": "sufʁ",
-    "phonetic1": "sufʁ",
+    "word": "cristal",
+    "phonetic0": "kʁistal",
+    "phonetic1": "kʁistal",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "硫磺"
+        "cn": "晶体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce cristal transparent reflète la lumière comme un petit diamant.",
+        "cn": "这块透明晶体像小钻石一样反射光线。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7569,16 +9289,21 @@
   },
   {
     "id": 345,
-    "word": "cristal",
-    "phonetic0": "kʁistal",
-    "phonetic1": "kʁistal",
+    "word": "roche",
+    "phonetic0": "ʁɔʃ",
+    "phonetic1": "ʁɔʃ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "晶体"
+        "pos": "n.f.",
+        "cn": "岩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants ont grimpé sur une roche plate au bord de la rivière.",
+        "cn": "孩子们爬上了河边一块平坦的岩石。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7591,16 +9316,21 @@
   },
   {
     "id": 346,
-    "word": "roche",
-    "phonetic0": "ʁɔʃ",
-    "phonetic1": "ʁɔʃ",
+    "word": "coke",
+    "phonetic0": "kok",
+    "phonetic1": "kok",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "岩"
+        "pos": "n.",
+        "cn": "焦炭"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le coke sert de combustible dans certaines usines et fonderies.",
+        "cn": "焦炭在某些工厂和铸造厂里用作燃料。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7613,16 +9343,21 @@
   },
   {
     "id": 347,
-    "word": "coke",
-    "phonetic0": "kok",
-    "phonetic1": "kok",
+    "word": "granite",
+    "phonetic0": "gʁanit",
+    "phonetic1": "gʁanit",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "焦炭"
+        "pos": "n.m.",
+        "cn": "花岗岩"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette cathédrale est bâtie en granite gris depuis huit siècles.",
+        "cn": "这座大教堂用灰色花岗岩建成，已有八百年历史。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -7635,28 +9370,6 @@
   },
   {
     "id": 348,
-    "word": "granite",
-    "phonetic0": "gʁanit",
-    "phonetic1": "gʁanit",
-    "trans": [
-      {
-        "pos": "n.m.",
-        "cn": "花岗岩"
-      }
-    ],
-    "sentences": [],
-    "phrases": [],
-    "synos": [],
-    "etymology": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "inflections": null,
-    "langType": "fr"
-  },
-  {
-    "id": 349,
     "word": "marbre",
     "phonetic0": "maʁbʁ",
     "phonetic1": "maʁbʁ",
@@ -7666,7 +9379,12 @@
         "cn": "大理石"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sol du musée est en marbre blanc et brille sous les lampes.",
+        "cn": "博物馆的地面是白色大理石，在灯光下闪闪发亮。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

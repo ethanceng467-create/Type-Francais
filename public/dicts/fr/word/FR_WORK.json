@@ -10,7 +10,12 @@
         "cn": "广告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette entreprise a lancé une grande campagne de publicité pour recruter des jeunes.",
+        "cn": "这家企业发起了一场大规模招聘广告活动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "寻找"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je cherche un poste qui correspond à ma formation en marketing.",
+        "cn": "我在找一份与我市场营销专业相符的工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "雇佣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La société préfère employer des personnes ayant déjà de l'expérience.",
+        "cn": "公司更愿意雇用已有经验的人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "雇佣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le magasin va embaucher trois vendeurs pour la période des fêtes.",
+        "cn": "商店将在节日期间雇用三名售货员。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "雇佣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cabinet a décidé d'engager un nouvel assistant dès lundi.",
+        "cn": "事务所决定周一起聘用一名新助理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "佣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'embauchage de jeunes diplômés reste une priorité pour ce groupe.",
+        "cn": "招聘年轻毕业生仍是该集团的首要任务。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "雇员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque employé reçoit une formation obligatoire lors de son arrivée.",
+        "cn": "每位雇员入职时都要接受强制培训。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "雇主"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'employeur doit fournir un contrat écrit avant le début du travail.",
+        "cn": "雇主必须在开工前提供书面合同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "需要"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce poste de direction nécessite une bonne connaissance de l'anglais.",
+        "cn": "这个管理岗位需要良好的英语能力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -199,16 +244,21 @@
   },
   {
     "id": 10,
-    "word": "curriculum vitae",
-    "phonetic0": "kyʁikylɔmvite",
-    "phonetic1": "kyʁikylɔmvite",
+    "word": "CV",
+    "phonetic0": "seve",
+    "phonetic1": "seve",
     "trans": [
       {
         "pos": "n.m.",
         "cn": "简历"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai envoyé mon CV à cinq entreprises cette semaine.",
+        "cn": "我本周把简历投给了五家公司。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "培训"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La formation dure deux semaines et se déroule dans nos bureaux.",
+        "cn": "培训为期两周，在我们办公室进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "男性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans ce service, le personnel mâle est minoritaire depuis quelques années.",
+        "cn": "在这个部门，男性员工近年来只占少数。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "女性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction souhaite renforcer la présence féminine dans les postes techniques.",
+        "cn": "管理层希望加强女性在技术岗位上的比例。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "适应性强的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bon commercial doit être adaptable face aux demandes des clients.",
+        "cn": "优秀的销售员要能灵活适应客户的需求。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "敏锐的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre recruteur est perspicace et repère vite les candidats sincères.",
+        "cn": "我们的招聘官很敏锐，很快就能看出诚实的应聘者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "有进取心的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est agressive dans les négociations, mais toujours très professionnelle.",
+        "cn": "她在谈判中很有冲劲，但始终非常专业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "友好的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'accueil amical de l'équipe m'a beaucoup rassuré dès mon arrivée.",
+        "cn": "团队友好的接待让我一到就安心了许多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "渴求"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Plusieurs cadres expérimentés briguent le poste de directeur commercial.",
+        "cn": "几位经验丰富的管理人员都在争取销售总监一职。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "有能力的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est capable de gérer plusieurs projets en même temps sans stress.",
+        "cn": "他有能力同时从容管理多个项目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "有能力的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette méthode simple est plus efficace que nos longues réunions.",
+        "cn": "这个简单的办法比我们冗长的会议更有效。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "能胜任的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La nouvelle assistante est compétente et très appréciée par l'équipe.",
+        "cn": "新来的助理很称职，深受团队喜爱。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "奉献"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle consacre deux heures par jour à la préparation de ses dossiers.",
+        "cn": "她每天花两个小时准备自己的材料。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "亲切的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le responsable du service est toujours aimable avec les nouveaux employés.",
+        "cn": "部门负责人对新员工总是很亲切。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "一丝不苟的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un comptable scrupuleux vérifie chaque chiffre avant d'envoyer le rapport.",
+        "cn": "一丝不苟的会计会在发送报告前核对每个数字。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "缺点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son principal défaut est de vouloir tout contrôler lui-même.",
+        "cn": "他最大的缺点是想亲自控制一切。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "易冲动的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est trop impulsif pour négocier un contrat aussi important.",
+        "cn": "他太容易冲动，不适合谈判这么重要的合同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "没有耐性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client est impatient et appelle le service toutes les dix minutes.",
+        "cn": "客户很不耐烦，每十分钟就给服务部打一次电话。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "占有欲强的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un manager possessif a du mal à laisser de l'autonomie à son équipe.",
+        "cn": "占有欲强的管理者很难给团队自主权。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "不可动摇的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Même sous pression, elle reste imperturbable et répond calmement aux critiques.",
+        "cn": "即使压力很大，她也不动声色，平静地回应批评。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "贪梦的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette longue grève a affamé les familles les plus modestes du quartier.",
+        "cn": "这场长期罢工让街区最贫困的家庭陷入饥饿。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "狡猬的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce candidat fourbe a volontairement caché une partie de son parcours.",
+        "cn": "这个狡猾的应聘者故意隐瞒了部分经历。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "肤浅的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son analyse du marché reste superficielle et manque de chiffres précis.",
+        "cn": "他的市场分析很肤浅，缺乏准确的数据。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "善变的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un collègue inconstant change d'avis à chaque réunion de service.",
+        "cn": "善变的同事在每次部门会议上都改变主意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "挑剔的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon chef est pinailleur et corrige la moindre faute dans mes courriels.",
+        "cn": "我的上司很挑剔，连我邮件里最小的错误都要改。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "完美主义者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle est perfectionniste et refuse de rendre un dossier incomplet.",
+        "cn": "她是个完美主义者，不肯交出任何不完整的材料。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "完成"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a accompli toutes les tâches demandées avant la fin de la semaine.",
+        "cn": "他在周末前完成了所有要求的任务。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "内行"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce technicien est un connaisseur des machines utilisées dans l'usine.",
+        "cn": "这位技术员是厂里所用机器的内行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "分析"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons analyser les résultats du trimestre avant la réunion.",
+        "cn": "我们得在会议前分析本季度的业绩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "任命"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction a nommé Julie responsable du département marketing lundi dernier.",
+        "cn": "管理层上周一任命朱莉为市场部负责人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "帮助"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un collègue m'a aidé à comprendre le logiciel de gestion.",
+        "cn": "一位同事帮我弄懂了这套管理软件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "控制"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le supérieur contrôle régulièrement l'avancement des projets de l'équipe.",
+        "cn": "主管定期检查团队项目的进展。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "开发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'entreprise souhaite développer ses ventes en ligne dès cette année.",
+        "cn": "公司希望从今年起发展线上销售。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "经历"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son expérience à l'étranger a convaincu le recruteur de l'embaucher.",
+        "cn": "他的海外经历让招聘官决定录用他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "职责"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chaque salarié a le devoir de respecter les règles de sécurité.",
+        "cn": "每位员工都有遵守安全规定的职责。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "背景"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans ces circonstances difficiles, l'équipe a su rester solidaire.",
+        "cn": "在这种艰难的情况下，团队依然保持了团结。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "求职者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le solliciteur a attendu deux heures avant de rencontrer le directeur.",
+        "cn": "这位求职者等了两小时才见到经理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "外表"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il ne faut pas juger un candidat sur sa seule apparence.",
+        "cn": "不能只看外表来评价一位应聘者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "被面试者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur interviewe trois candidats ce matin dans son bureau.",
+        "cn": "经理今天上午在办公室面试三名应聘者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1066,7 +1306,12 @@
         "cn": "面试官"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'intervieweur a posé des questions très précises sur mes compétences.",
+        "cn": "面试官就我的能力提了非常具体的问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "解决"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux collègues ont réussi à dénouer leur conflit sans aide.",
+        "cn": "两位同事在没有外援的情况下成功化解了冲突。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "提前"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a demandé une avance sur son salaire pour payer le loyer.",
+        "cn": "他申请预支工资来付房租。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "晚"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle travaille souvent tard pour terminer les dossiers urgents.",
+        "cn": "她常常工作到很晚，把紧急文件处理完。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "机会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette mission est une occasion unique de montrer mes capacités.",
+        "cn": "这次任务是展示我能力的独特机会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "机会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Quand tu changeas de poste, toute l'équipe t'a souhaité bonne chance.",
+        "cn": "你换岗位的时候，全队都祝你好运。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "薪水"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon salaire augmente chaque année selon les résultats de l'entreprise.",
+        "cn": "我的薪水每年根据公司业绩上调。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "工资"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La rémunération proposée comprend un fixe et une prime annuelle.",
+        "cn": "提供的薪酬包括固定工资和年度奖金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "加薪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après deux ans, elle a demandé une augmentation à son responsable.",
+        "cn": "两年后，她向主管提出了加薪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "奖金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les employés ont reçu une gratification pour leur travail exceptionnel.",
+        "cn": "员工因出色的工作获得了一笔奖金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "薪金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le traitement des fonctionnaires sera revalorisé au mois de janvier.",
+        "cn": "公务员的薪金将于一月上调。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "津贴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il touche une allocation de transport pour ses déplacements quotidiens.",
+        "cn": "他领取一笔用于日常通勤的交通津贴。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "评估"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le responsable évalue chaque employé deux fois par an lors d'entretiens.",
+        "cn": "主管每年通过面谈对每位员工评估两次。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "评估"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le jury doit apprécier la qualité du travail fourni par chaque candidat.",
+        "cn": "评审团要评估每位候选人提交的工作质量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "打卡"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le poinçon enregistre l'heure d'arrivée de chaque ouvrier.",
+        "cn": "打卡器记录每位工人的到岗时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "扣除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'employeur doit retrancher les cotisations sociales de chaque salaire.",
+        "cn": "雇主必须从每份工资中扣除社保缴费。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "扣除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On déduit les frais de transport directement du salaire mensuel.",
+        "cn": "交通费直接从月薪中扣除。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "收入"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son revenu mensuel lui permet à peine de payer son loyer.",
+        "cn": "他的月收入勉强够付房租。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "医疗保险"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'assurance-maladie rembourse une partie des consultations médicales de chaque salarié.",
+        "cn": "医疗保险报销每位员工部分就诊费用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "失业保险"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'assurance-chômage aide les salariés licenciés pendant plusieurs mois difficiles.",
+        "cn": "失业保险在数月的困难时期帮助被解雇的员工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "承保人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'assureur a refusé de couvrir cet accident du travail.",
+        "cn": "承保人拒绝为这起工伤事故理赔。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "制度"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le système de retraite français repose sur les cotisations des actifs.",
+        "cn": "法国的退休制度依靠在职人员的缴费。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "新来的人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le nouvel employé venu de Lyon s'adapte vite à l'équipe.",
+        "cn": "这位从里昂来的新员工很快融入了团队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "使熟悉"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut du temps pour se familiariser avec ce logiciel compliqué.",
+        "cn": "熟悉这款复杂的软件需要时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "同事"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ma collègue m'a proposé de déjeuner ensemble à midi.",
+        "cn": "我的同事提议中午一起吃饭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "同事"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médecin a demandé l'avis d'un confrère avant l'opération.",
+        "cn": "医生在手术前征求了一位同行的意见。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "合作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux services doivent coopérer pour terminer ce projet commun.",
+        "cn": "两个部门必须合作完成这个共同项目。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "部门"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le département des ventes organise une réunion tous les lundis.",
+        "cn": "销售部每周一组织一次会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "财务处"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La paierie traite les factures des fournisseurs chaque fin de mois.",
+        "cn": "财务处在每月底处理供应商的发票。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "商业化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La commercialisation du nouveau produit débutera au printemps prochain en Europe.",
+        "cn": "新产品的商业化将于明年春天在欧洲启动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "主管"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur préside la réunion hebdomadaire de son équipe commerciale.",
+        "cn": "经理主持其销售团队的每周例会。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "经理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur financier a présenté le budget devant tous les responsables.",
+        "cn": "财务经理向所有负责人介绍了预算。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "接待员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La réceptionniste filtre les appels et accueille les visiteurs avec le sourire.",
+        "cn": "接待员筛选来电，微笑迎接来访者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "秘书"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La secrétaire du directeur prépare les documents pour la réunion.",
+        "cn": "经理的秘书准备会议文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "行政人员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un administrateur système surveille chaque jour la sécurité du réseau interne.",
+        "cn": "一名系统管理员每天监控内部网络的安全。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "会计"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre comptable vérifie les factures avant de les transmettre au directeur.",
+        "cn": "我们的会计在把发票交给经理前会先核对。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "代理"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La subrogation permet à l'assureur de réclamer les sommes versées.",
+        "cn": "代位求偿使承保人能够追回已支付的款项。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "经营"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle gère une petite équipe de cinq personnes depuis janvier.",
+        "cn": "她从一月起管理一个五人的小团队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "责任"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chacun assume la responsabilité de ses erreurs dans ce service.",
+        "cn": "在这个部门，每个人都为自己的错误承担责任。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "公告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une annonce pour ce poste a été publiée sur notre site.",
+        "cn": "这个岗位的招聘公告已发布在我们的网站上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "布告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bulletin interne annonce les changements d'horaires de la semaine.",
+        "cn": "内部布告通知了本周的作息变动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "文件柜"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les contrats sont rangés dans le classeur gris près de la fenêtre.",
+        "cn": "合同放在窗边那个灰色文件柜里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "职业的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il garde toujours un ton professionnel, même dans les moments difficiles.",
+        "cn": "即使在困难时刻，他也始终保持职业口吻。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "废纸篓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les feuilles inutiles finissent dans le déchet au bout du couloir.",
+        "cn": "无用的纸张最后都扔进走廊尽头的废纸篓。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "整齐的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il garde un classement régulier de tous les dossiers clients.",
+        "cn": "他把所有客户档案整理得井然有序。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "清洁的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La salle de réunion doit rester propre après chaque réunion.",
+        "cn": "每次会议结束后会议室都必须保持清洁。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "备忘录"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai noté les points importants dans un aide-mémoire avant l'entretien.",
+        "cn": "面试前我把要点记在了一份备忘录上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "便签本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il écrit les tâches de la journée sur un petit bloc-notes.",
+        "cn": "他把当天的任务写在一个小便签本上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2122,7 +2602,12 @@
         "cn": "评注"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur a ajouté une remarque en marge de mon rapport.",
+        "cn": "经理在我的报告页边加了一条评注。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "文件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce document confidentiel ne doit jamais sortir du bureau sans autorisation.",
+        "cn": "这份机密文件未经许可绝不能带出办公室。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "耳机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle garde un écouteur pour suivre la réunion en ligne.",
+        "cn": "她戴着一只耳机参加线上会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "门铃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le carillon de l'entrée a sonné trois fois ce matin.",
+        "cn": "今天早上入口的门铃响了三次。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "计算器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'utilise une calculatrice pour vérifier les montants du budget.",
+        "cn": "我用计算器核对预算中的金额。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "光盘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les anciens fichiers sont sauvegardés sur un disque externe au bureau.",
+        "cn": "旧文件都保存在办公室的一块外置光盘上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2254,7 +2764,12 @@
         "cn": "笔记本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il note chaque rendez-vous dans un calepin qu'il garde toujours.",
+        "cn": "他把每个约会都记在一个随身携带的笔记本里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "形针"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle a attaché les deux pages avec un trombone avant l'envoi.",
+        "cn": "寄出前她用一枚曲别针把两页别在一起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "大头针"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une épingle maintient le badge sur la veste de l'employé.",
+        "cn": "一枚大头针把工牌固定在员工的西装上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "订书机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'agrafeuse ne fonctionne plus, il faut changer les agrafes.",
+        "cn": "订书机不能用了，得换订书钉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "使锋利"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut aiguiser les crayons avant de commencer la réunion.",
+        "cn": "开会前得把铅笔削尖。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "设备"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'équipement informatique du bureau sera entièrement renouvelé en septembre.",
+        "cn": "办公室的信息设备将在九月全部更换。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2377,16 +2917,21 @@
   },
   {
     "id": 109,
-    "word": "carte-document",
-    "phonetic0": "kaʁt-dokymɑ̃",
-    "phonetic1": "kaʁt-dokymɑ̃",
+    "word": "auditorium",
+    "phonetic0": "oditoʁjɔm",
+    "phonetic1": "oditoʁjɔm",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "文件卡"
+        "cn": "会议室"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La conférence annuelle se tiendra dans l'auditorium du siège.",
+        "cn": "年度会议将在总部的会议室举行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2399,16 +2944,21 @@
   },
   {
     "id": 110,
-    "word": "auditorium",
-    "phonetic0": "oditoʁjɔm",
-    "phonetic1": "oditoʁjɔm",
+    "word": "présentateur",
+    "phonetic0": "pʁezɑ̃tatœʁ",
+    "phonetic1": "pʁezɑ̃tatœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "会议室"
+        "cn": "主持人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le présentateur a introduit chaque intervenant avant de lancer le débat.",
+        "cn": "主持人在开始讨论前介绍了每位发言者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2421,16 +2971,21 @@
   },
   {
     "id": 111,
-    "word": "présentateur",
-    "phonetic0": "pʁezɑ̃tatœʁ",
-    "phonetic1": "pʁezɑ̃tatœʁ",
+    "word": "assistera",
+    "phonetic0": "asistəʁa",
+    "phonetic1": "asistəʁa",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "主持人"
+        "pos": "v.",
+        "cn": "出席"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur assistera à la réunion des partenaires jeudi matin.",
+        "cn": "经理将出席周四上午的合作伙伴会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2443,16 +2998,21 @@
   },
   {
     "id": 112,
-    "word": "assistera",
-    "phonetic0": "asistəʁa",
-    "phonetic1": "asistəʁa",
+    "word": "participer",
+    "phonetic0": "paʁtisipe",
+    "phonetic1": "paʁtisipe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "出席"
+        "cn": "参加"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Douze employés de l'usine participeront à la formation sur la sécurité.",
+        "cn": "工厂的十二名员工将参加安全培训。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2465,16 +3025,21 @@
   },
   {
     "id": 113,
-    "word": "participer",
-    "phonetic0": "paʁtisipe",
-    "phonetic1": "paʁtisipe",
+    "word": "congressistes",
+    "phonetic0": "kɔ̃gʁɛsist",
+    "phonetic1": "kɔ̃gʁɛsist",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "参加"
+        "pos": "n.",
+        "cn": "参加者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les congressistes ont reçu un programme détaillé à leur arrivée.",
+        "cn": "与会者到达时收到了一份详细的日程。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2487,16 +3052,21 @@
   },
   {
     "id": 114,
-    "word": "congressistes",
-    "phonetic0": "kɔ̃gʁɛsist",
-    "phonetic1": "kɔ̃gʁɛsist",
+    "word": "défaillant",
+    "phonetic0": "defajɑ̃",
+    "phonetic1": "defajɑ̃",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "参加者"
+        "pos": "adj.",
+        "cn": "缺席的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Deux membres défaillants ont été remplacés avant le vote final.",
+        "cn": "两名缺席的成员在最终表决前被替换。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2509,16 +3079,21 @@
   },
   {
     "id": 115,
-    "word": "défaillant",
-    "phonetic0": "defajɑ̃",
-    "phonetic1": "defajɑ̃",
+    "word": "sujet",
+    "phonetic0": "syʒɛ",
+    "phonetic1": "syʒɛ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "缺席的"
+        "cn": "主题"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sujet de la réunion reste confidentiel pour le moment.",
+        "cn": "会议主题目前仍然保密。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2531,16 +3106,21 @@
   },
   {
     "id": 116,
-    "word": "sujet",
-    "phonetic0": "syʒɛ",
-    "phonetic1": "syʒɛ",
+    "word": "finir",
+    "phonetic0": "finiʁ",
+    "phonetic1": "finiʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "主题"
+        "pos": "v.",
+        "cn": "结束"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La réunion doit finir avant midi pour respecter les horaires.",
+        "cn": "会议必须在中午前结束，以遵守作息。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2553,16 +3133,21 @@
   },
   {
     "id": 117,
-    "word": "finir",
-    "phonetic0": "finiʁ",
-    "phonetic1": "finiʁ",
+    "word": "cisailler",
+    "phonetic0": "sizaje",
+    "phonetic1": "sizaje",
     "trans": [
       {
         "pos": "v.",
-        "cn": "结束"
+        "cn": "剪切"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut cisailler ce câble avant de le brancher au réseau.",
+        "cn": "必须先把这根电缆剪断，再接到网络上。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2575,16 +3160,21 @@
   },
   {
     "id": 118,
-    "word": "cisailler",
-    "phonetic0": "sizaje",
-    "phonetic1": "sizaje",
+    "word": "cliquer",
+    "phonetic0": "klike",
+    "phonetic1": "klike",
     "trans": [
       {
         "pos": "v.",
-        "cn": "剪切"
+        "cn": "点击"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cliquez sur le lien pour confirmer votre participation à la réunion.",
+        "cn": "请点击链接确认您参加会议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2597,16 +3187,21 @@
   },
   {
     "id": 119,
-    "word": "cliquer",
-    "phonetic0": "klike",
-    "phonetic1": "klike",
+    "word": "double-cliquer",
+    "phonetic0": "dubløklike",
+    "phonetic1": "dubløklike",
     "trans": [
       {
         "pos": "v.",
-        "cn": "点击"
+        "cn": "双击"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Double-cliquez sur l'icône pour ouvrir le fichier partagé du service.",
+        "cn": "双击图标即可打开部门的共享文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2619,16 +3214,21 @@
   },
   {
     "id": 120,
-    "word": "double-cliquer",
-    "phonetic0": "dubløklike",
-    "phonetic1": "dubløklike",
+    "word": "entrer",
+    "phonetic0": "ɑ̃tʁe",
+    "phonetic1": "ɑ̃tʁe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "双击"
+        "cn": "回车"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Appuyez sur la touche entrer pour valider votre mot de passe.",
+        "cn": "按回车键确认您的密码。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2641,16 +3241,21 @@
   },
   {
     "id": 121,
-    "word": "entrer",
-    "phonetic0": "ɑ̃tʁe",
-    "phonetic1": "ɑ̃tʁe",
+    "word": "frappe",
+    "phonetic0": "fʁap",
+    "phonetic1": "fʁap",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "回车"
+        "pos": "n.f.",
+        "cn": "打字"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa frappe est rapide, mais elle fait encore beaucoup de fautes.",
+        "cn": "她打字很快，但仍犯很多错误。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2663,16 +3268,21 @@
   },
   {
     "id": 122,
-    "word": "frappe",
-    "phonetic0": "fʁap",
-    "phonetic1": "fʁap",
+    "word": "espace",
+    "phonetic0": "ɛspas",
+    "phonetic1": "ɛspas",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "打字"
+        "pos": "n.",
+        "cn": "空格"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "N'oubliez pas de mettre un espace après chaque virgule.",
+        "cn": "别忘了每个逗号后加一个空格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2685,16 +3295,21 @@
   },
   {
     "id": 123,
-    "word": "espace",
-    "phonetic0": "ɛspas",
-    "phonetic1": "ɛspas",
+    "word": "sommeil",
+    "phonetic0": "somɛj",
+    "phonetic1": "somɛj",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "空格"
+        "pos": "n.m.",
+        "cn": "睡眠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le manque de sommeil diminue sérieusement la concentration au travail l'après-midi.",
+        "cn": "睡眠不足会明显降低下午工作的专注度。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2707,16 +3322,21 @@
   },
   {
     "id": 124,
-    "word": "sommeil",
-    "phonetic0": "somɛj",
-    "phonetic1": "somɛj",
+    "word": "lier",
+    "phonetic0": "lje",
+    "phonetic1": "lje",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "睡眠"
+        "pos": "v.",
+        "cn": "连接"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut lier ce document à votre dossier avant l'envoi.",
+        "cn": "发送前必须把这份文件与您的档案关联起来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2729,16 +3349,21 @@
   },
   {
     "id": 125,
-    "word": "lier",
-    "phonetic0": "lje",
-    "phonetic1": "lje",
+    "word": "télécharger",
+    "phonetic0": "teleʃaʁʒe",
+    "phonetic1": "teleʃaʁʒe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "连接"
+        "cn": "下载"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Vous pouvez télécharger le formulaire directement depuis notre site internet.",
+        "cn": "您可以直接从我们的网站下载表格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2751,16 +3376,21 @@
   },
   {
     "id": 126,
-    "word": "télécharger",
-    "phonetic0": "teleʃaʁʒe",
-    "phonetic1": "teleʃaʁʒe",
+    "word": "mémorisation",
+    "phonetic0": "memoʁizasjɔ̃",
+    "phonetic1": "memoʁizasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "下载"
+        "pos": "n.f.",
+        "cn": "存储"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La mémorisation des données se fait automatiquement toutes les dix minutes.",
+        "cn": "数据每十分钟自动存储一次。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2773,16 +3403,21 @@
   },
   {
     "id": 127,
-    "word": "mémorisation",
-    "phonetic0": "memoʁizasjɔ̃",
-    "phonetic1": "memoʁizasjɔ̃",
+    "word": "enlever",
+    "phonetic0": "ɑ̃ləve",
+    "phonetic1": "ɑ̃ləve",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "存储"
+        "pos": "v.",
+        "cn": "删除"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "N'oubliez pas d'enlever les fichiers inutiles avant de rendre l'ordinateur.",
+        "cn": "交还电脑前别忘了删除无用的文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2795,16 +3430,21 @@
   },
   {
     "id": 128,
-    "word": "enlever",
-    "phonetic0": "ɑ̃ləve",
-    "phonetic1": "ɑ̃ləve",
+    "word": "scanneur",
+    "phonetic0": "skanœʁ",
+    "phonetic1": "skanœʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "删除"
+        "pos": "n.m.",
+        "cn": "扫描仪短用传真机传送"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le scanneur du bureau ne fonctionne plus depuis hier matin.",
+        "cn": "办公室的扫描仪从昨天早上起就坏了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2817,16 +3457,21 @@
   },
   {
     "id": 129,
-    "word": "scanneur",
-    "phonetic0": "skanœʁ",
-    "phonetic1": "skanœʁ",
+    "word": "brouiller",
+    "phonetic0": "bʁuje",
+    "phonetic1": "bʁuje",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "扫描仪短用传真机传送"
+        "pos": "v.",
+        "cn": "使模糊"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pluie a brouillé l'image transmise par la caméra.",
+        "cn": "雨水使摄像头传回的图像变得模糊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2839,16 +3484,21 @@
   },
   {
     "id": 130,
-    "word": "brouiller",
-    "phonetic0": "bʁuje",
-    "phonetic1": "bʁuje",
+    "word": "estompé",
+    "phonetic0": "ɛstɔ̃pe",
+    "phonetic1": "ɛstɔ̃pe",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "使模糊"
+        "pos": "adj.",
+        "cn": "模糊的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les lettres sont estompées, on ne lit presque rien.",
+        "cn": "字迹已经模糊，几乎看不清。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2861,16 +3511,21 @@
   },
   {
     "id": 131,
-    "word": "estompé",
-    "phonetic0": "ɛstɔ̃pe",
-    "phonetic1": "ɛstɔ̃pe",
+    "word": "extrait",
+    "phonetic0": "ɛkstʁɛ",
+    "phonetic1": "ɛkstʁɛ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "模糊的"
+        "cn": "副本"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai besoin d'un extrait de mon contrat pour la banque.",
+        "cn": "我需要一份合同副本交给银行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2883,16 +3538,21 @@
   },
   {
     "id": 132,
-    "word": "extrait",
-    "phonetic0": "ɛkstʁɛ",
-    "phonetic1": "ɛkstʁɛ",
+    "word": "toner",
+    "phonetic0": "tonɛʁ",
+    "phonetic1": "tonɛʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "副本"
+        "pos": "n.m.",
+        "cn": "着色剂"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut commander un nouveau toner pour l'imprimante du service.",
+        "cn": "得给部门的打印机订购新的墨粉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2905,16 +3565,21 @@
   },
   {
     "id": 133,
-    "word": "toner",
-    "phonetic0": "tonɛʁ",
-    "phonetic1": "tonɛʁ",
+    "word": "perdu",
+    "phonetic0": "pɛʁdy",
+    "phonetic1": "pɛʁdy",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "着色剂"
+        "pos": "adj.",
+        "cn": "丢失的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Mon dossier est perdu, personne ne le retrouve dans le système.",
+        "cn": "我的档案丢失了，在系统里谁也找不到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2927,16 +3592,21 @@
   },
   {
     "id": 134,
-    "word": "perdu",
-    "phonetic0": "pɛʁdy",
-    "phonetic1": "pɛʁdy",
+    "word": "installer",
+    "phonetic0": "ɛ̃stale",
+    "phonetic1": "ɛ̃stale",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "丢失的"
+        "pos": "v.",
+        "cn": "安装"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'informaticien va installer le logiciel sur tous les postes.",
+        "cn": "信息技术员将在所有工作站安装这个软件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2949,16 +3619,21 @@
   },
   {
     "id": 135,
-    "word": "installer",
-    "phonetic0": "ɛ̃stale",
-    "phonetic1": "ɛ̃stale",
+    "word": "image",
+    "phonetic0": "imaʒ",
+    "phonetic1": "imaʒ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "安装"
+        "pos": "n.f.",
+        "cn": "图像"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'image projetée sur l'écran est trop petite pour la salle.",
+        "cn": "投影在屏幕上的图像对这么大的房间来说太小了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2971,16 +3646,21 @@
   },
   {
     "id": 136,
-    "word": "image",
-    "phonetic0": "imaʒ",
-    "phonetic1": "imaʒ",
+    "word": "compétence",
+    "phonetic0": "kɔ̃petɑ̃s",
+    "phonetic1": "kɔ̃petɑ̃s",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "图像"
+        "cn": "权限"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce niveau de compétence vous permet de modifier les dossiers partagés.",
+        "cn": "这个权限级别允许您修改共享档案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2993,16 +3673,21 @@
   },
   {
     "id": 137,
-    "word": "compétence",
-    "phonetic0": "kɔ̃petɑ̃s",
-    "phonetic1": "kɔ̃petɑ̃s",
+    "word": "alternativement",
+    "phonetic0": "altɛʁnativəmɑ̃",
+    "phonetic1": "altɛʁnativəmɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "权限"
+        "pos": "adv.",
+        "cn": "轮班"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les deux équipes travaillent alternativement le jour et la nuit.",
+        "cn": "两个团队轮流上白班和夜班。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3015,16 +3700,21 @@
   },
   {
     "id": 138,
-    "word": "alternativement",
-    "phonetic0": "altɛʁnativəmɑ̃",
-    "phonetic1": "altɛʁnativəmɑ̃",
+    "word": "vacances",
+    "phonetic0": "vakɑ̃s",
+    "phonetic1": "vakɑ̃s",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "轮班"
+        "pos": "n.f.",
+        "cn": "假期"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle prend ses vacances en août, comme la plupart des collègues.",
+        "cn": "她和大多数同事一样在八月休假。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3037,16 +3727,21 @@
   },
   {
     "id": 139,
-    "word": "vacances",
-    "phonetic0": "vakɑ̃s",
-    "phonetic1": "vakɑ̃s",
+    "word": "congé",
+    "phonetic0": "kɔ̃ʒe",
+    "phonetic1": "kɔ̃ʒe",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "假期"
+        "pos": "n.m.",
+        "cn": "事假"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a demandé un congé de trois jours pour raisons familiales.",
+        "cn": "他因家庭原因请了三天事假。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3059,16 +3754,21 @@
   },
   {
     "id": 140,
-    "word": "congé",
-    "phonetic0": "kɔ̃ʒe",
-    "phonetic1": "kɔ̃ʒe",
+    "word": "désoeuvré",
+    "phonetic0": "dezœvʁe",
+    "phonetic1": "dezœvʁe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "事假"
+        "pos": "adj.",
+        "cn": "闲散的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sans mission, il reste désoeuvré toute la journée au bureau.",
+        "cn": "没有任务时，他整天在办公室无所事事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3081,16 +3781,21 @@
   },
   {
     "id": 141,
-    "word": "désoeuvré",
-    "phonetic0": "dezœvʁe",
-    "phonetic1": "dezœvʁe",
+    "word": "promouvoir",
+    "phonetic0": "pʁomuvwaʁ",
+    "phonetic1": "pʁomuvwaʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "闲散的"
+        "pos": "v.",
+        "cn": "提升"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction souhaite promouvoir les employés les plus motivés cette année.",
+        "cn": "管理层希望今年提拔最有干劲的员工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3103,16 +3808,21 @@
   },
   {
     "id": 142,
-    "word": "promouvoir",
-    "phonetic0": "pʁomuvwaʁ",
-    "phonetic1": "pʁomuvwaʁ",
+    "word": "future",
+    "phonetic0": "fytyʁ",
+    "phonetic1": "fytyʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "提升"
+        "pos": "adj.",
+        "cn": "未来的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La future directrice arrive lundi pour rencontrer son équipe.",
+        "cn": "未来的女经理周一到任，与她的团队见面。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3125,16 +3835,21 @@
   },
   {
     "id": 143,
-    "word": "future",
-    "phonetic0": "fytyʁ",
-    "phonetic1": "fytyʁ",
+    "word": "essayer",
+    "phonetic0": "eseje",
+    "phonetic1": "eseje",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "未来的"
+        "pos": "v.",
+        "cn": "尝试"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Vous devriez essayer cette méthode avant de critiquer le projet.",
+        "cn": "在批评这个方案之前，您应该先试一试这个方法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3147,16 +3862,21 @@
   },
   {
     "id": 144,
-    "word": "essayer",
-    "phonetic0": "eseje",
-    "phonetic1": "eseje",
+    "word": "efforcer",
+    "phonetic0": "efɔʁse",
+    "phonetic1": "efɔʁse",
     "trans": [
       {
         "pos": "v.",
-        "cn": "尝试"
+        "cn": "奋斗"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut s'efforcer de répondre aux clients dans les vingt-quatre heures.",
+        "cn": "必须努力在二十四小时内回复客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3169,16 +3889,21 @@
   },
   {
     "id": 145,
-    "word": "efforcer",
-    "phonetic0": "efɔʁse",
-    "phonetic1": "efɔʁse",
+    "word": "facilement",
+    "phonetic0": "fasiləmɑ̃",
+    "phonetic1": "fasiləmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "奋斗"
+        "pos": "adv.",
+        "cn": "轻易地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle apprend facilement les nouveaux logiciels utilisés chaque jour par l'entreprise.",
+        "cn": "她很快就能学会公司每天使用的新软件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3191,16 +3916,21 @@
   },
   {
     "id": 146,
-    "word": "facilement",
-    "phonetic0": "fasiləmɑ̃",
-    "phonetic1": "fasiləmɑ̃",
+    "word": "progresser",
+    "phonetic0": "pʁogʁese",
+    "phonetic1": "pʁogʁese",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "轻易地"
+        "pos": "v.",
+        "cn": "进步"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Depuis sa formation, il progresse vite dans la maîtrise du logiciel.",
+        "cn": "培训之后，他在掌握这套软件方面进步很快。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3213,16 +3943,21 @@
   },
   {
     "id": 147,
-    "word": "progresser",
-    "phonetic0": "pʁogʁese",
-    "phonetic1": "pʁogʁese",
+    "word": "avancer",
+    "phonetic0": "avɑ̃se",
+    "phonetic1": "avɑ̃se",
     "trans": [
       {
         "pos": "v.",
         "cn": "进步"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le dossier avance lentement, car nous manquons de documents.",
+        "cn": "案子进展缓慢，因为我们缺少文件。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3235,16 +3970,21 @@
   },
   {
     "id": 148,
-    "word": "avancer",
-    "phonetic0": "avɑ̃se",
-    "phonetic1": "avɑ̃se",
+    "word": "coopération",
+    "phonetic0": "koopeʁasjɔ̃",
+    "phonetic1": "koopeʁasjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "进步"
+        "pos": "n.f.",
+        "cn": "合作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La coopération entre les deux équipes a permis de gagner du temps.",
+        "cn": "两个团队的合作节省了时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3257,16 +3997,21 @@
   },
   {
     "id": 149,
-    "word": "coopération",
-    "phonetic0": "koopeʁasjɔ̃",
-    "phonetic1": "koopeʁasjɔ̃",
+    "word": "collaborer",
+    "phonetic0": "kolaboʁe",
+    "phonetic1": "kolaboʁe",
     "trans": [
       {
-        "pos": "n.f.",
+        "pos": "v.",
         "cn": "合作"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous collaborons depuis un an avec une agence étrangère sur ce projet.",
+        "cn": "我们与一家外国机构在这个项目上合作了一年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3279,16 +4024,21 @@
   },
   {
     "id": 150,
-    "word": "collaborer",
-    "phonetic0": "kolaboʁe",
-    "phonetic1": "kolaboʁe",
+    "word": "harmoniser",
+    "phonetic0": "aʁmonize",
+    "phonetic1": "aʁmonize",
     "trans": [
       {
         "pos": "v.",
-        "cn": "合作"
+        "cn": "协调"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut harmoniser les procédures entre les différents services de l'entreprise.",
+        "cn": "必须协调企业各部门之间的流程。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3301,16 +4051,21 @@
   },
   {
     "id": 151,
-    "word": "harmoniser",
-    "phonetic0": "aʁmonize",
-    "phonetic1": "aʁmonize",
+    "word": "influencer",
+    "phonetic0": "ɛ̃flyɑ̃se",
+    "phonetic1": "ɛ̃flyɑ̃se",
     "trans": [
       {
         "pos": "v.",
-        "cn": "协调"
+        "cn": "影响"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son avis influence souvent les décisions du comité de direction.",
+        "cn": "他的意见常常影响管理委员会的决定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3323,16 +4078,21 @@
   },
   {
     "id": 152,
-    "word": "influencer",
-    "phonetic0": "ɛ̃flyɑ̃se",
-    "phonetic1": "ɛ̃flyɑ̃se",
+    "word": "équipe",
+    "phonetic0": "ekip",
+    "phonetic1": "ekip",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "影响"
+        "pos": "n.f.",
+        "cn": "团队"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Toute l'équipe travaille sur le même dossier depuis lundi.",
+        "cn": "全队从周一起都在处理同一份档案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3345,16 +4105,21 @@
   },
   {
     "id": 153,
-    "word": "équipe",
-    "phonetic0": "ekip",
-    "phonetic1": "ekip",
+    "word": "favoriser",
+    "phonetic0": "favoʁize",
+    "phonetic1": "favoʁize",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "团队"
+        "pos": "v.",
+        "cn": "帮助"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces horaires souples favorisent l'équilibre entre vie privée et travail.",
+        "cn": "这些弹性作息有助于平衡私人生活与工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3367,16 +4132,21 @@
   },
   {
     "id": 154,
-    "word": "favoriser",
-    "phonetic0": "favoʁize",
-    "phonetic1": "favoʁize",
+    "word": "dépendre",
+    "phonetic0": "depɑ̃dʁ",
+    "phonetic1": "depɑ̃dʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "帮助"
+        "cn": "依赖"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le succès du projet dépend de la mobilisation de chaque service.",
+        "cn": "项目的成功取决于每个部门的投入。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3389,16 +4159,21 @@
   },
   {
     "id": 155,
-    "word": "dépendre",
-    "phonetic0": "depɑ̃dʁ",
-    "phonetic1": "depɑ̃dʁ",
+    "word": "fidèle",
+    "phonetic0": "fidɛl",
+    "phonetic1": "fidɛl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "依赖"
+        "pos": "adj.",
+        "cn": "可信任的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un client fidèle qui nous commande depuis dix ans.",
+        "cn": "这是一位十年来一直向我们订货的可信客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3411,16 +4186,21 @@
   },
   {
     "id": 156,
-    "word": "fidèle",
-    "phonetic0": "fidɛl",
-    "phonetic1": "fidɛl",
+    "word": "conflit",
+    "phonetic0": "kɔ̃fli",
+    "phonetic1": "kɔ̃fli",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "可信任的"
+        "pos": "n.m.",
+        "cn": "冲突"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un conflit oppose deux collègues depuis la répartition des tâches.",
+        "cn": "自任务分配以来，两位同事之间一直存在冲突。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3433,16 +4213,21 @@
   },
   {
     "id": 157,
-    "word": "conflit",
-    "phonetic0": "kɔ̃fli",
-    "phonetic1": "kɔ̃fli",
+    "word": "divergence",
+    "phonetic0": "divɛʁʒɑ̃s",
+    "phonetic1": "divɛʁʒɑ̃s",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "冲突"
+        "pos": "n.f.",
+        "cn": "分歧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une divergence de vues a bloqué la discussion pendant une heure.",
+        "cn": "观点分歧使讨论停滞了一个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3455,16 +4240,21 @@
   },
   {
     "id": 158,
-    "word": "divergence",
-    "phonetic0": "divɛʁʒɑ̃s",
-    "phonetic1": "divɛʁʒɑ̃s",
+    "word": "satisfait",
+    "phonetic0": "satisfɛ",
+    "phonetic1": "satisfɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "分歧"
+        "pos": "adj.",
+        "cn": "满意的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client est satisfait du travail livré avant la date prévue.",
+        "cn": "客户对提前交付的工作很满意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3477,16 +4267,21 @@
   },
   {
     "id": 159,
-    "word": "satisfait",
-    "phonetic0": "satisfɛ",
-    "phonetic1": "satisfɛ",
+    "word": "satisfaire",
+    "phonetic0": "satisfɛʁ",
+    "phonetic1": "satisfɛʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "满意的"
+        "pos": "v.",
+        "cn": "满意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous ferons tout pour satisfaire les attentes de ce partenaire.",
+        "cn": "我们将尽力满足这位合作伙伴的期望。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3499,16 +4294,21 @@
   },
   {
     "id": 160,
-    "word": "satisfaire",
-    "phonetic0": "satisfɛʁ",
-    "phonetic1": "satisfɛʁ",
+    "word": "satisfaction",
+    "phonetic0": "satisfaksjɔ̃",
+    "phonetic1": "satisfaksjɔ̃",
     "trans": [
       {
-        "pos": "v.",
+        "pos": "n.f.",
         "cn": "满意"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction a exprimé sa satisfaction devant les bons résultats.",
+        "cn": "管理层对良好的业绩表示了满意。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3521,16 +4321,21 @@
   },
   {
     "id": 161,
-    "word": "satisfaction",
-    "phonetic0": "satisfaksjɔ̃",
-    "phonetic1": "satisfaksjɔ̃",
+    "word": "moins",
+    "phonetic0": "mwɛ̃",
+    "phonetic1": "mwɛ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "满意"
+        "pos": "adv.",
+        "cn": "少的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette solution coûte moins cher et demande moins de temps.",
+        "cn": "这个方案花费更少，需要的时间也更少。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3543,16 +4348,21 @@
   },
   {
     "id": 162,
-    "word": "moins",
-    "phonetic0": "mwɛ̃",
-    "phonetic1": "mwɛ̃",
+    "word": "diminuer",
+    "phonetic0": "diminɥe",
+    "phonetic1": "diminɥe",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "少的"
+        "pos": "v.",
+        "cn": "减少"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le nombre d'arrêts maladie a diminué depuis le nouveau planning.",
+        "cn": "自新排班以来，病假人数减少了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3565,16 +4375,21 @@
   },
   {
     "id": 163,
-    "word": "diminuer",
-    "phonetic0": "diminɥe",
-    "phonetic1": "diminɥe",
+    "word": "réduire",
+    "phonetic0": "ʁedɥiʁ",
+    "phonetic1": "ʁedɥiʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "减少"
+        "cn": "缩减"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'entreprise veut réduire ses dépenses de fonctionnement dès janvier.",
+        "cn": "企业希望从一月起缩减运营开支。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3587,16 +4402,21 @@
   },
   {
     "id": 164,
-    "word": "réduire",
-    "phonetic0": "ʁedɥiʁ",
-    "phonetic1": "ʁedɥiʁ",
+    "word": "abondance",
+    "phonetic0": "abɔ̃dɑ̃s",
+    "phonetic1": "abɔ̃dɑ̃s",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "缩减"
+        "pos": "n.f.",
+        "cn": "大量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a une abondance de candidatures pour ce seul poste.",
+        "cn": "仅这一个岗位就收到了大量申请。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3609,16 +4429,21 @@
   },
   {
     "id": 165,
-    "word": "abondance",
-    "phonetic0": "abɔ̃dɑ̃s",
-    "phonetic1": "abɔ̃dɑ̃s",
+    "word": "condition",
+    "phonetic0": "kɔ̃disjɔ̃",
+    "phonetic1": "kɔ̃disjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "大量"
+        "cn": "状态"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les conditions de travail se sont améliorées après la rénovation.",
+        "cn": "翻新之后，工作条件有所改善。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3631,16 +4456,21 @@
   },
   {
     "id": 166,
-    "word": "condition",
-    "phonetic0": "kɔ̃disjɔ̃",
-    "phonetic1": "kɔ̃disjɔ̃",
+    "word": "initiative",
+    "phonetic0": "inisjativ",
+    "phonetic1": "inisjativ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "状态"
+        "cn": "主动性"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Elle fait preuve d'initiative et propose souvent des solutions utiles.",
+        "cn": "她很有主动性，常常提出有用的解决办法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3653,16 +4483,21 @@
   },
   {
     "id": 167,
-    "word": "initiative",
-    "phonetic0": "inisjativ",
-    "phonetic1": "inisjativ",
+    "word": "ordonne",
+    "phonetic0": "ɔʁdɔn",
+    "phonetic1": "ɔʁdɔn",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "主动性"
+        "pos": "v.",
+        "cn": "有条理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur ordonne la fermeture du service pour la journée.",
+        "cn": "经理下令该部门当天停止办公。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3675,16 +4510,21 @@
   },
   {
     "id": 168,
-    "word": "ordonne",
-    "phonetic0": "ɔʁdɔn",
-    "phonetic1": "ɔʁdɔn",
+    "word": "craindre",
+    "phonetic0": "kʁɛ̃dʁ",
+    "phonetic1": "kʁɛ̃dʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "有条理的"
+        "cn": "害怕"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je crains que ce retard ne mette le projet en danger.",
+        "cn": "我担心这次延误会让项目陷入危险。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3697,16 +4537,21 @@
   },
   {
     "id": 169,
-    "word": "craindre",
-    "phonetic0": "kʁɛ̃dʁ",
-    "phonetic1": "kʁɛ̃dʁ",
+    "word": "incorrect",
+    "phonetic0": "ɛ̃koʁɛkt",
+    "phonetic1": "ɛ̃koʁɛkt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "害怕"
+        "pos": "adj.",
+        "cn": "错误的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un fichier incorrect a été envoyé à tous les clients.",
+        "cn": "一个错误的文件被发送给了所有客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3719,16 +4564,21 @@
   },
   {
     "id": 170,
-    "word": "incorrect",
-    "phonetic0": "ɛ̃koʁɛkt",
-    "phonetic1": "ɛ̃koʁɛkt",
+    "word": "célébrer",
+    "phonetic0": "selebʁe",
+    "phonetic1": "selebʁe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "错误的"
+        "pos": "v.",
+        "cn": "赞美"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'équipe a célébré la signature du contrat autour d'un verre.",
+        "cn": "团队举杯庆祝合同签订。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3741,16 +4591,21 @@
   },
   {
     "id": 171,
-    "word": "célébrer",
-    "phonetic0": "selebʁe",
-    "phonetic1": "selebʁe",
+    "word": "saignée",
+    "phonetic0": "seɲe",
+    "phonetic1": "seɲe",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "赞美"
+        "pos": "n.f.",
+        "cn": "损失"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La fermeture de l'usine représente une saignée pour la région.",
+        "cn": "工厂关闭对该地区是一大损失。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3763,16 +4618,21 @@
   },
   {
     "id": 172,
-    "word": "saignée",
-    "phonetic0": "seɲe",
-    "phonetic1": "seɲe",
+    "word": "victoire",
+    "phonetic0": "viktwaʁ",
+    "phonetic1": "viktwaʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "损失"
+        "cn": "胜利"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette victoire commerciale a convaincu la direction d'investir davantage.",
+        "cn": "这次商业上的胜利说服了管理层加大投资。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3785,16 +4645,21 @@
   },
   {
     "id": 173,
-    "word": "victoire",
-    "phonetic0": "viktwaʁ",
-    "phonetic1": "viktwaʁ",
+    "word": "consulter",
+    "phonetic0": "kɔ̃sylte",
+    "phonetic1": "kɔ̃sylte",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "胜利"
+        "pos": "v.",
+        "cn": "商量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Avant de signer, il préfère consulter son responsable hiérarchique.",
+        "cn": "签字之前，他更愿意先和上级商量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3807,16 +4672,21 @@
   },
   {
     "id": 174,
-    "word": "consulter",
-    "phonetic0": "kɔ̃sylte",
-    "phonetic1": "kɔ̃sylte",
+    "word": "discuter",
+    "phonetic0": "diskyte",
+    "phonetic1": "diskyte",
     "trans": [
       {
         "pos": "v.",
-        "cn": "商量"
+        "cn": "讨论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons discuter du budget lors de la réunion de mardi.",
+        "cn": "我们得在周二的会议上讨论预算。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3829,16 +4699,21 @@
   },
   {
     "id": 175,
-    "word": "discuter",
-    "phonetic0": "diskyte",
-    "phonetic1": "diskyte",
+    "word": "proposer",
+    "phonetic0": "pʁopoze",
+    "phonetic1": "pʁopoze",
     "trans": [
       {
         "pos": "v.",
-        "cn": "讨论"
+        "cn": "建议"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je propose de reporter la réunion à jeudi matin.",
+        "cn": "我建议把会议推迟到周四上午。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3851,16 +4726,21 @@
   },
   {
     "id": 176,
-    "word": "proposer",
-    "phonetic0": "pʁopoze",
-    "phonetic1": "pʁopoze",
+    "word": "avis",
+    "phonetic0": "avi",
+    "phonetic1": "avi",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "建议"
+        "pos": "n.m.",
+        "cn": "想法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Chacun peut donner son avis sur le nouveau planning.",
+        "cn": "每个人都可以对新排班发表自己的想法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3873,16 +4753,21 @@
   },
   {
     "id": 177,
-    "word": "avis",
-    "phonetic0": "avi",
-    "phonetic1": "avi",
+    "word": "supposer",
+    "phonetic0": "sypoze",
+    "phonetic1": "sypoze",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "想法"
+        "pos": "v.",
+        "cn": "尚若"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Supposons que le client accepte le devis, nous commençons lundi.",
+        "cn": "假设客户接受报价，我们周一就开工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3895,16 +4780,21 @@
   },
   {
     "id": 178,
-    "word": "supposer",
-    "phonetic0": "sypoze",
-    "phonetic1": "sypoze",
+    "word": "réconcilier",
+    "phonetic0": "ʁekɔ̃silje",
+    "phonetic1": "ʁekɔ̃silje",
     "trans": [
       {
         "pos": "v.",
-        "cn": "尚若"
+        "cn": "和解"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le médiateur a réussi à réconcilier les deux collègues fâchés.",
+        "cn": "调解人成功让两位闹翻的同事和解。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3917,16 +4807,21 @@
   },
   {
     "id": 179,
-    "word": "réconcilier",
-    "phonetic0": "ʁekɔ̃silje",
-    "phonetic1": "ʁekɔ̃silje",
+    "word": "subvention",
+    "phonetic0": "sybvɑ̃sjɔ̃",
+    "phonetic1": "sybvɑ̃sjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "和解"
+        "pos": "n.f.",
+        "cn": "津贴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'association a obtenu une subvention pour former ses bénévoles.",
+        "cn": "协会获得了一笔津贴用于培训志愿者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3939,16 +4834,21 @@
   },
   {
     "id": 180,
-    "word": "subvention",
-    "phonetic0": "sybvɑ̃sjɔ̃",
-    "phonetic1": "sybvɑ̃sjɔ̃",
+    "word": "frais",
+    "phonetic0": "fʁɛ",
+    "phonetic1": "fʁɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "津贴"
+        "pos": "adj.",
+        "cn": "出差津贴"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ses frais de déplacement sont remboursés chaque fin de mois.",
+        "cn": "他的出差费用在每月底报销。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3961,16 +4861,21 @@
   },
   {
     "id": 181,
-    "word": "frais",
-    "phonetic0": "fʁɛ",
-    "phonetic1": "fʁɛ",
+    "word": "dépensé",
+    "phonetic0": "depɑ̃se",
+    "phonetic1": "depɑ̃se",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "出差津贴"
+        "pos": "v.",
+        "cn": "费用"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le montant dépensé pour ce salon dépasse le budget prévu.",
+        "cn": "这次展会的花费超出了预算。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3983,16 +4888,21 @@
   },
   {
     "id": 182,
-    "word": "dépensé",
-    "phonetic0": "depɑ̃se",
-    "phonetic1": "depɑ̃se",
+    "word": "nécessaire",
+    "phonetic0": "nesesɛʁ",
+    "phonetic1": "nesesɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "费用"
+        "pos": "adj.",
+        "cn": "必要的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il est nécessaire de prévenir le client avant toute modification.",
+        "cn": "任何修改之前都必须通知客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4005,16 +4915,21 @@
   },
   {
     "id": 183,
-    "word": "nécessaire",
-    "phonetic0": "nesesɛʁ",
-    "phonetic1": "nesesɛʁ",
+    "word": "aussitôt",
+    "phonetic0": "osito",
+    "phonetic1": "osito",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "必要的"
+        "pos": "adv.",
+        "cn": "马上"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le technicien est arrivé aussitôt après notre appel au service technique.",
+        "cn": "我们给技术部打电话后，技术员马上就来了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4027,16 +4942,21 @@
   },
   {
     "id": 184,
-    "word": "aussitôt",
-    "phonetic0": "osito",
-    "phonetic1": "osito",
+    "word": "matériaux",
+    "phonetic0": "mateʁjo",
+    "phonetic1": "mateʁjo",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "马上"
+        "pos": "n.m.",
+        "cn": "资料"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons besoin de matériaux récents pour préparer la présentation.",
+        "cn": "我们需要最新的资料来准备演示。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4049,16 +4969,21 @@
   },
   {
     "id": 185,
-    "word": "matériaux",
-    "phonetic0": "mateʁjo",
-    "phonetic1": "mateʁjo",
+    "word": "facturation",
+    "phonetic0": "faktyʁasjɔ̃",
+    "phonetic1": "faktyʁasjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "资料"
+        "pos": "n.f.",
+        "cn": "开发票"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le service facturation envoie les factures le premier de chaque mois.",
+        "cn": "开票部门每月一号寄出账单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4071,16 +4996,21 @@
   },
   {
     "id": 186,
-    "word": "facturation",
-    "phonetic0": "faktyʁasjɔ̃",
-    "phonetic1": "faktyʁasjɔ̃",
+    "word": "décider",
+    "phonetic0": "deside",
+    "phonetic1": "deside",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "开发票"
+        "pos": "v.",
+        "cn": "决定"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction a décidé de fermer le bureau pendant les fêtes.",
+        "cn": "管理层决定节日期间关闭办公室。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4093,16 +5023,21 @@
   },
   {
     "id": 187,
-    "word": "décider",
-    "phonetic0": "deside",
-    "phonetic1": "deside",
+    "word": "rapporter",
+    "phonetic0": "ʁapɔʁte",
+    "phonetic1": "ʁapɔʁte",
     "trans": [
       {
         "pos": "v.",
-        "cn": "决定"
+        "cn": "报告"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il doit rapporter les conclusions de l'audit au comité.",
+        "cn": "他必须向委员会报告审计结论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4115,16 +5050,21 @@
   },
   {
     "id": 188,
-    "word": "rapporter",
-    "phonetic0": "ʁapɔʁte",
-    "phonetic1": "ʁapɔʁte",
+    "word": "retraite",
+    "phonetic0": "ʁətʁɛt",
+    "phonetic1": "ʁətʁɛt",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "报告"
+        "pos": "n.f.",
+        "cn": "退休"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après quarante ans de service, elle part à la retraite.",
+        "cn": "工作四十年后，她退休了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4137,16 +5077,21 @@
   },
   {
     "id": 189,
-    "word": "retraite",
-    "phonetic0": "ʁətʁɛt",
-    "phonetic1": "ʁətʁɛt",
+    "word": "démissionner",
+    "phonetic0": "demisjone",
+    "phonetic1": "demisjone",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "退休"
+        "pos": "v.",
+        "cn": "辞职"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a démissionné parce qu'il refusait de travailler le week-end.",
+        "cn": "他辞职了，因为他拒绝周末上班。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4159,16 +5104,21 @@
   },
   {
     "id": 190,
-    "word": "démissionner",
-    "phonetic0": "demisjone",
-    "phonetic1": "demisjone",
+    "word": "congédier",
+    "phonetic0": "kɔ̃ʒedje",
+    "phonetic1": "kɔ̃ʒedje",
     "trans": [
       {
         "pos": "v.",
-        "cn": "辞职"
+        "cn": "解雇"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le patron a congédié son assistant après une longue dispute.",
+        "cn": "老板在一次长时间争吵后解雇了他的助理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4181,16 +5131,21 @@
   },
   {
     "id": 191,
-    "word": "congédier",
-    "phonetic0": "kɔ̃ʒedje",
-    "phonetic1": "kɔ̃ʒedje",
+    "word": "licencier",
+    "phonetic0": "lisɑ̃sje",
+    "phonetic1": "lisɑ̃sje",
     "trans": [
       {
         "pos": "v.",
         "cn": "解雇"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'usine va licencier cinquante ouvriers avant la fin de l'année.",
+        "cn": "工厂将在年底前解雇五十名工人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4203,16 +5158,21 @@
   },
   {
     "id": 192,
-    "word": "licencier",
-    "phonetic0": "lisɑ̃sje",
-    "phonetic1": "lisɑ̃sje",
+    "word": "renvoyer",
+    "phonetic0": "ʁɑ̃vwaje",
+    "phonetic1": "ʁɑ̃vwaje",
     "trans": [
       {
         "pos": "v.",
         "cn": "解雇"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "On ne peut pas renvoyer un salarié sans motif sérieux.",
+        "cn": "没有正当理由不能解雇员工。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4225,16 +5185,21 @@
   },
   {
     "id": 193,
-    "word": "renvoyer",
-    "phonetic0": "ʁɑ̃vwaje",
-    "phonetic1": "ʁɑ̃vwaje",
+    "word": "consommateur",
+    "phonetic0": "kɔ̃somatœʁ",
+    "phonetic1": "kɔ̃somatœʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "解雇"
+        "pos": "n.m.",
+        "cn": "消费者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le consommateur exige des produits clairement étiquetés et faciles à comparer.",
+        "cn": "消费者要求产品标签清晰、便于比较。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4247,16 +5212,21 @@
   },
   {
     "id": 194,
-    "word": "consommateur",
-    "phonetic0": "kɔ̃somatœʁ",
-    "phonetic1": "kɔ̃somatœʁ",
+    "word": "fournisseur",
+    "phonetic0": "fuʁnisœʁ",
+    "phonetic1": "fuʁnisœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "消费者"
+        "cn": "供应商"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Notre fournisseur a annoncé un retard de livraison de deux semaines.",
+        "cn": "我们的供应商通知交货延迟两周。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4269,16 +5239,21 @@
   },
   {
     "id": 195,
-    "word": "fournisseur",
-    "phonetic0": "fuʁnisœʁ",
-    "phonetic1": "fuʁnisœʁ",
+    "word": "consommation",
+    "phonetic0": "kɔ̃somasjɔ̃",
+    "phonetic1": "kɔ̃somasjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "供应商"
+        "pos": "n.f.",
+        "cn": "消费"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La consommation des ménages a nettement baissé au dernier trimestre.",
+        "cn": "家庭消费在上季度明显下降。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4291,16 +5266,21 @@
   },
   {
     "id": 196,
-    "word": "consommation",
-    "phonetic0": "kɔ̃somasjɔ̃",
-    "phonetic1": "kɔ̃somasjɔ̃",
+    "word": "distribuer",
+    "phonetic0": "distʁibɥe",
+    "phonetic1": "distʁibɥe",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "消费"
+        "pos": "v.",
+        "cn": "分配"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La secrétaire distribue les documents à tous les participants avant la séance.",
+        "cn": "秘书在会前把文件分发给所有参会者。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4313,16 +5293,21 @@
   },
   {
     "id": 197,
-    "word": "distribuer",
-    "phonetic0": "distʁibɥe",
-    "phonetic1": "distʁibɥe",
+    "word": "efficience",
+    "phonetic0": "efisjɑ̃s",
+    "phonetic1": "efisjɑ̃s",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "分配"
+        "pos": "n.f.",
+        "cn": "效率"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'efficience de ce service a progressé grâce à une nouvelle organisation.",
+        "cn": "得益于新的组织方式，该部门的效率提高了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4335,16 +5320,21 @@
   },
   {
     "id": 198,
-    "word": "efficience",
-    "phonetic0": "efisjɑ̃s",
-    "phonetic1": "efisjɑ̃s",
+    "word": "onduler",
+    "phonetic0": "ɔ̃dyle",
+    "phonetic1": "ɔ̃dyle",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "效率"
+        "pos": "v.",
+        "cn": "波动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les prix du marché commencent à onduler fortement depuis lundi.",
+        "cn": "从周一起，市场价格开始大幅波动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4357,16 +5347,21 @@
   },
   {
     "id": 199,
-    "word": "onduler",
-    "phonetic0": "ɔ̃dyle",
-    "phonetic1": "ɔ̃dyle",
+    "word": "indice",
+    "phonetic0": "ɛ̃dis",
+    "phonetic1": "ɛ̃dis",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "波动"
+        "pos": "n.m.",
+        "cn": "指数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'indice de confiance des consommateurs a légèrement remonté ce mois-ci.",
+        "cn": "消费者信心指数本月略有回升。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4379,16 +5374,21 @@
   },
   {
     "id": 200,
-    "word": "indice",
-    "phonetic0": "ɛ̃dis",
-    "phonetic1": "ɛ̃dis",
+    "word": "surpasser",
+    "phonetic0": "syʁpase",
+    "phonetic1": "syʁpase",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "指数"
+        "pos": "v.",
+        "cn": "超过"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nos ventes ont surpassé celles de nos concurrents au printemps.",
+        "cn": "我们的销售额在春季超过了竞争对手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4401,16 +5401,21 @@
   },
   {
     "id": 201,
-    "word": "surpasser",
-    "phonetic0": "syʁpase",
-    "phonetic1": "syʁpase",
+    "word": "marche",
+    "phonetic0": "maʁʃ",
+    "phonetic1": "maʁʃ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "超过"
+        "pos": "n.f.",
+        "cn": "市场"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le marché du travail se stabilise après deux années difficiles.",
+        "cn": "就业市场在两年困难之后趋于稳定。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4423,16 +5428,21 @@
   },
   {
     "id": 202,
-    "word": "marche",
-    "phonetic0": "maʁʃ",
-    "phonetic1": "maʁʃ",
+    "word": "dynamique",
+    "phonetic0": "dinamik",
+    "phonetic1": "dinamik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "市场"
+        "pos": "adj.",
+        "cn": "活跃的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce secteur reste dynamique malgré la crise économique actuelle.",
+        "cn": "尽管当前经济危机，这个行业依然活跃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4445,16 +5455,21 @@
   },
   {
     "id": 203,
-    "word": "dynamique",
-    "phonetic0": "dinamik",
-    "phonetic1": "dinamik",
+    "word": "stagnant",
+    "phonetic0": "stagnɑ̃",
+    "phonetic1": "stagnɑ̃",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "活跃的"
+        "cn": "不景气的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le marché de l'immobilier reste stagnant depuis plusieurs mois dans la région.",
+        "cn": "该地区房地产市场已停滞数月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4467,16 +5482,21 @@
   },
   {
     "id": 204,
-    "word": "stagnant",
-    "phonetic0": "stagnɑ̃",
-    "phonetic1": "stagnɑ̃",
+    "word": "propagande",
+    "phonetic0": "pʁopagɑ̃d",
+    "phonetic1": "pʁopagɑ̃d",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "不景气的"
+        "pos": "n.f.",
+        "cn": "宣传"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette campagne ressemble plus à de la propagande qu'à de l'information.",
+        "cn": "这场宣传活动更像是宣传鼓动，而非信息发布。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4489,16 +5509,21 @@
   },
   {
     "id": 205,
-    "word": "propagande",
-    "phonetic0": "pʁopagɑ̃d",
-    "phonetic1": "pʁopagɑ̃d",
+    "word": "lucratif",
+    "phonetic0": "lykʁatif",
+    "phonetic1": "lykʁatif",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "宣传"
+        "pos": "adj.",
+        "cn": "有利可图的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce partenariat s'est révélé très lucratif pour les deux entreprises.",
+        "cn": "这一合作对两家企业都非常有利可图。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4511,16 +5536,21 @@
   },
   {
     "id": 206,
-    "word": "lucratif",
-    "phonetic0": "lykʁatif",
-    "phonetic1": "lykʁatif",
+    "word": "banderole",
+    "phonetic0": "bɑ̃dəʁɔl",
+    "phonetic1": "bɑ̃dəʁɔl",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "有利可图的"
+        "pos": "n.f.",
+        "cn": "横幅"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une banderole annonçant les promotions est accrochée à l'entrée.",
+        "cn": "入口处挂着一条宣传促销的横幅。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4533,16 +5563,21 @@
   },
   {
     "id": 207,
-    "word": "banderole",
-    "phonetic0": "bɑ̃dəʁɔl",
-    "phonetic1": "bɑ̃dəʁɔl",
+    "word": "budget",
+    "phonetic0": "bydʒɛ",
+    "phonetic1": "bydʒɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "横幅"
+        "pos": "n.m.",
+        "cn": "预算"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le budget de ce service sera réduit de dix pour cent.",
+        "cn": "该部门的预算将削减百分之十。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4555,16 +5590,21 @@
   },
   {
     "id": 208,
-    "word": "budget",
-    "phonetic0": "bydʒɛ",
-    "phonetic1": "bydʒɛ",
+    "word": "publipostage",
+    "phonetic0": "pyblipɔstaʒ",
+    "phonetic1": "pyblipɔstaʒ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "预算"
+        "cn": "直邮广告；群发邮件"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette entreprise envoie un publipostage à ses anciens clients.",
+        "cn": "这家公司给老客户寄直邮广告。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4577,16 +5617,21 @@
   },
   {
     "id": 209,
-    "word": "public-postage",
-    "phonetic0": "pyblik-postaʒ",
-    "phonetic1": "pyblik-postaʒ",
+    "word": "encart",
+    "phonetic0": "ɑ̃kaʁ",
+    "phonetic1": "ɑ̃kaʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "直接邮递广告"
+        "pos": "n.m.",
+        "cn": "插页"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un encart publicitaire occupe toute la dernière page du magazine.",
+        "cn": "一则广告插页占满了杂志的最后一页。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4599,16 +5644,21 @@
   },
   {
     "id": 210,
-    "word": "encart",
-    "phonetic0": "ɑ̃kaʁ",
-    "phonetic1": "ɑ̃kaʁ",
+    "word": "exhiber",
+    "phonetic0": "ɛgzibe",
+    "phonetic1": "ɛgzibe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "插页"
+        "pos": "v.",
+        "cn": "展览"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'entreprise profite du salon pour exhiber ses nouveaux produits.",
+        "cn": "企业借展会之机展示其新产品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4621,16 +5671,21 @@
   },
   {
     "id": 211,
-    "word": "exhiber",
-    "phonetic0": "ɛgzibe",
-    "phonetic1": "ɛgzibe",
+    "word": "exposition",
+    "phonetic0": "ɛkspozisjɔ̃",
+    "phonetic1": "ɛkspozisjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "展览"
+        "pos": "n.f.",
+        "cn": "展会"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'exposition annuelle attire des clients venus de toute l'Europe.",
+        "cn": "年度展会吸引了来自欧洲各地的客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4643,16 +5698,21 @@
   },
   {
     "id": 212,
-    "word": "exposition",
-    "phonetic0": "ɛkspozisjɔ̃",
-    "phonetic1": "ɛkspozisjɔ̃",
+    "word": "toucher",
+    "phonetic0": "tuʃe",
+    "phonetic1": "tuʃe",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "展会"
+        "pos": "n.m.",
+        "cn": "触摸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le toucher de ce clavier est agréable pour travailler longtemps.",
+        "cn": "这款键盘的触感很适合长时间工作。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4665,16 +5725,21 @@
   },
   {
     "id": 213,
-    "word": "toucher",
-    "phonetic0": "tuʃe",
-    "phonetic1": "tuʃe",
+    "word": "inestimable",
+    "phonetic0": "inɛstimabl",
+    "phonetic1": "inɛstimabl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "触摸"
+        "pos": "adj.",
+        "cn": "无价的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'expérience acquise sur ce projet représente un avantage inestimable.",
+        "cn": "在这个项目上获得的经验是无价的优势。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4687,16 +5752,21 @@
   },
   {
     "id": 214,
-    "word": "inestimable",
-    "phonetic0": "inɛstimabl",
-    "phonetic1": "inɛstimabl",
+    "word": "anticiper",
+    "phonetic0": "ɑ̃tisipe",
+    "phonetic1": "ɑ̃tisipe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "无价的"
+        "pos": "v.",
+        "cn": "预料"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons anticiper les besoins des clients avant la rentrée.",
+        "cn": "我们必须在开学前预料到客户的需求。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4709,16 +5779,21 @@
   },
   {
     "id": 215,
-    "word": "anticiper",
-    "phonetic0": "ɑ̃tisipe",
-    "phonetic1": "ɑ̃tisipe",
+    "word": "préférentiel",
+    "phonetic0": "pʁefeʁɑ̃sjɛl",
+    "phonetic1": "pʁefeʁɑ̃sjɛl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "预料"
+        "pos": "adj.",
+        "cn": "优惠的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les salariés bénéficient d'un tarif préférentiel sur nos produits.",
+        "cn": "员工购买我们的产品可享受优惠价格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4731,16 +5806,21 @@
   },
   {
     "id": 216,
-    "word": "préférentiel",
-    "phonetic0": "pʁefeʁɑ̃sjɛl",
-    "phonetic1": "pʁefeʁɑ̃sjɛl",
+    "word": "raisonnable",
+    "phonetic0": "ʁɛzonabl",
+    "phonetic1": "ʁɛzonabl",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "优惠的"
+        "cn": "合理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son salaire reste raisonnable par rapport à la charge de travail.",
+        "cn": "与工作量相比，他的薪水还算合理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4753,16 +5833,21 @@
   },
   {
     "id": 217,
-    "word": "raisonnable",
-    "phonetic0": "ʁɛzonabl",
-    "phonetic1": "ʁɛzonabl",
+    "word": "drainage",
+    "phonetic0": "dʁɛnaʒ",
+    "phonetic1": "dʁɛnaʒ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "合理的"
+        "pos": "n.m.",
+        "cn": "吸引"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette campagne vise le drainage de nouveaux clients vers nos boutiques.",
+        "cn": "这次活动旨在把新客户吸引到我们的门店。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4775,16 +5860,21 @@
   },
   {
     "id": 218,
-    "word": "drainage",
-    "phonetic0": "dʁɛnaʒ",
-    "phonetic1": "dʁɛnaʒ",
+    "word": "invitation",
+    "phonetic0": "ɛ̃vitasjɔ̃",
+    "phonetic1": "ɛ̃vitasjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "吸引"
+        "pos": "n.f.",
+        "cn": "邀请函"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "J'ai reçu une invitation pour la soirée annuelle de l'entreprise.",
+        "cn": "我收到了公司年会的邀请函。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4797,16 +5887,21 @@
   },
   {
     "id": 219,
-    "word": "invitation",
-    "phonetic0": "ɛ̃vitasjɔ̃",
-    "phonetic1": "ɛ̃vitasjɔ̃",
+    "word": "loyal",
+    "phonetic0": "lwajal",
+    "phonetic1": "lwajal",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "邀请函"
+        "pos": "adj.",
+        "cn": "质量好的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous entretenons une relation loyale avec ce partenaire depuis longtemps.",
+        "cn": "我们与这位合作伙伴长期保持着可信的关系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4819,16 +5914,21 @@
   },
   {
     "id": 220,
-    "word": "loyal",
-    "phonetic0": "lwajal",
-    "phonetic1": "lwajal",
+    "word": "comparativement",
+    "phonetic0": "kɔ̃paʁativəmɑ̃",
+    "phonetic1": "kɔ̃paʁativəmɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "质量好的"
+        "pos": "adv.",
+        "cn": "相对地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Comparativement à l'an dernier, nos ventes ont progressé de dix pour cent.",
+        "cn": "与去年相比，我们的销售额增长了百分之十。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4841,16 +5941,21 @@
   },
   {
     "id": 221,
-    "word": "comparativement",
-    "phonetic0": "kɔ̃paʁativəmɑ̃",
-    "phonetic1": "kɔ̃paʁativəmɑ̃",
+    "word": "quantité",
+    "phonetic0": "kɑ̃tite",
+    "phonetic1": "kɑ̃tite",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "相对地"
+        "pos": "n.f.",
+        "cn": "数量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La quantité de dossiers traités augmente chaque semaine dans ce service.",
+        "cn": "这个部门每周处理的档案数量都在增加。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4863,16 +5968,21 @@
   },
   {
     "id": 222,
-    "word": "quantité",
-    "phonetic0": "kɑ̃tite",
-    "phonetic1": "kɑ̃tite",
+    "word": "typique",
+    "phonetic0": "tipik",
+    "phonetic1": "tipik",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "数量"
+        "pos": "adj.",
+        "cn": "典型的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un problème typique des entreprises qui grandissent trop vite.",
+        "cn": "这是扩张过快的企业常有的典型问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4885,16 +5995,21 @@
   },
   {
     "id": 223,
-    "word": "typique",
-    "phonetic0": "tipik",
-    "phonetic1": "tipik",
+    "word": "produit",
+    "phonetic0": "pʁodɥi",
+    "phonetic1": "pʁodɥi",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "典型的"
+        "cn": "产品"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce produit se vend bien grâce à son prix attractif.",
+        "cn": "这款产品因价格有吸引力而销路很好。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4907,16 +6022,21 @@
   },
   {
     "id": 224,
-    "word": "produit",
-    "phonetic0": "pʁodɥi",
-    "phonetic1": "pʁodɥi",
+    "word": "caractéristique",
+    "phonetic0": "kaʁakteʁistik",
+    "phonetic1": "kaʁakteʁistik",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "产品"
+        "cn": "特点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La souplesse des horaires est une caractéristique de notre société.",
+        "cn": "作息灵活是我们公司的一个特点。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4929,16 +6049,21 @@
   },
   {
     "id": 225,
-    "word": "caractéristique",
-    "phonetic0": "kaʁakteʁistik",
-    "phonetic1": "kaʁakteʁistik",
+    "word": "échantillon",
+    "phonetic0": "eʃɑ̃tijɔ̃",
+    "phonetic1": "eʃɑ̃tijɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "特点"
+        "pos": "n.m.",
+        "cn": "样品"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un échantillon gratuit sera envoyé aux premiers clients intéressés.",
+        "cn": "将向首批感兴趣的客户寄送免费样品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4951,16 +6076,21 @@
   },
   {
     "id": 226,
-    "word": "échantillon",
-    "phonetic0": "eʃɑ̃tijɔ̃",
-    "phonetic1": "eʃɑ̃tijɔ̃",
+    "word": "cassable",
+    "phonetic0": "kasabl",
+    "phonetic1": "kasabl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "样品"
+        "pos": "adj.",
+        "cn": "易碎的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce produit est cassable, il faut le protéger pendant le transport.",
+        "cn": "这件产品易碎，运输时必须加以保护。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4973,16 +6103,21 @@
   },
   {
     "id": 227,
-    "word": "cassable",
-    "phonetic0": "kasabl",
-    "phonetic1": "kasabl",
+    "word": "splendide",
+    "phonetic0": "splɑ̃did",
+    "phonetic1": "splɑ̃did",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "易碎的"
+        "cn": "灿烂的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La vue depuis le bureau est splendide au coucher du soleil.",
+        "cn": "日落时从办公室望出去的景色非常灿烂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -4995,16 +6130,21 @@
   },
   {
     "id": 228,
-    "word": "splendide",
-    "phonetic0": "splɑ̃did",
-    "phonetic1": "splɑ̃did",
+    "word": "instruction",
+    "phonetic0": "ɛ̃stʁyksjɔ̃",
+    "phonetic1": "ɛ̃stʁyksjɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "灿烂的"
+        "pos": "n.f.",
+        "cn": "用法说明"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Lisez attentivement les instructions avant d'utiliser cette nouvelle machine de bureau.",
+        "cn": "使用这台新办公设备前请仔细阅读用法说明。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5017,16 +6157,21 @@
   },
   {
     "id": 229,
-    "word": "instruction",
-    "phonetic0": "ɛ̃stʁyksjɔ̃",
-    "phonetic1": "ɛ̃stʁyksjɔ̃",
+    "word": "universel",
+    "phonetic0": "ynivɛʁsɛl",
+    "phonetic1": "ynivɛʁsɛl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "用法说明"
+        "pos": "adj.",
+        "cn": "全世界的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'anglais reste la langue universelle des affaires dans ce secteur.",
+        "cn": "英语仍是这个行业里全世界通用的商务语言。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5039,16 +6184,21 @@
   },
   {
     "id": 230,
-    "word": "universel",
-    "phonetic0": "ynivɛʁsɛl",
-    "phonetic1": "ynivɛʁsɛl",
+    "word": "commission",
+    "phonetic0": "komisjɔ̃",
+    "phonetic1": "komisjɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "全世界的"
+        "pos": "n.f.",
+        "cn": "佣金"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le commercial touche une commission sur chaque contrat signé.",
+        "cn": "销售员每签一份合同都能拿到佣金。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5061,16 +6211,21 @@
   },
   {
     "id": 231,
-    "word": "commission",
-    "phonetic0": "komisjɔ̃",
-    "phonetic1": "komisjɔ̃",
+    "word": "générale",
+    "phonetic0": "ʒeneʁal",
+    "phonetic1": "ʒeneʁal",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "佣金"
+        "pos": "adj.",
+        "cn": "通常"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En règle générale, les réunions durent moins d'une heure.",
+        "cn": "通常会议持续时间不到一小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5083,16 +6238,21 @@
   },
   {
     "id": 232,
-    "word": "générale",
-    "phonetic0": "ʒeneʁal",
-    "phonetic1": "ʒeneʁal",
+    "word": "commerce",
+    "phonetic0": "komɛʁs",
+    "phonetic1": "komɛʁs",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "通常"
+        "pos": "n.m.",
+        "cn": "交易"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le commerce en ligne représente désormais la moitié de nos ventes.",
+        "cn": "线上交易如今占我们销售额的一半。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5105,16 +6265,21 @@
   },
   {
     "id": 233,
-    "word": "commerce",
-    "phonetic0": "komɛʁs",
-    "phonetic1": "komɛʁs",
+    "word": "espoir",
+    "phonetic0": "ɛspwaʁ",
+    "phonetic1": "ɛspwaʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "交易"
+        "cn": "期望"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous gardons l'espoir de signer ce contrat avant l'été.",
+        "cn": "我们仍抱有在夏天前签下这份合同的期望。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5127,16 +6292,21 @@
   },
   {
     "id": 234,
-    "word": "espoir",
-    "phonetic0": "ɛspwaʁ",
-    "phonetic1": "ɛspwaʁ",
+    "word": "exclu",
+    "phonetic0": "ɛkskly",
+    "phonetic1": "ɛkskly",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "期望"
+        "pos": "adj.",
+        "cn": "不予考虑"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette solution est exclue, car elle coûterait trop cher.",
+        "cn": "这个方案不予考虑，因为花费太高。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5149,16 +6319,21 @@
   },
   {
     "id": 235,
-    "word": "exclu",
-    "phonetic0": "ɛkskly",
-    "phonetic1": "ɛkskly",
+    "word": "autre",
+    "phonetic0": "otʁ",
+    "phonetic1": "otʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "不予考虑"
+        "cn": "另外的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous chercherons une autre solution lors de la prochaine réunion.",
+        "cn": "我们将在下次会议上另找一个解决办法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5171,16 +6346,21 @@
   },
   {
     "id": 236,
-    "word": "autre",
-    "phonetic0": "otʁ",
-    "phonetic1": "otʁ",
+    "word": "supérieure",
+    "phonetic0": "sypeʁjœʁ",
+    "phonetic1": "sypeʁjœʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "另外的"
+        "cn": "最高的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Sa compétence supérieure lui a permis d'obtenir ce poste.",
+        "cn": "他更高的能力使他得到了这个职位。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5193,16 +6373,21 @@
   },
   {
     "id": 237,
-    "word": "supérieure",
-    "phonetic0": "sypeʁjœʁ",
-    "phonetic1": "sypeʁjœʁ",
+    "word": "inférieur",
+    "phonetic0": "ɛ̃feʁjœʁ",
+    "phonetic1": "ɛ̃feʁjœʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "最高的"
+        "cn": "最低的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le prix proposé est inférieur à celui de nos concurrents.",
+        "cn": "所报价格低于我们竞争对手的价格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5215,16 +6400,21 @@
   },
   {
     "id": 238,
-    "word": "inférieur",
-    "phonetic0": "ɛ̃feʁjœʁ",
-    "phonetic1": "ɛ̃feʁjœʁ",
+    "word": "négociation",
+    "phonetic0": "negosjasjɔ̃",
+    "phonetic1": "negosjasjɔ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "最低的"
+        "pos": "n.f.",
+        "cn": "谈判"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La négociation salariale reprendra jeudi avec les représentants du personnel.",
+        "cn": "工资谈判将于周四与员工代表继续进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5237,16 +6427,21 @@
   },
   {
     "id": 239,
-    "word": "négociation",
-    "phonetic0": "negosjasjɔ̃",
-    "phonetic1": "negosjasjɔ̃",
+    "word": "négocier",
+    "phonetic0": "negosje",
+    "phonetic1": "negosje",
     "trans": [
       {
-        "pos": "n.f.",
+        "pos": "v.",
         "cn": "谈判"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il tente de négocier une augmentation avec son directeur.",
+        "cn": "他正试图与经理谈判加薪。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5259,16 +6454,21 @@
   },
   {
     "id": 240,
-    "word": "négocier",
-    "phonetic0": "negosje",
-    "phonetic1": "negosje",
+    "word": "rentable",
+    "phonetic0": "ʁɑ̃tabl",
+    "phonetic1": "ʁɑ̃tabl",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "谈判"
+        "pos": "adj.",
+        "cn": "有成效的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette nouvelle méthode de travail est vraiment très rentable pour notre petite équipe.",
+        "cn": "这种新的工作方法对我们这个小团队来说确实很有效益。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5281,16 +6481,21 @@
   },
   {
     "id": 241,
-    "word": "rentable",
-    "phonetic0": "ʁɑ̃tabl",
-    "phonetic1": "ʁɑ̃tabl",
+    "word": "continuer",
+    "phonetic0": "kɔ̃tinɥe",
+    "phonetic1": "kɔ̃tinɥe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "有成效的"
+        "pos": "v.",
+        "cn": "继续"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons continuer à travailler ensemble malgré les difficultés du moment.",
+        "cn": "尽管眼下有困难，我们还是得继续一起努力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5303,16 +6508,21 @@
   },
   {
     "id": 242,
-    "word": "continuer",
-    "phonetic0": "kɔ̃tinɥe",
-    "phonetic1": "kɔ̃tinɥe",
+    "word": "retard",
+    "phonetic0": "ʁətaʁ",
+    "phonetic1": "ʁətaʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "继续"
+        "pos": "n.m.",
+        "cn": "推迟"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le retard de la livraison a obligé toute l'équipe à changer son planning.",
+        "cn": "交货延迟迫使整个团队修改了计划。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5325,16 +6535,21 @@
   },
   {
     "id": 243,
-    "word": "retard",
-    "phonetic0": "ʁətaʁ",
-    "phonetic1": "ʁətaʁ",
+    "word": "résoudre",
+    "phonetic0": "ʁezudʁ",
+    "phonetic1": "ʁezudʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "推迟"
+        "pos": "v.",
+        "cn": "解决"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le directeur espère résoudre ce problème avant la fin de la semaine prochaine.",
+        "cn": "经理希望在下周结束前解决这个问题。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5347,16 +6562,21 @@
   },
   {
     "id": 244,
-    "word": "résoudre",
-    "phonetic0": "ʁezudʁ",
-    "phonetic1": "ʁezudʁ",
+    "word": "reposer",
+    "phonetic0": "ʁəpoze",
+    "phonetic1": "ʁəpoze",
     "trans": [
       {
         "pos": "v.",
-        "cn": "解决"
+        "cn": "休息"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après trois heures de réunion, nous avons besoin de nous reposer un peu.",
+        "cn": "开了三个小时的会，我们需要稍微休息一下。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5369,16 +6589,21 @@
   },
   {
     "id": 245,
-    "word": "reposer",
-    "phonetic0": "ʁəpoze",
-    "phonetic1": "ʁəpoze",
+    "word": "solution",
+    "phonetic0": "solysjɔ̃",
+    "phonetic1": "solysjɔ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "休息"
+        "pos": "n.f.",
+        "cn": "解决办法"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Personne n'a encore trouvé une solution simple à ce problème compliqué.",
+        "cn": "还没有人给这个复杂的问题找到简单的解决办法。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5391,16 +6616,21 @@
   },
   {
     "id": 246,
-    "word": "solution",
-    "phonetic0": "solysjɔ̃",
-    "phonetic1": "solysjɔ̃",
+    "word": "question",
+    "phonetic0": "kɛstjɔ̃",
+    "phonetic1": "kɛstjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "解决办法"
+        "cn": "问题"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette question est difficile, mais je pense que nous pouvons y répondre.",
+        "cn": "这个问题很难，不过我认为我们能回答。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5413,16 +6643,21 @@
   },
   {
     "id": 247,
-    "word": "question",
-    "phonetic0": "kɛstjɔ̃",
-    "phonetic1": "kɛstjɔ̃",
+    "word": "délicat",
+    "phonetic0": "delika",
+    "phonetic1": "delika",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "问题"
+        "pos": "adj.",
+        "cn": "难处理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "C'est un dossier très délicat, il faut le traiter avec beaucoup de prudence.",
+        "cn": "这是件很棘手的案子，处理时必须非常谨慎。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5435,16 +6670,21 @@
   },
   {
     "id": 248,
-    "word": "délicat",
-    "phonetic0": "delika",
-    "phonetic1": "delika",
+    "word": "enquête",
+    "phonetic0": "ɑ̃kɛt",
+    "phonetic1": "ɑ̃kɛt",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "难处理的"
+        "pos": "n.f.",
+        "cn": "询盘"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'acheteur étranger nous a envoyé une enquête pour nos nouveaux produits.",
+        "cn": "那位外国买方就我们的新产品向我们发来了询盘。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5457,16 +6697,21 @@
   },
   {
     "id": 249,
-    "word": "enquête",
-    "phonetic0": "ɑ̃kɛt",
-    "phonetic1": "ɑ̃kɛt",
+    "word": "cotation",
+    "phonetic0": "kotasjɔ̃",
+    "phonetic1": "kotasjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "询盘"
+        "cn": "报价单"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le service commercial prépare la cotation avant de répondre au client.",
+        "cn": "商务部门在回复客户之前先准备报价单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5479,16 +6724,21 @@
   },
   {
     "id": 250,
-    "word": "cotation",
-    "phonetic0": "kotasjɔ̃",
-    "phonetic1": "kotasjɔ̃",
+    "word": "offre",
+    "phonetic0": "ɔfʁ",
+    "phonetic1": "ɔfʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "报价单"
+        "cn": "开价"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur offre est intéressante, mais nous voudrions encore discuter du prix.",
+        "cn": "他们的开价很有吸引力，但我们还想再谈谈价格。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5501,16 +6751,21 @@
   },
   {
     "id": 251,
-    "word": "offre",
-    "phonetic0": "ɔfʁ",
-    "phonetic1": "ɔfʁ",
+    "word": "rabais",
+    "phonetic0": "ʁabɛ",
+    "phonetic1": "ʁabɛ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "开价"
+        "pos": "n.m.",
+        "cn": "折扣"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le vendeur nous a accordé un rabais de cinq pour cent.",
+        "cn": "卖方给了我们百分之五的折扣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5523,16 +6778,21 @@
   },
   {
     "id": 252,
-    "word": "rabais",
-    "phonetic0": "ʁabɛ",
-    "phonetic1": "ʁabɛ",
+    "word": "remises",
+    "phonetic0": "ʁəmiz",
+    "phonetic1": "ʁəmiz",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "折扣"
+        "pos": "v.",
+        "cn": "折扣率"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pour les grosses commandes, ce magasin accorde toujours des remises assez importantes.",
+        "cn": "对于大批量订单，这家商店总是给出相当大的折扣。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5545,16 +6805,21 @@
   },
   {
     "id": 253,
-    "word": "remises",
-    "phonetic0": "ʁəmiz",
-    "phonetic1": "ʁəmiz",
+    "word": "enchérir",
+    "phonetic0": "ɑ̃ʃeʁiʁ",
+    "phonetic1": "ɑ̃ʃeʁiʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "折扣率"
+        "cn": "出价"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Plusieurs clients ont commencé à enchérir sur ce vieux tableau rare.",
+        "cn": "好几位客户开始为这幅罕见的古画出价。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5567,16 +6832,21 @@
   },
   {
     "id": 254,
-    "word": "enchérir",
-    "phonetic0": "ɑ̃ʃeʁiʁ",
-    "phonetic1": "ɑ̃ʃeʁiʁ",
+    "word": "révoquer",
+    "phonetic0": "ʁevoke",
+    "phonetic1": "ʁevoke",
     "trans": [
       {
         "pos": "v.",
-        "cn": "出价"
+        "cn": "撤销"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La direction a décidé de révoquer cet accord signé trop vite.",
+        "cn": "领导层决定撤销这份签得太仓促的协议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5589,16 +6859,21 @@
   },
   {
     "id": 255,
-    "word": "révoquer",
-    "phonetic0": "ʁevoke",
-    "phonetic1": "ʁevoke",
+    "word": "validité",
+    "phonetic0": "validite",
+    "phonetic1": "validite",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "撤销"
+        "pos": "n.f.",
+        "cn": "有效期"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La validité de cette offre est strictement limitée à trente jours.",
+        "cn": "这份报价的有效期严格限定为三十天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5611,16 +6886,21 @@
   },
   {
     "id": 256,
-    "word": "validité",
-    "phonetic0": "validite",
-    "phonetic1": "validite",
+    "word": "profit",
+    "phonetic0": "pʁofi",
+    "phonetic1": "pʁofi",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "有效期"
+        "pos": "n.m.",
+        "cn": "利益"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il travaille énormément, mais toujours au profit de son entreprise familiale.",
+        "cn": "他工作非常卖力，但始终是为了自己家族企业的利益。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5633,16 +6913,21 @@
   },
   {
     "id": 257,
-    "word": "profit",
-    "phonetic0": "pʁofi",
-    "phonetic1": "pʁofi",
+    "word": "entrepôt",
+    "phonetic0": "ɑ̃tʁəpo",
+    "phonetic1": "ɑ̃tʁəpo",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "利益"
+        "cn": "仓库"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Toutes les marchandises sont arrivées à l'entrepôt hier vers trois heures.",
+        "cn": "所有货物昨天下午三点左右运到了仓库。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5655,16 +6940,21 @@
   },
   {
     "id": 258,
-    "word": "entrepôt",
-    "phonetic0": "ɑ̃tʁəpo",
-    "phonetic1": "ɑ̃tʁəpo",
+    "word": "humide",
+    "phonetic0": "ymid",
+    "phonetic1": "ymid",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "仓库"
+        "pos": "adj.",
+        "cn": "潮湿的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cet entrepôt est trop humide pour y stocker des marchandises fragiles.",
+        "cn": "这个仓库太潮湿，不能存放易损货物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5677,16 +6967,21 @@
   },
   {
     "id": 259,
-    "word": "humide",
-    "phonetic0": "ymid",
-    "phonetic1": "ymid",
+    "word": "transporteur",
+    "phonetic0": "tʁɑ̃spɔʁtœʁ",
+    "phonetic1": "tʁɑ̃spɔʁtœʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "潮湿的"
+        "cn": "输送机"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le transporteur à bande s'est arrêté brusquement à cause d'une panne.",
+        "cn": "传送带突然因为故障停了下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5699,16 +6994,21 @@
   },
   {
     "id": 260,
-    "word": "transporteur",
-    "phonetic0": "tʁɑ̃spɔʁtœʁ",
-    "phonetic1": "tʁɑ̃spɔʁtœʁ",
+    "word": "chaîne",
+    "phonetic0": "ʃɛn",
+    "phonetic1": "ʃɛn",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "输送机"
+        "pos": "n.f.",
+        "cn": "链条"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une chaîne de cette machine doit être changée tous les six mois.",
+        "cn": "这台机器上的一条链条必须每六个月更换一次。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5721,16 +7021,21 @@
   },
   {
     "id": 261,
-    "word": "chaîne",
-    "phonetic0": "ʃɛn",
-    "phonetic1": "ʃɛn",
+    "word": "cycle",
+    "phonetic0": "sikl",
+    "phonetic1": "sikl",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "链条"
+        "pos": "n.m.",
+        "cn": "周期"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le cycle de production a été raccourci grâce à de nouvelles machines.",
+        "cn": "由于添置了新机器，生产周期缩短了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5743,16 +7048,21 @@
   },
   {
     "id": 262,
-    "word": "cycle",
-    "phonetic0": "sikl",
-    "phonetic1": "sikl",
+    "word": "détacher",
+    "phonetic0": "detaʃe",
+    "phonetic1": "detaʃe",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "周期"
+        "pos": "v.",
+        "cn": "卸下"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Deux ouvriers ont aidé le chauffeur à détacher les caisses du camion.",
+        "cn": "两名工人帮司机把箱子从卡车上卸下来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5765,16 +7075,21 @@
   },
   {
     "id": 263,
-    "word": "détacher",
-    "phonetic0": "detaʃe",
-    "phonetic1": "detaʃe",
+    "word": "pencher",
+    "phonetic0": "pɑ̃ʃe",
+    "phonetic1": "pɑ̃ʃe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "卸下"
+        "cn": "弯腰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a dû se pencher pour ramasser le colis tombé par terre.",
+        "cn": "他不得不弯腰去捡掉在地上的包裹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5787,16 +7102,21 @@
   },
   {
     "id": 264,
-    "word": "pencher",
-    "phonetic0": "pɑ̃ʃe",
-    "phonetic1": "pɑ̃ʃe",
+    "word": "porteur",
+    "phonetic0": "pɔʁtœʁ",
+    "phonetic1": "pɔʁtœʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "弯腰"
+        "pos": "adj.",
+        "cn": "搬运工"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le porteur de l'hôtel a monté nos valises jusqu'au troisième étage.",
+        "cn": "酒店的搬运工把我们的行李箱搬到了三楼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5809,16 +7129,21 @@
   },
   {
     "id": 265,
-    "word": "porteur",
-    "phonetic0": "pɔʁtœʁ",
-    "phonetic1": "pɔʁtœʁ",
+    "word": "aérée",
+    "phonetic0": "aeʁe",
+    "phonetic1": "aeʁe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "搬运工"
+        "pos": "v.",
+        "cn": "通风的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette salle est claire et bien aérée, on y travaille agréablement.",
+        "cn": "这间大厅明亮又通风良好，在里面工作很舒服。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5831,16 +7156,21 @@
   },
   {
     "id": 266,
-    "word": "aérée",
-    "phonetic0": "aeʁe",
-    "phonetic1": "aeʁe",
+    "word": "ventiler",
+    "phonetic0": "vɑ̃tile",
+    "phonetic1": "vɑ̃tile",
     "trans": [
       {
         "pos": "v.",
-        "cn": "通风的"
+        "cn": "使通风"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut ventiler la pièce chaque matin avant de commencer le travail.",
+        "cn": "每天早上开始工作前都得给房间通风。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5853,16 +7183,21 @@
   },
   {
     "id": 267,
-    "word": "ventiler",
-    "phonetic0": "vɑ̃tile",
-    "phonetic1": "vɑ̃tile",
+    "word": "pauvrement",
+    "phonetic0": "povʁəmɑ̃",
+    "phonetic1": "povʁəmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "使通风"
+        "pos": "adv.",
+        "cn": "不良地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette pièce est pauvrement éclairée, ce qui fatigue vite les yeux.",
+        "cn": "这个房间照明不良，眼睛很快就累了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5875,16 +7210,21 @@
   },
   {
     "id": 268,
-    "word": "pauvrement",
-    "phonetic0": "povʁəmɑ̃",
-    "phonetic1": "povʁəmɑ̃",
+    "word": "déplacer",
+    "phonetic0": "deplase",
+    "phonetic1": "deplase",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "不良地"
+        "pos": "v.",
+        "cn": "挪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous devons déplacer tous ces cartons pour laisser passer le chariot.",
+        "cn": "我们得把这些纸箱都挪开，好让推车过去。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5897,16 +7237,21 @@
   },
   {
     "id": 269,
-    "word": "déplacer",
-    "phonetic0": "deplase",
-    "phonetic1": "deplase",
+    "word": "transposer",
+    "phonetic0": "tʁɑ̃spoze",
+    "phonetic1": "tʁɑ̃spoze",
     "trans": [
       {
         "pos": "v.",
-        "cn": "挪"
+        "cn": "移动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'équipe a transposé les meubles dans la nouvelle salle de réunion.",
+        "cn": "团队把家具搬到了新的会议室里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5919,16 +7264,21 @@
   },
   {
     "id": 270,
-    "word": "transposer",
-    "phonetic0": "tʁɑ̃spoze",
-    "phonetic1": "tʁɑ̃spoze",
+    "word": "commande",
+    "phonetic0": "komɑ̃d",
+    "phonetic1": "komɑ̃d",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "移动"
+        "pos": "n.f.",
+        "cn": "订单"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous avons reçu hier une grosse commande d'un client allemand.",
+        "cn": "我们昨天收到了一位德国客户的大订单。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5941,16 +7291,21 @@
   },
   {
     "id": 271,
-    "word": "commande",
-    "phonetic0": "komɑ̃d",
-    "phonetic1": "komɑ̃d",
+    "word": "tonne",
+    "phonetic0": "tɔn",
+    "phonetic1": "tɔn",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "订单"
+        "cn": "吨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce gros camion peut transporter jusqu'à vingt tonnes de marchandises.",
+        "cn": "这辆大卡车最多能运二十吨货物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5963,16 +7318,21 @@
   },
   {
     "id": 272,
-    "word": "tonne",
-    "phonetic0": "tɔn",
-    "phonetic1": "tɔn",
+    "word": "suprême",
+    "phonetic0": "sypʁɛm",
+    "phonetic1": "sypʁɛm",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "吨"
+        "pos": "adj.",
+        "cn": "最重要的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Pour lui, la sécurité des ouvriers est la priorité suprême de l'usine.",
+        "cn": "在他看来，工人的安全是工厂最重要的头等大事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -5985,16 +7345,21 @@
   },
   {
     "id": 273,
-    "word": "suprême",
-    "phonetic0": "sypʁɛm",
-    "phonetic1": "sypʁɛm",
+    "word": "prédominer",
+    "phonetic0": "pʁedomine",
+    "phonetic1": "pʁedomine",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "最重要的"
+        "pos": "v.",
+        "cn": "占优势"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Dans cette région du sud, les petites entreprises familiales prédominent encore largement.",
+        "cn": "在这个南部地区，家庭小企业仍然占绝对优势。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6007,16 +7372,21 @@
   },
   {
     "id": 274,
-    "word": "prédominer",
-    "phonetic0": "pʁedomine",
-    "phonetic1": "pʁedomine",
+    "word": "répéter",
+    "phonetic0": "ʁepete",
+    "phonetic1": "ʁepete",
     "trans": [
       {
         "pos": "v.",
-        "cn": "占优势"
+        "cn": "重复"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client nous a demandé de répéter le prix une deuxième fois.",
+        "cn": "客户要求我们把价格再重复一遍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6029,16 +7399,21 @@
   },
   {
     "id": 275,
-    "word": "répéter",
-    "phonetic0": "ʁepete",
-    "phonetic1": "ʁepete",
+    "word": "reconnaître",
+    "phonetic0": "ʁəkonɛtʁ",
+    "phonetic1": "ʁəkonɛtʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "重复"
+        "cn": "确认"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Je dois reconnaître que votre argument est tout à fait juste.",
+        "cn": "我得承认你的论据完全正确。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6051,16 +7426,21 @@
   },
   {
     "id": 276,
-    "word": "reconnaître",
-    "phonetic0": "ʁəkonɛtʁ",
-    "phonetic1": "ʁəkonɛtʁ",
+    "word": "confirmer",
+    "phonetic0": "kɔ̃fiʁme",
+    "phonetic1": "kɔ̃fiʁme",
     "trans": [
       {
         "pos": "v.",
         "cn": "确认"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fournisseur a enfin confirmé la date de livraison par courriel.",
+        "cn": "供货商终于通过邮件确认了交货日期。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6073,16 +7453,21 @@
   },
   {
     "id": 277,
-    "word": "confirmer",
-    "phonetic0": "kɔ̃fiʁme",
-    "phonetic1": "kɔ̃fiʁme",
+    "word": "acheteur",
+    "phonetic0": "aʃətœʁ",
+    "phonetic1": "aʃətœʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "确认"
+        "pos": "n.m.",
+        "cn": "买方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'acheteur demande encore une petite réduction avant de signer le contrat.",
+        "cn": "买方在签合同前还要求再降一点价。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6095,16 +7480,21 @@
   },
   {
     "id": 278,
-    "word": "acheteur",
-    "phonetic0": "aʃətœʁ",
-    "phonetic1": "aʃətœʁ",
+    "word": "vendeurs",
+    "phonetic0": "vɑ̃dœʁ",
+    "phonetic1": "vɑ̃dœʁ",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "买方"
+        "cn": "卖方"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les vendeurs ont accepté de baisser le prix de trois pour cent.",
+        "cn": "卖方同意把价格降低百分之三。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6117,16 +7507,21 @@
   },
   {
     "id": 279,
-    "word": "vendeurs",
-    "phonetic0": "vɑ̃dœʁ",
-    "phonetic1": "vɑ̃dœʁ",
+    "word": "valeur",
+    "phonetic0": "valœʁ",
+    "phonetic1": "valœʁ",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "卖方"
+        "pos": "n.f.",
+        "cn": "价值"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce vieux meuble a beaucoup plus de valeur qu'on ne le pense.",
+        "cn": "这件旧家具的价值比人们想的要高得多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6139,16 +7534,21 @@
   },
   {
     "id": 280,
-    "word": "valeur",
-    "phonetic0": "valœʁ",
-    "phonetic1": "valœʁ",
+    "word": "total",
+    "phonetic0": "total",
+    "phonetic1": "total",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "价值"
+        "pos": "adj.",
+        "cn": "总的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le coût total du transport dépasse largement le budget prévu.",
+        "cn": "运输总成本远远超出了预算。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6161,16 +7561,21 @@
   },
   {
     "id": 281,
-    "word": "total",
-    "phonetic0": "total",
-    "phonetic1": "total",
+    "word": "dédommager",
+    "phonetic0": "dedomaʒe",
+    "phonetic1": "dedomaʒe",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "总的"
+        "pos": "v.",
+        "cn": "赔偿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La société doit dédommager le client pour toutes les marchandises abîmées.",
+        "cn": "公司必须就所有受损货物赔偿客户。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6183,16 +7588,21 @@
   },
   {
     "id": 282,
-    "word": "dédommager",
-    "phonetic0": "dedomaʒe",
-    "phonetic1": "dedomaʒe",
+    "word": "arbitrer",
+    "phonetic0": "aʁbitʁe",
+    "phonetic1": "aʁbitʁe",
     "trans": [
       {
         "pos": "v.",
-        "cn": "赔偿"
+        "cn": "仲裁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un expert indépendant a été choisi pour arbitrer ce conflit commercial.",
+        "cn": "一位独立专家被选来仲裁这场商业纠纷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6205,16 +7615,21 @@
   },
   {
     "id": 283,
-    "word": "arbitrer",
-    "phonetic0": "aʁbitʁe",
-    "phonetic1": "aʁbitʁe",
+    "word": "remettre",
+    "phonetic0": "ʁəmɛtʁ",
+    "phonetic1": "ʁəmɛtʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "仲裁"
+        "cn": "递交"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Veuillez remettre ce dossier important au directeur avant vendredi midi.",
+        "cn": "请在周五中午前把这份重要文件交给经理。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6227,16 +7642,21 @@
   },
   {
     "id": 284,
-    "word": "remettre",
-    "phonetic0": "ʁəmɛtʁ",
-    "phonetic1": "ʁəmɛtʁ",
+    "word": "violer",
+    "phonetic0": "vjole",
+    "phonetic1": "vjole",
     "trans": [
       {
         "pos": "v.",
-        "cn": "递交"
+        "cn": "违反"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En livrant si tard, vous violez clairement les termes du contrat.",
+        "cn": "这么晚才交货，你们明显违反了合同条款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6249,16 +7669,21 @@
   },
   {
     "id": 285,
-    "word": "violer",
-    "phonetic0": "vjole",
-    "phonetic1": "vjole",
+    "word": "stipuler",
+    "phonetic0": "stipyle",
+    "phonetic1": "stipyle",
     "trans": [
       {
         "pos": "v.",
-        "cn": "违反"
+        "cn": "规定"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le contrat stipule que le paiement doit être fait en dollars.",
+        "cn": "合同规定付款须以美元进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6271,16 +7696,21 @@
   },
   {
     "id": 286,
-    "word": "stipuler",
-    "phonetic0": "stipyle",
-    "phonetic1": "stipyle",
+    "word": "sommaire",
+    "phonetic0": "somɛʁ",
+    "phonetic1": "somɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "规定"
+        "pos": "adj.",
+        "cn": "目录"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sommaire de ce long rapport tient sur une seule page.",
+        "cn": "这份长篇报告的目录只有一页。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6293,16 +7723,21 @@
   },
   {
     "id": 287,
-    "word": "sommaire",
-    "phonetic0": "somɛʁ",
-    "phonetic1": "somɛʁ",
+    "word": "commissionnaire",
+    "phonetic0": "komisjonɛʁ",
+    "phonetic1": "komisjonɛʁ",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "目录"
+        "pos": "n.",
+        "cn": "中介"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un commissionnaire local nous aide à trouver des acheteurs à l'étranger.",
+        "cn": "一位当地中介帮我们在国外找买家。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6315,16 +7750,21 @@
   },
   {
     "id": 288,
-    "word": "commissionnaire",
-    "phonetic0": "komisjonɛʁ",
-    "phonetic1": "komisjonɛʁ",
+    "word": "emballage",
+    "phonetic0": "ɑ̃balaʒ",
+    "phonetic1": "ɑ̃balaʒ",
     "trans": [
       {
-        "pos": "n.",
-        "cn": "中介"
+        "pos": "n.m.",
+        "cn": "包装"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bon emballage doit protéger les produits fragiles pendant le transport.",
+        "cn": "好的包装必须在运输途中保护好易碎产品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6337,16 +7777,21 @@
   },
   {
     "id": 289,
-    "word": "emballage",
-    "phonetic0": "ɑ̃balaʒ",
-    "phonetic1": "ɑ̃balaʒ",
+    "word": "économique",
+    "phonetic0": "ekonomik",
+    "phonetic1": "ekonomik",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "包装"
+        "pos": "adj.",
+        "cn": "经济的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette solution est plus économique que celle que nous avions choisie.",
+        "cn": "这个方案比我们原先选的更经济。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6359,16 +7804,21 @@
   },
   {
     "id": 290,
-    "word": "économique",
-    "phonetic0": "ekonomik",
-    "phonetic1": "ekonomik",
+    "word": "durable",
+    "phonetic0": "dyʁabl",
+    "phonetic1": "dyʁabl",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "经济的"
+        "cn": "耐久的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous cherchons vraiment un emballage plus durable pour réduire nos déchets.",
+        "cn": "我们确实在寻找更耐用的包装来减少垃圾。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6381,16 +7831,21 @@
   },
   {
     "id": 291,
-    "word": "durable",
-    "phonetic0": "dyʁabl",
-    "phonetic1": "dyʁabl",
+    "word": "évidemment",
+    "phonetic0": "evidamɑ̃",
+    "phonetic1": "evidamɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "耐久的"
+        "pos": "adv.",
+        "cn": "明显地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Évidemment, ce prix ne comprend pas encore les frais de transport.",
+        "cn": "显然，这个价格还不包括运输费用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6403,16 +7858,21 @@
   },
   {
     "id": 292,
-    "word": "évidemment",
-    "phonetic0": "evidamɑ̃",
-    "phonetic1": "evidamɑ̃",
+    "word": "subir",
+    "phonetic0": "sybiʁ",
+    "phonetic1": "sybiʁ",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "明显地"
+        "pos": "v.",
+        "cn": "承受"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les clients ne veulent plus subir de nouveaux retards de livraison.",
+        "cn": "客户不愿再承受新的交货延误。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6425,16 +7885,21 @@
   },
   {
     "id": 293,
-    "word": "subir",
-    "phonetic0": "sybiʁ",
-    "phonetic1": "sybiʁ",
+    "word": "segmentaire",
+    "phonetic0": "sɛgmɑ̃tɛʁ",
+    "phonetic1": "sɛgmɑ̃tɛʁ",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "承受"
+        "pos": "adj.",
+        "cn": "部分的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette hausse segmentaire des prix ne touche pour l'instant que deux produits.",
+        "cn": "这次部分涨价目前只涉及两种产品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6447,16 +7912,21 @@
   },
   {
     "id": 294,
-    "word": "segmentaire",
-    "phonetic0": "sɛgmɑ̃tɛʁ",
-    "phonetic1": "sɛgmɑ̃tɛʁ",
+    "word": "exactement",
+    "phonetic0": "ɛgzaktəmɑ̃",
+    "phonetic1": "ɛgzaktəmɑ̃",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "部分的"
+        "pos": "adv.",
+        "cn": "准时地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La réunion du lundi commence toujours à neuf heures exactement.",
+        "cn": "周一的会议总是在九点准时开始。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6469,16 +7939,21 @@
   },
   {
     "id": 295,
-    "word": "exactement",
-    "phonetic0": "ɛgzaktəmɑ̃",
-    "phonetic1": "ɛgzaktəmɑ̃",
+    "word": "cargo",
+    "phonetic0": "kaʁgo",
+    "phonetic1": "kaʁgo",
     "trans": [
       {
-        "pos": "adv.",
-        "cn": "准时地"
+        "pos": "n.m.",
+        "cn": "货船"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un cargo chargé de coton est arrivé au port ce matin.",
+        "cn": "一艘装满棉花的货船今天早上到港了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6491,16 +7966,21 @@
   },
   {
     "id": 296,
-    "word": "cargo",
-    "phonetic0": "kaʁgo",
-    "phonetic1": "kaʁgo",
+    "word": "sujétion",
+    "phonetic0": "syʒesjɔ̃",
+    "phonetic1": "syʒesjɔ̃",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "货船"
+        "pos": "n.f.",
+        "cn": "不方便"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Travailler chaque dimanche est une vraie sujétion pour les employés.",
+        "cn": "每个星期天都上班对员工来说确实很不方便。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6513,16 +7993,21 @@
   },
   {
     "id": 297,
-    "word": "sujétion",
-    "phonetic0": "syʒesjɔ̃",
-    "phonetic1": "syʒesjɔ̃",
+    "word": "mesure",
+    "phonetic0": "məzyʁ",
+    "phonetic1": "məzyʁ",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "不方便"
+        "cn": "措施"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a pris des mesures pour soutenir les petites entreprises.",
+        "cn": "政府采取了措施扶持小企业。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6535,16 +8020,21 @@
   },
   {
     "id": 298,
-    "word": "mesure",
-    "phonetic0": "məzyʁ",
-    "phonetic1": "məzyʁ",
+    "word": "arrestation",
+    "phonetic0": "aʁɛstasjɔ̃",
+    "phonetic1": "aʁɛstasjɔ̃",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "措施"
+        "cn": "阻止"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'arrestation du camion par la douane a surpris toute l'équipe.",
+        "cn": "海关扣下卡车一事让整个团队都吃了一惊。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6557,16 +8047,21 @@
   },
   {
     "id": 299,
-    "word": "arrestation",
-    "phonetic0": "aʁɛstasjɔ̃",
-    "phonetic1": "aʁɛstasjɔ̃",
+    "word": "discordance",
+    "phonetic0": "diskɔʁdɑ̃s",
+    "phonetic1": "diskɔʁdɑ̃s",
     "trans": [
       {
         "pos": "n.f.",
-        "cn": "阻止"
+        "cn": "不一致"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il y a une discordance entre le bon de commande et la facture.",
+        "cn": "订单和发票之间存在不一致。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6579,16 +8074,21 @@
   },
   {
     "id": 300,
-    "word": "discordance",
-    "phonetic0": "diskɔʁdɑ̃s",
-    "phonetic1": "diskɔʁdɑ̃s",
+    "word": "reproduire",
+    "phonetic0": "ʁəpʁodɥiʁ",
+    "phonetic1": "ʁəpʁodɥiʁ",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "不一致"
+        "pos": "v.",
+        "cn": "再次发生"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous espérons que ce genre d'erreur ne se reproduira plus.",
+        "cn": "我们希望这类错误不会再发生。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6601,16 +8101,21 @@
   },
   {
     "id": 301,
-    "word": "reproduire",
-    "phonetic0": "ʁəpʁodɥiʁ",
-    "phonetic1": "ʁəpʁodɥiʁ",
+    "word": "indemniser",
+    "phonetic0": "ɛ̃dɛmnize",
+    "phonetic1": "ɛ̃dɛmnize",
     "trans": [
       {
         "pos": "v.",
-        "cn": "再次发生"
+        "cn": "赔偿"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'assurance va enfin indemniser l'entreprise pour la perte des marchandises.",
+        "cn": "保险公司终于要就货物损失赔偿这家企业了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6623,16 +8128,21 @@
   },
   {
     "id": 302,
-    "word": "indemniser",
-    "phonetic0": "ɛ̃dɛmnize",
-    "phonetic1": "ɛ̃dɛmnize",
+    "word": "vendre",
+    "phonetic0": "vɑ̃dʁ",
+    "phonetic1": "vɑ̃dʁ",
     "trans": [
       {
         "pos": "v.",
-        "cn": "赔偿"
+        "cn": "销售"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Nous vendons surtout nos produits en ligne depuis deux ans déjà.",
+        "cn": "两年来我们主要在网上销售产品。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6645,16 +8155,21 @@
   },
   {
     "id": 303,
-    "word": "vendre",
-    "phonetic0": "vɑ̃dʁ",
-    "phonetic1": "vɑ̃dʁ",
+    "word": "garantie",
+    "phonetic0": "gaʁɑ̃ti",
+    "phonetic1": "gaʁɑ̃ti",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "销售"
+        "pos": "n.f.",
+        "cn": "保修"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce téléphone portable reste encore sous garantie pendant six mois.",
+        "cn": "这部手机还能享受六个月的保修。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6667,16 +8182,21 @@
   },
   {
     "id": 304,
-    "word": "garantie",
-    "phonetic0": "gaʁɑ̃ti",
-    "phonetic1": "gaʁɑ̃ti",
+    "word": "manquant",
+    "phonetic0": "mɑ̃kɑ̃",
+    "phonetic1": "mɑ̃kɑ̃",
     "trans": [
       {
-        "pos": "n.f.",
-        "cn": "保修"
+        "pos": "adj.",
+        "cn": "缺少的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le livreur a signalé deux colis manquants dans la livraison d'hier.",
+        "cn": "送货员报告昨天的送货中有两件包裹缺失。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6689,16 +8209,21 @@
   },
   {
     "id": 305,
-    "word": "manquant",
-    "phonetic0": "mɑ̃kɑ̃",
-    "phonetic1": "mɑ̃kɑ̃",
+    "word": "enquêter",
+    "phonetic0": "ɑ̃kete",
+    "phonetic1": "ɑ̃kete",
     "trans": [
       {
-        "pos": "adj.",
-        "cn": "缺少的"
+        "pos": "v.",
+        "cn": "调查"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a commencé à enquêter sur la disparition des marchandises.",
+        "cn": "警方已开始调查货物失踪一事。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6711,16 +8236,21 @@
   },
   {
     "id": 306,
-    "word": "enquêter",
-    "phonetic0": "ɑ̃kete",
-    "phonetic1": "ɑ̃kete",
+    "word": "remboursement",
+    "phonetic0": "ʁɑ̃buʁsəmɑ̃",
+    "phonetic1": "ʁɑ̃buʁsəmɑ̃",
     "trans": [
       {
-        "pos": "v.",
-        "cn": "调查"
+        "pos": "n.m.",
+        "cn": "退款"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le client attend toujours le remboursement complet de sa commande annulée.",
+        "cn": "客户仍在等待那笔被取消订单的全额退款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6733,16 +8263,21 @@
   },
   {
     "id": 307,
-    "word": "remboursement",
-    "phonetic0": "ʁɑ̃buʁsəmɑ̃",
-    "phonetic1": "ʁɑ̃buʁsəmɑ̃",
+    "word": "récépissé",
+    "phonetic0": "ʁesepise",
+    "phonetic1": "ʁesepise",
     "trans": [
       {
         "pos": "n.m.",
-        "cn": "退款"
+        "cn": "收据"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Gardez bien ce récépissé, il prouve que vous avez payé.",
+        "cn": "请保管好这张收据，它能证明你付过款。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6755,16 +8290,21 @@
   },
   {
     "id": 308,
-    "word": "récépissé",
-    "phonetic0": "ʁesepise",
-    "phonetic1": "ʁesepise",
+    "word": "réparable",
+    "phonetic0": "ʁepaʁabl",
+    "phonetic1": "ʁepaʁabl",
     "trans": [
       {
-        "pos": "n.m.",
-        "cn": "收据"
+        "pos": "adj.",
+        "cn": "可修理的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette machine est encore réparable, il ne faut pas la jeter.",
+        "cn": "这台机器还能修，别把它扔掉。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6777,16 +8317,21 @@
   },
   {
     "id": 309,
-    "word": "réparable",
-    "phonetic0": "ʁepaʁabl",
-    "phonetic1": "ʁepaʁabl",
+    "word": "réparateur",
+    "phonetic0": "ʁepaʁatœʁ",
+    "phonetic1": "ʁepaʁatœʁ",
     "trans": [
       {
         "pos": "adj.",
-        "cn": "可修理的"
+        "cn": "修理工"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le réparateur est venu ce matin pour remettre la machine en marche.",
+        "cn": "修理工今天早上来把机器重新修好了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -6799,28 +8344,6 @@
   },
   {
     "id": 310,
-    "word": "réparateur",
-    "phonetic0": "ʁepaʁatœʁ",
-    "phonetic1": "ʁepaʁatœʁ",
-    "trans": [
-      {
-        "pos": "adj.",
-        "cn": "修理工"
-      }
-    ],
-    "sentences": [],
-    "phrases": [],
-    "synos": [],
-    "etymology": [],
-    "relWords": {
-      "root": "",
-      "rels": []
-    },
-    "inflections": null,
-    "langType": "fr"
-  },
-  {
-    "id": 311,
     "word": "outil",
     "phonetic0": "uti",
     "phonetic1": "uti",
@@ -6830,7 +8353,12 @@
         "cn": "工具"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un bon outil de travail doit être solide et facile à utiliser.",
+        "cn": "好的工具必须结实耐用、用起来顺手。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],

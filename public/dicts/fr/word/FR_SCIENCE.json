@@ -10,7 +10,12 @@
         "cn": "科学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La science moderne nous aide à mieux comprendre le climat et à limiter les dégâts.",
+        "cn": "现代科学帮助我们更好地理解气候并减少损害。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -32,7 +37,12 @@
         "cn": "科学地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce phénomène a été scientifiquement démontré par plusieurs laboratoires européens ces dernières années.",
+        "cn": "近年来，多家欧洲实验室已在科学上证实了这一现象。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -54,7 +64,12 @@
         "cn": "工程学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'ingénierie climatique suscite des débats difficiles parmi les chercheurs du monde entier.",
+        "cn": "气候工程学在全世界的研究者中引发了艰难的争论。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -76,7 +91,12 @@
         "cn": "科学论派"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La scientologie reste un mouvement très controversé dans plusieurs pays européens aujourd'hui.",
+        "cn": "科学论派如今在多个欧洲国家仍是一个备受争议的运动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -98,7 +118,12 @@
         "cn": "纳米"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces nouveaux capteurs mesurent des variations de température à quelques nanomètres près.",
+        "cn": "这些新型传感器能测量到几纳米量级的温度变化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -120,7 +145,12 @@
         "cn": "理论"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette théorie explique comment les gaz polluants se déplacent lentement dans l'atmosphère.",
+        "cn": "这一理论解释了污染气体如何在大气中缓慢移动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -142,7 +172,12 @@
         "cn": "有机的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les agriculteurs bio utilisent uniquement des engrais organiques dans leurs champs depuis des années.",
+        "cn": "这些有机农户多年来只在田里使用有机肥料。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -164,7 +199,12 @@
         "cn": "发现"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des chercheurs ont découvert une bactérie capable de détruire certains déchets plastiques.",
+        "cn": "研究人员发现了一种能分解某些塑料垃圾的细菌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -186,7 +226,12 @@
         "cn": "机器人"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce robot sous-marin explore les fonds marins afin d'évaluer la pollution.",
+        "cn": "这台水下机器人勘探海底，以评估污染状况。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -208,7 +253,12 @@
         "cn": "基因的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La modification génique des cultures pourrait réduire fortement l'usage des pesticides.",
+        "cn": "农作物的基因改造有可能大幅减少农药的使用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -230,7 +280,12 @@
         "cn": "变异"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une légère variation de température suffit à bouleverser tout cet écosystème fragile.",
+        "cn": "温度稍有变化，就足以打乱整个脆弱的生态系统。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -252,7 +307,12 @@
         "cn": "遗传学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La diversité génétique des espèces menacées est étudiée attentivement par les biologistes.",
+        "cn": "生物学家正在仔细研究濒危物种的遗传多样性。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -274,7 +334,12 @@
         "cn": "隐形的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette pollution invisible, présente partout, reste pourtant dangereuse pour les habitants des villes.",
+        "cn": "这种无处不在却看不见的污染，对城市居民依然有害。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -296,7 +361,12 @@
         "cn": "家谱"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il a reconstitué patiemment la généalogie de sa famille grâce aux archives locales.",
+        "cn": "他借助地方档案耐心地重建了家族谱系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -318,7 +388,12 @@
         "cn": "遗传"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'hérédité joue un rôle important dans l'apparition de certaines maladies chroniques.",
+        "cn": "遗传在某些慢性病的发生中起着重要作用。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -340,7 +415,12 @@
         "cn": "天生的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il serait naïf de croire que la technologie résoudra tous nos problèmes.",
+        "cn": "若以为技术能解决我们所有的问题，那就太天真了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -362,7 +442,12 @@
         "cn": "染色体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les chercheurs ont identifié le chromosome responsable de cette maladie génétique rare.",
+        "cn": "研究人员确认了导致这种罕见遗传病的染色体。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -384,7 +469,12 @@
         "cn": "基因型"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le génotype de ces plantes influence directement leur résistance à la sécheresse.",
+        "cn": "这些植物的基因型直接影响它们的抗旱能力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -406,7 +496,12 @@
         "cn": "移植"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le peuplement de cette forêt a beaucoup changé après les incendies répétés.",
+        "cn": "屡次火灾之后，这片森林的种群构成变化很大。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -428,7 +523,12 @@
         "cn": "重组"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les scientifiques tentent de reconstituer le climat ancien à partir des glaces.",
+        "cn": "科学家试图依据冰层重建古代气候。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -450,7 +550,12 @@
         "cn": "数码的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La transition numérique a réduit la consommation de papier dans beaucoup d'entreprises.",
+        "cn": "数字化转型减少了许多企业的纸张消耗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -472,7 +577,12 @@
         "cn": "连续的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Trois étés successifs de sécheresse ont presque épuisé les réserves d'eau.",
+        "cn": "连续三个干旱的夏天几乎耗尽了蓄水。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -494,7 +604,12 @@
         "cn": "记录"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les techniciens notent précisément chaque variation de température toutes les deux heures.",
+        "cn": "技术人员每两小时精确记录一次温度变化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -516,7 +631,12 @@
         "cn": "环境"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La protection de l'environnement exige des efforts communs de tous les pays.",
+        "cn": "保护环境需要所有国家的共同努力。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -538,7 +658,12 @@
         "cn": "改善"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce nouveau système a nettement amélioré la qualité de l'air en ville.",
+        "cn": "这套新系统明显改善了城市的空气质量。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -560,7 +685,12 @@
         "cn": "美化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La ville a planté des arbres pour embellir ses quartiers les plus pauvres.",
+        "cn": "市政府种树美化最贫困的街区。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -582,7 +712,12 @@
         "cn": "适应"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les agriculteurs doivent adapter leurs cultures au manque croissant d'eau chaque année.",
+        "cn": "农民必须让作物适应逐年加剧的缺水。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -604,7 +739,12 @@
         "cn": "保持"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Il faut maintenir la température du laboratoire entre quinze et vingt degrés.",
+        "cn": "必须把实验室的温度保持在十五到二十度之间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -626,7 +766,12 @@
         "cn": "植被"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La végétation de cette région a souffert d'une chaleur exceptionnelle cet été.",
+        "cn": "今年夏天，这个地区的植被因异常高温而受损。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -648,7 +793,12 @@
         "cn": "污染"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pollution de l'air provoque des maladies respiratoires chez les jeunes enfants.",
+        "cn": "空气污染使幼儿患上呼吸道疾病。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -670,7 +820,12 @@
         "cn": "污染"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La contamination des nappes phréatiques inquiète sérieusement les habitants depuis plusieurs mois.",
+        "cn": "地下水层的污染让居民们几个月来十分担忧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -692,7 +847,12 @@
         "cn": "视觉上的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'impact visuel de ces grandes éoliennes divise les habitants du village.",
+        "cn": "这些大型风机的视觉影响让村民意见分裂。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -714,7 +874,12 @@
         "cn": "大气的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La pression atmosphérique baisse rapidement avant l'arrivée de la tempête annoncée.",
+        "cn": "预报的风暴来临前，大气压迅速下降。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -736,7 +901,12 @@
         "cn": "污点"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une tache sombre sur le sable révèle une fuite de pétrole sous-marine.",
+        "cn": "沙滩上的一块深色污迹暴露了海底石油泄漏。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -758,7 +928,12 @@
         "cn": "灾难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce désastre écologique a détruit des kilomètres de côtes et de forêts.",
+        "cn": "这场生态灾难摧毁了数公里的海岸和森林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -780,7 +955,12 @@
         "cn": "灾难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La catastrophe a touché des milliers de familles vivant près du fleuve.",
+        "cn": "这场灾难波及了数千户住在河边的家庭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -802,7 +982,12 @@
         "cn": "灾难性的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les effets désastreux de cette sécheresse se feront sentir pendant des années.",
+        "cn": "这场干旱的灾难性后果将持续多年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -824,7 +1009,12 @@
         "cn": "灾难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le malheur a frappé ce village isolé pendant la nuit la plus froide.",
+        "cn": "不幸在最寒冷的那一夜降临到这个偏僻的村子。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -846,7 +1036,12 @@
         "cn": "灾难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La souffrance des populations après le séisme a ému le monde entier.",
+        "cn": "地震后民众的苦难感动了全世界。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -868,7 +1063,12 @@
         "cn": "灾难性地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les secours sont arrivés désastreusement tard, près de quatre jours après le séisme.",
+        "cn": "救援来得极晚，地震后近四天才到。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -890,7 +1090,12 @@
         "cn": "瘟疫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La peste avait décimé la moitié de la population au Moyen Âge.",
+        "cn": "中世纪时瘟疫夺去了半数人口的生命。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -912,7 +1117,12 @@
         "cn": "灾荒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette sécheresse est devenue une calamité pour les agriculteurs de la région.",
+        "cn": "这场干旱已成为本地区农民的灾荒。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -934,7 +1144,12 @@
         "cn": "人为的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les scientifiques mesurent l'impact croissant des activités anthropiques sur les océans du globe.",
+        "cn": "科学家正在测量人类活动对全球海洋日益加剧的影响。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -956,7 +1171,12 @@
         "cn": "悲惨的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ils vivent dans des conditions misérables depuis la destruction de leur maison.",
+        "cn": "自从房子被毁，他们一直生活在悲惨的条件中。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -978,7 +1198,12 @@
         "cn": "悲惨的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette décision a eu des conséquences funestes pour toute la vallée voisine.",
+        "cn": "这个决定给整个邻近山谷带来了悲惨的后果。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1000,7 +1225,12 @@
         "cn": "火灾"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'incendie a ravagé plus de mille hectares de forêt en trois jours.",
+        "cn": "大火三天内烧毁了上千公顷森林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1022,7 +1252,12 @@
         "cn": "消防员"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les pompiers ont lutté toute la nuit contre les flammes du maquis.",
+        "cn": "消防员整夜与灌木丛的大火搏斗。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1044,7 +1279,12 @@
         "cn": "警报器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sirène d'alerte a retenti dans toute la vallée vers midi.",
+        "cn": "中午时分，警报声在整个山谷响起。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1062,11 +1302,16 @@
     "phonetic1": "fuʁgɔ̃-pɔ̃p",
     "trans": [
       {
-        "pos": "n.f.",
+        "pos": "n.m.",
         "cn": "消防车"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fourgon-pompe est parti immédiatement vers le front du feu avec quatre hommes.",
+        "cn": "消防车带着四名队员立刻赶往火线。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1088,7 +1333,12 @@
         "cn": "泥泞的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Après les pluies, ce chemin bourbeux ralentit tous les véhicules de secours.",
+        "cn": "雨后，这条泥泞的小路拖慢了所有救援车辆。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1110,7 +1360,12 @@
         "cn": "山口"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une étroite trouée dans la forêt permet aux secours d'atteindre le village.",
+        "cn": "林中一道狭窄的缺口让救援人员得以抵达村庄。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1132,7 +1387,12 @@
         "cn": "淤泥"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le fond vaseux de ce lac abrite encore de nombreuses espèces d'oiseaux.",
+        "cn": "这个湖淤泥质的湖底仍然栖息着许多鸟类。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1154,7 +1414,12 @@
         "cn": "掩埋"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les habitants ont enterré leurs objets précieux pour les protéger des pillards.",
+        "cn": "居民们把贵重物品埋起来，以防被盗匪抢走。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1176,7 +1441,12 @@
         "cn": "不牢固的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Leur abri précaire n'a pas résisté aux vents violents de la nuit.",
+        "cn": "他们不牢固的棚屋没能抵挡夜里的狂风。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1198,7 +1468,12 @@
         "cn": "诱发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce séisme sous-marin pourrait provoquer un tsunami sur les côtes voisines.",
+        "cn": "这次海底地震可能在附近海岸引发海啸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1220,7 +1495,12 @@
         "cn": "地震"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le séisme a détruit plusieurs immeubles du centre historique de la ville.",
+        "cn": "地震摧毁了老城中心的几栋楼房。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1242,7 +1522,12 @@
         "cn": "震动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les murs ont commencé à trembler pendant quelques secondes avant l'effondrement.",
+        "cn": "倒塌之前，墙壁震动了短短几秒钟。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1264,7 +1549,12 @@
         "cn": "震动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le sol continue de vibrer plusieurs heures après la secousse principale du matin.",
+        "cn": "早晨的主震过后几个小时，地面仍在震动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1286,7 +1576,12 @@
         "cn": "震动"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La secousse a fortement ébranlé les maisons les plus anciennes du quartier.",
+        "cn": "这次震动强烈撼动了街区里最古老的房屋。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1308,7 +1603,12 @@
         "cn": "地震的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les appareils ont enregistré une activité sismique inhabituelle sous le volcan endormi.",
+        "cn": "仪器记录到这座休眠火山下方异常的地震活动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1330,7 +1630,12 @@
         "cn": "勘探"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une équipe internationale va prospecter la région pour trouver de l'eau.",
+        "cn": "一支国际团队将勘探这一地区以寻找水源。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1352,7 +1657,12 @@
         "cn": "地震学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sismologie permet de prévoir certaines secousses avec une précision limitée.",
+        "cn": "地震学能以有限的精度预报某些震动。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1374,7 +1684,12 @@
         "cn": "预报"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les experts annoncent une éruption possible dans les prochains jours, sans certitude.",
+        "cn": "专家预报未来几天可能喷发，但并无把握。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1396,7 +1711,12 @@
         "cn": "余震00"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une réplique plus faible a suivi le séisme quelques heures plus tard.",
+        "cn": "几小时后，一次较弱的余震随之而来。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1418,7 +1738,12 @@
         "cn": "火山"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce volcan endormi depuis un siècle montre aujourd'hui des signes de réveil.",
+        "cn": "这座休眠了一个世纪的火山如今显露出苏醒的迹象。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1440,7 +1765,12 @@
         "cn": "喷发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'éruption a projeté un nuage de cendres à plusieurs kilomètres de haut.",
+        "cn": "喷发把一团火山灰抛到数千米高空。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1462,7 +1792,12 @@
         "cn": "火山的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les gaz volcaniques peuvent devenir dangereux pour les villages situés près du cratère.",
+        "cn": "火山气体对火山口附近的村庄可能变得危险。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1484,7 +1819,12 @@
         "cn": "火山学"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un volcanologue surveille le cratère jour et nuit avec des instruments sensibles.",
+        "cn": "一位火山学家用灵敏的仪器日夜监测火山口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1506,7 +1846,12 @@
         "cn": "活跃的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce volcan reste vif malgré plusieurs mois de calme apparent et trompeur.",
+        "cn": "尽管表面平静了数月，这座火山依然活跃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1528,7 +1873,12 @@
         "cn": "休眠的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le volcan endormi n'a donné aucun signe d'activité depuis cinquante ans.",
+        "cn": "这座休眠火山五十年来没有任何活动迹象。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1550,7 +1900,12 @@
         "cn": "死的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce volcan est mort depuis des millénaires, selon les géologues de la région.",
+        "cn": "据本地区地质学家说，这座火山已死去数千年。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1572,7 +1927,12 @@
         "cn": "岩浆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le magma remonte lentement vers la surface à travers les fissures de la croûte.",
+        "cn": "岩浆沿着地壳的裂缝缓慢上升到地表。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1594,7 +1954,12 @@
         "cn": "冰冻的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les entrepôts frigorifiques consomment énormément d'électricité pendant les longues canicules d'été.",
+        "cn": "夏季漫长的酷暑期间，冷藏仓库耗电惊人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1616,7 +1981,12 @@
         "cn": "固化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "En refroidissant rapidement, la lave se solidifie et forme de nouvelles roches noires.",
+        "cn": "岩浆迅速冷却后凝固，形成新的黑色岩石。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1638,7 +2008,12 @@
         "cn": "使枯死"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La sécheresse a ratatiné les feuilles des jeunes plants dans tout le jardin.",
+        "cn": "干旱让整个园子里幼苗的叶子都枯萎卷缩。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1660,7 +2035,12 @@
         "cn": "冰零"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une grêle violente a détruit la moitié des vignes en quelques minutes.",
+        "cn": "一场猛烈的冰雹几分钟内毁掉了半数葡萄园。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1682,7 +2062,12 @@
         "cn": "冰雪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des grêlons gros comme des balles ont cassé les vitres des voitures.",
+        "cn": "鸡蛋大的冰雹砸碎了汽车的玻璃。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1704,7 +2089,12 @@
         "cn": "炎热"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'ardeur du soleil rend le travail presque impossible sur le chantier l'après-midi.",
+        "cn": "烈日酷热使下午工地上的工作几乎无法进行。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1726,7 +2116,12 @@
         "cn": "干旱的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce sol aride ne permet plus aucune culture sans une irrigation permanente.",
+        "cn": "这片干旱的土地没有常年灌溉就再也种不了庄稼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1748,7 +2143,12 @@
         "cn": "蒸发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La chaleur fait évaporer l'eau des réservoirs à une vitesse inquiétante.",
+        "cn": "高温让水库里的水以惊人的速度蒸发。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1770,7 +2170,12 @@
         "cn": "融化"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les glaciers commencent à fondre plus tôt chaque printemps depuis dix ans.",
+        "cn": "十年来，冰川每年春天都更早开始融化。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1792,7 +2197,12 @@
         "cn": "海啸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le tsunami a frappé la côte sans laisser le temps aux habitants de fuir.",
+        "cn": "海啸袭击海岸，没给居民留下逃离的时间。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1814,7 +2224,12 @@
         "cn": "暴风雨"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La tempête a coupé l'électricité dans plusieurs villages isolés de montagne.",
+        "cn": "暴风雨使山区的几个偏僻村庄断电。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1836,7 +2251,12 @@
         "cn": "残骸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les archéologues ont retrouvé des ossements d'animaux préhistoriques au fond de la grotte.",
+        "cn": "考古学家在洞穴深处发现了史前动物的骨骸。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1858,7 +2278,12 @@
         "cn": "死亡人数"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le bilan provisoire fait état de trente décès et de nombreux blessés.",
+        "cn": "初步统计显示有三十人死亡、多人受伤。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1880,7 +2305,12 @@
         "cn": "受灾者"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les victimes ont été transportées d'urgence vers les hôpitaux les plus proches.",
+        "cn": "受灾者被紧急送往最近的医院。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1902,7 +2332,12 @@
         "cn": "洪水"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'inondation a submergé les routes et isolé plusieurs fermes pendant deux jours.",
+        "cn": "洪水淹没了道路，使几个农场与外界隔绝了两天。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1924,7 +2359,12 @@
         "cn": "公路"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La route principale est coupée par un éboulement depuis hier soir, selon la police.",
+        "cn": "警方称，主路从昨晚起因塌方而中断。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1946,7 +2386,12 @@
         "cn": "通讯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les réseaux de communication sont souvent saturés après chaque grande catastrophe naturelle.",
+        "cn": "每次重大自然灾害之后，通信网络往往都会拥堵。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1968,7 +2413,12 @@
         "cn": "容量"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La contenance du réservoir ne suffit plus à alimenter le village en été.",
+        "cn": "水库的容量在夏天已不足以供给全村用水。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -1990,7 +2440,12 @@
         "cn": "避免"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les autorités conseillent d'éviter la vallée jusqu'à la fin de l'alerte.",
+        "cn": "当局建议在警报解除前避开这个山谷。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2012,7 +2467,12 @@
         "cn": "救援"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les équipes de sauvetage ont travaillé toute la nuit sous la pluie.",
+        "cn": "救援队冒雨工作了一整夜。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2034,7 +2494,12 @@
         "cn": "危难"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le danger d'une nouvelle secousse reste élevé dans toute cette zone.",
+        "cn": "在整个这一地区，再次发生震动的危险仍然很高。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2056,7 +2521,12 @@
         "cn": "警察"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a fermé toutes les routes menant vers la zone sinistrée.",
+        "cn": "警方封闭了所有通往受灾地区的道路。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2078,7 +2548,12 @@
         "cn": "交通干线"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette grande artère du centre-ville est fermée à cause des travaux urgents.",
+        "cn": "这条市中心的主干道因紧急施工而封闭。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2100,7 +2575,12 @@
         "cn": "抢掠"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le pillage des magasins a commencé dès la première nuit du désastre.",
+        "cn": "灾难发生的第一夜，商店就遭到了抢掠。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2122,7 +2602,12 @@
         "cn": "抢劫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Des groupes violents ont saccagé plusieurs boutiques du quartier pendant la nuit.",
+        "cn": "一些暴力团伙夜间砸抢了街区的几家店铺。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2144,7 +2629,12 @@
         "cn": "强盗行为"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le banditisme augmente dangereusement dans les régions isolées après les grandes catastrophes naturelles.",
+        "cn": "重大自然灾害之后，偏远地区的强盗行为危险地增多。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2166,7 +2656,12 @@
         "cn": "匪徒"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une bande de bandits a attaqué un convoi humanitaire sur la route.",
+        "cn": "一伙匪徒在路上袭击了一支人道救援车队。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2188,7 +2683,12 @@
         "cn": "盗匪"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le brigand a été arrêté par les gendarmes près de la frontière.",
+        "cn": "那名盗匪在边境附近被宪兵抓获。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2210,7 +2710,12 @@
         "cn": "盗窃犯"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le voleur a profité de la panne d'électricité pour entrer dans l'immeuble.",
+        "cn": "小偷趁停电溜进了大楼。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2232,7 +2737,12 @@
         "cn": "同伙"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son complice l'attendait dans une voiture volée garée devant la banque.",
+        "cn": "他的同伙在一辆停在银行前的赃车里等他。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2254,7 +2764,12 @@
         "cn": "行凶抢劫"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une agression a eu lieu près de la gare tard dans la nuit.",
+        "cn": "深夜时车站附近发生了一起行凶抢劫。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2276,7 +2791,12 @@
         "cn": "贼赃"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a retrouvé une partie de la fauche dans un entrepôt abandonné.",
+        "cn": "警方在一座废弃仓库里找回了部分赃物。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2298,7 +2818,12 @@
         "cn": "烧焦"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'incendie a carbonisé des centaines d'hectares de forêt méditerranéenne en deux nuits.",
+        "cn": "大火两夜之间烧焦了数百公顷地中海森林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2320,7 +2845,12 @@
         "cn": "残余"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La survivance de certaines traditions anciennes étonne encore les jeunes chercheurs européens.",
+        "cn": "某些古老传统的留存仍让年轻的欧洲研究者感到惊讶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2342,7 +2872,12 @@
         "cn": "警报"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'alerte a été levée après trois jours entiers sans nouvelle secousse.",
+        "cn": "在整整三天没有新的震动后，警报解除了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2364,7 +2899,12 @@
         "cn": "灰爆"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une épaisse couche de cendre grise recouvre encore les toits du village.",
+        "cn": "一层厚厚的灰色灰烬仍覆盖着村里的屋顶。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2386,7 +2926,12 @@
         "cn": "灰"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les braises couvaient encore sous les décombres fumants plusieurs heures après l'incendie.",
+        "cn": "火灾过后几个小时，冒烟的废墟下余烬仍在闷烧。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2408,7 +2953,12 @@
         "cn": "防火带"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ce coupe-feu bien entretenu a ralenti la progression des flammes vers le village.",
+        "cn": "这条维护良好的防火带减缓了火势向村庄蔓延。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2430,7 +2980,12 @@
         "cn": "防火壁"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un pare-feu large de vingt mètres protège désormais toute la forêt domaniale.",
+        "cn": "一条二十米宽的防火隔离带如今保护着整片国有林。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2452,7 +3007,12 @@
         "cn": "户体"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les secouristes ont découvert un cadavre sous les pierres de la maison.",
+        "cn": "救援人员在房屋的石块下发现了一具尸体。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2474,7 +3034,12 @@
         "cn": "痕迹"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enquêteurs ont relevé une empreinte digitale sur la poignée de la porte.",
+        "cn": "调查人员在门把手上提取到一枚指纹。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2496,7 +3061,12 @@
         "cn": "不在场证明"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Son alibi ne convainc pas du tout les enquêteurs chargés de l'affaire.",
+        "cn": "他的不在场证明完全无法说服负责此案的调查人员。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2518,7 +3088,12 @@
         "cn": "谋杀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le meurtre a eu lieu dans un parc très fréquenté du centre-ville.",
+        "cn": "这起谋杀发生在市中心一个很热闹的公园里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2540,7 +3115,12 @@
         "cn": "自杀"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un homme désespéré a tenté de se suicider après la perte de sa maison.",
+        "cn": "一名绝望的男子在失去房子后试图自杀。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2562,7 +3142,12 @@
         "cn": "溺水"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La noyade reste la première cause de décès pendant les fortes chaleurs.",
+        "cn": "酷暑期间，溺水仍是首要的死因。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2584,7 +3169,12 @@
         "cn": "可疑的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une odeur suspecte s'échappait du local technique depuis plusieurs heures déjà.",
+        "cn": "一股可疑的气味已经从设备间飘出好几个小时。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2606,7 +3196,12 @@
         "cn": "凶手"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Un incendie meurtrier a fait cinq victimes dans le massif forestier varois.",
+        "cn": "一场致命大火在瓦尔森林造成五人死亡。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2628,7 +3223,12 @@
         "cn": "恐怖主义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les spécialistes étudient le lien entre la pauvreté et le terrorisme dans cette région.",
+        "cn": "专家们正在研究该地区贫困与恐怖主义之间的联系。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2650,7 +3250,12 @@
         "cn": "极端主义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "L'activisme violent de ce groupe inquiète les services de renseignement depuis plusieurs mois.",
+        "cn": "这个团体的暴力极端主义活动让情报部门担忧了好几个月。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2672,7 +3277,12 @@
         "cn": "分裂主义"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les mouvements sécessionnistes de la région réclament l'indépendance depuis la fin de la guerre.",
+        "cn": "该地区的分裂主义运动自战争结束以来一直要求独立。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2694,7 +3304,12 @@
         "cn": "反恐的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le gouvernement a renforcé les mesures antiterroristes après l'attentat qui a choqué le pays.",
+        "cn": "那次震惊全国的攻击之后，政府加强了反恐措施。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2716,7 +3331,12 @@
         "cn": "人质"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ravisseurs ont libéré l'otage après trois jours de négociations difficiles avec la police.",
+        "cn": "绑匪在与警方艰难谈判三天后释放了人质。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2738,7 +3358,12 @@
         "cn": "杀死"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les secours craignent que l'explosion ait pu tuer deux personnes dans l'immeuble.",
+        "cn": "爆炸炸死两人，并炸伤市中心数名路人。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2760,7 +3385,12 @@
         "cn": "恐慌的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une panique générale s'est emparée de la foule dès que la première détonation a retenti.",
+        "cn": "第一声爆炸一响，人群便陷入普遍的恐慌。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2782,7 +3412,12 @@
         "cn": "恐吓"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Ces hommes voulaient intimider les témoins pour les empêcher de parler aux enquêteurs.",
+        "cn": "这些人想恐吓证人，阻止他们对调查人员开口。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2804,7 +3439,12 @@
         "cn": "恐怖分子"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La police a démantelé une cellule terroriste qui préparait un attentat en Europe.",
+        "cn": "警方捣毁了一个准备在欧洲发动袭击的恐怖分子小组。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2826,7 +3466,12 @@
         "cn": "恐惧"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La crainte d'une nouvelle attaque pousse les habitants à rester chez eux le soir.",
+        "cn": "对新一轮袭击的恐惧让居民晚上待在家里。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2848,7 +3493,12 @@
         "cn": "爆炸"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le dynamitage d'un pont stratégique a coupé la route principale pendant plusieurs semaines.",
+        "cn": "炸毁一座战略桥梁使主干道中断了好几周。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2870,7 +3520,12 @@
         "cn": "炸药"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le colis abandonné contenait un engin explosif capable de détruire tout l'immeuble.",
+        "cn": "那个被遗弃的包裹里装着足以摧毁整栋楼的爆炸装置。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2892,7 +3547,12 @@
         "cn": "武器"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les soldats ont découvert un dépôt d'armes caché sous le bâtiment abandonné.",
+        "cn": "士兵们在废弃建筑下面发现了一个隐藏的武器库。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2914,7 +3574,12 @@
         "cn": "战争"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "La guerre a détruit des villes entières et forcé des millions de personnes à fuir.",
+        "cn": "战争摧毁了整座整座的城市，迫使数百万人逃离。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2936,7 +3601,12 @@
         "cn": "爆发"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Une nouvelle crise a éclaté quand le gouvernement a refusé de négocier avec les rebelles.",
+        "cn": "政府拒绝与叛乱分子谈判后，新的危机爆发了。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2958,7 +3628,12 @@
         "cn": "导致"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Cette politique répressive mènera le pays vers une impasse économique et sociale.",
+        "cn": "这种镇压政策将把国家引向经济和社会死胡同。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -2980,7 +3655,12 @@
         "cn": "碉堡"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les enfants jouent près du vieux blockhaus que les Allemands ont construit sur la plage.",
+        "cn": "孩子们在德国人当年建在海滩上的旧碉堡旁玩耍。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3002,7 +3682,12 @@
         "cn": "炸药"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les ouvriers ont utilisé de la dynamite pour ouvrir un tunnel dans la montagne.",
+        "cn": "工人们用炸药在山里开了一条隧道。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3024,7 +3709,12 @@
         "cn": "激烈地"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Le député a protesté véhémentement contre le projet de loi sur la surveillance.",
+        "cn": "这位众议员激烈抗议有关监控的法案。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
@@ -3046,7 +3736,12 @@
         "cn": "无尽的"
       }
     ],
-    "sentences": [],
+    "sentences": [
+      {
+        "c": "Les négociations interminables entre les deux camps n'ont abouti à aucun accord concret.",
+        "cn": "双方无休止的谈判没有达成任何具体协议。"
+      }
+    ],
     "phrases": [],
     "synos": [],
     "etymology": [],
