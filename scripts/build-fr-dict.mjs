@@ -105,6 +105,87 @@ const DICTS = [
     tags: ['电商', '职场'],
     recommended: true,
   },
+  // ── 词汇书《最好用最好记 15000 法语单词随身背》主题词库（按原书章节） ──
+  {
+    files: ['words-fr-vie.tsv'],
+    slug: 'FR_LIFE',
+    enName: 'fr-theme-life',
+    name: '法语 · 基本生活',
+    description: '时间、衣着、饮食、居住、出行——日常生活最常用的一批主题词',
+    category: '主题词库',
+    tags: ['主题', '生活'],
+    recommended: true,
+  },
+  {
+    files: ['words-fr-maison.tsv'],
+    slug: 'FR_HOME',
+    enName: 'fr-theme-home',
+    name: '法语 · 生活设施',
+    description: '家居、电器、公共设施与城市空间',
+    category: '主题词库',
+    tags: ['主题', '家居'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-personne.tsv'],
+    slug: 'FR_PEOPLE',
+    enName: 'fr-theme-people',
+    name: '法语 · 人物与行为',
+    description: '人物称谓、身体、性格、动作与社交',
+    category: '主题词库',
+    tags: ['主题', '人物'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-campus.tsv'],
+    slug: 'FR_CAMPUS',
+    enName: 'fr-theme-campus',
+    name: '法语 · 校园',
+    description: '学校、课程、学习与考试',
+    category: '主题词库',
+    tags: ['主题', '校园'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-travail.tsv'],
+    slug: 'FR_WORK',
+    enName: 'fr-theme-work',
+    name: '法语 · 职场',
+    description: '求职、办公室、职场百态与销售',
+    category: '主题词库',
+    tags: ['主题', '职场'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-loisir.tsv'],
+    slug: 'FR_LEISURE',
+    enName: 'fr-theme-leisure',
+    name: '法语 · 休闲娱乐',
+    description: '超市、健身运动、修身养性与放松',
+    category: '主题词库',
+    tags: ['主题', '休闲'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-societe.tsv'],
+    slug: 'FR_SOCIAL',
+    enName: 'fr-theme-social',
+    name: '法语 · 社会',
+    description: '政治、经济、宗教、文化艺术、传媒、法律、军事、航空航天、房地产',
+    category: '主题词库',
+    tags: ['主题', '社会'],
+    recommended: false,
+  },
+  {
+    files: ['words-fr-science.tsv'],
+    slug: 'FR_SCIENCE',
+    enName: 'fr-theme-science',
+    name: '法语 · 科技与环境',
+    description: '科技、环境保护、自然灾害、人为事故',
+    category: '主题词库',
+    tags: ['主题', '科技'],
+    recommended: false,
+  },
 ]
 
 function parseTsv(raw) {
@@ -156,6 +237,8 @@ const index = []
 let dictId = 0
 
 for (const meta of DICTS) {
+  // 去重只在单个词库内部进行：不同词库之间重复（如 A1 与主题词库）是预期的
+  seen.clear()
   const rows = []
   for (const file of meta.files) {
     const path = join(DATA_DIR, file)

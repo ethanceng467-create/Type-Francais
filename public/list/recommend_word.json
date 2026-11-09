@@ -173,5 +173,30 @@
       "电商",
       "职场"
     ]
+  },
+  {
+    "id": 8,
+    "enName": "fr-theme-life",
+    "name": "法语 · 基本生活",
+    "description": "时间、衣着、饮食、居住、出行——日常生活最常用的一批主题词",
+    "categoryId": 8,
+    "url": "FR_LIFE.json",
+    "length": 1139,
+    "language": "fr",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "isDefault": false,
+    "recommended": true,
+    "userId": "00000000-0000-0000-0000-000000000001",
+    "createdAt": "2026-11-07 00:00:00.000000",
+    "updatedAt": "2026-11-07 00:00:00.000000",
+    "cover": null,
+    "hidden": false,
+    "category": "主题词库",
+    "tags": [
+      "主题",
+      "生活"
+    ]
   }
 ]

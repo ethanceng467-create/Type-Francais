@@ -1,0 +1,3060 @@
+[
+  {
+    "id": 1,
+    "word": "science",
+    "phonetic0": "sjɑ̃s",
+    "phonetic1": "sjɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "科学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 2,
+    "word": "scientifiquement",
+    "phonetic0": "sjɑ̃tifikəmɑ̃",
+    "phonetic1": "sjɑ̃tifikəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "科学地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 3,
+    "word": "ingénierie",
+    "phonetic0": "ɛ̃ʒeniʁi",
+    "phonetic1": "ɛ̃ʒeniʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "工程学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 4,
+    "word": "scientologie",
+    "phonetic0": "sjɑ̃toloʒi",
+    "phonetic1": "sjɑ̃toloʒi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "科学论派"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 5,
+    "word": "nanomètre",
+    "phonetic0": "nanɔmɛtʁ",
+    "phonetic1": "nanɔmɛtʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "纳米"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 6,
+    "word": "théorie",
+    "phonetic0": "teoʁi",
+    "phonetic1": "teoʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "理论"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 7,
+    "word": "organique",
+    "phonetic0": "ɔʁganik",
+    "phonetic1": "ɔʁganik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有机的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 8,
+    "word": "découvrir",
+    "phonetic0": "dekuvʁiʁ",
+    "phonetic1": "dekuvʁiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "发现"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 9,
+    "word": "robot",
+    "phonetic0": "ʁobo",
+    "phonetic1": "ʁobo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "机器人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 10,
+    "word": "génique",
+    "phonetic0": "ʒenik",
+    "phonetic1": "ʒenik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "基因的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 11,
+    "word": "variation",
+    "phonetic0": "vaʁjasjɔ̃",
+    "phonetic1": "vaʁjasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "变异"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 12,
+    "word": "génétique",
+    "phonetic0": "ʒenetik",
+    "phonetic1": "ʒenetik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "遗传学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 13,
+    "word": "invisible",
+    "phonetic0": "ɛ̃vizibl",
+    "phonetic1": "ɛ̃vizibl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "隐形的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 14,
+    "word": "généalogie",
+    "phonetic0": "ʒenealoʒi",
+    "phonetic1": "ʒenealoʒi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "家谱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 15,
+    "word": "hérédité",
+    "phonetic0": "eʁedite",
+    "phonetic1": "eʁedite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "遗传"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 16,
+    "word": "naïf",
+    "phonetic0": "naif",
+    "phonetic1": "naif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "天生的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 17,
+    "word": "chromosome",
+    "phonetic0": "kʁomozom",
+    "phonetic1": "kʁomozom",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "染色体"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 18,
+    "word": "génotype",
+    "phonetic0": "ʒenotip",
+    "phonetic1": "ʒenotip",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "基因型"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 19,
+    "word": "peuplement",
+    "phonetic0": "pøpləmɑ̃",
+    "phonetic1": "pøpləmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "移植"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 20,
+    "word": "reconstituer",
+    "phonetic0": "ʁəkɔ̃stitɥe",
+    "phonetic1": "ʁəkɔ̃stitɥe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "重组"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 21,
+    "word": "numérique",
+    "phonetic0": "nymeʁik",
+    "phonetic1": "nymeʁik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "数码的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 22,
+    "word": "successif",
+    "phonetic0": "syksesif",
+    "phonetic1": "syksesif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "连续的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 23,
+    "word": "noter",
+    "phonetic0": "note",
+    "phonetic1": "note",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "记录"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 24,
+    "word": "environnement",
+    "phonetic0": "ɑ̃viʁɔnəmɑ̃",
+    "phonetic1": "ɑ̃viʁɔnəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "环境"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 25,
+    "word": "améliorer",
+    "phonetic0": "ameljoʁe",
+    "phonetic1": "ameljoʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "改善"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 26,
+    "word": "embellir",
+    "phonetic0": "ɑ̃beliʁ",
+    "phonetic1": "ɑ̃beliʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "美化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 27,
+    "word": "adapter",
+    "phonetic0": "adapte",
+    "phonetic1": "adapte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "适应"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 28,
+    "word": "maintenir",
+    "phonetic0": "mɛ̃təniʁ",
+    "phonetic1": "mɛ̃təniʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "保持"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 29,
+    "word": "végétation",
+    "phonetic0": "veʒetasjɔ̃",
+    "phonetic1": "veʒetasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "植被"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 30,
+    "word": "pollution",
+    "phonetic0": "polysjɔ̃",
+    "phonetic1": "polysjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "污染"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 31,
+    "word": "contamination",
+    "phonetic0": "kɔ̃taminasjɔ̃",
+    "phonetic1": "kɔ̃taminasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "污染"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 32,
+    "word": "visuel",
+    "phonetic0": "vizɥɛl",
+    "phonetic1": "vizɥɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "视觉上的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 33,
+    "word": "atmosphérique",
+    "phonetic0": "atmosfeʁik",
+    "phonetic1": "atmosfeʁik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大气的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 34,
+    "word": "tache",
+    "phonetic0": "taʃ",
+    "phonetic1": "taʃ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "污点"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 35,
+    "word": "désastre",
+    "phonetic0": "dezastʁ",
+    "phonetic1": "dezastʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "灾难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 36,
+    "word": "catastrophe",
+    "phonetic0": "katastʁɔf",
+    "phonetic1": "katastʁɔf",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "灾难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 37,
+    "word": "désastreux",
+    "phonetic0": "dezastʁø",
+    "phonetic1": "dezastʁø",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "灾难性的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 38,
+    "word": "malheur",
+    "phonetic0": "malœʁ",
+    "phonetic1": "malœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "灾难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 39,
+    "word": "souffrance",
+    "phonetic0": "sufʁɑ̃s",
+    "phonetic1": "sufʁɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "灾难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 40,
+    "word": "désastreusement",
+    "phonetic0": "dezastʁøzəmɑ̃",
+    "phonetic1": "dezastʁøzəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "灾难性地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 41,
+    "word": "peste",
+    "phonetic0": "pɛst",
+    "phonetic1": "pɛst",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "瘟疫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 42,
+    "word": "calamité",
+    "phonetic0": "kalamite",
+    "phonetic1": "kalamite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "灾荒"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 43,
+    "word": "anthropiques",
+    "phonetic0": "ɑ̃tʁopik",
+    "phonetic1": "ɑ̃tʁopik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "人为的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 44,
+    "word": "misérable",
+    "phonetic0": "mizeʁabl",
+    "phonetic1": "mizeʁabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "悲惨的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 45,
+    "word": "funeste",
+    "phonetic0": "fynɛst",
+    "phonetic1": "fynɛst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "悲惨的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 46,
+    "word": "incendie",
+    "phonetic0": "ɛ̃sɑ̃di",
+    "phonetic1": "ɛ̃sɑ̃di",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "火灾"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 47,
+    "word": "pompier",
+    "phonetic0": "pɔ̃pje",
+    "phonetic1": "pɔ̃pje",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "消防员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 48,
+    "word": "sirène",
+    "phonetic0": "siʁɛn",
+    "phonetic1": "siʁɛn",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "警报器"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 49,
+    "word": "fourgon-pompe",
+    "phonetic0": "fuʁgɔ̃-pɔ̃p",
+    "phonetic1": "fuʁgɔ̃-pɔ̃p",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "消防车"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 50,
+    "word": "bourbeux",
+    "phonetic0": "buʁbø",
+    "phonetic1": "buʁbø",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "泥泞的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 51,
+    "word": "trouée",
+    "phonetic0": "tʁue",
+    "phonetic1": "tʁue",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "山口"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 52,
+    "word": "vaseux",
+    "phonetic0": "vazø",
+    "phonetic1": "vazø",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "淤泥"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 53,
+    "word": "enterrer",
+    "phonetic0": "ɑ̃teʁe",
+    "phonetic1": "ɑ̃teʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "掩埋"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 54,
+    "word": "précaire",
+    "phonetic0": "pʁekɛʁ",
+    "phonetic1": "pʁekɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "不牢固的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 55,
+    "word": "provoquer",
+    "phonetic0": "pʁovoke",
+    "phonetic1": "pʁovoke",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "诱发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 56,
+    "word": "séisme",
+    "phonetic0": "seizm",
+    "phonetic1": "seizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "地震"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 57,
+    "word": "trembler",
+    "phonetic0": "tʁɑ̃ble",
+    "phonetic1": "tʁɑ̃ble",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "震动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 58,
+    "word": "vibrer",
+    "phonetic0": "vibʁe",
+    "phonetic1": "vibʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "震动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 59,
+    "word": "ébranler",
+    "phonetic0": "ebʁɑ̃le",
+    "phonetic1": "ebʁɑ̃le",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "震动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 60,
+    "word": "sismique",
+    "phonetic0": "sismik",
+    "phonetic1": "sismik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "地震的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 61,
+    "word": "prospecter",
+    "phonetic0": "pʁɔspɛkte",
+    "phonetic1": "pʁɔspɛkte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "勘探"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 62,
+    "word": "sismologie",
+    "phonetic0": "sismoloʒi",
+    "phonetic1": "sismoloʒi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "地震学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 63,
+    "word": "annoncer",
+    "phonetic0": "anɔ̃se",
+    "phonetic1": "anɔ̃se",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "预报"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 64,
+    "word": "réplique",
+    "phonetic0": "ʁeplik",
+    "phonetic1": "ʁeplik",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "余震00"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 65,
+    "word": "volcan",
+    "phonetic0": "vɔlkɑ̃",
+    "phonetic1": "vɔlkɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "火山"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 66,
+    "word": "éruption",
+    "phonetic0": "eʁypsjɔ̃",
+    "phonetic1": "eʁypsjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "喷发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 67,
+    "word": "volcanique",
+    "phonetic0": "vɔlkanik",
+    "phonetic1": "vɔlkanik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "火山的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 68,
+    "word": "volcanologue",
+    "phonetic0": "vɔlkanolɔg",
+    "phonetic1": "vɔlkanolɔg",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "火山学"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 69,
+    "word": "vif",
+    "phonetic0": "vif",
+    "phonetic1": "vif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "活跃的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 70,
+    "word": "endormi",
+    "phonetic0": "ɑ̃dɔʁmi",
+    "phonetic1": "ɑ̃dɔʁmi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "休眠的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 71,
+    "word": "mort",
+    "phonetic0": "mɔʁ",
+    "phonetic1": "mɔʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "死的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 72,
+    "word": "magma",
+    "phonetic0": "magma",
+    "phonetic1": "magma",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "岩浆"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 73,
+    "word": "frigorifique",
+    "phonetic0": "fʁigoʁifik",
+    "phonetic1": "fʁigoʁifik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冰冻的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 74,
+    "word": "solidifier",
+    "phonetic0": "solidifje",
+    "phonetic1": "solidifje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "固化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 75,
+    "word": "ratatiner",
+    "phonetic0": "ʁatatine",
+    "phonetic1": "ʁatatine",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使枯死"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 76,
+    "word": "grêle",
+    "phonetic0": "gʁɛl",
+    "phonetic1": "gʁɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "冰零"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 77,
+    "word": "grêlon",
+    "phonetic0": "gʁɛlɔ̃",
+    "phonetic1": "gʁɛlɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "冰雪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 78,
+    "word": "ardeur",
+    "phonetic0": "aʁdœʁ",
+    "phonetic1": "aʁdœʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "炎热"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 79,
+    "word": "aride",
+    "phonetic0": "aʁid",
+    "phonetic1": "aʁid",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "干旱的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 80,
+    "word": "évaporer",
+    "phonetic0": "evapoʁe",
+    "phonetic1": "evapoʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "蒸发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 81,
+    "word": "fondre",
+    "phonetic0": "fɔ̃dʁ",
+    "phonetic1": "fɔ̃dʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "融化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 82,
+    "word": "tsunami",
+    "phonetic0": "tsynami",
+    "phonetic1": "tsynami",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "海啸"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 83,
+    "word": "tempête",
+    "phonetic0": "tɑ̃pɛt",
+    "phonetic1": "tɑ̃pɛt",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "暴风雨"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 84,
+    "word": "ossement",
+    "phonetic0": "ɔsəmɑ̃",
+    "phonetic1": "ɔsəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "残骸"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 85,
+    "word": "décès",
+    "phonetic0": "desɛ",
+    "phonetic1": "desɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "死亡人数"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 86,
+    "word": "victime",
+    "phonetic0": "viktim",
+    "phonetic1": "viktim",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "受灾者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 87,
+    "word": "inondation",
+    "phonetic0": "inɔ̃dasjɔ̃",
+    "phonetic1": "inɔ̃dasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "洪水"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 88,
+    "word": "route",
+    "phonetic0": "ʁut",
+    "phonetic1": "ʁut",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "公路"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 89,
+    "word": "communication",
+    "phonetic0": "komynikasjɔ̃",
+    "phonetic1": "komynikasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "通讯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 90,
+    "word": "contenance",
+    "phonetic0": "kɔ̃tənɑ̃s",
+    "phonetic1": "kɔ̃tənɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "容量"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 91,
+    "word": "éviter",
+    "phonetic0": "evite",
+    "phonetic1": "evite",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "避免"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 92,
+    "word": "sauvetage",
+    "phonetic0": "sovətaʒ",
+    "phonetic1": "sovətaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "救援"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 93,
+    "word": "danger",
+    "phonetic0": "dɑ̃ʒe",
+    "phonetic1": "dɑ̃ʒe",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "危难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 94,
+    "word": "police",
+    "phonetic0": "polis",
+    "phonetic1": "polis",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "警察"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 95,
+    "word": "artère",
+    "phonetic0": "aʁtɛʁ",
+    "phonetic1": "aʁtɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "交通干线"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 96,
+    "word": "pillage",
+    "phonetic0": "pijaʒ",
+    "phonetic1": "pijaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "抢掠"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 97,
+    "word": "saccager",
+    "phonetic0": "sakaʒe",
+    "phonetic1": "sakaʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "抢劫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 98,
+    "word": "banditisme",
+    "phonetic0": "bɑ̃ditizm",
+    "phonetic1": "bɑ̃ditizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "强盗行为"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 99,
+    "word": "bandit",
+    "phonetic0": "bɑ̃di",
+    "phonetic1": "bɑ̃di",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "匪徒"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 100,
+    "word": "brigand",
+    "phonetic0": "bʁigɑ̃",
+    "phonetic1": "bʁigɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "盗匪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 101,
+    "word": "voleur",
+    "phonetic0": "volœʁ",
+    "phonetic1": "volœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "盗窃犯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 102,
+    "word": "complice",
+    "phonetic0": "kɔ̃plis",
+    "phonetic1": "kɔ̃plis",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "同伙"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 103,
+    "word": "agression",
+    "phonetic0": "agʁɛsjɔ̃",
+    "phonetic1": "agʁɛsjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "行凶抢劫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 104,
+    "word": "fauche",
+    "phonetic0": "foʃ",
+    "phonetic1": "foʃ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "贼赃"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 105,
+    "word": "carboniser",
+    "phonetic0": "kaʁbonize",
+    "phonetic1": "kaʁbonize",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "烧焦"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 106,
+    "word": "survivance",
+    "phonetic0": "syʁvivɑ̃s",
+    "phonetic1": "syʁvivɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "残余"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 107,
+    "word": "alerte",
+    "phonetic0": "alɛʁt",
+    "phonetic1": "alɛʁt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "警报"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 108,
+    "word": "cendre",
+    "phonetic0": "sɑ̃dʁ",
+    "phonetic1": "sɑ̃dʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "灰爆"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 109,
+    "word": "braise",
+    "phonetic0": "bʁɛz",
+    "phonetic1": "bʁɛz",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "灰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 110,
+    "word": "coupe-feu",
+    "phonetic0": "kupfø",
+    "phonetic1": "kupfø",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "防火带"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 111,
+    "word": "pare-feu",
+    "phonetic0": "paʁfø",
+    "phonetic1": "paʁfø",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "防火壁"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 112,
+    "word": "cadavre",
+    "phonetic0": "kadavʁ",
+    "phonetic1": "kadavʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "户体"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 113,
+    "word": "empreinte",
+    "phonetic0": "ɑ̃pʁɛ̃t",
+    "phonetic1": "ɑ̃pʁɛ̃t",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "痕迹"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 114,
+    "word": "alibi",
+    "phonetic0": "alibi",
+    "phonetic1": "alibi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "不在场证明"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 115,
+    "word": "meurtre",
+    "phonetic0": "mœʁtʁ",
+    "phonetic1": "mœʁtʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "谋杀"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 116,
+    "word": "suicider",
+    "phonetic0": "sɥiside",
+    "phonetic1": "sɥiside",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "自杀"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 117,
+    "word": "noyade",
+    "phonetic0": "nwajad",
+    "phonetic1": "nwajad",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "溺水"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 118,
+    "word": "suspecte",
+    "phonetic0": "syspɛkt",
+    "phonetic1": "syspɛkt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "可疑的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 119,
+    "word": "meurtrier",
+    "phonetic0": "mœʁtʁije",
+    "phonetic1": "mœʁtʁije",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "凶手"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 120,
+    "word": "terrorisme",
+    "phonetic0": "tɛʁoʁizm",
+    "phonetic1": "tɛʁoʁizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "恐怖主义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 121,
+    "word": "activisme",
+    "phonetic0": "aktivizm",
+    "phonetic1": "aktivizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "极端主义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 122,
+    "word": "sécessionniste",
+    "phonetic0": "sesesjɔnist",
+    "phonetic1": "sesesjɔnist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "分裂主义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 123,
+    "word": "antiterroriste",
+    "phonetic0": "ɑ̃titɛʁoʁist",
+    "phonetic1": "ɑ̃titɛʁoʁist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "反恐的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 124,
+    "word": "otage",
+    "phonetic0": "otaʒ",
+    "phonetic1": "otaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "人质"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 125,
+    "word": "tuer",
+    "phonetic0": "tɥe",
+    "phonetic1": "tɥe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "杀死"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 126,
+    "word": "panique",
+    "phonetic0": "panik",
+    "phonetic1": "panik",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "恐慌的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 127,
+    "word": "intimider",
+    "phonetic0": "ɛ̃timide",
+    "phonetic1": "ɛ̃timide",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "恐吓"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 128,
+    "word": "terroriste",
+    "phonetic0": "tɛʁoʁist",
+    "phonetic1": "tɛʁoʁist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "恐怖分子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 129,
+    "word": "crainte",
+    "phonetic0": "kʁɛ̃t",
+    "phonetic1": "kʁɛ̃t",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "恐惧"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 130,
+    "word": "dynamitage",
+    "phonetic0": "dinamitaʒ",
+    "phonetic1": "dinamitaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "爆炸"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 131,
+    "word": "explosif",
+    "phonetic0": "ɛksplozif",
+    "phonetic1": "ɛksplozif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "炸药"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 132,
+    "word": "arme",
+    "phonetic0": "aʁm",
+    "phonetic1": "aʁm",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "武器"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 133,
+    "word": "guerre",
+    "phonetic0": "gɛʁ",
+    "phonetic1": "gɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "战争"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 134,
+    "word": "éclater",
+    "phonetic0": "eklate",
+    "phonetic1": "eklate",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "爆发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 135,
+    "word": "mènera",
+    "phonetic0": "mɛnəʁa",
+    "phonetic1": "mɛnəʁa",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "导致"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 136,
+    "word": "blockhaus",
+    "phonetic0": "blɔkos",
+    "phonetic1": "blɔkos",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "碉堡"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 137,
+    "word": "dynamite",
+    "phonetic0": "dinamit",
+    "phonetic1": "dinamit",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "炸药"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 138,
+    "word": "véhémentement",
+    "phonetic0": "veemɑ̃təmɑ̃",
+    "phonetic1": "veemɑ̃təmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "激烈地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 139,
+    "word": "interminable",
+    "phonetic0": "ɛ̃tɛʁminabl",
+    "phonetic1": "ɛ̃tɛʁminabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "无尽的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  }
+]

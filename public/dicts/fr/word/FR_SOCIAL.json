@@ -1,0 +1,7900 @@
+[
+  {
+    "id": 1,
+    "word": "pays",
+    "phonetic0": "pei",
+    "phonetic1": "pei",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "国家"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 2,
+    "word": "état",
+    "phonetic0": "eta",
+    "phonetic1": "eta",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "国家"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 3,
+    "word": "nation",
+    "phonetic0": "nasjɔ̃",
+    "phonetic1": "nasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "国家"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 4,
+    "word": "politique",
+    "phonetic0": "politik",
+    "phonetic1": "politik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "政治"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 5,
+    "word": "président",
+    "phonetic0": "pʁezidɑ̃",
+    "phonetic1": "pʁezidɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "主席，总统"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 6,
+    "word": "ministre",
+    "phonetic0": "ministʁ",
+    "phonetic1": "ministʁ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "总理"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 7,
+    "word": "préfet",
+    "phonetic0": "pʁefɛ",
+    "phonetic1": "pʁefɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "州长"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 8,
+    "word": "sénateur",
+    "phonetic0": "senatœʁ",
+    "phonetic1": "senatœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "参议员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 9,
+    "word": "député",
+    "phonetic0": "depyte",
+    "phonetic1": "depyte",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "众议员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 10,
+    "word": "sénat",
+    "phonetic0": "sena",
+    "phonetic1": "sena",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "参议院"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 11,
+    "word": "parlement",
+    "phonetic0": "paʁləmɑ̃",
+    "phonetic1": "paʁləmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "国会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 12,
+    "word": "présidium",
+    "phonetic0": "pʁezidjɔm",
+    "phonetic1": "pʁezidjɔm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "主席团"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 13,
+    "word": "états-unis",
+    "phonetic0": "eta-yni",
+    "phonetic1": "eta-yni",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "美国"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 14,
+    "word": "canada",
+    "phonetic0": "kanada",
+    "phonetic1": "kanada",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "加拿大"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 15,
+    "word": "japon",
+    "phonetic0": "ʒapɔ̃",
+    "phonetic1": "ʒapɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "日本"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 16,
+    "word": "australien",
+    "phonetic0": "ostʁaljɛ̃",
+    "phonetic1": "ostʁaljɛ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "澳大利亚"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 17,
+    "word": "angleterre",
+    "phonetic0": "ɑ̃gløtɛʁ",
+    "phonetic1": "ɑ̃gløtɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "英国"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 18,
+    "word": "allemagne",
+    "phonetic0": "aləmaɲ",
+    "phonetic1": "aləmaɲ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "德国"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 19,
+    "word": "litanie",
+    "phonetic0": "litani",
+    "phonetic1": "litani",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "意大利"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 20,
+    "word": "suède",
+    "phonetic0": "sɥɛd",
+    "phonetic1": "sɥɛd",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "瑞典"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 21,
+    "word": "société",
+    "phonetic0": "sosjete",
+    "phonetic1": "sosjete",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "社会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 22,
+    "word": "social",
+    "phonetic0": "sosjal",
+    "phonetic1": "sosjal",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "社会的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 23,
+    "word": "féodal",
+    "phonetic0": "feodal",
+    "phonetic1": "feodal",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "封建的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 24,
+    "word": "féodalisme",
+    "phonetic0": "feodalizm",
+    "phonetic1": "feodalizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "封建制度"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 25,
+    "word": "esclavage",
+    "phonetic0": "ɛsklavaʒ",
+    "phonetic1": "ɛsklavaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "奴制"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 26,
+    "word": "capitalisme",
+    "phonetic0": "kapitalizm",
+    "phonetic1": "kapitalizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "资本主义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 27,
+    "word": "capitaliste",
+    "phonetic0": "kapitalist",
+    "phonetic1": "kapitalist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "资本主义的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 28,
+    "word": "originale",
+    "phonetic0": "oʁiʒinal",
+    "phonetic1": "oʁiʒinal",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "最初的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 29,
+    "word": "contemporain",
+    "phonetic0": "kɔ̃tɑ̃poʁɛ̃",
+    "phonetic1": "kɔ̃tɑ̃poʁɛ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "现代的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 30,
+    "word": "développement",
+    "phonetic0": "devəlɔpəmɑ̃",
+    "phonetic1": "devəlɔpəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "发展"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 31,
+    "word": "progressif",
+    "phonetic0": "pʁogʁesif",
+    "phonetic1": "pʁogʁesif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "前进的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 32,
+    "word": "révolution",
+    "phonetic0": "ʁevolysjɔ̃",
+    "phonetic1": "ʁevolysjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "革命"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 33,
+    "word": "reforme",
+    "phonetic0": "ʁəfɔʁm",
+    "phonetic1": "ʁəfɔʁm",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "改革"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 34,
+    "word": "reformation",
+    "phonetic0": "ʁəfɔʁmasjɔ̃",
+    "phonetic1": "ʁəfɔʁmasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "改革"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 35,
+    "word": "commencer",
+    "phonetic0": "komɑ̃se",
+    "phonetic1": "komɑ̃se",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "开始"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 36,
+    "word": "renverser",
+    "phonetic0": "ʁɑ̃vɛʁse",
+    "phonetic1": "ʁɑ̃vɛʁse",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "颠覆"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 37,
+    "word": "mondialisation",
+    "phonetic0": "mɔ̃djalizasjɔ̃",
+    "phonetic1": "mɔ̃djalizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "全球化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 38,
+    "word": "urbanisation",
+    "phonetic0": "yʁbanizasjɔ̃",
+    "phonetic1": "yʁbanizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "城市化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 39,
+    "word": "informatique",
+    "phonetic0": "ɛ̃fɔʁmatik",
+    "phonetic1": "ɛ̃fɔʁmatik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "信息化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 40,
+    "word": "évolutif",
+    "phonetic0": "evolytif",
+    "phonetic1": "evolytif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "发展的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 41,
+    "word": "accumuler",
+    "phonetic0": "akymyle",
+    "phonetic1": "akymyle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "积累"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 42,
+    "word": "marxisme",
+    "phonetic0": "maʁksizm",
+    "phonetic1": "maʁksizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "马克思主义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 43,
+    "word": "royauté",
+    "phonetic0": "ʁwajote",
+    "phonetic1": "ʁwajote",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "王权"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 44,
+    "word": "prolétariat",
+    "phonetic0": "pʁoletaʁja",
+    "phonetic1": "pʁoletaʁja",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "无产阶级"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 45,
+    "word": "bourgeoisie",
+    "phonetic0": "buʁʒwazi",
+    "phonetic1": "buʁʒwazi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "资产阶级"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 46,
+    "word": "autocratie",
+    "phonetic0": "otokʁasi",
+    "phonetic1": "otokʁasi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "专制"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 47,
+    "word": "souveraineté",
+    "phonetic0": "suvəʁɛnəte",
+    "phonetic1": "suvəʁɛnəte",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "主权"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 48,
+    "word": "indépendante",
+    "phonetic0": "ɛ̃depɑ̃dɑ̃t",
+    "phonetic1": "ɛ̃depɑ̃dɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "独立的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 49,
+    "word": "centralisme",
+    "phonetic0": "sɑ̃tʁalizm",
+    "phonetic1": "sɑ̃tʁalizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "中央集权制"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 50,
+    "word": "ministère",
+    "phonetic0": "ministɛʁ",
+    "phonetic1": "ministɛʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "部"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 51,
+    "word": "croisade",
+    "phonetic0": "kʁwazad",
+    "phonetic1": "kʁwazad",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "运动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 52,
+    "word": "présidentiel",
+    "phonetic0": "pʁezidɑ̃sjɛl",
+    "phonetic1": "pʁezidɑ̃sjɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "总统的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 53,
+    "word": "élire",
+    "phonetic0": "eliʁ",
+    "phonetic1": "eliʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "选举"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 54,
+    "word": "discours",
+    "phonetic0": "diskuʁ",
+    "phonetic1": "diskuʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "演说"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 55,
+    "word": "slogan",
+    "phonetic0": "slogɑ̃",
+    "phonetic1": "slogɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "口号"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 56,
+    "word": "candidat",
+    "phonetic0": "kɑ̃dida",
+    "phonetic1": "kɑ̃dida",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "候选人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 57,
+    "word": "contradicteur",
+    "phonetic0": "kɔ̃tʁadiktœʁ",
+    "phonetic1": "kɔ̃tʁadiktœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "反对者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 58,
+    "word": "souteneur",
+    "phonetic0": "sutənœʁ",
+    "phonetic1": "sutənœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "支持者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 59,
+    "word": "électoral-liste",
+    "phonetic0": "elɛktoʁal-list",
+    "phonetic1": "elɛktoʁal-list",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "选票主义的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 60,
+    "word": "referendum",
+    "phonetic0": "ʁefeʁɛ̃dɔm",
+    "phonetic1": "ʁefeʁɛ̃dɔm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "公民投票"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 61,
+    "word": "électorat",
+    "phonetic0": "elɛktoʁa",
+    "phonetic1": "elɛktoʁa",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "全体选民"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 62,
+    "word": "série",
+    "phonetic0": "seʁi",
+    "phonetic1": "seʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "轮"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 63,
+    "word": "votant",
+    "phonetic0": "votɑ̃",
+    "phonetic1": "votɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "投票者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 64,
+    "word": "diplomatie",
+    "phonetic0": "diplomasi",
+    "phonetic1": "diplomasi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "外交"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 65,
+    "word": "diplomatique",
+    "phonetic0": "diplomatik",
+    "phonetic1": "diplomatik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "外交的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 66,
+    "word": "voie",
+    "phonetic0": "vwa",
+    "phonetic1": "vwa",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "途径"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 67,
+    "word": "patronage",
+    "phonetic0": "patʁonaʒ",
+    "phonetic1": "patʁonaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "底护"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 68,
+    "word": "ambassadeur",
+    "phonetic0": "ɑ̃basadœʁ",
+    "phonetic1": "ɑ̃basadœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "大使"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 69,
+    "word": "consul",
+    "phonetic0": "kɔ̃syl",
+    "phonetic1": "kɔ̃syl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "领事"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 70,
+    "word": "chasser",
+    "phonetic0": "ʃase",
+    "phonetic1": "ʃase",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "驱逐"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 71,
+    "word": "compatriote",
+    "phonetic0": "kɔ̃patʁijɔt",
+    "phonetic1": "kɔ̃patʁijɔt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "同胞"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 72,
+    "word": "fonder",
+    "phonetic0": "fɔ̃de",
+    "phonetic1": "fɔ̃de",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "建立"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 73,
+    "word": "diplomate",
+    "phonetic0": "diplomat",
+    "phonetic1": "diplomat",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "外交官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 74,
+    "word": "rompre",
+    "phonetic0": "ʁɔ̃pʁ",
+    "phonetic1": "ʁɔ̃pʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "断绝"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 75,
+    "word": "rétablir",
+    "phonetic0": "ʁetabliʁ",
+    "phonetic1": "ʁetabliʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "恢复"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 76,
+    "word": "consulaire",
+    "phonetic0": "kɔ̃sylɛʁ",
+    "phonetic1": "kɔ̃sylɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "领事的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 77,
+    "word": "protester",
+    "phonetic0": "pʁotɛste",
+    "phonetic1": "pʁotɛste",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "抗议"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 78,
+    "word": "totalement",
+    "phonetic0": "totaləmɑ̃",
+    "phonetic1": "totaləmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "彻底地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 79,
+    "word": "délégation",
+    "phonetic0": "delegasjɔ̃",
+    "phonetic1": "delegasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "代表团"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 80,
+    "word": "immigrant",
+    "phonetic0": "imigʁɑ̃",
+    "phonetic1": "imigʁɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "移民"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 81,
+    "word": "posséder",
+    "phonetic0": "posede",
+    "phonetic1": "posede",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "享有"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 82,
+    "word": "assumer",
+    "phonetic0": "asyme",
+    "phonetic1": "asyme",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "承担"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 83,
+    "word": "liberté",
+    "phonetic0": "libɛʁte",
+    "phonetic1": "libɛʁte",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "自由"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 84,
+    "word": "veto",
+    "phonetic0": "veto",
+    "phonetic1": "veto",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "否决权"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 85,
+    "word": "assemblée",
+    "phonetic0": "asɑ̃ble",
+    "phonetic1": "asɑ̃ble",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "集会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 86,
+    "word": "défiler",
+    "phonetic0": "defile",
+    "phonetic1": "defile",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "游行"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 87,
+    "word": "personnalité",
+    "phonetic0": "pɛʁsonalite",
+    "phonetic1": "pɛʁsonalite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "人格"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 88,
+    "word": "dignité",
+    "phonetic0": "diɲite",
+    "phonetic1": "diɲite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "尊严"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 89,
+    "word": "unir",
+    "phonetic0": "yniʁ",
+    "phonetic1": "yniʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "团结"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 90,
+    "word": "race",
+    "phonetic0": "ʁas",
+    "phonetic1": "ʁas",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "种族"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 91,
+    "word": "agriculture",
+    "phonetic0": "agʁikyltyʁ",
+    "phonetic1": "agʁikyltyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "农业"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 92,
+    "word": "immobilier",
+    "phonetic0": "imobilje",
+    "phonetic1": "imobilje",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "房地产业"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 93,
+    "word": "amusement",
+    "phonetic0": "amyzəmɑ̃",
+    "phonetic1": "amyzəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "娱乐"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 94,
+    "word": "consultant",
+    "phonetic0": "kɔ̃syltɑ̃",
+    "phonetic1": "kɔ̃syltɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "咨询顾问"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 95,
+    "word": "nationaliser",
+    "phonetic0": "nasjonalize",
+    "phonetic1": "nasjonalize",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使国有化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 96,
+    "word": "nationalisation",
+    "phonetic0": "nasjonalizasjɔ̃",
+    "phonetic1": "nasjonalizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "国有化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 97,
+    "word": "privatisation",
+    "phonetic0": "pʁivatizasjɔ̃",
+    "phonetic1": "pʁivatizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "私有化"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 98,
+    "word": "économie",
+    "phonetic0": "ekonomi",
+    "phonetic1": "ekonomi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "经济"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 99,
+    "word": "économiquement",
+    "phonetic0": "ekonomikəmɑ̃",
+    "phonetic1": "ekonomikəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "经济地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 100,
+    "word": "financièrement",
+    "phonetic0": "finɑ̃sjɛʁəmɑ̃",
+    "phonetic1": "finɑ̃sjɛʁəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "金融地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 101,
+    "word": "crise",
+    "phonetic0": "kʁiz",
+    "phonetic1": "kʁiz",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "危机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 102,
+    "word": "récession",
+    "phonetic0": "ʁesesjɔ̃",
+    "phonetic1": "ʁesesjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "萧条"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 103,
+    "word": "revivre",
+    "phonetic0": "ʁəvivʁ",
+    "phonetic1": "ʁəvivʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "复苏"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 104,
+    "word": "inflation",
+    "phonetic0": "ɛ̃flasjɔ̃",
+    "phonetic1": "ɛ̃flasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "通货膨胀"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 105,
+    "word": "déficit",
+    "phonetic0": "defisit",
+    "phonetic1": "defisit",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "赤字"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 106,
+    "word": "vachement",
+    "phonetic0": "vaʃəmɑ̃",
+    "phonetic1": "vaʃəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "大大地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 107,
+    "word": "affaires",
+    "phonetic0": "afɛʁ",
+    "phonetic1": "afɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "生意，经济活动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 108,
+    "word": "façonner",
+    "phonetic0": "fasone",
+    "phonetic1": "fasone",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "加工"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 109,
+    "word": "projectionniste",
+    "phonetic0": "pʁoʒɛksjonist",
+    "phonetic1": "pʁoʒɛksjonist",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "贸易保护主义者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 110,
+    "word": "concilier",
+    "phonetic0": "kɔ̃silje",
+    "phonetic1": "kɔ̃silje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "调解"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 111,
+    "word": "yen",
+    "phonetic0": "jɛn",
+    "phonetic1": "jɛn",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "日元"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 112,
+    "word": "peso",
+    "phonetic0": "pezo",
+    "phonetic1": "pezo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "比索"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 113,
+    "word": "contrefaire",
+    "phonetic0": "kɔ̃tʁəfɛʁ",
+    "phonetic1": "kɔ̃tʁəfɛʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "伪造"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 114,
+    "word": "dévalorisation",
+    "phonetic0": "devaloʁizasjɔ̃",
+    "phonetic1": "devaloʁizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "贬值"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 115,
+    "word": "fond",
+    "phonetic0": "fɔ̃",
+    "phonetic1": "fɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "资金"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 116,
+    "word": "capital",
+    "phonetic0": "kapital",
+    "phonetic1": "kapital",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "资金"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 117,
+    "word": "plus-value",
+    "phonetic0": "plyvaly",
+    "phonetic1": "plyvaly",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "增值"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 118,
+    "word": "dévaloriser",
+    "phonetic0": "devaloʁize",
+    "phonetic1": "devaloʁize",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "使贬值假的！100"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 119,
+    "word": "import",
+    "phonetic0": "ɛ̃pɔʁ",
+    "phonetic1": "ɛ̃pɔʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "进口"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 120,
+    "word": "facture",
+    "phonetic0": "faktyʁ",
+    "phonetic1": "faktyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "发票"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 121,
+    "word": "pourcentage",
+    "phonetic0": "puʁsɑ̃taʒ",
+    "phonetic1": "puʁsɑ̃taʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "百分比"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 122,
+    "word": "fret",
+    "phonetic0": "fʁɛ",
+    "phonetic1": "fʁɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "运费"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 123,
+    "word": "assurance",
+    "phonetic0": "asyʁɑ̃s",
+    "phonetic1": "asyʁɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "保险"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 124,
+    "word": "bénéfice",
+    "phonetic0": "benefis",
+    "phonetic1": "benefis",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "利润"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 125,
+    "word": "financement",
+    "phonetic0": "finɑ̃səmɑ̃",
+    "phonetic1": "finɑ̃səmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "融资"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 126,
+    "word": "échéance",
+    "phonetic0": "eʃeɑ̃s",
+    "phonetic1": "eʃeɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "到期日"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 127,
+    "word": "manifester",
+    "phonetic0": "manifɛste",
+    "phonetic1": "manifɛste",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "表明"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 128,
+    "word": "résilier",
+    "phonetic0": "ʁezilje",
+    "phonetic1": "ʁezilje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "注销"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 129,
+    "word": "contribution",
+    "phonetic0": "kɔ̃tʁibysjɔ̃",
+    "phonetic1": "kɔ̃tʁibysjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "份额"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 130,
+    "word": "bénéfique",
+    "phonetic0": "benefik",
+    "phonetic1": "benefik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有益的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 131,
+    "word": "épargné",
+    "phonetic0": "epaʁɲe",
+    "phonetic1": "epaʁɲe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "储蓄"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 132,
+    "word": "réserve",
+    "phonetic0": "ʁezɛʁv",
+    "phonetic1": "ʁezɛʁv",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "存款准备金"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 133,
+    "word": "intérêt",
+    "phonetic0": "ɛ̃teʁɛ",
+    "phonetic1": "ɛ̃teʁɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "利息"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 134,
+    "word": "tirelire",
+    "phonetic0": "tiʁəliʁ",
+    "phonetic1": "tiʁəliʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "存钱罐"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 135,
+    "word": "investir",
+    "phonetic0": "ɛ̃vɛstiʁ",
+    "phonetic1": "ɛ̃vɛstiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "投资"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 136,
+    "word": "commanditaire",
+    "phonetic0": "komɑ̃ditɛʁ",
+    "phonetic1": "komɑ̃ditɛʁ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "投资者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 137,
+    "word": "risquer",
+    "phonetic0": "ʁiske",
+    "phonetic1": "ʁiske",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "冒险"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 138,
+    "word": "difficile",
+    "phonetic0": "difisil",
+    "phonetic1": "difisil",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "困难"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 139,
+    "word": "investissement-risque",
+    "phonetic0": "ɛ̃vɛstisəmɑ̃-ʁisk",
+    "phonetic1": "ɛ̃vɛstisəmɑ̃-ʁisk",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "风险投资"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 140,
+    "word": "capital-risque",
+    "phonetic0": "kapitalʁisk",
+    "phonetic1": "kapitalʁisk",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "风险资本"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 141,
+    "word": "propriété",
+    "phonetic0": "pʁopʁijete",
+    "phonetic1": "pʁopʁijete",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "财产"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 142,
+    "word": "contribuer",
+    "phonetic0": "kɔ̃tʁibɥe",
+    "phonetic1": "kɔ̃tʁibɥe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "捐赠"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 143,
+    "word": "possession",
+    "phonetic0": "posesjɔ̃",
+    "phonetic1": "posesjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "所有物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 144,
+    "word": "rupin",
+    "phonetic0": "ʁypɛ̃",
+    "phonetic1": "ʁypɛ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "富有的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 145,
+    "word": "investissement",
+    "phonetic0": "ɛ̃vɛstisəmɑ̃",
+    "phonetic1": "ɛ̃vɛstisəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "投资"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 146,
+    "word": "client",
+    "phonetic0": "klijɑ̃",
+    "phonetic1": "klijɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "客户"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 147,
+    "word": "usure",
+    "phonetic0": "yzyʁ",
+    "phonetic1": "yzyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "高利贷"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 148,
+    "word": "créditeur",
+    "phonetic0": "kʁeditœʁ",
+    "phonetic1": "kʁeditœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "贷方"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 149,
+    "word": "éthique",
+    "phonetic0": "etik",
+    "phonetic1": "etik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "道德的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 150,
+    "word": "dette",
+    "phonetic0": "dɛt",
+    "phonetic1": "dɛt",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "债务"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 151,
+    "word": "emprunteur",
+    "phonetic0": "ɑ̃pʁœ̃tœʁ",
+    "phonetic1": "ɑ̃pʁœ̃tœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "借款方"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 152,
+    "word": "gêne",
+    "phonetic0": "ʒɛn",
+    "phonetic1": "ʒɛn",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "困境"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 153,
+    "word": "escroc",
+    "phonetic0": "ɛskʁo",
+    "phonetic1": "ɛskʁo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "骗子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 154,
+    "word": "garante",
+    "phonetic0": "gaʁɑ̃t",
+    "phonetic1": "gaʁɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "担保"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 155,
+    "word": "hypothéquer",
+    "phonetic0": "ipoteke",
+    "phonetic1": "ipoteke",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "抵押"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 156,
+    "word": "élargir",
+    "phonetic0": "elaʁʒiʁ",
+    "phonetic1": "elaʁʒiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "扩大"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 157,
+    "word": "grade",
+    "phonetic0": "gʁad",
+    "phonetic1": "gʁad",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "等级"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 158,
+    "word": "rendre",
+    "phonetic0": "ʁɑ̃dʁ",
+    "phonetic1": "ʁɑ̃dʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "偿还"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 159,
+    "word": "rembourser",
+    "phonetic0": "ʁɑ̃buʁse",
+    "phonetic1": "ʁɑ̃buʁse",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "偿还"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 160,
+    "word": "égaler",
+    "phonetic0": "egale",
+    "phonetic1": "egale",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等同"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 161,
+    "word": "préalable",
+    "phonetic0": "pʁealabl",
+    "phonetic1": "pʁealabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "预先的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 162,
+    "word": "subside",
+    "phonetic0": "sypzid",
+    "phonetic1": "sypzid",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "津贴"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 163,
+    "word": "stationnaire",
+    "phonetic0": "stasjonɛʁ",
+    "phonetic1": "stasjonɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "定的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 164,
+    "word": "directe",
+    "phonetic0": "diʁɛkt",
+    "phonetic1": "diʁɛkt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "移直接的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 165,
+    "word": "indirect",
+    "phonetic0": "ɛ̃diʁɛkt",
+    "phonetic1": "ɛ̃diʁɛkt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "间接的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 166,
+    "word": "communauté",
+    "phonetic0": "komynote",
+    "phonetic1": "komynote",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "一致"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 167,
+    "word": "opérer",
+    "phonetic0": "opeʁe",
+    "phonetic1": "opeʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "韧操纵"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 168,
+    "word": "capital-actions",
+    "phonetic0": "kapital-aksjɔ̃",
+    "phonetic1": "kapital-aksjɔ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "股本"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 169,
+    "word": "comite",
+    "phonetic0": "kɔmit",
+    "phonetic1": "kɔmit",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "委员会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 170,
+    "word": "impôt",
+    "phonetic0": "ɛ̃po",
+    "phonetic1": "ɛ̃po",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "税"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 171,
+    "word": "fraude",
+    "phonetic0": "fʁod",
+    "phonetic1": "fʁod",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "逃税"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 172,
+    "word": "déductible",
+    "phonetic0": "dedyktibl",
+    "phonetic1": "dedyktibl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "可扣除的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 173,
+    "word": "percepteur",
+    "phonetic0": "pɛʁsɛptœʁ",
+    "phonetic1": "pɛʁsɛptœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "税务员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 174,
+    "word": "contribuable",
+    "phonetic0": "kɔ̃tʁibɥabl",
+    "phonetic1": "kɔ̃tʁibɥabl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "纳税人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 175,
+    "word": "affranchir",
+    "phonetic0": "afʁɑ̃ʃiʁ",
+    "phonetic1": "afʁɑ̃ʃiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "免除"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 176,
+    "word": "bien-être",
+    "phonetic0": "bjɛ̃-ɛtʁ",
+    "phonetic1": "bjɛ̃-ɛtʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "福利"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 177,
+    "word": "travailleur",
+    "phonetic0": "tʁavajœʁ",
+    "phonetic1": "tʁavajœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "工作者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 178,
+    "word": "volontiers",
+    "phonetic0": "volɔ̃tje",
+    "phonetic1": "volɔ̃tje",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "自愿地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 179,
+    "word": "attendre",
+    "phonetic0": "atɑ̃dʁ",
+    "phonetic1": "atɑ̃dʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "等待"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 180,
+    "word": "acquérir",
+    "phonetic0": "akeʁiʁ",
+    "phonetic1": "akeʁiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "获得"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 181,
+    "word": "croyance",
+    "phonetic0": "kʁwajɑ̃s",
+    "phonetic1": "kʁwajɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "信仰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 182,
+    "word": "christianisme",
+    "phonetic0": "kʁistjanizm",
+    "phonetic1": "kʁistjanizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "基督教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 183,
+    "word": "catholicisme",
+    "phonetic0": "katolisizm",
+    "phonetic1": "katolisizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "天主教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 184,
+    "word": "judaïsme",
+    "phonetic0": "ʒydaizm",
+    "phonetic1": "ʒydaizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "犹太教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 185,
+    "word": "islamisme",
+    "phonetic0": "islamizm",
+    "phonetic1": "islamizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "伊斯兰教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 186,
+    "word": "bouddhisme",
+    "phonetic0": "budizm",
+    "phonetic1": "budizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "佛教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 187,
+    "word": "taoïsme",
+    "phonetic0": "taoizm",
+    "phonetic1": "taoizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "道教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 188,
+    "word": "hérésie",
+    "phonetic0": "eʁezi",
+    "phonetic1": "eʁezi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "异端"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 189,
+    "word": "fétichisme",
+    "phonetic0": "fetiʃizm",
+    "phonetic1": "fetiʃizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "拜物教"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 190,
+    "word": "rachat",
+    "phonetic0": "ʁaʃa",
+    "phonetic1": "ʁaʃa",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "救赎"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 191,
+    "word": "disciple",
+    "phonetic0": "disipl",
+    "phonetic1": "disipl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "信徒"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 192,
+    "word": "faute",
+    "phonetic0": "fot",
+    "phonetic1": "fot",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "罪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 193,
+    "word": "bible",
+    "phonetic0": "bibl",
+    "phonetic1": "bibl",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "圣经"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 194,
+    "word": "ange",
+    "phonetic0": "ɑ̃ʒ",
+    "phonetic1": "ɑ̃ʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "天使"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 195,
+    "word": "dieu",
+    "phonetic0": "djø",
+    "phonetic1": "djø",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "上帝"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 196,
+    "word": "baptême",
+    "phonetic0": "batɛm",
+    "phonetic1": "batɛm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "洗礼"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 197,
+    "word": "abolition",
+    "phonetic0": "abolisjɔ̃",
+    "phonetic1": "abolisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "废除"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 198,
+    "word": "cérémonie",
+    "phonetic0": "seʁemoni",
+    "phonetic1": "seʁemoni",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "仪式"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 199,
+    "word": "dogme",
+    "phonetic0": "dɔgm",
+    "phonetic1": "dɔgm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "教义"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 200,
+    "word": "dévotion",
+    "phonetic0": "devosjɔ̃",
+    "phonetic1": "devosjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "崇拜"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 201,
+    "word": "appel",
+    "phonetic0": "apɛl",
+    "phonetic1": "apɛl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "号召"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 202,
+    "word": "recruter",
+    "phonetic0": "ʁəkʁyte",
+    "phonetic1": "ʁəkʁyte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "征募"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 203,
+    "word": "évangéliste",
+    "phonetic0": "evɑ̃ʒelist",
+    "phonetic1": "evɑ̃ʒelist",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "传福音"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 204,
+    "word": "canon",
+    "phonetic0": "kanɔ̃",
+    "phonetic1": "kanɔ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "教规"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 205,
+    "word": "punissable",
+    "phonetic0": "pynisabl",
+    "phonetic1": "pynisabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "该罚的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 206,
+    "word": "sculpteur",
+    "phonetic0": "skyltœʁ",
+    "phonetic1": "skyltœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "雕刻师"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 207,
+    "word": "sculpter",
+    "phonetic0": "skylte",
+    "phonetic1": "skylte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "雕刻"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 208,
+    "word": "effigie",
+    "phonetic0": "efiʒi",
+    "phonetic1": "efiʒi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "人像"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 209,
+    "word": "cariatide",
+    "phonetic0": "kaʁjatid",
+    "phonetic1": "kaʁjatid",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "女像柱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 210,
+    "word": "ciselait",
+    "phonetic0": "sizəlɛ",
+    "phonetic1": "sizəlɛ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "浮雕"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 211,
+    "word": "moule",
+    "phonetic0": "mul",
+    "phonetic1": "mul",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "模子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 212,
+    "word": "modèle",
+    "phonetic0": "modɛl",
+    "phonetic1": "modɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "模型"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 213,
+    "word": "graver",
+    "phonetic0": "gʁave",
+    "phonetic1": "gʁave",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "雕刻"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 214,
+    "word": "ciseler",
+    "phonetic0": "sizəle",
+    "phonetic1": "sizəle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "雕刻"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 215,
+    "word": "gravure",
+    "phonetic0": "gʁavyʁ",
+    "phonetic1": "gʁavyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "雕刻术"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 216,
+    "word": "découpage",
+    "phonetic0": "dekupaʒ",
+    "phonetic1": "dekupaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "切开"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 217,
+    "word": "statue",
+    "phonetic0": "staty",
+    "phonetic1": "staty",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "雕塑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 218,
+    "word": "appareiller",
+    "phonetic0": "apaʁeje",
+    "phonetic1": "apaʁeje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "凿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 219,
+    "word": "schlass",
+    "phonetic0": "ʃlas",
+    "phonetic1": "ʃlas",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "刀子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 220,
+    "word": "compact",
+    "phonetic0": "kɔ̃pakt",
+    "phonetic1": "kɔ̃pakt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "密集的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 221,
+    "word": "constructeur",
+    "phonetic0": "kɔ̃stʁyktœʁ",
+    "phonetic1": "kɔ̃stʁyktœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "建筑师"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 222,
+    "word": "rotondes",
+    "phonetic0": "ʁotɔ̃d",
+    "phonetic1": "ʁotɔ̃d",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "形建筑物"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 223,
+    "word": "grandiose",
+    "phonetic0": "gʁɑ̃djoz",
+    "phonetic1": "gʁɑ̃djoz",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "雄伟的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 224,
+    "word": "dôme",
+    "phonetic0": "dom",
+    "phonetic1": "dom",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "屋顶"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 225,
+    "word": "ouverture",
+    "phonetic0": "uvɛʁtyʁ",
+    "phonetic1": "uvɛʁtyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "孔"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 226,
+    "word": "triangulaire",
+    "phonetic0": "tʁijɑ̃gylɛʁ",
+    "phonetic1": "tʁijɑ̃gylɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "三角形的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 227,
+    "word": "marionnette",
+    "phonetic0": "maʁjonɛt",
+    "phonetic1": "maʁjonɛt",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "木偶"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 228,
+    "word": "pantomime",
+    "phonetic0": "pɑ̃tomim",
+    "phonetic1": "pɑ̃tomim",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "哑剧"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 229,
+    "word": "incarner",
+    "phonetic0": "ɛ̃kaʁne",
+    "phonetic1": "ɛ̃kaʁne",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "扮演"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 230,
+    "word": "prologue",
+    "phonetic0": "pʁolɔg",
+    "phonetic1": "pʁolɔg",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "序幕"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 231,
+    "word": "forma-radio",
+    "phonetic0": "fɔʁma-ʁadjo",
+    "phonetic1": "fɔʁma-ʁadjo",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "收音机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 232,
+    "word": "unique",
+    "phonetic0": "ynik",
+    "phonetic1": "ynik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "独有的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 233,
+    "word": "promener",
+    "phonetic0": "pʁɔmne",
+    "phonetic1": "pʁɔmne",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "散步.数量"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 234,
+    "word": "nouvelles",
+    "phonetic0": "nuvɛl",
+    "phonetic1": "nuvɛl",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "消息"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 235,
+    "word": "radio",
+    "phonetic0": "ʁadjo",
+    "phonetic1": "ʁadjo",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "收音机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 236,
+    "word": "porte-parole",
+    "phonetic0": "pɔʁt-paʁɔl",
+    "phonetic1": "pɔʁt-paʁɔl",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "代言人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 237,
+    "word": "grève",
+    "phonetic0": "gʁɛv",
+    "phonetic1": "gʁɛv",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "罢工"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 238,
+    "word": "défécation",
+    "phonetic0": "defekasjɔ̃",
+    "phonetic1": "defekasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "澄清"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 239,
+    "word": "rumeur",
+    "phonetic0": "ʁymœʁ",
+    "phonetic1": "ʁymœʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "谣言"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 240,
+    "word": "embrouille",
+    "phonetic0": "ɑ̃bʁuj",
+    "phonetic1": "ɑ̃bʁuj",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "扰乱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 241,
+    "word": "absurde",
+    "phonetic0": "apsyʁd",
+    "phonetic1": "apsyʁd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "荒谬的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 242,
+    "word": "convoquer",
+    "phonetic0": "kɔ̃voke",
+    "phonetic1": "kɔ̃voke",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "召开"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 243,
+    "word": "media",
+    "phonetic0": "medja",
+    "phonetic1": "medja",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "媒体"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 244,
+    "word": "dernière",
+    "phonetic0": "dɛʁnjɛʁ",
+    "phonetic1": "dɛʁnjɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "最新的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 245,
+    "word": "formuler",
+    "phonetic0": "fɔʁmyle",
+    "phonetic1": "fɔʁmyle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "制定"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 246,
+    "word": "ordonnance",
+    "phonetic0": "ɔʁdonɑ̃s",
+    "phonetic1": "ɔʁdonɑ̃s",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "法令"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 247,
+    "word": "législation",
+    "phonetic0": "leʒislasjɔ̃",
+    "phonetic1": "leʒislasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "立法"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 248,
+    "word": "criminel",
+    "phonetic0": "kʁiminɛl",
+    "phonetic1": "kʁiminɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "刑事的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 249,
+    "word": "civil",
+    "phonetic0": "sivil",
+    "phonetic1": "sivil",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "民法的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 250,
+    "word": "législature",
+    "phonetic0": "leʒislatyʁ",
+    "phonetic1": "leʒislatyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "立法机关"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 251,
+    "word": "obéir",
+    "phonetic0": "obeiʁ",
+    "phonetic1": "obeiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "顺从"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 252,
+    "word": "fiscalité",
+    "phonetic0": "fiskalite",
+    "phonetic1": "fiskalite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "税法"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 253,
+    "word": "code",
+    "phonetic0": "kɔd",
+    "phonetic1": "kɔd",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "法典"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 254,
+    "word": "commettre",
+    "phonetic0": "komɛtʁ",
+    "phonetic1": "komɛtʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "犯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 255,
+    "word": "crime",
+    "phonetic0": "kʁim",
+    "phonetic1": "kʁim",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "罪行"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 256,
+    "word": "pécher",
+    "phonetic0": "peʃe",
+    "phonetic1": "peʃe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "犯罪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 257,
+    "word": "délibérément",
+    "phonetic0": "delibeʁemɑ̃",
+    "phonetic1": "delibeʁemɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "蓄意地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 258,
+    "word": "voulu",
+    "phonetic0": "vuly",
+    "phonetic1": "vuly",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "故意的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 259,
+    "word": "intention",
+    "phonetic0": "ɛ̃tɑ̃sjɔ̃",
+    "phonetic1": "ɛ̃tɑ̃sjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "意图"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 260,
+    "word": "motif",
+    "phonetic0": "motif",
+    "phonetic1": "motif",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "动机犯罪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 261,
+    "word": "voler",
+    "phonetic0": "vole",
+    "phonetic1": "vole",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "抢劫把手伸"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 262,
+    "word": "dérober",
+    "phonetic0": "deʁobe",
+    "phonetic1": "deʁobe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "偷窃"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 263,
+    "word": "corruption",
+    "phonetic0": "koʁypsjɔ̃",
+    "phonetic1": "koʁypsjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "腐败家陆续成"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 264,
+    "word": "exaction",
+    "phonetic0": "ɛgzaksjɔ̃",
+    "phonetic1": "ɛgzaksjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "敲诈"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 265,
+    "word": "incendiaire",
+    "phonetic0": "ɛ̃sɑ̃djɛʁ",
+    "phonetic1": "ɛ̃sɑ̃djɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "纵火犯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 266,
+    "word": "tueur",
+    "phonetic0": "tɥœʁ",
+    "phonetic1": "tɥœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "杀手"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 267,
+    "word": "bombardement",
+    "phonetic0": "bɔ̃baʁdəmɑ̃",
+    "phonetic1": "bɔ̃baʁdəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "用炸弹袭击"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 268,
+    "word": "parjure",
+    "phonetic0": "paʁʒyʁ",
+    "phonetic1": "paʁʒyʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "伪证罪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 269,
+    "word": "désertion",
+    "phonetic0": "dezɛʁsjɔ̃",
+    "phonetic1": "dezɛʁsjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "背叛"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 270,
+    "word": "kidnapper",
+    "phonetic0": "kidnape",
+    "phonetic1": "kidnape",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "绑架"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 271,
+    "word": "prison",
+    "phonetic0": "pʁizɔ̃",
+    "phonetic1": "pʁizɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "监狱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 272,
+    "word": "cachot",
+    "phonetic0": "kaʃo",
+    "phonetic1": "kaʃo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "监狱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 273,
+    "word": "condamne",
+    "phonetic0": "kɔ̃dan",
+    "phonetic1": "kɔ̃dan",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "犯人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 274,
+    "word": "fusiller",
+    "phonetic0": "fyzije",
+    "phonetic1": "fyzije",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "枪决"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 275,
+    "word": "libérer",
+    "phonetic0": "libeʁe",
+    "phonetic1": "libeʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "释放"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 276,
+    "word": "pénalement",
+    "phonetic0": "penaləmɑ̃",
+    "phonetic1": "penaləmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "刑罚上"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 277,
+    "word": "dénoncer",
+    "phonetic0": "denɔ̃se",
+    "phonetic1": "denɔ̃se",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "检举"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 278,
+    "word": "accuser",
+    "phonetic0": "akyze",
+    "phonetic1": "akyze",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "控告"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 279,
+    "word": "prisonnier",
+    "phonetic0": "pʁizonje",
+    "phonetic1": "pʁizonje",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "犯人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 280,
+    "word": "tribunal",
+    "phonetic0": "tʁibynal",
+    "phonetic1": "tʁibynal",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "法院"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 281,
+    "word": "palis",
+    "phonetic0": "pali",
+    "phonetic1": "pali",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "围栏"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 282,
+    "word": "juge",
+    "phonetic0": "ʒyʒ",
+    "phonetic1": "ʒyʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "法官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 283,
+    "word": "magistrat",
+    "phonetic0": "maʒistʁa",
+    "phonetic1": "maʒistʁa",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "地方法官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 284,
+    "word": "ajourner",
+    "phonetic0": "aʒuʁne",
+    "phonetic1": "aʒuʁne",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "休庭"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 285,
+    "word": "justifier",
+    "phonetic0": "ʒystifje",
+    "phonetic1": "ʒystifje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "辩护"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 286,
+    "word": "défendeur",
+    "phonetic0": "defɑ̃dœʁ",
+    "phonetic1": "defɑ̃dœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "被告"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 287,
+    "word": "juger",
+    "phonetic0": "ʒyʒe",
+    "phonetic1": "ʒyʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "判决"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 288,
+    "word": "assignation",
+    "phonetic0": "asiɲasjɔ̃",
+    "phonetic1": "asiɲasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "传票"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 289,
+    "word": "détenir",
+    "phonetic0": "dɛtəniʁ",
+    "phonetic1": "dɛtəniʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拘留"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 290,
+    "word": "emprisonner",
+    "phonetic0": "ɑ̃pʁizone",
+    "phonetic1": "ɑ̃pʁizone",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "监禁"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 291,
+    "word": "appréhender",
+    "phonetic0": "apʁeɑ̃de",
+    "phonetic1": "apʁeɑ̃de",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "速捕"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 292,
+    "word": "sursis",
+    "phonetic0": "syʁsi",
+    "phonetic1": "syʁsi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "缓刑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 293,
+    "word": "acquittement",
+    "phonetic0": "akitəmɑ̃",
+    "phonetic1": "akitəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "宣告无罪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 294,
+    "word": "poursuite",
+    "phonetic0": "puʁsɥit",
+    "phonetic1": "puʁsɥit",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "起诉"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 295,
+    "word": "déférer",
+    "phonetic0": "defeʁe",
+    "phonetic1": "defeʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "提起公诉"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 296,
+    "word": "interroger",
+    "phonetic0": "ɛ̃tɛʁoʒe",
+    "phonetic1": "ɛ̃tɛʁoʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "审讯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 297,
+    "word": "cuisiner",
+    "phonetic0": "kɥizine",
+    "phonetic1": "kɥizine",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "审问"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 298,
+    "word": "doute",
+    "phonetic0": "dut",
+    "phonetic1": "dut",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "疑问"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 299,
+    "word": "audition",
+    "phonetic0": "odisjɔ̃",
+    "phonetic1": "odisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "听证"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 300,
+    "word": "inculper",
+    "phonetic0": "ɛ̃kylpe",
+    "phonetic1": "ɛ̃kylpe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "控告"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 301,
+    "word": "procès",
+    "phonetic0": "pʁosɛ",
+    "phonetic1": "pʁosɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "诉讼"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 302,
+    "word": "témoin",
+    "phonetic0": "temwɛ̃",
+    "phonetic1": "temwɛ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "证人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 303,
+    "word": "débouter",
+    "phonetic0": "debute",
+    "phonetic1": "debute",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "驳回"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 304,
+    "word": "menacer",
+    "phonetic0": "mənase",
+    "phonetic1": "mənase",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "恐吓"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 305,
+    "word": "escroquer",
+    "phonetic0": "ɛskʁoke",
+    "phonetic1": "ɛskʁoke",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "诈骗"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 306,
+    "word": "faux-fuyant",
+    "phonetic0": "fofɥijɑ̃",
+    "phonetic1": "fofɥijɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "推语"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 307,
+    "word": "requête",
+    "phonetic0": "ʁəkɛt",
+    "phonetic1": "ʁəkɛt",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "诉状"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 308,
+    "word": "régiment",
+    "phonetic0": "ʁeʒimɑ̃",
+    "phonetic1": "ʁeʒimɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "团"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 309,
+    "word": "armée",
+    "phonetic0": "aʁme",
+    "phonetic1": "aʁme",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "部队"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 310,
+    "word": "brigade",
+    "phonetic0": "bʁigad",
+    "phonetic1": "bʁigad",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "旅"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 311,
+    "word": "bataillon",
+    "phonetic0": "batajɔ̃",
+    "phonetic1": "batajɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "营"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 312,
+    "word": "infanterie",
+    "phonetic0": "ɛ̃fɑ̃təʁi",
+    "phonetic1": "ɛ̃fɑ̃təʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "步兵"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 313,
+    "word": "sauveteur",
+    "phonetic0": "sovətœʁ",
+    "phonetic1": "sovətœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "救援人员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 314,
+    "word": "rebelles",
+    "phonetic0": "ʁəbɛl",
+    "phonetic1": "ʁəbɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "反叛"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 315,
+    "word": "artillerie",
+    "phonetic0": "aʁtijəʁi",
+    "phonetic1": "aʁtijəʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "炮兵"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 316,
+    "word": "commandant",
+    "phonetic0": "komɑ̃dɑ̃",
+    "phonetic1": "komɑ̃dɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "指挥官"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 317,
+    "word": "ordre",
+    "phonetic0": "ɔʁdʁ",
+    "phonetic1": "ɔʁdʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "命令"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 318,
+    "word": "pistolet",
+    "phonetic0": "pistolɛ",
+    "phonetic1": "pistolɛ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "手枪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 319,
+    "word": "fusil",
+    "phonetic0": "fyzi",
+    "phonetic1": "fyzi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "步枪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 320,
+    "word": "mitrailleuse",
+    "phonetic0": "mitʁajøz",
+    "phonetic1": "mitʁajøz",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "机关枪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 321,
+    "word": "revolver",
+    "phonetic0": "ʁevɔlvɛʁ",
+    "phonetic1": "ʁevɔlvɛʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "左轮"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 322,
+    "word": "déclic",
+    "phonetic0": "deklik",
+    "phonetic1": "deklik",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "扳机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 323,
+    "word": "munitions",
+    "phonetic0": "mynisjɔ̃",
+    "phonetic1": "mynisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "弹药"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 324,
+    "word": "épauler",
+    "phonetic0": "epole",
+    "phonetic1": "epole",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "瞄准"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 325,
+    "word": "canonnade",
+    "phonetic0": "kanonad",
+    "phonetic1": "kanonad",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "炮火"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 326,
+    "word": "pare-balles",
+    "phonetic0": "paʁbal",
+    "phonetic1": "paʁbal",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "防弹衣"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 327,
+    "word": "nucléaire",
+    "phonetic0": "nykleɛʁ",
+    "phonetic1": "nykleɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "核的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 328,
+    "word": "rayonner",
+    "phonetic0": "ʁɛjone",
+    "phonetic1": "ʁɛjone",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "放射"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 329,
+    "word": "bombe",
+    "phonetic0": "bɔ̃b",
+    "phonetic1": "bɔ̃b",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "炸弹"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 330,
+    "word": "radiation",
+    "phonetic0": "ʁadjasjɔ̃",
+    "phonetic1": "ʁadjasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "放射"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 331,
+    "word": "canadair",
+    "phonetic0": "kanadɛʁ",
+    "phonetic1": "kanadɛʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "通气道"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 332,
+    "word": "larguer",
+    "phonetic0": "laʁge",
+    "phonetic1": "laʁge",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "投放"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 333,
+    "word": "souffle",
+    "phonetic0": "sufl",
+    "phonetic1": "sufl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "冲击波"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 334,
+    "word": "radioactif",
+    "phonetic0": "ʁadjoaktif",
+    "phonetic1": "ʁadjoaktif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "放射性的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 335,
+    "word": "ogive",
+    "phonetic0": "oʒiv",
+    "phonetic1": "oʒiv",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "弹头"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 336,
+    "word": "engins",
+    "phonetic0": "ɑ̃ʒɛ̃",
+    "phonetic1": "ɑ̃ʒɛ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "地对地导弹"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 337,
+    "word": "périscope",
+    "phonetic0": "peʁiskɔp",
+    "phonetic1": "peʁiskɔp",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "潜望镜"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 338,
+    "word": "torpille",
+    "phonetic0": "tɔʁpij",
+    "phonetic1": "tɔʁpij",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "鱼雷"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 339,
+    "word": "émetteur",
+    "phonetic0": "emetœʁ",
+    "phonetic1": "emetœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "发射机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 340,
+    "word": "tank",
+    "phonetic0": "tɑ̃k",
+    "phonetic1": "tɑ̃k",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "坦克"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 341,
+    "word": "contre-torpilleur",
+    "phonetic0": "kɔ̃tʁətɔʁpijœʁ",
+    "phonetic1": "kɔ̃tʁətɔʁpijœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "驱逐舰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 342,
+    "word": "aviso",
+    "phonetic0": "avizo",
+    "phonetic1": "avizo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "护卫舰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 343,
+    "word": "escorteur",
+    "phonetic0": "ɛskɔʁtœʁ",
+    "phonetic1": "ɛskɔʁtœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "护卫舰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 344,
+    "word": "cosmologie",
+    "phonetic0": "kɔsmoloʒi",
+    "phonetic1": "kɔsmoloʒi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "宇宙论"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 345,
+    "word": "ciel",
+    "phonetic0": "sjɛl",
+    "phonetic1": "sjɛl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "天"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 346,
+    "word": "soleil",
+    "phonetic0": "solɛj",
+    "phonetic1": "solɛj",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "太阳"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 347,
+    "word": "chromosphère",
+    "phonetic0": "kʁomosfɛʁ",
+    "phonetic1": "kʁomosfɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "色球"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 348,
+    "word": "couronne",
+    "phonetic0": "kuʁɔn",
+    "phonetic1": "kuʁɔn",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "光环"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 349,
+    "word": "satellite",
+    "phonetic0": "satelit",
+    "phonetic1": "satelit",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "卫星"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 350,
+    "word": "radar",
+    "phonetic0": "ʁadaʁ",
+    "phonetic1": "ʁadaʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "雷达"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 351,
+    "word": "fusée",
+    "phonetic0": "fyze",
+    "phonetic1": "fyze",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "火箭"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 352,
+    "word": "astronef",
+    "phonetic0": "astʁonɛf",
+    "phonetic1": "astʁonɛf",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "太空船"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 353,
+    "word": "biens-fonds",
+    "phonetic0": "bjɛ̃-fɔ̃",
+    "phonetic1": "bjɛ̃-fɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "房地产"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 354,
+    "word": "licence",
+    "phonetic0": "lisɑ̃s",
+    "phonetic1": "lisɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "许可证"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 355,
+    "word": "adjuger",
+    "phonetic0": "adʒyʒe",
+    "phonetic1": "adʒyʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "拍卖给"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 356,
+    "word": "foncier",
+    "phonetic0": "fɔ̃sje",
+    "phonetic1": "fɔ̃sje",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "地产"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 357,
+    "word": "domiciliaires",
+    "phonetic0": "domisiljɛʁ",
+    "phonetic1": "domisiljɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "住宅的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 358,
+    "word": "céder",
+    "phonetic0": "sede",
+    "phonetic1": "sede",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "割让"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 359,
+    "word": "synthétique",
+    "phonetic0": "sɛ̃tetik",
+    "phonetic1": "sɛ̃tetik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "综合的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  }
+]

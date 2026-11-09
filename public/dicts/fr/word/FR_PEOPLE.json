@@ -1,0 +1,5920 @@
+[
+  {
+    "id": 1,
+    "word": "corpulence",
+    "phonetic0": "kɔʁpylɑ̃s",
+    "phonetic1": "kɔʁpylɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "肥胖"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 2,
+    "word": "stature",
+    "phonetic0": "statyʁ",
+    "phonetic1": "statyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "身材"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 3,
+    "word": "mince",
+    "phonetic0": "mɛ̃s",
+    "phonetic1": "mɛ̃s",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "苗条的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 4,
+    "word": "haute",
+    "phonetic0": "ot",
+    "phonetic1": "ot",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "高的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 5,
+    "word": "grosse",
+    "phonetic0": "gʁos",
+    "phonetic1": "gʁos",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "胖的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 6,
+    "word": "maigre",
+    "phonetic0": "mɛgʁ",
+    "phonetic1": "mɛgʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "瘦的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 7,
+    "word": "petite",
+    "phonetic0": "pətit",
+    "phonetic1": "pətit",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 8,
+    "word": "grand",
+    "phonetic0": "gʁɑ̃",
+    "phonetic1": "gʁɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 9,
+    "word": "fuselé",
+    "phonetic0": "fyzəle",
+    "phonetic1": "fyzəle",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "细长的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 10,
+    "word": "fort",
+    "phonetic0": "fɔʁ",
+    "phonetic1": "fɔʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "优美健壮的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 11,
+    "word": "balourd",
+    "phonetic0": "baluʁ",
+    "phonetic1": "baluʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "笨拙的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 12,
+    "word": "échelle",
+    "phonetic0": "eʃɛl",
+    "phonetic1": "eʃɛl",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "比例"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 13,
+    "word": "regard",
+    "phonetic0": "ʁəgaʁ",
+    "phonetic1": "ʁəgaʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "眼神"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 14,
+    "word": "blonde",
+    "phonetic0": "blɔ̃d",
+    "phonetic1": "blɔ̃d",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "金发"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 15,
+    "word": "dolent",
+    "phonetic0": "dɔlɑ̃",
+    "phonetic1": "dɔlɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "悲伤的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 16,
+    "word": "enfoncé",
+    "phonetic0": "ɑ̃fɔ̃se",
+    "phonetic1": "ɑ̃fɔ̃se",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "深陷的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 17,
+    "word": "déprimé",
+    "phonetic0": "depʁime",
+    "phonetic1": "depʁime",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "凹陷的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 18,
+    "word": "strabisme",
+    "phonetic0": "stʁabizm",
+    "phonetic1": "stʁabizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "斜眼"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 19,
+    "word": "borgne",
+    "phonetic0": "bɔʁɲ",
+    "phonetic1": "bɔʁɲ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "独眼的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 20,
+    "word": "brun",
+    "phonetic0": "bʁœ̃",
+    "phonetic1": "bʁœ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "棕色的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 21,
+    "word": "clignement",
+    "phonetic0": "kliɲəmɑ̃",
+    "phonetic1": "kliɲəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "眼睛咪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 22,
+    "word": "rond",
+    "phonetic0": "ʁɔ̃",
+    "phonetic1": "ʁɔ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "圆的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 23,
+    "word": "ovalaire",
+    "phonetic0": "ovalɛʁ",
+    "phonetic1": "ovalɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "椭圆的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 24,
+    "word": "dodu",
+    "phonetic0": "dody",
+    "phonetic1": "dody",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "胖的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 25,
+    "word": "bouffi",
+    "phonetic0": "bufi",
+    "phonetic1": "bufi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "浮肿的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 26,
+    "word": "flétri",
+    "phonetic0": "fletʁi",
+    "phonetic1": "fletʁi",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 27,
+    "word": "ride",
+    "phonetic0": "ʁid",
+    "phonetic1": "ʁid",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "皱纹"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 28,
+    "word": "acné",
+    "phonetic0": "akne",
+    "phonetic1": "akne",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "痤疮，粉刺"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 29,
+    "word": "moustache",
+    "phonetic0": "mustaʃ",
+    "phonetic1": "mustaʃ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "胡子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 30,
+    "word": "barbe",
+    "phonetic0": "baʁb",
+    "phonetic1": "baʁb",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "胡须"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 31,
+    "word": "frimousse",
+    "phonetic0": "fʁimus",
+    "phonetic1": "fʁimus",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "脸蛋儿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 32,
+    "word": "grêlée",
+    "phonetic0": "gʁele",
+    "phonetic1": "gʁele",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "麻脸的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 33,
+    "word": "dérider",
+    "phonetic0": "deʁide",
+    "phonetic1": "deʁide",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "露出笑容"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 34,
+    "word": "sémillant",
+    "phonetic0": "semijɑ̃",
+    "phonetic1": "semijɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "快活"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 35,
+    "word": "jovial",
+    "phonetic0": "ʒovjal",
+    "phonetic1": "ʒovjal",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "开朗的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 36,
+    "word": "attrayant",
+    "phonetic0": "atʁɛjɑ̃",
+    "phonetic1": "atʁɛjɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "迷人的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 37,
+    "word": "prospère",
+    "phonetic0": "pʁɔspɛʁ",
+    "phonetic1": "pʁɔspɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "繁荣的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 38,
+    "word": "sourire",
+    "phonetic0": "suʁiʁ",
+    "phonetic1": "suʁiʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "微笑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 39,
+    "word": "ridicule",
+    "phonetic0": "ʁidikyl",
+    "phonetic1": "ʁidikyl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "可笑的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 40,
+    "word": "dédaigneuse",
+    "phonetic0": "dedɛɲøz",
+    "phonetic1": "dedɛɲøz",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "轻葳的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 41,
+    "word": "railler",
+    "phonetic0": "ʁaje",
+    "phonetic1": "ʁaje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "笑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 42,
+    "word": "bruit",
+    "phonetic0": "bʁɥi",
+    "phonetic1": "bʁɥi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "噪音"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 43,
+    "word": "voix",
+    "phonetic0": "vwa",
+    "phonetic1": "vwa",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "声音"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 44,
+    "word": "limpide",
+    "phonetic0": "lɛ̃pid",
+    "phonetic1": "lɛ̃pid",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "清晰的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 45,
+    "word": "sourde",
+    "phonetic0": "suʁd",
+    "phonetic1": "suʁd",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "低沉的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 46,
+    "word": "éclatante",
+    "phonetic0": "eklatɑ̃t",
+    "phonetic1": "eklatɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "响亮的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 47,
+    "word": "dure",
+    "phonetic0": "dyʁ",
+    "phonetic1": "dyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "刺耳的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 48,
+    "word": "strident",
+    "phonetic0": "stʁidɑ̃",
+    "phonetic1": "stʁidɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "刺耳的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 49,
+    "word": "gentil",
+    "phonetic0": "ʒɑ̃ti",
+    "phonetic1": "ʒɑ̃ti",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "温柔的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 50,
+    "word": "suave",
+    "phonetic0": "sɥav",
+    "phonetic1": "sɥav",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "甜蜜的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 51,
+    "word": "monotone",
+    "phonetic0": "monotɔn",
+    "phonetic1": "monotɔn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "单调的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 52,
+    "word": "frêle",
+    "phonetic0": "fʁɛl",
+    "phonetic1": "fʁɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "微弱的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 53,
+    "word": "pale",
+    "phonetic0": "pal",
+    "phonetic1": "pal",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "微弱的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 54,
+    "word": "aigu",
+    "phonetic0": "egy",
+    "phonetic1": "egy",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高音的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 55,
+    "word": "féerique",
+    "phonetic0": "feʁik",
+    "phonetic1": "feʁik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "美妙的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 56,
+    "word": "position",
+    "phonetic0": "pozisjɔ̃",
+    "phonetic1": "pozisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "地位"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 57,
+    "word": "plébéien",
+    "phonetic0": "plebejɛ̃",
+    "phonetic1": "plebejɛ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "平民"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 58,
+    "word": "paysannerie",
+    "phonetic0": "peizanəʁi",
+    "phonetic1": "peizanəʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "农民"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 59,
+    "word": "cadre",
+    "phonetic0": "kadʁ",
+    "phonetic1": "kadʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "干部"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 60,
+    "word": "militaire",
+    "phonetic0": "militɛʁ",
+    "phonetic1": "militɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "军人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 61,
+    "word": "fonctionnaire",
+    "phonetic0": "fɔ̃ksjonɛʁ",
+    "phonetic1": "fɔ̃ksjonɛʁ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "官员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 62,
+    "word": "diriger",
+    "phonetic0": "diʁiʒe",
+    "phonetic1": "diʁiʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "领导"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 63,
+    "word": "noble",
+    "phonetic0": "nɔbl",
+    "phonetic1": "nɔbl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "贵族"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 64,
+    "word": "aristocratie",
+    "phonetic0": "aʁistokʁasi",
+    "phonetic1": "aʁistokʁasi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "贵族"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 65,
+    "word": "magnifique",
+    "phonetic0": "maɲifik",
+    "phonetic1": "maɲifik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "卓越的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 66,
+    "word": "excellente",
+    "phonetic0": "ɛksɛlɑ̃t",
+    "phonetic1": "ɛksɛlɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "杰出的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 67,
+    "word": "bon",
+    "phonetic0": "bɔ̃",
+    "phonetic1": "bɔ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "好的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 68,
+    "word": "positif",
+    "phonetic0": "pozitif",
+    "phonetic1": "pozitif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "积极的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 69,
+    "word": "honnête",
+    "phonetic0": "onɛt",
+    "phonetic1": "onɛt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "善良的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 70,
+    "word": "véridique",
+    "phonetic0": "veʁidik",
+    "phonetic1": "veʁidik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "诚实的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 71,
+    "word": "assidu",
+    "phonetic0": "asidy",
+    "phonetic1": "asidy",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "勤奋的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 72,
+    "word": "sagace",
+    "phonetic0": "sagas",
+    "phonetic1": "sagas",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "聪明的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 73,
+    "word": "futé",
+    "phonetic0": "fyte",
+    "phonetic1": "fyte",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "精明的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 74,
+    "word": "créateur",
+    "phonetic0": "kʁeatœʁ",
+    "phonetic1": "kʁeatœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "创造者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 75,
+    "word": "responsable",
+    "phonetic0": "ʁɛspɔ̃sabl",
+    "phonetic1": "ʁɛspɔ̃sabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "负责的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 76,
+    "word": "sérieusement",
+    "phonetic0": "seʁjøzəmɑ̃",
+    "phonetic1": "seʁjøzəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "认真地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 77,
+    "word": "négatif",
+    "phonetic0": "negatif",
+    "phonetic1": "negatif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "消极的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 78,
+    "word": "pessimiste",
+    "phonetic0": "pesimist",
+    "phonetic1": "pesimist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "悲观的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 79,
+    "word": "sourcilleux",
+    "phonetic0": "suʁsijø",
+    "phonetic1": "suʁsijø",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "吹毛求症的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 80,
+    "word": "mou",
+    "phonetic0": "mu",
+    "phonetic1": "mu",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "优柔寡断的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 81,
+    "word": "pingre",
+    "phonetic0": "pɛ̃gʁ",
+    "phonetic1": "pɛ̃gʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "音的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 82,
+    "word": "chatouilleuse",
+    "phonetic0": "ʃatujøz",
+    "phonetic1": "ʃatujøz",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "敏感的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 83,
+    "word": "dégueulasse",
+    "phonetic0": "degølas",
+    "phonetic1": "degølas",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "卑部的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 84,
+    "word": "satanique",
+    "phonetic0": "satanik",
+    "phonetic1": "satanik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "邪恶的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 85,
+    "word": "malhonnête",
+    "phonetic0": "malonɛt",
+    "phonetic1": "malonɛt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "不诚实的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 86,
+    "word": "bêta",
+    "phonetic0": "bɛta",
+    "phonetic1": "bɛta",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "愚鑫的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 87,
+    "word": "stupide",
+    "phonetic0": "stypid",
+    "phonetic1": "stypid",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "患鑫的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 88,
+    "word": "nationalité",
+    "phonetic0": "nasjonalite",
+    "phonetic1": "nasjonalite",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "国籍"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 89,
+    "word": "yankee",
+    "phonetic0": "jɑ̃ki",
+    "phonetic1": "jɑ̃ki",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "美国人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 90,
+    "word": "canadienne",
+    "phonetic0": "kanadjɛn",
+    "phonetic1": "kanadjɛn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "加拿大人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 91,
+    "word": "japonaise",
+    "phonetic0": "ʒaponɛz",
+    "phonetic1": "ʒaponɛz",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "日本人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 92,
+    "word": "français",
+    "phonetic0": "fʁɑ̃sɛ",
+    "phonetic1": "fʁɑ̃sɛ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "法国人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 93,
+    "word": "australienne",
+    "phonetic0": "ostʁaljɛn",
+    "phonetic1": "ostʁaljɛn",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "澳大利亚人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 94,
+    "word": "russe",
+    "phonetic0": "ʁys",
+    "phonetic1": "ʁys",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "俄罗斯人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 95,
+    "word": "allemand",
+    "phonetic0": "aləmɑ̃",
+    "phonetic1": "aləmɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "德国人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 96,
+    "word": "britannique",
+    "phonetic0": "bʁitanik",
+    "phonetic1": "bʁitanik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "英国人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 97,
+    "word": "irlandais",
+    "phonetic0": "iʁlɑ̃dɛ",
+    "phonetic1": "iʁlɑ̃dɛ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "爱尔兰人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 98,
+    "word": "finlandais",
+    "phonetic0": "fɛ̃lɑ̃dɛ",
+    "phonetic1": "fɛ̃lɑ̃dɛ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "芬兰人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 99,
+    "word": "suisse",
+    "phonetic0": "sɥis",
+    "phonetic1": "sɥis",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "瑞士人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 100,
+    "word": "grec",
+    "phonetic0": "gʁɛk",
+    "phonetic1": "gʁɛk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "希腊人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 101,
+    "word": "espagnol",
+    "phonetic0": "ɛspaɲɔl",
+    "phonetic1": "ɛspaɲɔl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "西班牙人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 102,
+    "word": "age",
+    "phonetic0": "aʒ",
+    "phonetic1": "aʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "年龄"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 103,
+    "word": "nouveau-ne",
+    "phonetic0": "nuvo-nə",
+    "phonetic1": "nuvo-nə",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "新生儿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 104,
+    "word": "prématuré",
+    "phonetic0": "pʁematyʁe",
+    "phonetic1": "pʁematyʁe",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "早产儿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 105,
+    "word": "bébé",
+    "phonetic0": "bebe",
+    "phonetic1": "bebe",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "婴儿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 106,
+    "word": "enfant",
+    "phonetic0": "ɑ̃fɑ̃",
+    "phonetic1": "ɑ̃fɑ̃",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "小孩"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 107,
+    "word": "mineure",
+    "phonetic0": "minœʁ",
+    "phonetic1": "minœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "未成年"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 108,
+    "word": "majeure",
+    "phonetic0": "maʒœʁ",
+    "phonetic1": "maʒœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "成年的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 109,
+    "word": "jeune",
+    "phonetic0": "ʒœn",
+    "phonetic1": "ʒœn",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "年轻的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 110,
+    "word": "adulte",
+    "phonetic0": "adylt",
+    "phonetic1": "adylt",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "成年"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 111,
+    "word": "vieillard",
+    "phonetic0": "vjɛjaʁ",
+    "phonetic1": "vjɛjaʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "老人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 112,
+    "word": "mineur",
+    "phonetic0": "minœʁ",
+    "phonetic1": "minœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "未成年"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 113,
+    "word": "métier",
+    "phonetic0": "metje",
+    "phonetic1": "metje",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "职业"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 114,
+    "word": "travailler",
+    "phonetic0": "tʁavaje",
+    "phonetic1": "tʁavaje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 115,
+    "word": "emploi",
+    "phonetic0": "ɑ̃plwa",
+    "phonetic1": "ɑ̃plwa",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 116,
+    "word": "domaine",
+    "phonetic0": "domɛn",
+    "phonetic1": "domɛn",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "领域"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 117,
+    "word": "cursus",
+    "phonetic0": "kyʁsys",
+    "phonetic1": "kyʁsys",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "职业生涯"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 118,
+    "word": "docteur",
+    "phonetic0": "dɔktœʁ",
+    "phonetic1": "dɔktœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "医生"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 119,
+    "word": "designer",
+    "phonetic0": "deziɲe",
+    "phonetic1": "deziɲe",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "设计师"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 120,
+    "word": "professeur",
+    "phonetic0": "pʁofɛsœʁ",
+    "phonetic1": "pʁofɛsœʁ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "老师"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 121,
+    "word": "amateur",
+    "phonetic0": "amatœʁ",
+    "phonetic1": "amatœʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "业余运动员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 122,
+    "word": "nettoyeurs",
+    "phonetic0": "netwajœʁ",
+    "phonetic1": "netwajœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "清洁工"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 123,
+    "word": "savante",
+    "phonetic0": "savɑ̃t",
+    "phonetic1": "savɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "学者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 124,
+    "word": "scientifique",
+    "phonetic0": "sjɑ̃tifik",
+    "phonetic1": "sjɑ̃tifik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "科学家"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 125,
+    "word": "vendeur",
+    "phonetic0": "vɑ̃dœʁ",
+    "phonetic1": "vɑ̃dœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "售货员"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 126,
+    "word": "parler",
+    "phonetic0": "paʁle",
+    "phonetic1": "paʁle",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "说话"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 127,
+    "word": "dire",
+    "phonetic0": "diʁ",
+    "phonetic1": "diʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "说话"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 128,
+    "word": "harangue",
+    "phonetic0": "aʁɑ̃g",
+    "phonetic1": "aʁɑ̃g",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "演讲"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 129,
+    "word": "crier",
+    "phonetic0": "kʁije",
+    "phonetic1": "kʁije",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "喊叫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 130,
+    "word": "clamer",
+    "phonetic0": "klame",
+    "phonetic1": "klame",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "叫喊"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 131,
+    "word": "braillement",
+    "phonetic0": "bʁajəmɑ̃",
+    "phonetic1": "bʁajəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "喊叫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 132,
+    "word": "exhorter",
+    "phonetic0": "ɛgzɔʁte",
+    "phonetic1": "ɛgzɔʁte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "劝说"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 133,
+    "word": "expliquer",
+    "phonetic0": "ɛksplike",
+    "phonetic1": "ɛksplike",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "解释"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 134,
+    "word": "blâmer",
+    "phonetic0": "blame",
+    "phonetic1": "blame",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "责备"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 135,
+    "word": "critiquer",
+    "phonetic0": "kʁitike",
+    "phonetic1": "kʁitike",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "批评"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 136,
+    "word": "introduire",
+    "phonetic0": "ɛ̃tʁodɥiʁ",
+    "phonetic1": "ɛ̃tʁodɥiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "介绍"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 137,
+    "word": "exalter",
+    "phonetic0": "ɛgzalte",
+    "phonetic1": "ɛgzalte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "表扬"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 138,
+    "word": "mentir",
+    "phonetic0": "mɑ̃tiʁ",
+    "phonetic1": "mɑ̃tiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "撒"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 139,
+    "word": "soupir",
+    "phonetic0": "supiʁ",
+    "phonetic1": "supiʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "叹息"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 140,
+    "word": "recommander",
+    "phonetic0": "ʁəkomɑ̃de",
+    "phonetic1": "ʁəkomɑ̃de",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "推荐"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 141,
+    "word": "hochement",
+    "phonetic0": "ɔʃəmɑ̃",
+    "phonetic1": "ɔʃəmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "点头"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 142,
+    "word": "branler",
+    "phonetic0": "bʁɑ̃le",
+    "phonetic1": "bʁɑ̃le",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "摇动"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 143,
+    "word": "incliner",
+    "phonetic0": "ɛ̃kline",
+    "phonetic1": "ɛ̃kline",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "翰射"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 144,
+    "word": "applaudir",
+    "phonetic0": "aplodiʁ",
+    "phonetic1": "aplodiʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "鼓掌"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 145,
+    "word": "acclamer",
+    "phonetic0": "aklame",
+    "phonetic1": "aklame",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "欢呼"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 146,
+    "word": "interprété",
+    "phonetic0": "ɛ̃tɛʁpʁete",
+    "phonetic1": "ɛ̃tɛʁpʁete",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "口译"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 147,
+    "word": "faire",
+    "phonetic0": "fɛʁ",
+    "phonetic1": "fɛʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "做"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 148,
+    "word": "représenter",
+    "phonetic0": "ʁəpʁezɑ̃te",
+    "phonetic1": "ʁəpʁezɑ̃te",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "表演"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 149,
+    "word": "action",
+    "phonetic0": "aksjɔ̃",
+    "phonetic1": "aksjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "行为"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 150,
+    "word": "pratiquer",
+    "phonetic0": "pʁatike",
+    "phonetic1": "pʁatike",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "练习"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 151,
+    "word": "demander",
+    "phonetic0": "dəmɑ̃de",
+    "phonetic1": "dəmɑ̃de",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "问"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 152,
+    "word": "contester",
+    "phonetic0": "kɔ̃tɛste",
+    "phonetic1": "kɔ̃tɛste",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "质疑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 153,
+    "word": "crispation",
+    "phonetic0": "kʁispasjɔ̃",
+    "phonetic1": "kʁispasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "蜷缩"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 154,
+    "word": "saluer",
+    "phonetic0": "salɥe",
+    "phonetic1": "salɥe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "致敬"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 155,
+    "word": "remercier",
+    "phonetic0": "ʁəmɛʁsje",
+    "phonetic1": "ʁəmɛʁsje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "谢谢"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 156,
+    "word": "courber",
+    "phonetic0": "kuʁbe",
+    "phonetic1": "kuʁbe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "弯腰"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 157,
+    "word": "chancelé",
+    "phonetic0": "ʃɑ̃səle",
+    "phonetic1": "ʃɑ̃səle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "摇晃"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 158,
+    "word": "claudication",
+    "phonetic0": "klodikasjɔ̃",
+    "phonetic1": "klodikasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "跛行"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 159,
+    "word": "élégant",
+    "phonetic0": "elegɑ̃",
+    "phonetic1": "elegɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "高雅的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 160,
+    "word": "clopiner",
+    "phonetic0": "klopine",
+    "phonetic1": "klopine",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "满"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 161,
+    "word": "boiter",
+    "phonetic0": "bwate",
+    "phonetic1": "bwate",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "跨蹦"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 162,
+    "word": "flâner",
+    "phonetic0": "flane",
+    "phonetic1": "flane",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "狗"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 163,
+    "word": "approuver",
+    "phonetic0": "apʁuve",
+    "phonetic1": "apʁuve",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "赞成"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 164,
+    "word": "optimiste",
+    "phonetic0": "ɔptimist",
+    "phonetic1": "ɔptimist",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "乐观的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 165,
+    "word": "objectif",
+    "phonetic0": "ɔbʒɛktif",
+    "phonetic1": "ɔbʒɛktif",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "观的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 166,
+    "word": "juste",
+    "phonetic0": "ʒyst",
+    "phonetic1": "ʒyst",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "公平的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 167,
+    "word": "désintéresse",
+    "phonetic0": "dezɛ̃teʁɛs",
+    "phonetic1": "dezɛ̃teʁɛs",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "公正的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 168,
+    "word": "prudemment",
+    "phonetic0": "pʁydamɑ̃",
+    "phonetic1": "pʁydamɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "谨慎地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 169,
+    "word": "serviable",
+    "phonetic0": "sɛʁvjabl",
+    "phonetic1": "sɛʁvjabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "热心助人的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 170,
+    "word": "fier",
+    "phonetic0": "fjɛʁ",
+    "phonetic1": "fjɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "骄傲的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 171,
+    "word": "concluant",
+    "phonetic0": "kɔ̃klyɑ̃",
+    "phonetic1": "kɔ̃klyɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "令人信服的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 172,
+    "word": "convaincant",
+    "phonetic0": "kɔ̃vɛ̃kɑ̃",
+    "phonetic1": "kɔ̃vɛ̃kɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "令人信服的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 173,
+    "word": "patient",
+    "phonetic0": "pasjɑ̃",
+    "phonetic1": "pasjɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "耐心的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 174,
+    "word": "préférer",
+    "phonetic0": "pʁefeʁe",
+    "phonetic1": "pʁefeʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "喜爱"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 175,
+    "word": "pessimisme",
+    "phonetic0": "pesimizm",
+    "phonetic1": "pesimizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "悲观"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 176,
+    "word": "dogmatique",
+    "phonetic0": "dɔgmatik",
+    "phonetic1": "dɔgmatik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "武断的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 177,
+    "word": "affligeante",
+    "phonetic0": "afliʒɑ̃t",
+    "phonetic1": "afliʒɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "令人丧的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 178,
+    "word": "désespérant",
+    "phonetic0": "dezɛspeʁɑ̃",
+    "phonetic1": "dezɛspeʁɑ̃",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "令人失望的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 179,
+    "word": "sceptique",
+    "phonetic0": "sɛptik",
+    "phonetic1": "sɛptik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "怀疑的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 180,
+    "word": "contrarier",
+    "phonetic0": "kɔ̃tʁaʁje",
+    "phonetic1": "kɔ̃tʁaʁje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "反对"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 181,
+    "word": "fâche",
+    "phonetic0": "faʃ",
+    "phonetic1": "faʃ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "愤怒的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 182,
+    "word": "mépriser",
+    "phonetic0": "mepʁize",
+    "phonetic1": "mepʁize",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "轻视"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 183,
+    "word": "frustrée",
+    "phonetic0": "fʁystʁe",
+    "phonetic1": "fʁystʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "沮丧的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 184,
+    "word": "équivoque",
+    "phonetic0": "ekivɔk",
+    "phonetic1": "ekivɔk",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "模棱两可的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 185,
+    "word": "portable",
+    "phonetic0": "pɔʁtabl",
+    "phonetic1": "pɔʁtabl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "便携的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 186,
+    "word": "mobile",
+    "phonetic0": "mobil",
+    "phonetic1": "mobil",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "移动的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 187,
+    "word": "sonnerie",
+    "phonetic0": "sɔnəʁi",
+    "phonetic1": "sɔnəʁi",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "手机铃声"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 188,
+    "word": "fermeture",
+    "phonetic0": "fɛʁmətyʁ",
+    "phonetic1": "fɛʁmətyʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "关机"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 189,
+    "word": "message",
+    "phonetic0": "mesaʒ",
+    "phonetic1": "mesaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "短信"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 190,
+    "word": "ordinateur",
+    "phonetic0": "ɔʁdinatœʁ",
+    "phonetic1": "ɔʁdinatœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "电脑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 191,
+    "word": "clavier",
+    "phonetic0": "klavje",
+    "phonetic1": "klavje",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "键盘"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 192,
+    "word": "table",
+    "phonetic0": "tabl",
+    "phonetic1": "tabl",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "平板电脑"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 193,
+    "word": "data",
+    "phonetic0": "data",
+    "phonetic1": "data",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "数据"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 194,
+    "word": "pirate",
+    "phonetic0": "piʁat",
+    "phonetic1": "piʁat",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "黑客"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 195,
+    "word": "matériel",
+    "phonetic0": "mateʁjɛl",
+    "phonetic1": "mateʁjɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "硬件"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 196,
+    "word": "logiciel",
+    "phonetic0": "loʒisjɛl",
+    "phonetic1": "loʒisjɛl",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "软件"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 197,
+    "word": "souris",
+    "phonetic0": "suʁi",
+    "phonetic1": "suʁi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "鼠标"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 198,
+    "word": "programme",
+    "phonetic0": "pʁogʁam",
+    "phonetic1": "pʁogʁam",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "程序"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 199,
+    "word": "condensation",
+    "phonetic0": "kɔ̃dɑ̃sasjɔ̃",
+    "phonetic1": "kɔ̃dɑ̃sasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "缩放"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 200,
+    "word": "synchronisation",
+    "phonetic0": "sɛ̃kʁonizasjɔ̃",
+    "phonetic1": "sɛ̃kʁonizasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "同步"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 201,
+    "word": "réseau",
+    "phonetic0": "ʁezo",
+    "phonetic1": "ʁezo",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "网络"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 202,
+    "word": "sans-fil",
+    "phonetic0": "sɑ̃fil",
+    "phonetic1": "sɑ̃fil",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "无线的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 203,
+    "word": "internet",
+    "phonetic0": "ɛ̃tɛʁnɛt",
+    "phonetic1": "ɛ̃tɛʁnɛt",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 204,
+    "word": "affichage",
+    "phonetic0": "afiʃaʒ",
+    "phonetic1": "afiʃaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "点击数"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 205,
+    "word": "surfer",
+    "phonetic0": "sœʁfe",
+    "phonetic1": "sœʁfe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "网上冲浪"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 206,
+    "word": "annuler",
+    "phonetic0": "anyle",
+    "phonetic1": "anyle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "注销"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 207,
+    "word": "internaute",
+    "phonetic0": "ɛ̃tɛʁnot",
+    "phonetic1": "ɛ̃tɛʁnot",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "网民"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 208,
+    "word": "renouveler",
+    "phonetic0": "ʁənuvəle",
+    "phonetic1": "ʁənuvəle",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "刷新"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 209,
+    "word": "connecter",
+    "phonetic0": "konɛkte",
+    "phonetic1": "konɛkte",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "联系"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 210,
+    "word": "bloc",
+    "phonetic0": "blɔk",
+    "phonetic1": "blɔk",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "博客"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 211,
+    "word": "abonner",
+    "phonetic0": "abone",
+    "phonetic1": "abone",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "订阅"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 212,
+    "word": "répondre",
+    "phonetic0": "ʁepɔ̃dʁ",
+    "phonetic1": "ʁepɔ̃dʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "回复"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 213,
+    "word": "article",
+    "phonetic0": "aʁtikl",
+    "phonetic1": "aʁtikl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "文章"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 214,
+    "word": "e-mail",
+    "phonetic0": "imɛjl",
+    "phonetic1": "imɛjl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "电子邮件"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 215,
+    "word": "émettre",
+    "phonetic0": "emɛtʁ",
+    "phonetic1": "emɛtʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "发送"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 216,
+    "word": "néologisme",
+    "phonetic0": "neoloʒizm",
+    "phonetic1": "neoloʒizm",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "新词"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 217,
+    "word": "famille",
+    "phonetic0": "famij",
+    "phonetic1": "famij",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "家庭"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 218,
+    "word": "relation",
+    "phonetic0": "ʁəlasjɔ̃",
+    "phonetic1": "ʁəlasjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "关系"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 219,
+    "word": "femme",
+    "phonetic0": "fam",
+    "phonetic1": "fam",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "妻子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 220,
+    "word": "mari",
+    "phonetic0": "maʁi",
+    "phonetic1": "maʁi",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "文夫"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 221,
+    "word": "mère",
+    "phonetic0": "mɛʁ",
+    "phonetic1": "mɛʁ",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "妈妈"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 222,
+    "word": "père",
+    "phonetic0": "pɛʁ",
+    "phonetic1": "pɛʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "父亲"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 223,
+    "word": "fils",
+    "phonetic0": "fis",
+    "phonetic1": "fis",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "儿子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 224,
+    "word": "fille",
+    "phonetic0": "fij",
+    "phonetic1": "fij",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "女儿"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 225,
+    "word": "grand-père",
+    "phonetic0": "gʁɑ̃-pɛʁ",
+    "phonetic1": "gʁɑ̃-pɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "爷爷，外公"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 226,
+    "word": "oncle",
+    "phonetic0": "ɔ̃kl",
+    "phonetic1": "ɔ̃kl",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "叔叔"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 227,
+    "word": "tante",
+    "phonetic0": "tɑ̃t",
+    "phonetic1": "tɑ̃t",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "姑母"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 228,
+    "word": "familier",
+    "phonetic0": "familje",
+    "phonetic1": "familje",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "亲近的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 229,
+    "word": "parente",
+    "phonetic0": "paʁɑ̃t",
+    "phonetic1": "paʁɑ̃t",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "亲属"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 230,
+    "word": "cousin",
+    "phonetic0": "kuzɛ̃",
+    "phonetic1": "kuzɛ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "表兄弟"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 231,
+    "word": "neveu",
+    "phonetic0": "nəvø",
+    "phonetic1": "nəvø",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "侄子"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 232,
+    "word": "amant",
+    "phonetic0": "amɑ̃",
+    "phonetic1": "amɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "情人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 233,
+    "word": "ami",
+    "phonetic0": "ami",
+    "phonetic1": "ami",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "朋友"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 234,
+    "word": "amitié",
+    "phonetic0": "amitje",
+    "phonetic1": "amitje",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "友谊"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 235,
+    "word": "encourager",
+    "phonetic0": "ɑ̃kuʁaʒe",
+    "phonetic1": "ɑ̃kuʁaʒe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "增进"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 236,
+    "word": "romantique",
+    "phonetic0": "ʁomɑ̃tik",
+    "phonetic1": "ʁomɑ̃tik",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "浪漫的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 237,
+    "word": "surprise",
+    "phonetic0": "syʁpʁiz",
+    "phonetic1": "syʁpʁiz",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "惊喜"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 238,
+    "word": "rendez-vous",
+    "phonetic0": "ʁɑ̃devu",
+    "phonetic1": "ʁɑ̃devu",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "约会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 239,
+    "word": "rancard",
+    "phonetic0": "ʁɑ̃kaʁ",
+    "phonetic1": "ʁɑ̃kaʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "约会"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 240,
+    "word": "sincère",
+    "phonetic0": "sɛ̃sɛʁ",
+    "phonetic1": "sɛ̃sɛʁ",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "真诚的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 241,
+    "word": "désintéressée",
+    "phonetic0": "dezɛ̃teʁese",
+    "phonetic1": "dezɛ̃teʁese",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "无私的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 242,
+    "word": "compagnon",
+    "phonetic0": "kɔ̃paɲɔ̃",
+    "phonetic1": "kɔ̃paɲɔ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "伙伴"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 243,
+    "word": "accompagner",
+    "phonetic0": "akɔ̃paɲe",
+    "phonetic1": "akɔ̃paɲe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "陪伴"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 244,
+    "word": "sexe",
+    "phonetic0": "sɛks",
+    "phonetic1": "sɛks",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "性别"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 245,
+    "word": "ennemi",
+    "phonetic0": "ɛnəmi",
+    "phonetic1": "ɛnəmi",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "敌人"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 246,
+    "word": "hostile",
+    "phonetic0": "ɔstil",
+    "phonetic1": "ɔstil",
+    "trans": [
+      {
+        "pos": "adj.",
+        "cn": "有敌意的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 247,
+    "word": "bagarrer",
+    "phonetic0": "bagaʁe",
+    "phonetic1": "bagaʁe",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "打架"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 248,
+    "word": "compétition",
+    "phonetic0": "kɔ̃petisjɔ̃",
+    "phonetic1": "kɔ̃petisjɔ̃",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "竞争"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 249,
+    "word": "émule",
+    "phonetic0": "emyl",
+    "phonetic1": "emyl",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "竞争者"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 250,
+    "word": "concurrence",
+    "phonetic0": "kɔ̃kyʁɑ̃s",
+    "phonetic1": "kɔ̃kyʁɑ̃s",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "竞争的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 251,
+    "word": "adversaire",
+    "phonetic0": "advɛʁsɛʁ",
+    "phonetic1": "advɛʁsɛʁ",
+    "trans": [
+      {
+        "pos": "n.",
+        "cn": "对手"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 252,
+    "word": "également",
+    "phonetic0": "egaləmɑ̃",
+    "phonetic1": "egaləmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "等地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 253,
+    "word": "dignement",
+    "phonetic0": "diɲəmɑ̃",
+    "phonetic1": "diɲəmɑ̃",
+    "trans": [
+      {
+        "pos": "adv.",
+        "cn": "理所当然地"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 254,
+    "word": "controverse",
+    "phonetic0": "kɔ̃tʁovɛʁs",
+    "phonetic1": "kɔ̃tʁovɛʁs",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "争论"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 255,
+    "word": "idée",
+    "phonetic0": "ide",
+    "phonetic1": "ide",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "主意"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 256,
+    "word": "débat",
+    "phonetic0": "deba",
+    "phonetic1": "deba",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "论战"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 257,
+    "word": "argumenter",
+    "phonetic0": "aʁgymɑ̃te",
+    "phonetic1": "aʁgymɑ̃te",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "辩论"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 258,
+    "word": "dispute",
+    "phonetic0": "dispyt",
+    "phonetic1": "dispyt",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "争论"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 259,
+    "word": "quereller",
+    "phonetic0": "kəʁele",
+    "phonetic1": "kəʁele",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "大声争吵"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 260,
+    "word": "fiance",
+    "phonetic0": "fjɑ̃s",
+    "phonetic1": "fjɑ̃s",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "已订婚的"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 261,
+    "word": "fiançailles",
+    "phonetic0": "fijɑ̃saj",
+    "phonetic1": "fijɑ̃saj",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "订婚"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 262,
+    "word": "noces",
+    "phonetic0": "nɔs",
+    "phonetic1": "nɔs",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "婚礼"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 263,
+    "word": "remarier",
+    "phonetic0": "ʁəmaʁje",
+    "phonetic1": "ʁəmaʁje",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "结婚"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 264,
+    "word": "trousseau",
+    "phonetic0": "tʁuso",
+    "phonetic1": "tʁuso",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "嫁妆"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 265,
+    "word": "desservir",
+    "phonetic0": "desɛʁviʁ",
+    "phonetic1": "desɛʁviʁ",
+    "trans": [
+      {
+        "pos": "v.",
+        "cn": "主持"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 266,
+    "word": "pasteur",
+    "phonetic0": "pastœʁ",
+    "phonetic1": "pastœʁ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "牧师"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 267,
+    "word": "serment",
+    "phonetic0": "sɛʁmɑ̃",
+    "phonetic1": "sɛʁmɑ̃",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "誓言"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 268,
+    "word": "mariage",
+    "phonetic0": "maʁjaʒ",
+    "phonetic1": "maʁjaʒ",
+    "trans": [
+      {
+        "pos": "n.m.",
+        "cn": "婚姻"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  },
+  {
+    "id": 269,
+    "word": "épousailles",
+    "phonetic0": "epuzaj",
+    "phonetic1": "epuzaj",
+    "trans": [
+      {
+        "pos": "n.f.",
+        "cn": "婚庆"
+      }
+    ],
+    "sentences": [],
+    "phrases": [],
+    "synos": [],
+    "etymology": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "inflections": null,
+    "langType": "fr"
+  }
+]
