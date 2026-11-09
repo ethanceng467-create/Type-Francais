@@ -27,7 +27,7 @@ function selectDict(e) {
 
 async function getDictDetail(val: DictResource) {
   runtimeStore.editDict = getDefaultDict(val)
-  nav('/dict', { from: 'list' })
+  nav('/dict', { from: 'list', id: val.id })
 }
 
 function groupByDictTags(dictList: DictResource[]) {

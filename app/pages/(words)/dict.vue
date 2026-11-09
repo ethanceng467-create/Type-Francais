@@ -292,6 +292,39 @@ function createCopy() {
   isAdd = true
 }
 
+/** 支持 ?id=xxx 直接打开词库（分享链接、刷新、新标签页打开都能恢复） */
+async function restoreDictFromQuery() {
+  const qid = route.query?.id
+  if (!qid) return
+  loading = true
+  try {
+    const raw = await fetch(resourceWrap(DICT_LIST.WORD.ALL)).then(r => r.json())
+    const flat: any[] = Array.isArray(raw) ? raw.flat() : []
+    const r = flat.find(v => String(v.id) === String(qid) || v.enName === qid)
+    if (r) {
+      const loaded = await _getDictDataByUrl(r)
+      // 与列表页进入时的写入方式保持一致，避免整体替换 store 对象导致表格状态不同步
+      runtimeStore.editDict = getDefaultDict({
+        ...r,
+        words: loaded.words,
+      })
+      runtimeStore.editDict.length = loaded.words?.length || 0
+    }
+  } catch (e) {
+    console.warn('[dict] 恢复词库失败', e)
+  }
+  loading = false
+}
+
+// 必须在组件挂载前把数据准备好：挂载后再替换 editDict 会让表格停在首帧的空数据
+if (import.meta.client && !route.query?.isAdd && route.query?.id) {
+  const qid = route.query.id
+  const stale = !runtimeStore.editDict.id
+    || String(runtimeStore.editDict.id) !== String(qid)
+    || !(runtimeStore.editDict.words?.length)
+  if (stale) await restoreDictFromQuery()
+}
+
 onMounted(async () => {
   if (route.query?.isAdd) {
     isAdd = true
@@ -302,9 +335,13 @@ onMounted(async () => {
     } else {
       if (!runtimeStore.editDict.words.length && !runtimeStore.editDict.custom && !runtimeStore.editDict.system) {
         loading = true
-        let dictList = await fetch(resourceWrap(DICT_LIST.WORD.ALL)).then(r => r.json())
-        let dict = await _getDictDataByUrl(runtimeStore.editDict)
-        let r = dictList.find(v => [v.enName, v.id].includes(runtimeStore.editDict.id))
+        let raw = await fetch(resourceWrap(DICT_LIST.WORD.ALL)).then(r => r.json())
+        // word.json 可能是按分类分组的多层数组，先拍平再按字符串 id 匹配
+        let dictList: any[] = Array.isArray(raw) ? raw.flat() : []
+        let curId = String(runtimeStore.editDict.id ?? '')
+        let r = dictList.find(v => String(v.id) === curId || v.enName === curId)
+        let source = r || runtimeStore.editDict
+        let dict = source.url ? await _getDictDataByUrl(source) : getDefaultDict()
         if (r) {
           runtimeStore.editDict.words = dict.words
           runtimeStore.editDict.id = r.id
@@ -327,6 +364,18 @@ onMounted(async () => {
   allList = runtimeStore.editDict.words
   tableRef.value.getData()
 })
+
+// 词条数据可能晚于表格首次渲染就绪（?id= 直接打开时），就绪后补一次刷新
+watch(
+  () => runtimeStore.editDict?.words?.length,
+  (n) => {
+    if (!n) return
+    if (allList === runtimeStore.editDict.words) return
+    allList = runtimeStore.editDict.words
+    tableRef.value?.getData()
+  },
+  { immediate: true }
+)
 
 function formClose() {
   if (isEdit) {
@@ -512,10 +561,11 @@ const dict = $computed(() => runtimeStore.editDict)
 
 //获取本地单词列表
 function getLocalList({ pageNo, pageSize, searchKey }) {
-  let list = allList
-  let total = allList.length
+  // 兜底：allList 可能在外层状态切换时被置成非数组
+  let list = Array.isArray(allList) ? allList : []
+  let total = list.length
   if (searchKey.trim()) {
-    list = allList.filter(v => v.word.toLowerCase().includes(searchKey.trim().toLowerCase()))
+    list = list.filter(v => v.word.toLowerCase().includes(searchKey.trim().toLowerCase()))
     total = list.length
   }
   list = list.slice((pageNo - 1) * pageSize, (pageNo - 1) * pageSize + pageSize)
@@ -523,6 +573,9 @@ function getLocalList({ pageNo, pageSize, searchKey }) {
 }
 
 async function requestList({ pageNo, pageSize, searchKey }) {
+  if (!Array.isArray(allList)) {
+    allList = Array.isArray(runtimeStore.editDict?.words) ? runtimeStore.editDict.words : []
+  }
   if (!dict.custom && !dict.system) {
     // 非自定义词典，直接请求json
 

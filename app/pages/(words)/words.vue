@@ -445,7 +445,7 @@ function onSelectCalendarDate(dateKey: string) {
 async function goDictDetail(val: DictResource) {
   if (!val.id) return nav('dict-list')
   runtimeStore.editDict = getDefaultDict(val)
-  nav('/dict', {})
+  nav('/dict', { id: val.id })
 }
 
 let isManageDict = $ref(false)

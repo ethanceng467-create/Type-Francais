@@ -46,7 +46,7 @@ function buildCurrentQuestion() {
 
 async function init() {
   let dictId: any = route.params.id
-  let d = base.word.bookList.find(v => v.id === dictId)
+  let d = base.word.bookList.find(v => String(v.id) === String(dictId))
   if (!d) d = base.sdict
   if (!d?.id) return router.push('/words')
   if (!d.words.length && runtimeStore.editDict?.id === d.id) {

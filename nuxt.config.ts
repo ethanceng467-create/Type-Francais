@@ -5,7 +5,25 @@ import Icons from 'unplugin-icons/vite'
 import Components from 'unplugin-vue-components/vite'
 import IconsResolver from 'unplugin-icons/resolver'
 import { execSync } from 'child_process'
+import { readFileSync } from 'node:fs'
 import { defineNuxtConfig } from 'nuxt/config'
+
+/**
+ * 预渲染所有词库的练习页与测试页。
+ * 静态托管没有 SPA fallback，未预渲染的动态路由（/practice-words/8 等）
+ * 直接访问或刷新时会 404，从外部打开链接也就进不去。
+ */
+const wordDictRoutes = (() => {
+  try {
+    const raw = JSON.parse(readFileSync(resolve(__dirname, 'public/list/word.json'), 'utf-8'))
+    const list = Array.isArray(raw) ? raw : []
+    return list
+      .filter((d: any) => d?.type === 'word' && d?.id != null)
+      .flatMap((d: any) => [`/practice-words/${d.id}`, `/words-test/${d.id}`])
+  } catch (e) {
+    return []
+  }
+})()
 
 let latestCommitHash = ''
 let latestCommitTime = ''
@@ -66,6 +84,11 @@ export default defineNuxtConfig({
     '/words': { ssr: false },
     '/articles': { ssr: false },
     '/setting': { ssr: false },
+    // 词库详情依赖 ?id= 恢复数据，预渲染成静态页会让客户端恢复逻辑失效
+    '/dict': { ssr: false },
+    '/dict-list': { ssr: false },
+    '/practice-words/**': { ssr: false },
+    '/words-test/**': { ssr: false },
     '/book/nce1': { prerender: true },
     '/book/nce2': { prerender: true },
     '/book/nce3': { prerender: true },
@@ -162,6 +185,8 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
+      routes: [...wordDictRoutes, '/dict', '/dict-list'].map(r => withBaseURL(r, appBaseURL)),
+      crawlLinks: true,
       ignore: appBaseURL === '/' ? [] : [withBaseURL('/manifest.json', appBaseURL)],
     },
     devProxy: {
