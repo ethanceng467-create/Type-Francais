@@ -1,140 +1,779 @@
 word	ipa	pos	cn	sentence	sentence_cn	phrase	phrase_cn
-science	sjɑ̃s	n.f.	科学	La science moderne nous aide à mieux comprendre le climat et à limiter les dégâts.	现代科学帮助我们更好地理解气候并减少损害。		
-scientifiquement	sjɑ̃tifikəmɑ̃	adv.	科学地	Ce phénomène a été scientifiquement démontré par plusieurs laboratoires européens ces dernières années.	近年来，多家欧洲实验室已在科学上证实了这一现象。		
-ingénierie	ɛ̃ʒeniʁi	n.f.	工程学	L'ingénierie climatique suscite des débats difficiles parmi les chercheurs du monde entier.	气候工程学在全世界的研究者中引发了艰难的争论。		
-scientologie	sjɑ̃toloʒi	n.f.	科学论派	La scientologie reste un mouvement très controversé dans plusieurs pays européens aujourd'hui.	科学论派如今在多个欧洲国家仍是一个备受争议的运动。		
-nanomètre	nanɔmɛtʁ	n.m.	纳米	Ces nouveaux capteurs mesurent des variations de température à quelques nanomètres près.	这些新型传感器能测量到几纳米量级的温度变化。		
-théorie	teoʁi	n.f.	理论	Cette théorie explique comment les gaz polluants se déplacent lentement dans l'atmosphère.	这一理论解释了污染气体如何在大气中缓慢移动。		
-organique	ɔʁganik	adj.	有机的	Les agriculteurs bio utilisent uniquement des engrais organiques dans leurs champs depuis des années.	这些有机农户多年来只在田里使用有机肥料。		
-découvrir	dekuvʁiʁ	v.	发现	Des chercheurs ont découvert une bactérie capable de détruire certains déchets plastiques.	研究人员发现了一种能分解某些塑料垃圾的细菌。		
-robot	ʁobo	n.m.	机器人	Ce robot sous-marin explore les fonds marins afin d'évaluer la pollution.	这台水下机器人勘探海底，以评估污染状况。		
-génique	ʒenik	adj.	基因的	La modification génique des cultures pourrait réduire fortement l'usage des pesticides.	农作物的基因改造有可能大幅减少农药的使用。		
-variation	vaʁjasjɔ̃	n.f.	变异	Une légère variation de température suffit à bouleverser tout cet écosystème fragile.	温度稍有变化，就足以打乱整个脆弱的生态系统。		
-génétique	ʒenetik	adj.	遗传学	La diversité génétique des espèces menacées est étudiée attentivement par les biologistes.	生物学家正在仔细研究濒危物种的遗传多样性。		
-invisible	ɛ̃vizibl	adj.	隐形的	Cette pollution invisible, présente partout, reste pourtant dangereuse pour les habitants des villes.	这种无处不在却看不见的污染，对城市居民依然有害。		
-généalogie	ʒenealoʒi	n.f.	家谱	Il a reconstitué patiemment la généalogie de sa famille grâce aux archives locales.	他借助地方档案耐心地重建了家族谱系。		
-hérédité	eʁedite	n.f.	遗传	L'hérédité joue un rôle important dans l'apparition de certaines maladies chroniques.	遗传在某些慢性病的发生中起着重要作用。		
-naïf	naif	adj.	天生的	Il serait naïf de croire que la technologie résoudra tous nos problèmes.	若以为技术能解决我们所有的问题，那就太天真了。		
-chromosome	kʁomozom	n.m.	染色体	Les chercheurs ont identifié le chromosome responsable de cette maladie génétique rare.	研究人员确认了导致这种罕见遗传病的染色体。		
-génotype	ʒenotip	n.m.	基因型	Le génotype de ces plantes influence directement leur résistance à la sécheresse.	这些植物的基因型直接影响它们的抗旱能力。		
-peuplement	pøpləmɑ̃	n.m.	移植	Le peuplement de cette forêt a beaucoup changé après les incendies répétés.	屡次火灾之后，这片森林的种群构成变化很大。		
-reconstituer	ʁəkɔ̃stitɥe	v.	重组	Les scientifiques tentent de reconstituer le climat ancien à partir des glaces.	科学家试图依据冰层重建古代气候。		
-numérique	nymeʁik	adj.	数码的	La transition numérique a réduit la consommation de papier dans beaucoup d'entreprises.	数字化转型减少了许多企业的纸张消耗。		
-successif	syksesif	adj.	连续的	Trois étés successifs de sécheresse ont presque épuisé les réserves d'eau.	连续三个干旱的夏天几乎耗尽了蓄水。		
-noter	note	v.	记录	Les techniciens notent précisément chaque variation de température toutes les deux heures.	技术人员每两小时精确记录一次温度变化。		
-environnement	ɑ̃viʁɔnəmɑ̃	n.m.	环境	La protection de l'environnement exige des efforts communs de tous les pays.	保护环境需要所有国家的共同努力。		
-améliorer	ameljoʁe	v.	改善	Ce nouveau système a nettement amélioré la qualité de l'air en ville.	这套新系统明显改善了城市的空气质量。		
-embellir	ɑ̃beliʁ	v.	美化	La ville a planté des arbres pour embellir ses quartiers les plus pauvres.	市政府种树美化最贫困的街区。		
-adapter	adapte	v.	适应	Les agriculteurs doivent adapter leurs cultures au manque croissant d'eau chaque année.	农民必须让作物适应逐年加剧的缺水。		
-maintenir	mɛ̃təniʁ	v.	保持	Il faut maintenir la température du laboratoire entre quinze et vingt degrés.	必须把实验室的温度保持在十五到二十度之间。		
-végétation	veʒetasjɔ̃	n.f.	植被	La végétation de cette région a souffert d'une chaleur exceptionnelle cet été.	今年夏天，这个地区的植被因异常高温而受损。		
-pollution	polysjɔ̃	n.f.	污染	La pollution de l'air provoque des maladies respiratoires chez les jeunes enfants.	空气污染使幼儿患上呼吸道疾病。		
-contamination	kɔ̃taminasjɔ̃	n.f.	污染	La contamination des nappes phréatiques inquiète sérieusement les habitants depuis plusieurs mois.	地下水层的污染让居民们几个月来十分担忧。		
-visuel	vizɥɛl	adj.	视觉上的	L'impact visuel de ces grandes éoliennes divise les habitants du village.	这些大型风机的视觉影响让村民意见分裂。		
-atmosphérique	atmosfeʁik	adj.	大气的	La pression atmosphérique baisse rapidement avant l'arrivée de la tempête annoncée.	预报的风暴来临前，大气压迅速下降。		
-tache	taʃ	n.f.	污点	Une tache sombre sur le sable révèle une fuite de pétrole sous-marine.	沙滩上的一块深色污迹暴露了海底石油泄漏。		
-désastre	dezastʁ	n.m.	灾难	Ce désastre écologique a détruit des kilomètres de côtes et de forêts.	这场生态灾难摧毁了数公里的海岸和森林。		
-catastrophe	katastʁɔf	n.f.	灾难	La catastrophe a touché des milliers de familles vivant près du fleuve.	这场灾难波及了数千户住在河边的家庭。		
-désastreux	dezastʁø	adj.	灾难性的	Les effets désastreux de cette sécheresse se feront sentir pendant des années.	这场干旱的灾难性后果将持续多年。		
-malheur	malœʁ	n.m.	灾难	Le malheur a frappé ce village isolé pendant la nuit la plus froide.	不幸在最寒冷的那一夜降临到这个偏僻的村子。		
-souffrance	sufʁɑ̃s	n.f.	灾难	La souffrance des populations après le séisme a ému le monde entier.	地震后民众的苦难感动了全世界。		
-désastreusement	dezastʁøzəmɑ̃	adv.	灾难性地	Les secours sont arrivés désastreusement tard, près de quatre jours après le séisme.	救援来得极晚，地震后近四天才到。		
-peste	pɛst	n.f.	瘟疫	La peste avait décimé la moitié de la population au Moyen Âge.	中世纪时瘟疫夺去了半数人口的生命。		
-calamité	kalamite	n.f.	灾荒	Cette sécheresse est devenue une calamité pour les agriculteurs de la région.	这场干旱已成为本地区农民的灾荒。		
+abeille	abɛj	n.f.	蜜蜂	Les abeilles butinent les fleurs du jardin dès le matin.	蜜蜂一大早就到花园的花上采蜜。		
+abrupt	abʁypt	adj.	陡峭的	Le sentier abrupt monte jusqu'au col en une heure.	陡峭的小路一小时内就能上到山口。		
+acier	asje	n.m.	钢	L'acier de cette lame, trempé selon une méthode fort ancienne, ne s'émoussait presque jamais.	这把刀刃的钢按一种古老方法淬火，几乎从不卷刃。		
+acné	akne	n.f.	痤疮，粉刺	À quinze ans, il souffrait beaucoup de son acné.	十五岁时，他因满脸粉刺十分苦恼。		
+acuponcture	akypɔ̃ktyʁ	n.f.	针灸	L'acuponcture soulage parfois les douleurs du dos et du cou.	针灸有时能缓解背部和颈部的疼痛。		
+aérospatial	aeʁospasjal	adj.	航天	Ce laboratoire aérospatial accueille chaque été des stagiaires de troisième année.	这个航天实验室每年夏天都接收三年级实习生。		
+affichage	afiʃaʒ	n.m.	显示；张贴；公布	L'affichage de la page est trop petit sur mon écran.	这个页面在我屏幕上显示得太小。		
+affouillé	afuje	v.	冲刷	La crue a affouillé la berge et fait tomber plusieurs arbres.	洪水冲刷了河岸，弄倒了好几棵树。		
+aigle	ɛgl	n.	鹰	L'aigle surveille la vallée du haut de son rocher.	鹰从岩石高处俯瞰山谷。		
+aigrette	ɛgʁɛt	n.f.	白鹭	Une aigrette blanche marchait lentement dans l'eau peu profonde du lac.	一只白鹭在湖的浅水里缓缓走动。		
+aile	ɛl	n.f.	翅膀	L'oiseau s'était cassé une aile et ne pouvait plus suivre les siens vers le sud.	那只鸟折断了一只翅膀，再也没法跟着同伴飞向南方。		
+aileron	ɛləʁɔ̃	n.m.	鳍	Un aileron dépassait de l'eau et les baigneurs sont sortis.	一只鳍露出水面，游泳的人都上了岸。		
+air	ɛʁ	n.m.	空气；神态	L'air est frais ce matin dans la forêt.	今天早上森林里的空气很凉爽。		
+albatros	albatʁos	n.m.	信天翁	L'albatros peut voler des heures sans bouger ses ailes.	信天翁可以几个小时不扇翅膀地飞行。		
+alchimie	alʃimi	n.f.	炼金术	Au Moyen Âge, certains savants croyaient que l'alchimie pouvait changer le plomb en or.	中世纪时，一些学者相信炼金术能把铅变成黄金。		
+allergie	alɛʁʒi	n.f.	过敏	Il a une allergie aux arachides depuis son enfance.	他从小就对花生过敏。		
+allergique	alɛʁʒik	adj.	过敏的	Je suis allergique aux fruits de mer depuis longtemps.	我很久以来就对海鲜过敏。		
+altitude	altityd	n.f.	海拔	À cette altitude, l'air devient rare et la marche difficile.	在这样的海拔，空气变得稀薄，走路也困难。		
+aluminium	alyminjɔm	n.m.	铝	Les fenêtres en aluminium sont légères et résistent bien à la pluie.	铝制窗户很轻，而且很耐雨淋。		
+ammoniac	amonjak	adj.	氨	Cette odeur forte vient sûrement d'un produit à base d'ammoniac.	这股刺鼻的气味肯定来自含氨的产品。		
+amont	amɔ̃	adj.	上游	Les habitants du village d'amont ont été prévenus du danger.	上游村庄的居民已经得知了危险。		
+ampèremètre	ɑ̃pɛʁəmɛtʁ	n.m.	电流表	Pour mesurer le courant, il utilise un ampèremètre branché sur le circuit.	为了测量电流，他用一个接在电路上的电流表。		
+amphibiens	ɑ̃fibjɛ̃	n.m.	两栖动物	Les amphibiens ont besoin d'eau pour se reproduire au printemps.	两栖动物春天需要水来繁殖。		
+analgésique	analʒezik	n.m.	止痛药；止痛的	Ce comprimé analgésique calme la douleur en vingt minutes.	这片止痛药二十分钟就能缓解疼痛。		
+analyser	analize	v.	分析	Nous devons analyser les résultats du trimestre avant la réunion.	我们得在会议前分析本季度的业绩。		
+andouiller	ɑ̃duje	n.m.	鹿角叉；鹿角分枝	Le cerf perd ses andouillers au début du printemps.	公鹿在初春时脱落鹿角。		
+âne	an	n.m.	驴	Cet âne têtu refuse d'avancer malgré les cris du fermier.	这头倔驴任凭农夫怎么喊都不肯往前走。		
+anémie	anemi	n.f.	贫血	L'anémie provoque souvent une grande fatigue et des vertiges.	贫血常常引起极度疲劳和头晕。		
+anesthésiant	anɛstezjɑ̃	n.m.	麻醉的；麻醉剂	Un produit anesthésiant rend la peau insensible pendant l'opération.	麻醉剂能让皮肤在手术期间失去知觉。		
+anesthésie	anɛstezi	n.f.	麻醉	L'anesthésie générale l'a fait dormir pendant deux longues heures.	全身麻醉让他沉睡了两个多小时。		
+anesthésier	anɛstezje	v.	使麻醉	Le médecin doit anesthésier la zone avant de coudre.	医生在缝针前必须给这个部位麻醉。		
+anesthésiste	anɛstezist	n.	麻醉师	L'anesthésiste est venu me voir avant l'opération.	手术前麻醉师来看过我。		
+angle	ɑ̃gl	n.m.	角	Le menuisier a mesuré l'angle avant de couper la planche.	木匠量好角度才锯木板。		
+animal	animal	n.m.	动物	Cet animal sauvage évite soigneusement les chemins trop fréquentés par les hommes.	这种野生动物小心地避开人走得太多的路。		
+anode	anɔd	n.f.	正极	Dans cette pile, l'anode attire les électrons et libère de l'énergie.	在这块电池里，正极吸引电子并释放能量。		
+antenne	ɑ̃tɛn	n.f.	天线；触角	Les antennes de l'insecte lui servent à sentir les odeurs.	昆虫的触角用来感知气味。		
 anthropiques	ɑ̃tʁopik	adj.	人为的	Les scientifiques mesurent l'impact croissant des activités anthropiques sur les océans du globe.	科学家正在测量人类活动对全球海洋日益加剧的影响。		
-misérable	mizeʁabl	adj.	悲惨的	Ils vivent dans des conditions misérables depuis la destruction de leur maison.	自从房子被毁，他们一直生活在悲惨的条件中。		
-funeste	fynɛst	adj.	悲惨的	Cette décision a eu des conséquences funestes pour toute la vallée voisine.	这个决定给整个邻近山谷带来了悲惨的后果。		
-incendie	ɛ̃sɑ̃di	n.m.	火灾	L'incendie a ravagé plus de mille hectares de forêt en trois jours.	大火三天内烧毁了上千公顷森林。		
-pompier	pɔ̃pje	adj.	消防员	Les pompiers ont lutté toute la nuit contre les flammes du maquis.	消防员整夜与灌木丛的大火搏斗。		
-sirène	siʁɛn	n.f.	警报器	La sirène d'alerte a retenti dans toute la vallée vers midi.	中午时分，警报声在整个山谷响起。		
-fourgon-pompe	fuʁgɔ̃-pɔ̃p	n.m.	消防车	Le fourgon-pompe est parti immédiatement vers le front du feu avec quatre hommes.	消防车带着四名队员立刻赶往火线。		
-bourbeux	buʁbø	adj.	泥泞的	Après les pluies, ce chemin bourbeux ralentit tous les véhicules de secours.	雨后，这条泥泞的小路拖慢了所有救援车辆。		
-trouée	tʁue	n.f.	山口	Une étroite trouée dans la forêt permet aux secours d'atteindre le village.	林中一道狭窄的缺口让救援人员得以抵达村庄。		
-vaseux	vazø	adj.	淤泥	Le fond vaseux de ce lac abrite encore de nombreuses espèces d'oiseaux.	这个湖淤泥质的湖底仍然栖息着许多鸟类。		
-enterrer	ɑ̃teʁe	v.	掩埋	Les habitants ont enterré leurs objets précieux pour les protéger des pillards.	居民们把贵重物品埋起来，以防被盗匪抢走。		
-précaire	pʁekɛʁ	adj.	不牢固的	Leur abri précaire n'a pas résisté aux vents violents de la nuit.	他们不牢固的棚屋没能抵挡夜里的狂风。		
-provoquer	pʁovoke	v.	诱发	Ce séisme sous-marin pourrait provoquer un tsunami sur les côtes voisines.	这次海底地震可能在附近海岸引发海啸。		
-séisme	seizm	n.m.	地震	Le séisme a détruit plusieurs immeubles du centre historique de la ville.	地震摧毁了老城中心的几栋楼房。		
-trembler	tʁɑ̃ble	v.	震动	Les murs ont commencé à trembler pendant quelques secondes avant l'effondrement.	倒塌之前，墙壁震动了短短几秒钟。		
-vibrer	vibʁe	v.	震动	Le sol continue de vibrer plusieurs heures après la secousse principale du matin.	早晨的主震过后几个小时，地面仍在震动。		
-ébranler	ebʁɑ̃le	v.	震动	La secousse a fortement ébranlé les maisons les plus anciennes du quartier.	这次震动强烈撼动了街区里最古老的房屋。		
-sismique	sismik	adj.	地震的	Les appareils ont enregistré une activité sismique inhabituelle sous le volcan endormi.	仪器记录到这座休眠火山下方异常的地震活动。		
-prospecter	pʁɔspɛkte	v.	勘探	Une équipe internationale va prospecter la région pour trouver de l'eau.	一支国际团队将勘探这一地区以寻找水源。		
-sismologie	sismoloʒi	n.f.	地震学	La sismologie permet de prévoir certaines secousses avec une précision limitée.	地震学能以有限的精度预报某些震动。		
-annoncer	anɔ̃se	v.	预报	Les experts annoncent une éruption possible dans les prochains jours, sans certitude.	专家预报未来几天可能喷发，但并无把握。		
-réplique	ʁeplik	n.f.	余震00	Une réplique plus faible a suivi le séisme quelques heures plus tard.	几小时后，一次较弱的余震随之而来。		
-volcan	vɔlkɑ̃	n.m.	火山	Ce volcan endormi depuis un siècle montre aujourd'hui des signes de réveil.	这座休眠了一个世纪的火山如今显露出苏醒的迹象。		
-éruption	eʁypsjɔ̃	n.f.	喷发	L'éruption a projeté un nuage de cendres à plusieurs kilomètres de haut.	喷发把一团火山灰抛到数千米高空。		
-volcanique	vɔlkanik	adj.	火山的	Les gaz volcaniques peuvent devenir dangereux pour les villages situés près du cratère.	火山气体对火山口附近的村庄可能变得危险。		
-volcanologue	vɔlkanolɔg	n.	火山学	Un volcanologue surveille le cratère jour et nuit avec des instruments sensibles.	一位火山学家用灵敏的仪器日夜监测火山口。		
-vif	vif	adj.	活跃的	Ce volcan reste vif malgré plusieurs mois de calme apparent et trompeur.	尽管表面平静了数月，这座火山依然活跃。		
-endormi	ɑ̃dɔʁmi	adj.	休眠的	Le volcan endormi n'a donné aucun signe d'activité depuis cinquante ans.	这座休眠火山五十年来没有任何活动迹象。		
-mort	mɔʁ	adj.	死的	Ce volcan est mort depuis des millénaires, selon les géologues de la région.	据本地区地质学家说，这座火山已死去数千年。		
-magma	magma	n.m.	岩浆	Le magma remonte lentement vers la surface à travers les fissures de la croûte.	岩浆沿着地壳的裂缝缓慢上升到地表。		
-frigorifique	fʁigoʁifik	adj.	冰冻的	Les entrepôts frigorifiques consomment énormément d'électricité pendant les longues canicules d'été.	夏季漫长的酷暑期间，冷藏仓库耗电惊人。		
-solidifier	solidifje	v.	固化	En refroidissant rapidement, la lave se solidifie et forme de nouvelles roches noires.	岩浆迅速冷却后凝固，形成新的黑色岩石。		
-ratatiner	ʁatatine	v.	使枯死	La sécheresse a ratatiné les feuilles des jeunes plants dans tout le jardin.	干旱让整个园子里幼苗的叶子都枯萎卷缩。		
-grêle	gʁɛl	adj.	冰零	Une grêle violente a détruit la moitié des vignes en quelques minutes.	一场猛烈的冰雹几分钟内毁掉了半数葡萄园。		
-grêlon	gʁɛlɔ̃	n.m.	冰雪	Des grêlons gros comme des balles ont cassé les vitres des voitures.	鸡蛋大的冰雹砸碎了汽车的玻璃。		
-ardeur	aʁdœʁ	n.f.	炎热	L'ardeur du soleil rend le travail presque impossible sur le chantier l'après-midi.	烈日酷热使下午工地上的工作几乎无法进行。		
+anthropoïde	ɑ̃tʁopoid	adj.	类人猿的	Ce squelette anthropoïde intrigue beaucoup les jeunes chercheurs du labo.	这具类人猿骨架让实验室的年轻研究人员很感兴趣。		
+antigel	ɑ̃tiʒɛl	n.m.	防冻液	Il faut ajouter de l'antigel dans le radiateur avant l'hiver.	入冬前要给水箱加防冻液。		
+apoplexie	apoplɛksi	n.f.	中风	Une apoplexie l'a laissé paralysé tout le côté droit.	一次中风让他整个右侧都瘫痪了。		
+appendicite	apɛ̃disit	n.f.	阑尾炎	On l'a opéré hier soir à cause d'une appendicite aiguë.	昨晚他因为急性阑尾炎动了手术。		
+aquatique	akwatik	adj.	水生的；水上的	Les plantes aquatiques couvrent la surface de cet étang tranquille.	水生植物覆盖了这口安静池塘的水面。		
+araignée	aʁɛɲe	n.f.	蜘蛛	Une araignée a tissé sa toile entre deux branches du jardin.	一只蜘蛛在花园的两根树枝间结了网。		
+arbre	aʁbʁ	n.m.	树	Un grand arbre cache toute la lumière de ma fenêtre.	一棵大树挡住了我窗户的光线。		
+archéologie	aʁkeoloʒi	n.f.	考古学	Elle étudie l'archéologie et passe ses étés sur des fouilles.	她学考古学，夏天都在考古发掘现场度过。		
+archéologique	aʁkeoloʒik	adj.	考古学的	Le petit musée du campus présente une collection archéologique très riche.	校园里的小博物馆藏有一批很丰富的考古藏品。		
+archéologue	aʁkeolɔg	n.	考古学家	Un archéologue est venu parler de ses fouilles en Égypte.	一位考古学家来讲述他在埃及的发掘工作。		
 aride	aʁid	adj.	干旱的	Ce sol aride ne permet plus aucune culture sans une irrigation permanente.	这片干旱的土地没有常年灌溉就再也种不了庄稼。		
-évaporer	evapoʁe	v.	蒸发	La chaleur fait évaporer l'eau des réservoirs à une vitesse inquiétante.	高温让水库里的水以惊人的速度蒸发。		
-fondre	fɔ̃dʁ	v.	融化	Les glaciers commencent à fondre plus tôt chaque printemps depuis dix ans.	十年来，冰川每年春天都更早开始融化。		
-tsunami	tsynami	n.m.	海啸	Le tsunami a frappé la côte sans laisser le temps aux habitants de fuir.	海啸袭击海岸，没给居民留下逃离的时间。		
-tempête	tɑ̃pɛt	n.f.	暴风雨	La tempête a coupé l'électricité dans plusieurs villages isolés de montagne.	暴风雨使山区的几个偏僻村庄断电。		
-ossement	ɔsəmɑ̃	n.m.	残骸	Les archéologues ont retrouvé des ossements d'animaux préhistoriques au fond de la grotte.	考古学家在洞穴深处发现了史前动物的骨骸。		
-décès	desɛ	n.m.	死亡人数	Le bilan provisoire fait état de trente décès et de nombreux blessés.	初步统计显示有三十人死亡、多人受伤。		
-victime	viktim	n.f.	受灾者	Les victimes ont été transportées d'urgence vers les hôpitaux les plus proches.	受灾者被紧急送往最近的医院。		
-inondation	inɔ̃dasjɔ̃	n.f.	洪水	L'inondation a submergé les routes et isolé plusieurs fermes pendant deux jours.	洪水淹没了道路，使几个农场与外界隔绝了两天。		
-route	ʁut	n.f.	公路	La route principale est coupée par un éboulement depuis hier soir, selon la police.	警方称，主路从昨晚起因塌方而中断。		
-communication	komynikasjɔ̃	n.f.	通讯	Les réseaux de communication sont souvent saturés après chaque grande catastrophe naturelle.	每次重大自然灾害之后，通信网络往往都会拥堵。		
-contenance	kɔ̃tənɑ̃s	n.f.	容量	La contenance du réservoir ne suffit plus à alimenter le village en été.	水库的容量在夏天已不足以供给全村用水。		
-éviter	evite	v.	避免	Les autorités conseillent d'éviter la vallée jusqu'à la fin de l'alerte.	当局建议在警报解除前避开这个山谷。		
-sauvetage	sovətaʒ	n.m.	救援	Les équipes de sauvetage ont travaillé toute la nuit sous la pluie.	救援队冒雨工作了一整夜。		
-danger	dɑ̃ʒe	n.m.	危难	Le danger d'une nouvelle secousse reste élevé dans toute cette zone.	在整个这一地区，再次发生震动的危险仍然很高。		
-police	polis	n.f.	警察	La police a fermé toutes les routes menant vers la zone sinistrée.	警方封闭了所有通往受灾地区的道路。		
-artère	aʁtɛʁ	n.f.	交通干线	Cette grande artère du centre-ville est fermée à cause des travaux urgents.	这条市中心的主干道因紧急施工而封闭。		
-pillage	pijaʒ	n.m.	抢掠	Le pillage des magasins a commencé dès la première nuit du désastre.	灾难发生的第一夜，商店就遭到了抢掠。		
-saccager	sakaʒe	v.	抢劫	Des groupes violents ont saccagé plusieurs boutiques du quartier pendant la nuit.	一些暴力团伙夜间砸抢了街区的几家店铺。		
-banditisme	bɑ̃ditizm	n.m.	强盗行为	Le banditisme augmente dangereusement dans les régions isolées après les grandes catastrophes naturelles.	重大自然灾害之后，偏远地区的强盗行为危险地增多。		
-bandit	bɑ̃di	n.m.	匪徒	Une bande de bandits a attaqué un convoi humanitaire sur la route.	一伙匪徒在路上袭击了一支人道救援车队。		
-brigand	bʁigɑ̃	n.m.	盗匪	Le brigand a été arrêté par les gendarmes près de la frontière.	那名盗匪在边境附近被宪兵抓获。		
-voleur	volœʁ	adj.	盗窃犯	Le voleur a profité de la panne d'électricité pour entrer dans l'immeuble.	小偷趁停电溜进了大楼。		
-complice	kɔ̃plis	adj.	同伙	Son complice l'attendait dans une voiture volée garée devant la banque.	他的同伙在一辆停在银行前的赃车里等他。		
-agression	agʁɛsjɔ̃	n.f.	行凶抢劫	Une agression a eu lieu près de la gare tard dans la nuit.	深夜时车站附近发生了一起行凶抢劫。		
-fauche	foʃ	n.f.	贼赃	La police a retrouvé une partie de la fauche dans un entrepôt abandonné.	警方在一座废弃仓库里找回了部分赃物。		
+arthropodes	aʁtʁopɔd	n.m.	节肢动物	Les arthropodes représentent la plus grande partie des animaux connus.	节肢动物占已知动物的绝大部分。		
+arum	aʁɔm	n.m.	天南星科植物；阿若母	Cet arum pousse dans les régions tropicales humides et se mange cuit.	这种芋头生长在潮湿的热带地区，要煮熟了才能吃。		
+aspirine	aspiʁin	n.f.	阿司匹林	Il prend une aspirine dès qu'il a mal à la tête.	他一头疼就吃一片阿司匹林。		
+assurance-maladie	asyʁɑ̃smaladi	n.f.	医疗保险	L'assurance-maladie rembourse une partie des consultations médicales de chaque salarié.	医疗保险报销每位员工部分就诊费用。		
+astigmatisme	astigmatizm	n.m.	散光	Son astigmatisme l'oblige à porter des lunettes spéciales pour conduire.	他的散光让他开车时必须戴特制眼镜。		
+astringent	astʁɛ̃ʒɑ̃	adj.	收敛性的；涩的	Elle utilise une lotion astringente après le nettoyage du visage.	她洗完脸后用收敛水。		
+astronef	astʁonɛf	n.m.	太空船	L'astronef a passé six mois en orbite autour de la planète.	这艘太空船在行星轨道上停留了六个月。		
+astronome	astʁonɔm	n.	天文学家	Un astronome célèbre a découvert cette comète par hasard.	一位著名天文学家偶然发现了这颗彗星。		
+astronomie	astʁonomi	n.f.	天文学	Mon cousin étudie l'astronomie à l'université depuis trois ans.	我表弟在大学学天文学已经三年了。		
+astronomique	astʁonomik	adj.	天文学的	Le prix de ce télescope est vraiment astronomique pour un amateur.	对业余爱好者来说，这架望远镜的价格实在是天文数字。		
+atlantique	atlɑ̃tik	adj.	大西洋的	La côte atlantique est très appréciée des surfeurs en été.	大西洋沿岸夏天很受冲浪者喜爱。		
+atlas	atlas	n.m.	地图册	Mon fils regarde un atlas pour préparer son voyage.	我儿子看地图册来筹备他的旅行。		
+atmosphère	atmosfɛʁ	n.f.	大气；气氛	L'atmosphère de la salle était si tendue que chacun retenait son souffle en attendant le verdict.	大厅里的气氛如此紧张，人人屏息等待裁决。		
+atmosphérique	atmosfeʁik	adj.	大气的	La pression atmosphérique baisse rapidement avant l'arrivée de la tempête annoncée.	预报的风暴来临前，大气压迅速下降。		
+aubépine	obepin	n.f.	山楂	Au printemps, l'aubépine couvre la haie de petites fleurs blanches.	春天，山楂把树篱开满小白花。		
+autan	otɑ̃	n.m.	热风	En automne, l'autan apporte un temps chaud et sec dans le sud.	秋天，热风给南方带来干热的天气。		
+automatique	otomatik	adj.	自动的	La porte automatique du supermarché s'ouvre toute seule le matin.	超市的自动门早上会自己打开。		
+automatisation	otomatizasjɔ̃	n.f.	自动化	L'automatisation de la bibliothèque a supprimé plusieurs postes réservés aux étudiants.	图书馆的自动化取消了好几个留给学生的岗位。		
+autruche	otʁyʃ	n.f.	驼鸟	L'autruche court plus vite qu'un cheval sur une courte distance.	在短距离内鸵鸟跑得比马还快。		
+axe	aks	n.m.	轴线	La Terre tourne sur son axe en vingt-quatre heures environ.	地球绕自己的轴线转一圈大约需要二十四小时。		
+azalée	azale	n.f.	杜鹃	Cette azalée rose fleurit chaque printemps sur notre balcon.	这株粉色杜鹃每年春天都在我们阳台上开花。		
+bactérie	bakteʁi	n.f.	细菌	Certaines bactéries sont utiles et vivent naturellement dans notre estomac.	有些细菌是有益的，天然生活在我们的胃里。		
+baleine	balɛn	n.f.	鲸	Une baleine a été aperçue au large hier matin.	昨天上午有人在远海看见一头鲸。		
+balsamine	balzamin	n.f.	凤仙花	La balsamine rose fleurit près du vieux mur de la cour.	粉色凤仙花在院子旧墙边开花。		
+bambou	bɑ̃bu	n.m.	竹	Le bambou pousse si vite qu'on l'entend presque grandir.	竹子长得那么快，几乎能听见它长高。		
+barracuda	baʁakyda	n.m.	梭子鱼	Un barracuda a suivi notre bateau pendant plusieurs minutes.	一条梭鱼跟了我们的船好几分钟。		
+barrage	baʁaʒ	n.m.	水坝	Un immense barrage a été construit pour retenir les eaux du fleuve.	人们修建了一座巨大的水坝来拦住河水。		
+baryum	baʁjɔm	n.m.	钡	Le baryum sert souvent à examiner l'intérieur du corps humain.	钡常用于检查人体内部。		
+bassin	basɛ̃	n.m.	水池；流域；盆地	Le bassin de cette rivière couvre une immense plaine agricole.	这条河的流域覆盖着一片广阔的农业平原。		
+bégonia	begonja	n.m.	秋海棠	Les bégonias du balcon ont besoin d'être arrosés tous les deux jours.	阳台上的秋海棠需要每两天浇一次水。		
+bélier	belje	n.m.	白羊座	Les personnes du Bélier sont souvent décrites comme courageuses et impulsives.	白羊座的人常被形容为勇敢而冲动。		
+belle-de-jour	bɛl-də-ʒuʁ	n.f.	牵牛花	La belle-de-jour ouvre ses fleurs le matin.	牵牛花在早晨开花。		
+bestiau	bɛstjo	n.m.	牲口；畜生	Un bestiau noir est sorti de terre après la pluie.	雨后一只黑色的虫子从土里钻了出来。		
+bétail	betaj	n.m.	牲畜	Le bétail reste dans l'étable pendant les nuits d'hiver.	冬天夜里，牲畜都待在牲口棚里。		
+bile	bil	n.f.	胆汁	La bile aide le foie à digérer les matières grasses.	胆汁帮助肝脏消化脂肪。		
+biologie	bjoloʒi	n.f.	生物	J'ai choisi la biologie parce que j'aime travailler sur le terrain.	我选了生物，因为我喜欢在野外工作。		
+bison	bizɔ̃	n.m.	野牛	Des bisons traversent la prairie en suivant toujours le même chemin.	野牛群沿着同一条路穿过草原。		
+bistouri	bistuʁi	n.m.	手术刀	Le chirurgien pose le bistouri et retire ses gants.	外科医生放下手术刀，脱下手套。		
+blaireau	blɛʁo	n.m.	獾；剃须刷	Un blaireau sort de son terrier dès que la nuit tombe.	天一黑，一只獾就从洞里出来。		
+blesser	blese	v.	使受伤	Il s'est blessé au genou en tombant de l'échelle dans le jardin.	他在花园里从梯子上摔下来，伤了膝盖。		
+blessure	blesyʁ	n.f.	伤口	Sa blessure, mal soignée, s'est infectée et l'a tenu éloigné du travail durant des semaines.	他的伤口没处理好，发了炎，让他好几周不能工作。		
+boa	boa	n.m.	蟒蛇	Le boa s'enroule autour de sa proie avant de l'avaler.	蟒蛇把猎物缠住，然后一口吞下。		
+botanique	botanik	n.f.	植物学	Le jardin botanique de la ville attire des visiteurs du monde entier.	这座城市的植物园吸引着世界各地的游客。		
+botaniste	botanist	n.	植物学家	Un botaniste a découvert une nouvelle espèce dans cette forêt.	一位植物学家在这片森林里发现了一个新物种。		
+branche	bʁɑ̃ʃ	n.f.	树枝；分支	Une branche cassée pendait dangereusement au-dessus du chemin après la tempête de la nuit.	夜里那场暴风雨过后，一根断枝危险地悬在小路上方。		
+branchette	bʁɑ̃ʃɛt	n.f.	细枝	Une branchette fragile s'est cassée sous le poids de la neige.	一根细枝在积雪的重压下折断了。		
+brebis	bʁəbi	n.f.	母羊	La brebis conduit souvent le troupeau vers les meilleurs pâturages.	母羊常常把羊群带到最好的牧草地去。		
+bronchite	bʁɔ̃ʃit	n.f.	支气管炎	Il tousse depuis deux longues semaines, c'est une bronchite.	他咳了整整两周，是支气管炎。		
+bronze	bʁɔ̃z	adj.	青铜色	Ses sandales couleur bronze sont très jolies avec cette robe.	她的青铜色凉鞋配这条裙子很好看。		
+buffle	byfl	n.m.	水牛	Le buffle se baigne dans la rivière pour échapper à la chaleur.	水牛泡在河里躲避酷热。		
+buisson	bɥisɔ̃	n.m.	灌木	Un lièvre s'est caché derrière un buisson au bord du chemin.	一只野兔躲在小路边的灌木后面。		
+cactus	kaktys	n.m.	仙人掌	Un cactus pousse lentement dans ce désert très sec.	一株仙人掌在这片极干旱的沙漠里慢慢生长。		
+cadavre	kadavʁ	n.m.	尸体	Les gendarmes ont découvert un cadavre au bord de la rivière, à l'endroit le plus désert.	宪兵在河边最荒凉的地方发现了一具尸体。		
+caféine	kafein	n.f.	咖啡因	Trop de caféine m'empêche de dormir la nuit.	咖啡因太多让我夜里睡不着。		
+caille	kaj	n.f.	鹑	Une caille s'est cachée dans les blés dès notre arrivée.	我们一到，一只鹌鹑就躲进了麦田。		
+calciner	kalsine	v.	煅烧；烧成石灰	Trop de chaleur peut calciner la viande dans le four.	温度太高会把烤箱里的肉烤焦。		
+calcium	kalsjɔm	n.m.	钙	Le lait apporte du calcium, ce qui renforce les os des enfants.	牛奶提供钙，能让孩子的骨骼更结实。		
+calebasse	kaləbas	n.f.	葫芦	Une calebasse séchée peut servir de bol ou de récipient.	晒干的葫芦可以当碗或容器用。		
+calmar	kalmaʁ	n.m.	鱿鱼	Les calmars grillés sont une spécialité de ce port.	烤鱿鱼是这个港口的特色菜。		
+caméléon	kameleɔ̃	n.m.	变色龙	Le caméléon change de couleur pour se cacher des prédateurs.	变色龙改变颜色来躲避捕食者。		
+camélia	kamelja	n.m.	山茶花	Ce camélia rose pousse contre le mur du jardin.	这株粉色山茶花贴着花园的墙生长。		
+campagnol	kɑ̃paɲɔl	n.m.	田鼠	Le campagnol creuse des galeries dans les champs de blé.	田鼠在麦田里挖地道。		
+canadair	kanadɛʁ	n.m.	消防飞机；水上飞机	Un canadair a survolé la forêt pour éteindre les flammes.	一架灭火飞机飞过森林上空扑灭火焰。		
+canard	kanaʁ	n.m.	鸭子；鸭肉	Les canards nagent en file indienne sur l'étang du parc.	鸭子们在公园的池塘里排成一列游动。		
+cancer	kɑ̃sɛʁ	n.m.	癌	Le cancer du poumon reste très fréquent chez les fumeurs.	肺癌在吸烟者中仍然很常见。		
+carbone	kaʁbɔn	n.m.	碳	Les scientifiques mesurent la quantité de carbone dans l'atmosphère chaque année.	科学家每年都测量大气中的碳含量。		
 carboniser	kaʁbonize	v.	烧焦	L'incendie a carbonisé des centaines d'hectares de forêt méditerranéenne en deux nuits.	大火两夜之间烧焦了数百公顷地中海森林。		
-survivance	syʁvivɑ̃s	n.f.	残余	La survivance de certaines traditions anciennes étonne encore les jeunes chercheurs européens.	某些古老传统的留存仍让年轻的欧洲研究者感到惊讶。		
-alerte	alɛʁt	adj.	警报	L'alerte a été levée après trois jours entiers sans nouvelle secousse.	在整整三天没有新的震动后，警报解除了。		
-cendre	sɑ̃dʁ	n.f.	灰爆	Une épaisse couche de cendre grise recouvre encore les toits du village.	一层厚厚的灰色灰烬仍覆盖着村里的屋顶。		
-braise	bʁɛz	n.f.	灰	Les braises couvaient encore sous les décombres fumants plusieurs heures après l'incendie.	火灾过后几个小时，冒烟的废墟下余烬仍在闷烧。		
-coupe-feu	kupfø	n.m.	防火带	Ce coupe-feu bien entretenu a ralenti la progression des flammes vers le village.	这条维护良好的防火带减缓了火势向村庄蔓延。		
-pare-feu	paʁfø	n.m.	防火壁	Un pare-feu large de vingt mètres protège désormais toute la forêt domaniale.	一条二十米宽的防火隔离带如今保护着整片国有林。		
-cadavre	kadavʁ	n.m.	户体	Les secouristes ont découvert un cadavre sous les pierres de la maison.	救援人员在房屋的石块下发现了一具尸体。		
-empreinte	ɑ̃pʁɛ̃t	n.f.	痕迹	Les enquêteurs ont relevé une empreinte digitale sur la poignée de la porte.	调查人员在门把手上提取到一枚指纹。		
-alibi	alibi	n.m.	不在场证明	Son alibi ne convainc pas du tout les enquêteurs chargés de l'affaire.	他的不在场证明完全无法说服负责此案的调查人员。		
-meurtre	mœʁtʁ	n.m.	谋杀	Le meurtre a eu lieu dans un parc très fréquenté du centre-ville.	这起谋杀发生在市中心一个很热闹的公园里。		
-suicider	sɥiside	v.	自杀	Un homme désespéré a tenté de se suicider après la perte de sa maison.	一名绝望的男子在失去房子后试图自杀。		
-noyade	nwajad	n.f.	溺水	La noyade reste la première cause de décès pendant les fortes chaleurs.	酷暑期间，溺水仍是首要的死因。		
-suspecte	syspɛkt	adj.	可疑的	Une odeur suspecte s'échappait du local technique depuis plusieurs heures déjà.	一股可疑的气味已经从设备间飘出好几个小时。		
-meurtrier	mœʁtʁije	adj.	凶手	Un incendie meurtrier a fait cinq victimes dans le massif forestier varois.	一场致命大火在瓦尔森林造成五人死亡。		
-terrorisme	tɛʁoʁizm	n.m.	恐怖主义	Les spécialistes étudient le lien entre la pauvreté et le terrorisme dans cette région.	专家们正在研究该地区贫困与恐怖主义之间的联系。		
-activisme	aktivizm	n.m.	极端主义	L'activisme violent de ce groupe inquiète les services de renseignement depuis plusieurs mois.	这个团体的暴力极端主义活动让情报部门担忧了好几个月。		
-sécessionniste	sesesjɔnist	adj.	分裂主义	Les mouvements sécessionnistes de la région réclament l'indépendance depuis la fin de la guerre.	该地区的分裂主义运动自战争结束以来一直要求独立。		
-antiterroriste	ɑ̃titɛʁoʁist	adj.	反恐的	Le gouvernement a renforcé les mesures antiterroristes après l'attentat qui a choqué le pays.	那次震惊全国的攻击之后，政府加强了反恐措施。		
-otage	otaʒ	n.m.	人质	Les ravisseurs ont libéré l'otage après trois jours de négociations difficiles avec la police.	绑匪在与警方艰难谈判三天后释放了人质。		
-tuer	tɥe	v.	杀死	Les secours craignent que l'explosion ait pu tuer deux personnes dans l'immeuble.	爆炸炸死两人，并炸伤市中心数名路人。		
-panique	panik	n.f.	恐慌的	Une panique générale s'est emparée de la foule dès que la première détonation a retenti.	第一声爆炸一响，人群便陷入普遍的恐慌。		
-intimider	ɛ̃timide	v.	恐吓	Ces hommes voulaient intimider les témoins pour les empêcher de parler aux enquêteurs.	这些人想恐吓证人，阻止他们对调查人员开口。		
-terroriste	tɛʁoʁist	adj.	恐怖分子	La police a démantelé une cellule terroriste qui préparait un attentat en Europe.	警方捣毁了一个准备在欧洲发动袭击的恐怖分子小组。		
-crainte	kʁɛ̃t	n.f.	恐惧	La crainte d'une nouvelle attaque pousse les habitants à rester chez eux le soir.	对新一轮袭击的恐惧让居民晚上待在家里。		
+cardiologie	kaʁdjoloʒi	n.f.	心脏病科	Il travaille en cardiologie depuis la fin de ses études.	他毕业后一直在心脏科工作。		
+carnivore	kaʁnivɔʁ	adj.	食肉的	Le tigre est un animal carnivore très dangereux.	老虎是非常危险的食肉动物。		
+carpe	kaʁp	n.	鲤鱼	Une grosse carpe nageait lentement près du bord de l'étang.	一条大鲤鱼在池塘边缓缓游动。		
+carré	kaʁe	n.m.	正方形；方形	Il a posé un livre carré sur la petite table du salon.	他把一本方形的书放在客厅的小桌上。		
+cascade	kaskad	n.f.	瀑布	Une cascade magnifique tombe de vingt mètres dans le bassin.	一道美丽的瀑布从二十米高处落入潭中。		
+castor	kastɔʁ	n.m.	河狸	Le castor construit son barrage avec des branches et de la boue.	河狸用树枝和泥筑坝。		
+cataracte	kataʁakt	n.f.	白内障	La cataracte se traite par une opération simple aujourd'hui.	如今白内障可以通过一个小手术治好。		
+catastrophe	katastʁɔf	n.f.	灾难	La catastrophe a touché des milliers de familles vivant près du fleuve.	这场灾难波及了数千户住在河边的家庭。		
+cathodique	katodik	adj.	负极的	Ce vieux téléviseur cathodique pèse bien plus lourd qu'un écran plat.	这台老式显像管电视比平板屏幕重得多。		
+caverne	kavɛʁn	n.f.	洞穴	Cette caverne abrite des chauves-souris depuis très longtemps.	这个洞穴很久以来一直住着蝙蝠。		
+cellule	selyl	n.f.	细胞	Les cellules du sang se renouvellent sans arrêt dans le corps.	血液细胞在体内不停地更新。		
+centimètre	sɑ̃timɛtʁ	n.m.	厘米	Cette table mesure environ un mètre vingt sur soixante centimètres.	这张桌子大约一米二长、六十厘米宽。		
+cercle	sɛʁkl	n.m.	圆形	Les élèves doivent tracer un cercle parfait avec leur compas.	学生们要用圆规画一个标准的圆形。		
+cerf	sɛʁ	n.m.	鹿	Un cerf immense est sorti de la forêt au coucher du soleil.	日落时分，一头巨大的鹿从森林里走出来。		
+chameau	ʃamo	n.m.	骆驼	Le chameau peut marcher plusieurs jours sans boire une goutte d'eau.	骆驼可以走好几天不喝一滴水。		
+chamois	ʃamwa	n.m.	羚羊	Un chamois a bondi sur les rochers avant de disparaître.	一只岩羚羊在岩石间一跃便消失了。		
+charger	ʃaʁʒe	v.	装载；充电	Il faut charger ton téléphone avant de partir ce soir.	今晚出发前你得给手机充电。		
+chêne	ʃɛn	n.m.	橡树	Ce chêne centenaire abrite de nombreux oiseaux et quelques écureuils.	这棵百年橡树为许多鸟和几只松鼠提供了栖身之处。		
+cheval	ʃəval	n.m.	马	Dans ce village, les enfants apprennent à monter à cheval.	在这个村子里，孩子们学骑马。		
+chèvre	ʃɛvʁ	n.f.	山羊	Cette chèvre grimpe sur les rochers les plus difficiles.	这只山羊能爬上最难走的岩石。		
+chiffre	ʃifʁ	n.m.	数字	Les chiffres du recensement, publiés hier, contredisent nettement ceux qu'on nous avait annoncés l'an dernier.	昨天公布的人口普查数字，明显与去年向我们公布的数字相矛盾。		
+chimie	ʃimi	n.f.	化学	La chimie est devenue ma matière préférée depuis mon entrée au lycée.	自从上了高中，化学就成了我最喜欢的科目。		
+chimpanzé	ʃɛ̃pɑ̃ze	n.m.	黑猩猩	Un chimpanzé a appris à utiliser un bâton pour attraper des fourmis.	一只黑猩猩学会了用树枝捉蚂蚁。		
+chinchilla	ʃɛ̃ʃila	n.m.	南美栗鼠	Le chinchilla a besoin d'un bain de sable pour garder un pelage propre.	南美栗鼠需要沙浴来保持皮毛干净。		
+chromosome	kʁomozom	n.m.	染色体	Les chercheurs ont identifié le chromosome responsable de cette maladie génétique rare.	研究人员确认了导致这种罕见遗传病的染色体。		
+chromosphère	kʁomosfɛʁ	n.f.	色球	La chromosphère du soleil est visible pendant une éclipse totale.	日全食期间可以看到太阳的色球层。		
+chrysanthème	kʁizɑ̃tɛm	n.m.	菊花	On offre des chrysanthèmes aux grands-parents au mois de novembre.	十一月人们会送菊花给祖父母。		
+cigale	sigal	n.f.	蝉	Les cigales chantent très fort dès que la chaleur arrive.	天气一热，蝉就大声鸣叫起来。		
+classifier	klasifje	v.	分类	Nous devons classifier ces articles par thème avant de les ranger.	我们得先把这些文章按主题分类再归档。		
+claudication	klodikasjɔ̃	n.f.	跛行	Sa claudication est devenue plus visible après la longue marche.	走了那么久之后，他走路一瘸一拐的样子更明显了。		
+clavette	klavɛt	n.f.	销；键	Une clavette du vieux piano ne remonte plus depuis hier soir.	从昨晚起，那架旧钢琴有一个琴键弹不回来了。		
+clavier	klavje	n.m.	键盘	Le clavier de mon ordinateur est couvert de poussière.	我电脑的键盘上全是灰。		
+click	klik	n.m.	咔嗒声	On entend un petit click quand la porte se ferme.	门关上时会听到轻轻的咔嗒声。		
+climat	klima	n.m.	气候	Le climat de cette région devient plus sec d'année en année.	这个地区的气候一年比一年干燥。		
+climatique	klimatik	adj.	气候的	Les scientifiques étudient les changements climatiques depuis plusieurs décennies.	科学家们研究气候变化已经几十年了。		
+climatologue	klimatɔlɔg	n.	气候学家	Un climatologue a expliqué les causes de la sécheresse à la télévision.	一位气候学家在电视上解释了干旱的成因。		
+cliquer	klike	v.	点击	Cliquez sur le lien pour confirmer votre participation à la réunion.	请点击链接确认您参加会议。		
+cochonnet	koʃonɛ	n.m.	小猪；小球	Il a lancé le cochonnet avant de viser avec sa boule.	他先抛出目标小球，然后瞄准自己的球。		
+cocon	kokɔ̃	n.m.	茧	Le ver à soie fabrique un cocon avant de devenir papillon.	蚕在变成蛾之前会结一个茧。		
+cocorico	kokoʁiko	n.m.	喔喔叫	Le cocorico du coq a réveillé les voisins à cinq heures.	公鸡的喔喔叫声五点就把邻居们吵醒了。		
+cocotier	kokotje	n.m.	椰子树	Un cocotier penché dominait la petite plage de sable blanc.	一棵倾斜的椰子树俯瞰着白色的小沙滩。		
+cognition	kɔgnisjɔ̃	n.f.	认知	La cognition humaine fascine beaucoup les jeunes étudiants de psychologie.	人类认知让年轻的心理学学生十分着迷。		
+coin-coin	kwɛ̃kwɛ̃	n.m.	嘎嘎叫	On entendait coin-coin derrière les roseaux de la mare.	池塘的芦苇后面传来嘎嘎的叫声。		
+coke	kok	n.	焦炭	Le coke sert de combustible dans certaines usines et fonderies.	焦炭在某些工厂和铸造厂里用作燃料。		
+coléoptère	koleɔptɛʁ	n.m.	甲壳虫	Ce coléoptère noir se nourrit de feuilles mortes en automne.	这种黑色甲虫秋天以落叶为食。		
+colique	kolik	adj.	绞痛	Une douleur colique le plie en deux chaque nuit.	每天夜里一阵绞痛都让他疼得弯下腰。		
+coloration	koloʁasjɔ̃	n.f.	染色	Cette coloration naturelle donne un reflet doré à ses cheveux.	这种天然染发剂给她的头发添了一层金色光泽。		
+colorisation	koloʁizasjɔ̃	n.f.	彩色化；上色	La colorisation de cette photo ancienne a pris deux jours.	这张老照片的上色花了两天。		
+combustible	kɔ̃bystibl	adj.	可燃的；燃料	Ne laissez pas de matière combustible près du moteur chaud.	不要把易燃物放在发热的发动机旁边。		
+comédons	komedɔ̃	n.m.	黑头	Ce masque aide à éliminer les comédons sur le nez et le front.	这款面膜有助于清除鼻子和额头上的黑头。		
+comète	komɛt	n.f.	彗星	Les enfants ont observé une comète brillante dans le ciel d'été.	孩子们在夏夜的天空中看到了一颗明亮的彗星。		
+compact	kɔ̃pakt	adj.	密集的	Ce centre-ville compact se parcourt facilement à pied en une heure.	这个紧凑的市中心一小时就能步行逛完。		
+comportemental	kɔ̃pɔʁtəmɑ̃tal	adj.	行为的	Cette étude comportementale suit trente étudiants pendant une année.	这项行为研究对三十名学生进行了一年的跟踪。		
+comprimé	kɔ̃pʁime	n.m.	药片	Le médecin m'a prescrit un comprimé contre la fièvre.	医生给我开了一片退烧药。		
+concentration	kɔ̃sɑ̃tʁasjɔ̃	n.f.	浓度	La concentration de glucose dans le sang doit rester stable.	血液中的葡萄糖浓度应保持稳定。		
+condensation	kɔ̃dɑ̃sasjɔ̃	n.f.	凝结；冷凝	La condensation de l'eau sur la vitre empêche de voir la rue.	玻璃上的水汽让人看不清街道。		
+condenser	kɔ̃dɑ̃se	v.	凝结	La vapeur se condense sur la fenêtre froide de la cuisine.	蒸汽凝结在厨房冰冷的窗户上。		
+conductivité	kɔ̃dyktivite	n.f.	导电性	Le cuivre est apprécié pour sa grande conductivité et son prix raisonnable.	铜因其良好的导电性和合理的价格而受欢迎。		
+connecter	konɛkte	v.	连接；接通	Je n'arrive pas à me connecter au réseau de l'hôtel.	我连不上酒店的网。		
+conservateur	kɔ̃sɛʁvatœʁ	n.m.	防腐剂	Ce conservateur naturel garde les aliments frais plus longtemps.	这种天然防腐剂能让食物保鲜更久。		
+constellation	kɔ̃stɛlasjɔ̃	n.f.	星座	Cette constellation est visible à l'œil nu par une nuit claire.	在晴朗的夜里，这个星座用肉眼就能看到。		
+contamination	kɔ̃taminasjɔ̃	n.f.	污染	La contamination des nappes phréatiques inquiète sérieusement les habitants depuis plusieurs mois.	地下水层的污染让居民们几个月来十分担忧。		
+continent	kɔ̃tinɑ̃	n.m.	大陆；大洲	L'Afrique est le continent où l'on trouve le plus d'animaux sauvages.	非洲是野生动物最多的一个大洲。		
+coq	kɔk	n.m.	公鸡	Le coq chante dès l'aube et réveille toute la ferme.	公鸡天一亮就打鸣，唤醒整个农场。		
+coquillage	kokijaʒ	n.m.	贝壳	Elle collectionne les coquillages ramassés sur les plages bretonnes.	她收藏在布列塔尼海滩上捡到的贝壳。		
+coquille	kokij	n.f.	壳	L'enfant a ramassé une coquille vide sur le sable.	孩子在沙子上捡到一个空壳。		
+corbeau	kɔʁbo	n.m.	乌鸦	Un corbeau noir observait les enfants du haut d'un poteau.	一只黑乌鸦从电线杆上注视着孩子们。		
+cosmologie	kɔsmoloʒi	n.f.	宇宙论	La cosmologie moderne étudie l'origine et l'évolution de tout l'univers.	现代宇宙论研究整个宇宙的起源与演化。		
+cosmos	kɔsmos	n.m.	宇宙；宇宙空间	Un champ de cosmos roses bordait la route de la campagne.	乡间路边是一片粉色的波斯菊花田。		
+courant	kuʁɑ̃	n.m.	水流；电流	Le courant était trop fort pour traverser la rivière.	水流太急，过不了河。		
+courbe	kuʁb	n.f.	曲线；弯曲的	La trajectoire courbe de la balle a surpris tout le monde.	球划出的弧线让所有人都感到意外。		
+courge-éponge	kuʁʒ-epɔ̃ʒ	n.f.	丝瓜；丝瓜络	Dans ce potager, la courge-éponge grimpe le long du mur.	在这个菜园里，丝瓜顺着墙往上爬。		
+crabe	kʁab	n.m.	螃蟹	Les enfants ont attrapé un petit crabe dans le sable mouillé.	孩子们在湿沙里抓到一只小螃蟹。		
+crapaud	kʁapo	n.m.	蟾蜍	Un crapaud sautait dans l'herbe humide près de la mare.	一只蟾蜍在池塘边的湿草里跳着。		
+crête	kʁɛt	n.f.	山脊；顶端	Le surfeur attendait la crête de la vague avec patience.	冲浪者耐心地等待浪尖。		
+cristal	kʁistal	n.m.	晶体	Ce cristal transparent reflète la lumière comme un petit diamant.	这块透明晶体像小钻石一样反射光线。		
+crocodile	kʁokodil	n.m.	鳄鱼	Le crocodile attendait près de la rive, parfaitement immobile depuis une heure.	鳄鱼在岸边守候，整整一个小时纹丝不动。		
+crotale	kʁotal	n.m.	响尾蛇	Le bruit du crotale suffit à faire reculer les promeneurs.	响尾蛇的响声就足以让散步的人后退。		
+cuivre	kɥivʁ	n.m.	铜	Les cuivres de la vieille horloge brillaient d'un éclat que les années n'avaient pas terni.	老钟的铜件闪着岁月未能使之黯淡的光泽。		
+cyclamen	siklamɛn	n.m.	仙客来	Un cyclamen rose fleurit sur le rebord de la fenêtre depuis décembre.	从十二月起，一盆粉色仙客来就在窗台上开花。		
+cycle	sikl	n.m.	周期	Le cycle de production a été raccourci grâce à de nouvelles machines.	由于添置了新机器，生产周期缩短了。		
+cyclone	siklon	n.m.	飓风	Le cyclone a détruit plusieurs maisons sur la côte la semaine dernière.	上周的飓风摧毁了海岸上的好几座房子。		
+cygne	siɲ	n.m.	天鹅	Deux cygnes blancs nagent lentement sur le lac du parc.	两只白天鹅在公园的湖上缓缓游动。		
+cyprès	sipʁɛ	n.m.	柏树	De grands cyprès bordent l'allée qui mène à la maison.	高大的柏树排列在通往房子的小路两旁。		
+data	data	n.m.	数据	Les data de cette enquête sont difficiles à interpréter.	这次调查的数据很难解读。		
+dauphin	dofɛ̃	n.m.	海豚	Un dauphin a nagé à côté de notre bateau pendant un long moment.	一只海豚在我们船边游了很久。		
+débit	debi	n.m.	流量	Le débit de la rivière double au printemps après la fonte.	春天融雪之后，河水的流量翻了一倍。		
+décharge	deʃaʁʒ	n.f.	垃圾场	La décharge se trouve loin des maisons du village.	垃圾场离村里的房子很远。		
+déchet	deʃɛ	n.m.	废料；垃圾	Les feuilles inutiles finissent dans le déchet au bout du couloir.	无用的纸张最后都扔进走廊尽头的废纸篓。		
+déchets	deʃɛ	n.m.	废物	Nous trions les déchets dans trois poubelles différentes chaque semaine.	我们每周把垃圾分装进三个不同的垃圾桶。		
+déclencheur	deklɑ̃ʃœʁ	n.m.	触发器；起因	Il utilise un déclencheur pour ouvrir cette vieille bouteille.	他用开瓶器打开这个旧瓶子。		
+déclic	deklik	n.m.	咔嗒声；顿悟	Le déclic du pistolet a fait sursauter toute la salle.	手枪扳机的一声轻响让全场人都吓了一跳。		
+découverte	dekuvɛʁt	n.f.	发现	Cette découverte a beaucoup surpris les habitants du village.	这一发现让村里的居民非常惊讶。		
+découvrir	dekuvʁiʁ	v.	发现	Nous avons découvert un petit restaurant très sympa hier soir.	昨晚我们发现了一家很不错的小餐馆。		
+déduire	dedɥiʁ	v.	推断；扣除	On déduit les frais de transport directement du salaire mensuel.	交通费直接从月薪中扣除。		
+défécation	defekasjɔ̃	n.f.	排便	Les autorités sanitaires rappellent les règles d'hygiène liées à la défécation en plein air.	卫生部门重申了露天排便相关的卫生规定。		
+dégel	deʒɛl	n.m.	解冻	Le dégel arrive enfin après deux semaines de froid.	经历两周严寒后，化冻终于来了。		
+déglutition	deglytisjɔ̃	n.f.	咽下	La déglutition devient douloureuse quand on a mal à la gorge.	喉咙痛的时候咽东西会很难受。		
+délétère	deletɛʁ	adj.	有毒的	Ce gaz délétère rend l'air de la grotte dangereux.	这种有毒气体使洞里的空气变得危险。		
+delta	dɛlta	n.m.	三角洲	Le delta du fleuve abrite une faune très riche.	河流三角洲栖息着非常丰富的野生动物。		
+déluge	delyʒ	n.m.	暴雨；洪水	Il est tombé un véritable déluge et les rues étaient inondées.	下了一场滂沱大雨，街道都被淹了。		
+demi-cercle	dəmisɛʁkl	n.m.	半圆	Les enfants se sont installés en demi-cercle autour du vieux conteur.	孩子们围着老说书人坐成半圆。		
+dentisterie	dɑ̃tistəʁi	n.f.	牙科	La dentisterie moderne utilise aujourd'hui des instruments très précis.	现代牙科如今使用非常精密的器械。		
+désert	dezɛʁ	adj.	荒凉的；n.m. 沙漠	La lande déserte s'étendait à perte de vue, battue par un vent qui ne tombait jamais.	荒凉的荒原一望无际，被从不停歇的风抽打着。		
+désherbant	dezɛʁbɑ̃	n.m.	除草剂	Il évite les produits désherbants dans son petit jardin.	他在自己的小花园里避免使用除草剂。		
+déshydratation	dezidʁatasjɔ̃	n.f.	脱水	La déshydratation est dangereuse pendant les journées très chaudes.	在很热的日子里脱水很危险。		
+dessécher	deseʃe	v.	使变干	Le soleil fort peut dessécher la terre du jardin.	强烈的阳光会使花园的土变干。		
+détection	detɛksjɔ̃	n.f.	检测	La détection des métaux ralentit le passage à la douane.	金属检测让过海关的速度变慢。		
+détroit	detʁwa	n.m.	海峡	Ce détroit étroit relie deux mers et attire de nombreux bateaux.	这条狭窄的海峡连接两片海，吸引了许多船只。		
+diabète	djabɛt	n.m.	糖尿病	Son père souffre du diabète depuis déjà plusieurs années.	他父亲患糖尿病已经好几年了。		
+diabétique	djabetik	adj.	糖尿病的	Une personne diabétique doit éviter tous les sucres rapides.	糖尿病人应当避免各种快糖。		
+diagnostic	djagnostik	n.m.	诊断	Le diagnostic du médecin reste incertain pour le moment.	医生的诊断目前仍不确定。		
+diagnostiquer	djagnostike	v.	诊断	Le médecin a diagnostiqué une grippe dès la première visite.	医生第一次就诊就诊断出是流感。		
+digérer	diʒeʁe	v.	消化	Je digère mal les plats trop gras le soir.	我晚上吃太油腻的菜就消化不好。		
+diluer	dilɥe	v.	稀释	Il faut diluer l'acide avant de le verser dans l'éprouvette.	要先把酸稀释，再倒进试管里。		
+dispersion	dispɛʁsjɔ̃	n.f.	疏散	La dispersion des passagers se fait lentement après l'alerte.	警报之后，旅客的疏散进行得很慢。		
+dissiper	disipe	v.	消散	Le soleil a dissipé le brouillard en moins d'une heure.	太阳不到一小时就把雾驱散了。		
+dissocier	disosje	v.	分解	Il est difficile de dissocier ces deux odeurs dans la cuisine.	在厨房里很难把这两种气味区分开。		
+dissolvant	disɔlvɑ̃	n.m.	溶剂；洗甲水	Le dissolvant enlève le vernis à ongles très rapidement.	洗甲水很快就能卸掉指甲油。		
+docteur	dɔktœʁ	n.m.	医生	Tu devrais aller voir le docteur, tu tousses beaucoup.	你咳得厉害，该去看医生。		
+double-cliquer	dubløklike	v.	双击	Double-cliquez sur l'icône pour ouvrir le fichier partagé du service.	双击图标即可打开部门的共享文件。		
+douleur	dulœʁ	n.f.	疼痛	Il ressent une douleur au genou depuis sa chute.	自从摔了一跤，他就一直觉得膝盖疼。		
+douloureux	duluʁø	adj.	疼痛的；痛苦的	Le souvenir de cette séparation restait si douloureux qu'il évitait encore d'en parler à ses proches.	那次离别的记忆仍然如此痛苦，以致他至今仍回避和亲人谈起。		
+drainage	dʁɛnaʒ	n.m.	排水；引流	Cette campagne vise le drainage de nouveaux clients vers nos boutiques.	这次活动旨在把新客户吸引到我们的门店。		
+dromadaire	dʁomadɛʁ	n.m.	单峰骆驼	Le dromadaire supporte la chaleur et la soif pendant des jours.	单峰骆驼能连续多天忍受炎热和干渴。		
+dru	dʁy	adj.	茂密的	Une herbe drue et verte couvre la pelouse derrière la maison.	屋后的草坪上长着茂密青翠的草。		
+dune	dyn	n.f.	沙丘	Le vent déplace la dune de quelques mètres chaque année.	风每年把沙丘移动几米。		
 dynamitage	dinamitaʒ	n.m.	爆炸	Le dynamitage d'un pont stratégique a coupé la route principale pendant plusieurs semaines.	炸毁一座战略桥梁使主干道中断了好几周。		
-explosif	ɛksplozif	adj.	炸药	Le colis abandonné contenait un engin explosif capable de détruire tout l'immeuble.	那个被遗弃的包裹里装着足以摧毁整栋楼的爆炸装置。		
-arme	aʁm	n.f.	武器	Les soldats ont découvert un dépôt d'armes caché sous le bâtiment abandonné.	士兵们在废弃建筑下面发现了一个隐藏的武器库。		
-guerre	gɛʁ	n.f.	战争	La guerre a détruit des villes entières et forcé des millions de personnes à fuir.	战争摧毁了整座整座的城市，迫使数百万人逃离。		
-éclater	eklate	v.	爆发	Une nouvelle crise a éclaté quand le gouvernement a refusé de négocier avec les rebelles.	政府拒绝与叛乱分子谈判后，新的危机爆发了。		
-mènera	mɛnəʁa	v.	导致	Cette politique répressive mènera le pays vers une impasse économique et sociale.	这种镇压政策将把国家引向经济和社会死胡同。		
-blockhaus	blɔkos	n.m.	碉堡	Les enfants jouent près du vieux blockhaus que les Allemands ont construit sur la plage.	孩子们在德国人当年建在海滩上的旧碉堡旁玩耍。		
 dynamite	dinamit	n.f.	炸药	Les ouvriers ont utilisé de la dynamite pour ouvrir un tunnel dans la montagne.	工人们用炸药在山里开了一条隧道。		
-véhémentement	veemɑ̃təmɑ̃	adv.	激烈地	Le député a protesté véhémentement contre le projet de loi sur la surveillance.	这位众议员激烈抗议有关监控的法案。		
-interminable	ɛ̃tɛʁminabl	adj.	无尽的	Les négociations interminables entre les deux camps n'ont abouti à aucun accord concret.	双方无休止的谈判没有达成任何具体协议。		
+ébène	ebɛn	n.f.	乌木；黑檀	Cette table en bois d'ébène coûte très cher.	这张黑檀木桌子非常贵。		
+échantillon	eʃɑ̃tijɔ̃	n.m.	样品	Un échantillon gratuit sera envoyé aux premiers clients intéressés.	将向首批感兴趣的客户寄送免费样品。		
+écharde	eʃaʁd	n.f.	刺	Il s'est enfoncé une écharde dans le doigt en coupant du bois.	他劈柴时把一根刺扎进了手指。		
+écho	eko	n.m.	回声	L'écho de ses pas dans le couloir vide lui parut soudain celui d'un autre homme.	空走廊里他脚步的回声，忽然像是另一个人的。		
+éclair	eklɛʁ	n.m.	闪电	Un éclair a fendu le ciel, suivi d'un tonnerre qui a fait trembler les vitres.	一道闪电划破天空，随之而来的雷声震得窗玻璃发抖。		
+écorce	ekɔʁs	n.f.	皮	L'écorce de cet arbre est épaisse et se détache facilement.	这棵树的皮很厚，很容易剥落。		
+écosystème	ekosistɛm	n.m.	生态系统	Cet écosystème fragile dépend entièrement de la qualité de l'eau.	这个脆弱的生态系统完全依赖水质。		
+écouteur	ekutœʁ	n.m.	耳机	Elle garde un écouteur pour suivre la réunion en ligne.	她戴着一只耳机参加线上会议。		
+écran	ekʁɑ̃	n.m.	荧幕	L'écran géant du cinéma mesure presque vingt mètres de large.	电影院的巨幕宽近二十米。		
+écureuil	ekyʁœj	n.m.	松鼠	Un écureuil cache des noisettes dans le vieux chêne.	一只松鼠把榛子藏在老橡树里。		
+élasticité	elastisite	n.f.	弹性；伸缩性	L'élasticité de ce tissu rend le pantalon très confortable.	这种布料的弹性让裤子穿着很舒服。		
+électricité	elɛktʁisite	n.f.	电	Sans électricité, tout le quartier est resté dans le noir.	停电之后，整个街区一片漆黑。		
+électrique	elɛktʁik	adj.	电的	Une panne électrique a plongé le quartier dans l'obscurité pendant près de six heures.	一次停电让整个街区陷入黑暗近六个小时。		
+électrode	elɛktʁɔd	n.f.	电极	Une électrode usée peut empêcher la machine de fonctionner correctement.	电极磨损会让机器无法正常运转。		
+électron	elɛktʁɔ̃	n.m.	电子	Un électron porte une charge négative, comme le rappelle le cours.	正如课上所讲，电子带负电荷。		
+électronique	elɛktʁonik	adj.	电子的	Ce petit réveil électronique affiche l'heure en chiffres rouges.	这个小电子闹钟用红色数字显示时间。		
+élément	elemɑ̃	n.m.	要素；元素	Chaque élément du dossier avait été vérifié, mais une pièce essentielle manquait encore.	卷宗里的每个要素都核对过了，可还缺一份关键材料。		
+éléphant	elefɑ̃	n.m.	大象	Les éléphants boivent beaucoup d'eau chaque jour dans la savane.	大象每天在草原上喝大量的水。		
+émasculation	emaskylasjɔ̃	n.f.	阉割	L'émasculation du chat demande une nuit de repos à la maison.	给猫做阉割手术后需要在家静养一晚。		
+embouchure	ɑ̃buʃyʁ	n.f.	河口	À l'embouchure du fleuve, l'eau douce rencontre la mer.	在河口处，淡水与海水相遇。		
+embrayage	ɑ̃bʁɛjaʒ	n.m.	离合器	L'embrayage de sa vieille voiture devient difficile à utiliser.	他那辆旧车的离合器越来越难用了。		
+embryon	ɑ̃bʁijɔ̃	n.m.	胚胎	L'embryon se développe lentement dans l'œuf pendant plusieurs longues semaines.	胚胎在蛋里经过好几个漫长的星期慢慢发育。		
+émetteur	emetœʁ	n.m.	发射机；发射台	Un émetteur installé sur la colline diffuse les programmes locaux.	一台架在山丘上的发射机播放本地节目。		
+émettre	emɛtʁ	v.	发送	La chaîne va émettre le débat en direct ce soir.	电视台今晚将直播这场辩论。		
+émulsion	emylsjɔ̃	n.f.	乳浊液；乳剂	Il faut remuer l'émulsion avant de peindre le mur.	刷墙之前要把乳胶漆搅匀。		
+engins	ɑ̃ʒɛ̃	n.m.	器械；装置；机械	L'armée a détruit plusieurs engins explosifs retrouvés près de la route.	军队销毁了在公路附近发现的多枚爆炸装置。		
+engrais	ɑ̃gʁɛ	n.m.	肥料	Mon grand-père utilise toujours un engrais naturel pour ses tomates du jardin.	我爷爷总是用天然肥料种他园子里的西红柿。		
+enrhumer	ɑ̃ʁyme	v.	感冒	Il s'est enrhumé après avoir marché sous la pluie.	他在雨里走了一趟就感冒了。		
+environnement	ɑ̃viʁɔnəmɑ̃	n.m.	环境	La protection de l'environnement exige des efforts communs de tous les pays.	保护环境需要所有国家的共同努力。		
+éprouvette	epʁuvɛt	n.f.	试管	Attention, l'éprouvette est encore chaude, prends-la avec un chiffon propre.	小心，试管还很烫，用干净的布拿它。		
+épurer	epyʁe	v.	精炼	Le cuisinier épure la sauce avant de la servir.	厨师把调味汁滤清后再上桌。		
+équateur	ekwatœʁ	n.m.	赤道	Il fait très chaud et humide près de l'équateur pendant toute l'année.	赤道附近全年都非常炎热潮湿。		
+équilibre	ekilibʁ	n.m.	平衡	Il lui faut trouver un équilibre entre ses obligations professionnelles et sa vie de famille.	她必须在职业责任和家庭生活之间找到平衡。		
+éruption	eʁypsjɔ̃	n.f.	喷发	L'éruption a projeté un nuage de cendres à plusieurs kilomètres de haut.	喷发把一团火山灰抛到数千米高空。		
+escargot	ɛskaʁgo	n.m.	蜗牛	Les escargots sortent après la pluie et grimpent sur les murs.	蜗牛雨后出来，爬到墙上。		
+espèce	ɛspɛs	n.f.	种类	Il existe plusieurs espèces d'oiseaux dans cette forêt.	这片森林里有好几种鸟。		
+esturgeon	ɛstyʁʒɔ̃	n.m.	鲟鱼	L'esturgeon remonte le fleuve pour pondre ses œufs au printemps.	春天鲟鱼会逆流而上产卵。		
+étalon	etalɔ̃	n.m.	种马	Cet étalon noir est le plus rapide de toute l'écurie.	这匹黑色种马是整个马厩里最快的。		
+étamine	etamin	n.f.	雄蕊	Chaque étamine porte le pollen que les abeilles transportent ensuite.	每一根雄蕊都带着花粉，随后由蜜蜂搬运。		
+étang	etɑ̃	n.m.	水池	Les canards nagent calmement sur l'étang du parc.	鸭子在公园的水池里安静地游着。		
+étincelle	etɛ̃sɛl	n.f.	火花	Une étincelle suffit pour enflammer l'essence répandue au sol.	一点火花就足以点燃洒在地上的汽油。		
+étoile	etwal	n.f.	星星	Cette nuit-là, on voyait des milliers d'étoiles au-dessus de la mer.	那天夜里，海面上空能看到成千上万颗星星。		
+étouffer	etufe	v.	使窒息；闷	La chaleur était si lourde qu'on étouffait dans cette petite salle sans fenêtre.	天气闷热得厉害，在这间没有窗户的小屋里人都喘不过气。		
+évaporer	evapoʁe	v.	蒸发	La chaleur fait évaporer l'eau des réservoirs à une vitesse inquiétante.	高温让水库里的水以惊人的速度蒸发。		
+évolutif	evolytif	adj.	发展的	Le système est évolutif et peut s'adapter aux besoins de demain.	这套系统可以演进，能适应未来的需求。		
+exciser	ɛksize	v.	切除	Les chirurgiens ont excisé la petite tumeur sans difficulté.	外科医生顺利地切除了那个小肿瘤。		
+expérience	ɛkspeʁjɑ̃s	n.f.	经验；实验	Cette expérience lui a appris bien plus que dix ans d'études théoriques.	这段经历教给他的，胜过十年理论学习。		
+expérimentation	ɛkspeʁimɑ̃tasjɔ̃	n.f.	实验	Notre expérimentation commence demain matin dans le laboratoire de chimie du bâtiment B.	我们的实验明天早上在B楼的化学实验室开始。		
+explorer	ɛksploʁe	v.	探险	Ils ont exploré la grotte pendant plus de trois heures.	他们在洞里探险了三个多小时。		
+exploser	ɛksploze	v.	爆炸	Une vieille bouteille de gaz a explosé dans le garage.	一个旧煤气罐在车库里爆炸了。		
+explosif	ɛksplozif	n.m.	炸药；adj. 爆炸性的	Le colis abandonné contenait un engin explosif capable de détruire tout l'immeuble.	那个被遗弃的包裹里装着足以摧毁整栋楼的爆炸装置。		
+extrait	ɛkstʁɛ	n.m.	摘录；提取物	J'ai besoin d'un extrait de mon contrat pour la banque.	我需要一份合同副本交给银行。		
+faisan	føzɑ̃	n.m.	野鸡	Un faisan s'est envolé brusquement devant le chien.	一只野鸡在狗面前猛地飞起。		
+falaise	falɛz	n.f.	峭壁	Les vagues frappent la falaise depuis des siècles sans jamais l'user.	海浪拍打这处峭壁已经几个世纪，却从未将它磨蚀。		
+faucon	fokɔ̃	n.m.	猎鹰	Le faucon reste immobile avant de fondre sur sa proie.	猎鹰一动不动，然后猛扑向猎物。		
+faune	fon	n.	野生生物	La faune de cette région comprend des espèces rares et protégées.	这个地区的野生动物包括一些稀有且受保护的物种。		
+femelle	fəmɛl	adj.	雌性的	La femelle du renard élève seule ses petits au printemps.	春天，母狐狸独自抚养幼崽。		
+fer	fɛʁ	n.m.	铁	Cette vieille grille en fer protège l'entrée du jardin.	这道旧铁栅栏护着花园的入口。		
+ferment	fɛʁmɑ̃	n.m.	酵母	Le boulanger ajoute du ferment dans la pâte chaque matin.	面包师每天早上往面团里加酵母。		
+fermenter	fɛʁmɑ̃te	v.	发酵	Le cidre doit fermenter plusieurs semaines dans la cave.	苹果酒要在酒窖里发酵好几个星期。		
+fertile	fɛʁtil	adj.	肥沃的	La terre fertile de cette vallée produit d'excellentes récoltes.	这片山谷肥沃的土地出产上好的收成。		
+fertilisation	fɛʁtilizasjɔ̃	n.f.	施肥	La fertilisation du sol doit se faire avant les premières pluies.	土壤施肥应该在最初几场雨之前完成。		
+fétu	fety	n.m.	草秆	Il ne reste pas un fétu de paille dans la grange vide.	空谷仓里连一根草秆都不剩。		
+feuille	fœj	n.f.	叶子；纸	Une feuille morte est tombée lentement sur mon épaule ce matin.	今天早上，一片枯叶慢慢落在我肩上。		
+fièvre	fjɛvʁ	n.f.	发烧	La fièvre ne tombait pas, et la mère passait ses nuits à veiller sur l'enfant sans dormir.	高烧一直不退，母亲整夜守在孩子身边不曾合眼。		
+figer	fiʒe	v.	凝固；僵住	La scène s'est figée dans ma mémoire, aussi nette aujourd'hui qu'elle l'était au premier jour.	那一幕在我记忆里凝固下来，今天仍和第一天一样清晰。		
+flétrir	fletʁiʁ	v.	使枯萎；凋谢	Son beau visage flétri garde encore un certain charme.	他那张憔悴的俊脸仍带着几分魅力。		
+fleur	flœʁ	n.f.	花	Il a offert des fleurs à sa mère pour sa fête.	他在母亲过节时送了她花。		
+fleurir	flœʁiʁ	v.	开花	Les cerisiers fleurissent chaque printemps devant la vieille maison.	每年春天，老房子前的樱树都会开花。		
+fleuve	flœv	n.m.	河流	Le fleuve charriait des troncs arrachés en amont, et l'on devinait au loin la crue menaçante.	大河冲下上游拔起的树干，远处能感到洪水的威胁。		
+flore	flɔʁ	n.f.	植物丛	La flore de cette île est unique et très protégée.	这座岛的植物群独特而受到严格保护。		
+flot	flo	n.m.	波浪；洪流	Le flot des visiteurs ne tarissait pas, et le gardien finit par renoncer à compter.	参观的人流不断，看守最后干脆不数了。		
+flotter	flote	v.	漂浮	Quelques feuilles mortes flottent sur l'eau du canal.	几片落叶漂在运河的水面上。		
+fluviatile	flyvjatil	adj.	河流的	Ce poisson fluviatile remonte les rivières pour se reproduire.	这种河鱼会逆流而上到河中繁殖。		
+fondre	fɔ̃dʁ	v.	融化	La neige fondait lentement sur les toits, et l'eau gouttait le long des gouttières rouillées.	雪在屋顶上慢慢融化，水顺着生锈的檐槽滴落。		
+forêt	foʁɛ	n.f.	森林	Nous nous sommes perdus dans la forêt pendant deux heures.	我们在森林里迷路了两个小时。		
+formule	fɔʁmyl	n.f.	公式；套话	Il a prononcé les formules d'usage, mais sans la chaleur qu'on attendait de lui.	他说了几句惯常的客套话，却没有大家期待的那种热忱。		
+fossile	fosil	adj.	化石的	Ils ont trouvé un os fossile près de la rivière.	他们在河边发现了一块化石骨头。		
+fougère	fuʒɛʁ	n.f.	蕨	Une grande fougère poussait à l'ombre derrière la vieille maison.	老房子后面的阴处长着一株大蕨。		
+fourmilier	fuʁmilje	n.m.	食蚁兽	Le fourmilier utilise sa longue langue pour attraper les fourmis.	食蚁兽用长舌头捉蚂蚁。		
+fraction	fʁaksjɔ̃	n.f.	分数；部分	Une fraction de seconde lui a suffi pour marquer.	几分之一秒就够他进球了。		
+framboisier	fʁɑ̃bwazje	n.m.	覆盆子	Le framboisier du fond du jardin donne beaucoup de fruits cette année.	花园深处的覆盆子今年结了很多果。		
+freesia	fʁizja	n.m.	小苍兰	Le parfum des freesias remplit toute la pièce depuis ce matin.	从今早开始，小苍兰的香气充满了整个房间。		
+frigorifique	fʁigoʁifik	adj.	冰冻的	Les entrepôts frigorifiques consomment énormément d'électricité pendant les longues canicules d'été.	夏季漫长的酷暑期间，冷藏仓库耗电惊人。		
+fusée	fyze	n.f.	火箭	La fusée a décollé de la base spatiale à l'heure prévue.	火箭按预定时间从航天基地升空。		
+fuselé	fyzəle	adj.	细长的	Elle a des doigts fuselés et une voix très douce.	她的手指细长，声音很柔和。		
+galet	galɛ	n.m.	卵石	Les enfants lancent des galets plats sur la surface de l'eau.	孩子们把扁平的卵石扔向水面。		
+gardénia	gaʁdenja	n.m.	栀子花	Le gardénia fleurit près de la fenêtre de la salle à manger.	栀子花在餐厅窗边开花。		
+gastralgie	gastʁalʒi	n.f.	胃疼	Il souffre de gastralgie depuis qu'il mange trop vite.	自从他吃得太快，就一直胃疼。		
+gaz	gaz	n.m.	天然气	Nous avons coupé le gaz avant de partir en vacances.	我们出门度假前关掉了天然气。		
+geler	ʒəle	v.	冻结	La banque a gelé son compte après plusieurs chèques sans provision.	在几张空头支票之后，银行冻结了他的账户。		
+gémeaux	ʒemo	n.m.pl.	双子座	Les Gémeaux sont représentés par deux jumeaux qui se tiennent la main.	双子座由两个手牵手的孪生兄弟代表。		
+génératrice	ʒeneʁatʁis	n.f.	发电机	La génératrice du bateau ne fonctionne plus depuis hier soir.	船上的发电机从昨晚起就不工作了。		
+génétique	ʒenetik	adj.	遗传的；遗传学	La diversité génétique des espèces menacées est étudiée attentivement par les biologistes.	生物学家正在仔细研究濒危物种的遗传多样性。		
+génique	ʒenik	adj.	基因的	La modification génique des cultures pourrait réduire fortement l'usage des pesticides.	农作物的基因改造有可能大幅减少农药的使用。		
+génotype	ʒenotip	n.m.	基因型	Le génotype de ces plantes influence directement leur résistance à la sécheresse.	这些植物的基因型直接影响它们的抗旱能力。		
+géologie	ʒeoloʒi	n.f.	地质学	Mon cousin étudie la géologie pour devenir guide de montagne.	我表哥学地质学，想以后当高山向导。		
+germer	ʒɛʁme	v.	发芽	Les graines de tomate commencent à germer dans le pot.	番茄种子在花盆里开始发芽了。		
+gibbon	ʒibɔ̃	n.m.	长臂猿	Le gibbon se balance de branche en branche avec une agilité surprenante.	长臂猿以惊人的敏捷在树枝间荡来荡去。		
+girafe	ʒiʁaf	n.f.	长颈鹿	La girafe atteint les feuilles les plus hautes grâce à son long cou.	长颈鹿凭借长脖子够到最高处的叶子。		
+giroflée	ʒiʁofle	n.f.	桂竹香	Dans le jardin, une giroflée mauve embaume toute la cour.	花园里一株淡紫色紫罗兰让整个院子都香了。		
+giroflier	ʒiʁɔflije	n.m.	丁香	Le giroflier donne les clous de girofle utilisés en cuisine.	丁香树结出的丁香用于烹饪。		
+givre	ʒivʁ	n.m.	【气】霜	Au petit matin, le givre couvrait le pare-brise de la voiture.	清晨，汽车挡风玻璃上结满了霜。		
+glacier	glasje	n.m.	冰川	Ce glacier recule chaque année à cause du réchauffement du climat.	由于气候变暖，这条冰川每年都在退缩。		
+glaïeul	glajœl	n.m.	剑兰	Un bouquet de glaïeuls blancs décore la table de la salle à manger.	一束白色剑兰装饰着餐厅的桌子。		
+glande	glɑ̃d	n.f.	腺	La glande thyroïde règle le rythme de notre métabolisme.	甲状腺调节我们新陈代谢的节奏。		
+glaucome	glokom	n.m.	青光眼	Le glaucome peut rendre aveugle si on le néglige.	青光眼如果被忽视可能导致失明。		
+globe	glɔb	n.m.	地球	Ce scientifique a voyagé autour du globe pour étudier les climats.	这位科学家环游地球研究气候。		
+gloussement	glusəmɑ̃	n.m.	咯咯叫	On entendait le gloussement des poules derrière la grange.	可以听到谷仓后面母鸡的咯咯叫声。		
+glucose	glykoz	n.m.	葡萄糖	Le glucose fournit de l'énergie à tous nos muscles.	葡萄糖为我们全身肌肉提供能量。		
+golfe	gɔlf	n.m.	海湾	Notre hôtel domine le golfe et offre une vue magnifique.	我们的旅馆俯瞰海湾，景色非常美。		
+gorille	goʁij	n.m.	大猩猩	Le gorille mâle protège sa famille avec une patience étonnante.	雄性大猩猩以惊人的耐心保护着家人。		
+graisse	gʁɛs	n.f.	油	Cette viande contient trop de graisse pour moi.	这种肉对我来说脂肪太多。		
+granite	gʁanit	n.m.	花岗岩	Cette cathédrale est bâtie en granite gris depuis huit siècles.	这座大教堂用灰色花岗岩建成，已有八百年历史。		
+graphique	gʁafik	adj.	图表的；n.m. 图表	Ce graphique montre bien l'évolution de nos notes depuis septembre.	这张图表清楚地显示了九月以来我们成绩的变化。		
+grêle	gʁɛl	n.f.	冰雹	Une grêle violente a détruit la moitié des vignes en quelques minutes.	一场猛烈的冰雹几分钟内毁掉了半数葡萄园。		
+grêler	gʁele	v.	下冰雹	Il a grêlé si fort que les vignes ont été abîmées.	冰雹下得那么大，葡萄园都被打坏了。		
+grêlon	gʁɛlɔ̃	n.m.	冰雹粒；冰雹块	Des grêlons gros comme des balles ont cassé les vitres des voitures.	鸡蛋大的冰雹砸碎了汽车的玻璃。		
+grenouille	gʁənuj	n.f.	青蛙	Une grenouille a sauté dans l'étang au bruit de nos pas.	一只青蛙听到我们的脚步声跳进了池塘。		
+grenouillère	gʁønujɛʁ	n.f.	沼泽地	Cette grenouillère attire les enfants qui cherchent des têtards.	这片沼泽地吸引着来找蝌蚪的孩子们。		
+grès	gʁɛ	n.m.	沙岩	Les falaises de grès rouge brillent au coucher du soleil.	红砂岩的峭壁在夕阳下泛着光。		
+griffe	gʁif	n.f.	爪子；爪	Les griffes du faucon sont assez puissantes pour saisir un lapin.	猎鹰的爪子足以抓住一只兔子。		
+grillon	gʁijɔ̃	n.m.	蟋蟀	Le grillon chantait près de la fenêtre toutes les nuits d'été.	夏天的每个夜晚，蟋蟀都在窗边鸣叫。		
+grippe	gʁip	n.f.	流感	La grippe l'a obligé à rester au lit toute la semaine.	流感逼着他在床上躺了整整一周。		
+grotte	gʁɔt	n.f.	石窟	Nous avons visité une grotte ornée de peintures très anciennes.	我们参观了一个绘有古老壁画的石窟。		
+guérir	geʁiʁ	v.	治疗	Cette pommade guérit vite les petites brûlures de la peau.	这种药膏能很快治好轻微的皮肤烫伤。		
+gynécologie	ʒinekoloʒi	n.f.	妇科	Ce service de gynécologie reçoit les femmes chaque matin.	这个妇科门诊每天早上接待女性患者。		
+habitat	abita	n.m.	栖息地	La destruction de son habitat menace cette espèce rare.	栖息地的破坏威胁着这种稀有物种。		
+harde	aʁd	n.f.	兽群	Une harde de cerfs traversait la clairière au petit matin.	清晨，一群鹿穿过林间空地。		
+hareng	aʁɑ̃	n.m.	鲱鱼	Le hareng fumé se mange souvent avec des pommes de terre.	熏鲱鱼常常配土豆一起吃。		
+hectare	ɛktaʁ	n.m.	公顷	Ce parc s'étend sur plus de deux cents hectares.	这座公园占地超过两百公顷。		
+hématie	emasi	n.f.	红细胞	Les hématies transportent l'oxygène vers tous les organes du corps.	红细胞把氧气输送到全身各个器官。		
+hématome	ematom	n.m.	淤血	Il a un gros hématome sur le bras après la chute.	摔倒后他胳膊上有一大块淤青。		
+hémisphère	emisfɛʁ	n.m.	半球	En été, l'hémisphère nord reçoit beaucoup plus de lumière que le sud.	夏天，北半球得到的阳光比南半球多得多。		
+hémoglobine	emoglobin	n.f.	血红蛋白	Le taux d'hémoglobine dans le sang révèle parfois une anémie.	血液中的血红蛋白含量有时能反映贫血。		
+herbe	ɛʁb	n.f.	草	Les enfants jouaient pieds nus dans l'herbe humide du jardin.	孩子们光着脚在花园潮湿的草地上玩耍。		
+herbivore	ɛʁbivɔʁ	adj.	食草的；n.m. 食草动物	Le bison est un grand herbivore qui vit en troupeau.	野牛是一种群居的大型食草动物。		
+herbu	ɛʁby	adj.	长满草的	Une vaste plaine herbue s'étend derrière la vieille ferme.	老农场后面延伸着一片广阔的草场。		
+héréditaire	eʁeditɛʁ	adj.	遗传的	Cette maladie héréditaire touche plusieurs membres de sa famille.	这种遗传病影响了他家好几个人。		
+hérédité	eʁedite	n.f.	遗传	L'hérédité joue un rôle important dans l'apparition de certaines maladies chroniques.	遗传在某些慢性病的发生中起着重要作用。		
+hérisson	eʁisɔ̃	n.m.	刺猬	Un hérisson s'est installé sous les buissons du jardin.	一只刺猬在花园的灌木丛下安了家。		
+hippocampe	ipokɑ̃p	n.m.	海马	Un hippocampe se cache dans les herbes au fond de l'aquarium.	一只海马躲在水族馆底部的水草里。		
+hippopotame	ipopotam	n.m.	河马	L'hippopotame reste dans l'eau pendant les heures les plus chaudes.	河马在最热的时段一直待在水里。		
+hirondelle	iʁɔ̃dɛl	n.f.	燕子	Les hirondelles reviennent chaque printemps pour nicher sous nos toits.	燕子每年春天回来，在我们的屋檐下筑巢。		
+hôpital	opital	n.m.	医院	Mon oncle travaille dans un hôpital près de la gare.	我叔叔在车站附近的一家医院工作。		
+hoqueter	ɔkəte	v.	打嗝	Le bébé hoquette longtemps après avoir bu son lait trop vite.	宝宝喝奶喝得太急，打嗝打了很久。		
+horizon	oʁizɔ̃	n.m.	视野	Depuis le balcon, on voit un bel horizon dégagé.	从阳台上能看到开阔美丽的景色。		
+hospitalisation	ɔspitalizasjɔ̃	n.f.	住院治疗	Son hospitalisation durera au moins une semaine, peut-être deux.	他住院至少要一个星期，也许两个。		
+humidité	ymidite	n.f.	湿度；潮湿	Cette crème retient l'humidité et protège la peau du froid.	这款面霜能保湿，还能保护皮肤不受寒冷侵袭。		
+hypoglycémie	ipoglisemi	n.f.	低血糖	Un diabétique doit toujours surveiller les premiers signes d'hypoglycémie.	糖尿病人必须随时留意低血糖的最初迹象。		
+île	il	n.f.	岛	Nous avons passé une semaine sur une petite île tranquille.	我们在一个安静的小岛上待了一个星期。		
+incendie	ɛ̃sɑ̃di	n.m.	火灾	L'incendie a ravagé plus de mille hectares de forêt en trois jours.	大火三天内烧毁了上千公顷森林。		
+incubation	ɛ̃kybasjɔ̃	n.f.	孵化	L'incubation des œufs dure environ vingt et un jours dans ce nid.	这个巢里的蛋孵化大约需要二十一天。		
+induire	ɛ̃dɥiʁ	v.	诱导	Ces images peuvent facilement induire les jeunes étudiants en erreur.	这些图片很容易把年轻学生引入歧途。		
+infirmier	ɛ̃fiʁmje	n.m.	护士	L'infirmier de nuit passait dans chaque chambre toutes les heures pour vérifier que les malades reposaient.	夜班护士每小时都到每间病房查看，确认病人都在安睡。		
+inflammation	ɛ̃flamasjɔ̃	n.f.	发炎	Cette inflammation de l'œil exige un traitement très rapide.	这只眼睛发炎，需要尽快治疗。		
+informatique	ɛ̃fɔʁmatik	n.f.	信息技术；信息学	La sécurité informatique est devenue une priorité pour les grandes entreprises.	信息安全已成为大企业的首要任务。		
+ingénierie	ɛ̃ʒeniʁi	n.f.	工程学	L'ingénierie climatique suscite des débats difficiles parmi les chercheurs du monde entier.	气候工程学在全世界的研究者中引发了艰难的争论。		
+innovation	inovasjɔ̃	n.f.	创新	Cette innovation pédagogique a beaucoup plu aux étudiants de première année.	这项教学创新很受一年级学生欢迎。		
+inondation	inɔ̃dasjɔ̃	n.f.	洪水	L'inondation a submergé les routes et isolé plusieurs fermes pendant deux jours.	洪水淹没了道路，使几个农场与外界隔绝了两天。		
+inonder	inɔ̃de	v.	淹没	La crue a inondé les champs et coupé la route principale.	洪水淹没了田地，切断了主干道。		
+inox	inɔks	n.m.	不锈钢	Ces couverts en inox sont solides et faciles à laver.	这些不锈钢餐具很结实，也好清洗。		
+insecte	ɛ̃sɛkt	n.m.	昆虫	Cet insecte se cache sous les feuilles pendant la journée.	这种昆虫白天藏在叶子下面。		
+insomnie	ɛ̃sɔmni	n.f.	失眠	Son insomnie empire depuis qu'il a changé de travail.	他换了工作以后失眠更严重了。		
+instinct	ɛ̃stɛ̃	n.m.	本能	Son instinct lui souffla de ne pas insister davantage, et il se tut aussitôt.	本能提醒他不要再坚持，他便立刻住了口。		
+internaute	ɛ̃tɛʁnot	n.	网民	Chaque internaute doit protéger ses mots de passe personnels.	每个网民都应该保护好自己的密码。		
+internet	ɛ̃tɛʁnɛt	n.	网	Mes grands-parents apprennent à utiliser internet avec leurs petits-enfants.	我祖父母正跟着孙辈学上网。		
+invalidité	ɛ̃validite	n.f.	残疾	Sa carte d'invalidité lui permet d'utiliser l'ascenseur gratuitement dans la gare.	他的残疾证让他可以在车站免费使用电梯。		
+inventer	ɛ̃vɑ̃te	v.	发明；编造	Il a inventé une excuse que personne autour de la table n'a crue.	他编了个借口，桌边没一个人相信。		
+isocèle	izosɛl	adj.	等腰的	Ce triangle isocèle possède deux côtés parfaitement égaux et une base.	这个等腰三角形有两条完全相等的边和一个底边。		
+isolation	izolasjɔ̃	n.f.	隔离；孤立；绝缘	L'isolation de ce vieux bâtiment est si mauvaise qu'on y gèle.	这栋老楼的绝缘太差，人在里面冻得发抖。		
+jaguar	ʒagwaʁ	n.m.	美洲豹	Le jaguar chasse surtout la nuit dans la forêt tropicale.	美洲豹主要在夜间于热带雨林中捕猎。		
+jasmin	ʒasmɛ̃	n.m.	茉莉	Le jasmin grimpe le long de la fenêtre de la chambre.	茉莉顺着卧室的窗户往上爬。		
+jonquille	ʒɔ̃kij	n.f.	黄水仙	Les jonquilles annoncent le printemps dans les jardins du village.	黄水仙宣告着村里花园的春天。		
+jujubier	ʒyʒybje	n.m.	枣树	Les jujubiers du verger donnent de petits fruits très sucrés.	果园里的枣树结出很甜的小果子。		
+jument	ʒymɑ̃	n.f.	母马	La jument galopait dans le pré avec son petit derrière elle.	母马在小跑，小马跟在它身后。		
+koala	koala	n.m.	考拉	Le koala passe ses journées à dormir dans les eucalyptus.	考拉整天在桉树上睡觉。		
+laboratoire	laboʁatwaʁ	n.m.	化验室	Les analyses sont envoyées au laboratoire dès le matin.	化验样本一大早就送到化验室。		
+lac	lak	n.m.	湖	Le lac, immobile à cette heure, reflétait les montagnes avec une netteté presque inquiétante.	这个时辰湖面纹丝不动，把群山映得几乎令人不安地清晰。		
+laminaire	laminɛʁ	n.f.	海带；昆布	Les laminaires forment de véritables forêts sous la mer froide.	海带在寒冷的海面下形成真正的森林。		
+lapin	lapɛ̃	n.m.	兔子	Un lapin a traversé le sentier d'un bond et s'est enfui dans les herbes hautes.	一只兔子一跳穿过小径，逃进高高的草丛里。		
+lapine	lapin	n.f.	母兔	La lapine a mis bas six petits dans le terrier.	母兔在洞里生了六只小兔。		
+larve	laʁv	n.f.	幼虫	La larve se transforme en insecte après plusieurs semaines.	幼虫经过几周后会变成昆虫。		
+latitude	latityd	n.f.	纬度	Paris se situe à peu près à la même latitude que Montréal.	巴黎的纬度与蒙特利尔大致相同。		
+laurier	loʁje	n.m.	月桂	Elle ajoute une feuille de laurier dans la soupe.	她在汤里放了一片月桂叶。		
+lavande	lavɑ̃d	n.f.	薰衣草	Un sachet de lavande parfume l'armoire de la chambre.	一个薰衣草香包让卧室的衣柜带着香味。		
+lentille	lɑ̃tij	n.f.	小扁豆；透镜	La soupe de lentilles est réconfortante après une longue journée.	忙碌一天之后，喝碗小扁豆汤很舒服。		
+léopard	leopaʁ	n.m.	豹	Le léopard grimpe aux arbres pour surveiller son territoire.	豹会爬上树观察自己的地盘。		
+leucémie	løsemi	n.f.	白血病	La leucémie se soigne mieux chez les jeunes patients.	白血病在年轻患者身上治疗效果更好。		
+lézard	lezaʁ	n.m.	蜥蜴	Un lézard se chauffait au soleil sur le mur du jardin.	一只蜥蜴在花园的墙上晒太阳。		
+libellule	libelyl	n.f.	蜻蜓	Une libellule bleue s'est posée sur le bord de l'étang.	一只蓝色的蜻蜓落在了池塘边。		
+lièvre	ljɛvʁ	n.m.	野兔	Un lièvre a détalé à travers le champ dès qu'il nous a vus.	野兔一看到我们就穿过田野逃走了。		
+lilas	lila	n.m.	丁香	Le lilas répand son parfum au début du printemps.	丁香在早春散发芳香。		
+lion	ljɔ̃	n.m.	狮子	Le lion, immobile à l'ombre d'un acacia, semblait ignorer la chaleur écrasante de midi.	狮子一动不动地待在一棵金合欢的阴影里，似乎不理会正午的酷热。		
+liquide	likid	adj.	液态的	L'azote liquide doit être manipulé avec beaucoup de précaution au laboratoire.	液氮在实验室里必须非常小心地操作。		
+logiciel	loʒisjɛl	n.m.	软件	Ce logiciel gratuit protège les fichiers personnels des utilisateurs.	这款免费软件保护用户的个人文件。		
+lombric	lɔ̃bʁik	n.m.	蚯蚓	Les lombrics aèrent la terre et aident les plantes à pousser.	蚯蚓疏松土壤，帮助植物生长。		
+longitude	lɔ̃ʒityd	n.f.	经度	Ce navire se trouve à une longitude de trente degrés ouest.	这艘船位于西经三十度。		
+lotus	lotys	n.m.	莲花；荷花	Dans ce restaurant, le lotus est cuisiné avec du porc et du gingembre.	这家餐馆把莲藕和猪肉、姜一起做。		
+loup	lu	n.m.	狼	Un loup rôdait autour du troupeau, et les bergers veillaient tour à tour, le fusil à portée.	一只狼在羊群周围徘徊，牧人们轮流守夜，枪就在手边。		
+louve	luv	n.f.	母狼	Une louve et ses petits ont été aperçus près du col.	有人在山口附近看见一只母狼和它的幼崽。		
+lubrifier	lybʁifje	v.	润滑	Le mécanicien lubrifie la chaîne du vélo avant chaque sortie.	机械师每次出行前都给自行车链条上油润滑。		
+luciole	lysjɔl	n.f.	萤火虫	Des lucioles brillent dans l'herbe haute derrière la vieille grange.	萤火虫在老谷仓后面的高草丛里闪烁。		
+lumière	lymjɛʁ	n.f.	光；灯光	La lumière du salon ne marche plus depuis hier soir.	客厅的灯从昨晚起就不亮了。		
+lumineux	lyminø	adj.	明亮的	La salle, vaste et lumineuse, donnait sur un jardin planté d'arbres centenaires que les enfants adoraient.	这间大厅宽敞明亮，朝向一座种着百年老树的花园，孩子们很喜欢那里。		
+lune	lyn	n.f.	月亮	La lune éclairait si bien le chemin qu'on n'avait pas besoin de lampe.	月亮把路照得很亮，我们用不着灯。		
+luxuriant	lyksyʁjɑ̃	adj.	茂盛的；繁茂的	Le jardin luxuriant de ce château est ouvert au public.	这座城堡华丽的园林向公众开放。		
+lys	lis	n.m.	百合	Un bouquet de lys parfume tout le salon depuis hier soir.	从昨晚起，一束百合就让整个客厅满是香气。		
+machine	maʃin	n.f.	机器	Cette machine lave le linge en moins de trente minutes.	这台机器洗衣服不到三十分钟。		
+magma	magma	n.m.	岩浆	Le magma remonte lentement vers la surface à travers les fissures de la croûte.	岩浆沿着地壳的裂缝缓慢上升到地表。		
+magnétophone	maɲetofɔn	n.m.	录音机	Mon père garde un vieux magnétophone pour écouter ses cassettes.	父亲留着一台旧录音机放他的磁带。		
+magnolia	maɲolja	n.m.	木兰	Le magnolia du voisin fleurit avant même d'avoir des feuilles.	邻居家的玉兰还没长叶就开花了。		
+malade	malad	adj.	生病的	Mon frère est malade et doit rester au lit.	我弟弟生病了，必须卧床休息。		
+maladie	maladi	n.f.	疾病	Cette maladie rare touche surtout les enfants de moins de cinq ans.	这种罕见病主要影响五岁以下的儿童。		
+malnutrition	malnytʁisjɔ̃	n.f.	营养不良	La malnutrition touche encore beaucoup d'enfants dans le monde.	世界上仍有许多儿童营养不良。		
+mammifère	mamifɛʁ	n.m.	哺乳动物	La baleine est un mammifère qui vit pourtant dans la mer.	鲸是哺乳动物，却生活在海里。		
+mante	mɑ̃t	n.f.	螳螂	La mante religieuse reste immobile sur la feuille pendant des heures.	螳螂可以在叶子上纹丝不动地待上几个小时。		
+marais	maʁɛ	n.m.	沼泽	Ce marais abrite des oiseaux rares et beaucoup d'insectes.	这片沼泽栖息着稀有鸟类和大量昆虫。		
+mare	maʁ	n.f.	池塘	Après la pluie, une grande mare se forme dans le jardin.	雨后花园里会积成一个大水塘。		
+marécageux	maʁekaʒø	adj.	沼泽的；沼泽般的	Le terrain marécageux rend la marche très difficile après la pluie.	雨后这片湿软的地面使行走变得十分困难。		
+marée	maʁe	n.f.	潮汐	La marée monte deux fois par jour sur cette plage tranquille.	在这片宁静的海滩上，潮水每天上涨两次。		
+marguerite	maʁgəʁit	n.f.	雏菊	Une marguerite blanche décore la petite table du balcon.	一朵白雏菊装点着阳台的小桌。		
+mazout	mazut	n.m.	柴油	Le camion roule au mazout et fait beaucoup de bruit.	这辆卡车烧柴油，噪音很大。		
+mécanique	mekanik	adj.	机械的	Mon grand-père préfère encore les montres mécaniques aux montres modernes.	我祖父还是更喜欢机械表，而不是现代手表。		
+médecin	mɛdsɛ̃	n.m.	医生	Le médecin m'a conseillé de me reposer une semaine.	医生建议我休息一周。		
+médicament	medikamɑ̃	n.m.	药物	Ce médicament se prend après chaque repas, sans exception.	这种药每次饭后服用，无一例外。		
+méduse	medyz	n.f.	海蜇；水母	Une méduse transparente flottait près de la plage ce matin.	今天早上有一只透明的水母漂在沙滩附近。		
+mémoire	memwaʁ	n.f.	记忆；论文	Sa mémoire des visages est vraiment impressionnante, je trouve.	我觉得他记人脸的本事真了不起。		
+mer	mɛʁ	n.f.	海	En été, nous allons souvent à la mer en famille.	夏天我们常和家人去海边。		
+mercure	mɛʁkyʁ	n.m.	水银；水星	Mercure est la planète la plus proche du Soleil et la plus rapide.	水星是离太阳最近、运行最快的行星。		
+mésange	mezɑ̃ʒ	n.f.	山雀	Une mésange bleue vient manger dans la mangeoire chaque matin.	一只蓝山雀每天早上都来喂食器吃东西。		
+mesurer	məzyʁe	v.	测量	Il mesurait à quel point sa décision avait changé le cours de sa vie, sans pouvoir revenir en arrière.	他衡量着自己的决定在多大程度上改变了人生轨迹，却已无法回头。		
+métal	metal	n.m.	金属	Le métal de la rampe était glacé, et sa main s'y colla comme si elle ne pouvait plus s'en détacher.	扶手的金属冰凉，他的手贴在上面，仿佛再也分不开。		
+météorologie	meteoʁoloʒi	n.f.	气象学	La météorologie annonce de la pluie pour tout le week-end.	天气预报说整个周末都有雨。		
+méthane	metan	n.m.	沼气	Le méthane produit par les marais contribue au réchauffement climatique.	沼泽产生的沼气加剧气候变暖。		
+mètre	mɛtʁ	n.m.	米	La chambre mesure quatre mètres sur trois, je crois.	我想这房间是四米长三米宽。		
+micro-organisme	mikʁoɔʁganizm	n.m.	微生物	Ce micro-organisme observé au microscope se déplace vraiment très vite.	这种在显微镜下观察到的微生物移动得非常快。		
+microbe	mikʁɔb	n.m.	微生物	Certains microbes sont utiles à la digestion des animaux.	有些微生物对动物的消化有益。		
+microbiologie	mikʁobjoloʒi	n.f.	微生物学	Elle travaille en microbiologie et étudie les bactéries des rivières.	她从事微生物学研究，研究河流里的细菌。		
+microscope	mikʁoskɔp	n.m.	显微镜	Nous avons passé une heure à régler le microscope avant l'expérience.	实验前我们花了一个小时调显微镜。		
+migraine	migʁɛn	n.f.	偏头痛	Une forte migraine l'oblige à rester dans le noir.	剧烈的偏头痛逼着他待在黑暗里。		
+milieu	miljø	n.m.	中间；环境	Il y a une petite table au milieu de la cuisine.	厨房中间有张小桌子。		
+millimètre	milimɛtʁ	n.m.	毫米	Il manque deux millimètres pour que la porte ferme correctement.	还差两毫米门才能关严。		
+mine	min	n.f.	表情；矿	À sa mine fatiguée, on comprenait qu'il n'avait pas fermé l'œil de la nuit.	看他疲惫的神色，就知道他一夜没合眼。		
+mirage	miʁaʒ	n.m.	海市蜃楼；幻影	Les voyageurs ont cru voir un lac, mais ce n'était qu'un mirage.	旅人们以为看见了一个湖，其实那只是海市蜃楼。		
+moineau	mwano	n.m.	麻雀	Les moineaux se disputent les miettes de pain sur la terrasse.	麻雀们在露台上争抢面包屑。		
+mollusque	molysk	n.m.	软体动物	Ce mollusque vit fixé sur les rochers de la côte.	这种软体动物固定生活在海岸的岩石上。		
+monoplan	monoplɑ̃	n.m.	单翼飞机	Ce monoplan ancien vole encore très bien par beau temps.	这架旧单翼飞机在好天气里还飞得很好。		
+montagne	mɔ̃taɲ	n.f.	山	L'été dernier, ils ont grimpé une montagne très haute malgré la chaleur.	去年夏天，他们顶着酷热爬了一座很高的山。		
+moteur	motœʁ	n.m.	发动机；adj. 驱动的	Le moteur fait un bruit étrange quand je démarre.	我一发动发动机就发出奇怪的声响。		
+mouche	muʃ	n.f.	苍蝇	Une mouche bourdonnait contre la vitre, et ce bruit menu emplissait seul le silence de la chambre.	一只苍蝇在窗玻璃上嗡嗡作响，这细微的声音独自填满了房间的寂静。		
+mousson	musɔ̃	n.f.	季风	La mousson arrive en juin et apporte des pluies très abondantes.	季风六月到来，带来大量降雨。		
+moustique	mustik	n.m.	蚊子	Un moustique m'a empêché de dormir pendant toute la nuit.	一只蚊子害我一整夜没睡着。		
+mouton	mutɔ̃	n.m.	绵羊	Les moutons descendent de la montagne à la fin de l'été.	夏末，羊群从山上下来。		
+mulet	mylɛ	n.m.	乌鱼	Le mulet remonte la rivière à la fin de l'été.	夏末，鲻鱼会逆流而上。		
+multiplier	myltiplije	v.	乘	Il faut multiplier la longueur par la largeur pour obtenir la surface.	要算面积就得把长乘以宽。		
+muscardin	myskadɛ̃	n.m.	榛睡鼠	Le muscardin dort tout l'hiver dans un nid d'herbe.	榛睡鼠整个冬天都在草巢里睡觉。		
+mustang	mystɑ̃g	n.m.	野马	Un mustang sauvage galopait librement dans l'immense plaine du Colorado.	一匹野马在科罗拉多的广袤平原上自由奔驰。		
+myope	mjɔp	adj.	近视的；n. 近视者	Je suis très myope depuis l'âge de dix ans.	我从十岁起就近视得很厉害。		
+myopie	mjopi	n.f.	近视	Sa myopie l'oblige à porter des lunettes en cours.	他近视，上课必须戴眼镜。		
+naja	naʒa	n.m.	眼镜蛇	Le naja dresse sa tête quand il se sent menacé.	眼镜蛇感到受威胁时会把头竖起来。		
+nanomètre	nanɔmɛtʁ	n.m.	纳米	Ces nouveaux capteurs mesurent des variations de température à quelques nanomètres près.	这些新型传感器能测量到几纳米量级的温度变化。		
+nature	natyʁ	n.f.	自然；性质	Il aime marcher seul dans la forêt pour admirer la nature.	他喜欢独自在森林里走走，欣赏自然。		
+naturel	natyʁɛl	adj.	自然的	Ce désir de partir lui semblait aussi naturel que celui de respirer.	这种想离开的念头对他就像呼吸一样自然。		
+navigation	navigasjɔ̃	n.f.	航行；航海；导航	La navigation devient difficile quand le brouillard tombe.	起雾时航空导航变得困难。		
+naviguer	navige	v.	航行	Ils aiment naviguer sur la rivière pendant les vacances.	他们喜欢假期在河上航行。		
+neuroleptique	nøʁolɛptik	n.m.	安定剂	Le neuroleptique l'aide à dormir et à rester calme.	这种安定剂帮他入睡，让他保持平静。		
+nord	nɔʁ	n.m.	北方	Le vent du nord a apporté un froid que personne n'avait prévu.	北风带来了谁都没料到的寒冷。		
+nord-est	nɔʁɛst	adj.	东北	Le nord-est du pays est couvert de forêts épaisses.	该国东北部覆盖着茂密的森林。		
+nord-ouest	nɔʁwɛst	adj.	西北	Le train roule vers le nord-ouest pendant trois heures.	火车朝西北方向开了三个小时。		
+noyade	nwajad	n.f.	溺水	La noyade reste la première cause de décès pendant les fortes chaleurs.	酷暑期间，溺水仍是首要的死因。		
+noyer	nwaje	v.	淹死；淹没	La crue a noyé les champs voisins, contraignant les habitants à quitter leurs maisons en hâte.	洪水淹没了邻近的田地，迫使居民匆忙离开家园。		
+nucléaire	nykleɛʁ	adj.	核的	Le pays discute de la construction d'une nouvelle centrale nucléaire.	该国正在讨论建造一座新的核电站。		
+numérique	nymeʁik	adj.	数码的	La transition numérique a réduit la consommation de papier dans beaucoup d'entreprises.	数字化转型减少了许多企业的纸张消耗。		
+oasis	oazis	n.f.	绿洲	Cette oasis offre de l'ombre aux voyageurs épuisés du désert.	这片绿洲为疲惫的沙漠旅人提供阴凉。		
+obésité	obezite	n.f.	过度肥胖，肥胖症	L'obésité augmente dans les pays où l'on mange trop sucré.	在吃得太甜的国家，肥胖症正在增加。		
+observer	opsɛʁve	v.	观察	Il observait les étoiles depuis le toit de la maison.	他从屋顶上观察星星。		
+océan	oseɑ̃	n.m.	大洋	L'océan Atlantique sépare l'Europe de l'Amérique du Nord.	大西洋把欧洲和北美洲隔开。		
+océanien	osean	adj.	大洋洲的	Ce pays océanien attire de nombreux touristes chaque année.	这个大洋洲国家每年吸引很多游客。		
+océanographie	oseanogʁafi	n.f.	海洋学	Grâce à l'océanographie, nous comprenons mieux la vie des grands fonds.	借助海洋学，我们更了解深海中的生命。		
+œillet	œjɛ	n.m.	石竹；纽孔	Il a offert un œillet rouge à sa mère pour la fête des mères.	母亲节他送给妈妈一朵红色石竹。		
+œsophage	øzofaʒ	n.m.	食道	Les aliments descendent lentement par l'œsophage puis arrivent dans l'estomac.	食物顺着食管慢慢下行，然后进入胃里。		
+oie	wa	n.f.	鹅	Une oie grise a traversé la route sans se presser.	一只灰鹅不慌不忙地穿过马路。		
+oiseau	wazo	n.m.	鸟	Un petit oiseau chantait dans l'arbre devant ma fenêtre.	一只小鸟在我窗前的树上歌唱。		
+opération	opeʁasjɔ̃	n.f.	手术；操作	Après son opération, il a dû rester au lit pendant trois semaines.	手术后他不得不在床上躺三个星期。		
+opérer	opeʁe	v.	施行手术；操作	La police a opéré une perquisition au siège de la banque.	警方在银行总部实施了一次搜查。		
+ophtalmologie	ɔftalmoloʒi	n.f.	眼科	Il consulte un spécialiste en ophtalmologie deux fois par an.	他每年看两次眼科专家。		
+optique	ɔptik	adj.	光学的；视觉的	Notre cours d'optique explique enfin comment fonctionne une lentille simple.	我们的光学课终于讲清楚了一个简单透镜的原理。		
+orang-outang	oʁɑ̃utɑ̃	n.m.	猩猩	L'orang-outang construit un nouveau nid chaque soir dans les arbres.	猩猩每晚都会在树上搭一个新窝。		
+orbite	ɔʁbit	n.f.	轨道；眼眶	Le ballon l'a frappé juste au-dessus de l'orbite gauche.	球正好打在他左眼眶上方。		
+orchidée	ɔʁkide	n.f.	兰花	Cette orchidée demande beaucoup de lumière mais peu d'eau.	这株兰花需要很多光照，却不需要太多水。		
+ordinateur	ɔʁdinatœʁ	n.m.	电脑	J'achète un nouvel ordinateur.	我买了一台新电脑。		
+ordonnance	ɔʁdonɑ̃s	n.	法令；处方	Cette ordonnance permet au préfet de fermer les lieux publics dangereux.	这项法令允许省长关闭危险的公共场所。		
+organe	ɔʁgan	n.m.	器官	Le foie est un organe essentiel du corps humain.	肝脏是人体重要的器官。		
+organique	ɔʁganik	adj.	有机的	Les agriculteurs bio utilisent uniquement des engrais organiques dans leurs champs depuis des années.	这些有机农户多年来只在田里使用有机肥料。		
+ornithorynque	ɔʁnitoʁɛ̃k	n.m.	鸭嘴兽	L'ornithorynque pond des œufs bien qu'il soit un mammifère.	鸭嘴兽虽然是哺乳动物，却会下蛋。		
+ossement	ɔsəmɑ̃	n.m.	骸骨；骨头	Les archéologues ont retrouvé des ossements d'animaux préhistoriques au fond de la grotte.	考古学家在洞穴深处发现了史前动物的骨骸。		
+ours	uʁs	n.m.	熊	Un ours brun a été aperçu près du lac dimanche matin.	周日早上有人在湖边看到一头棕熊。		
+ovaire	ovɛʁ	n.m.	卵巢；子房	L'ovaire de la fleur devient un fruit après la fécondation.	花儿的子房在受精之后会变成果实。		
+ovalaire	ovalɛʁ	adj.	椭圆的	Elle a un visage ovalaire et de grands yeux noirs.	她有一张椭圆的脸和一双黑色的大眼睛。		
+ovule	ovyl	n.m.	卵	L'ovule est fécondé avant de descendre vers l'utérus.	卵子在进入子宫之前先受精。		
+oxygène	ɔksiʒɛn	n.m.	氧气	Sans oxygène, la flamme du bec de gaz s'éteint presque aussitôt.	没有氧气，煤气灯的火焰几乎立刻就灭了。		
+panda	pɑ̃da	n.m.	熊猫	Le panda mange du bambou presque douze heures par jour.	熊猫每天吃竹子将近十二个小时。		
+pandémie	pɑ̃demi	n.f.	大流行病	La pandémie de ce pain chaud est tendre et légère.	这个热面包的心很软很轻。		
+panthère	pɑ̃tɛʁ	n.f.	豹	Une panthère noire a été aperçue près du village la nuit dernière.	昨夜有人在村子附近看见一只黑豹。		
+paon	pɑ̃	n.m.	孔雀	Le paon ouvre sa queue colorée pour attirer les femelles.	孔雀开屏来吸引雌孔雀。		
+papillon	papijɔ̃	n.m.	蝴蝶	Un papillon jaune tourne autour de la lampe du salon.	一只黄蝴蝶绕着客厅的灯打转。		
+parallèle	paʁalɛl	adj.	平行的	Les deux routes sont parallèles et ne se croisent jamais.	这两条路平行，永不相交。		
+paralysie	paʁalizi	n.f.	瘫痪；麻痹	La paralysie du bras gauche a disparu en un mois.	左臂的瘫痪一个月就消失了。		
+pare-feu	paʁfø	n.m.	防火壁	Un pare-feu large de vingt mètres protège désormais toute la forêt domaniale.	一条二十米宽的防火隔离带如今保护着整片国有林。		
+particule	paʁtikyl	n.f.	微粒	De fines particules de poussière flottaient dans la lumière du matin.	细小的尘埃颗粒在晨光中飘浮。		
+patte	pat	n.f.	爪子；腿	Le chat s'est blessé à la patte en sautant du mur.	猫从墙上跳下来时伤了爪子。		
+pédiatrie	pedjatʁi	n.f.	儿科	Elle a choisi la pédiatrie parce qu'elle adore les enfants.	她选择儿科是因为她特别喜欢孩子。		
+pénicilline	penisilin	n.f.	青霉素	Le médecin lui a prescrit de la pénicilline pendant huit jours.	医生给他开了八天的青霉素。		
+perche	pɛʁʃ	n.f.	鲈鱼	Nous avons pêché deux belles perches dans la rivière ce matin.	今天早上我们在河里钓到两条漂亮的鲈鱼。		
+périscope	peʁiskɔp	n.m.	潜望镜	Le sous-marin a remonté son périscope pour observer la côte.	潜艇升起了潜望镜观察海岸。		
+perméable	pɛʁmeabl	adj.	可渗透的	Cette toile n'est pas perméable, elle arrête très bien la pluie.	这种布不透水，能很好地挡住雨水。		
+perpendiculaire	pɛʁpɑ̃dikylɛʁ	adj.	垂直的	Cette rue est perpendiculaire à l'avenue qui longe la rivière.	这条街与沿河的林荫大道垂直。		
+perroquet	pɛʁokɛ	n.m.	鹦鹉	Le perroquet répète les mots qu'il entend sans les comprendre.	鹦鹉会重复听到的词，却并不理解。		
+peste	pɛst	n.f.	瘟疫	La peste avait décimé la moitié de la population au Moyen Âge.	中世纪时瘟疫夺去了半数人口的生命。		
+pesticide	pɛstisid	n.m.	杀虫剂	Les agriculteurs utilisent moins de pesticide qu'il y a dix ans.	农民使用的杀虫剂比十年前少了。		
+pétale	petal	n.m.	花瓣	Un pétale rose est tombé sur la table du salon.	一片粉色花瓣落在客厅的桌上。		
+pétaloïdes	petaloid	adj.	花瓣状的	Les feuilles pétaloïdes de cette plante sont très fragiles.	这种植物的花瓣状叶子非常脆弱。		
+pétrole	petʁɔl	n.m.	石油	Le prix du pétrole monte vite depuis quelques semaines.	近几周石油价格涨得很快。		
+peuplier	pøplije	n.m.	杨树	Les peupliers se balancent au bord de la rivière quand il y a du vent.	起风时，河边的杨树随风摇摆。		
+pharmacie	faʁmasi	n.f.	药房	La pharmacie du quartier ferme ses portes à dix-neuf heures.	街区里的药房十九点关门。		
+pharyngite	faʁɛ̃ʒit	n.f.	咽炎	Il a une pharyngite et parle encore avec difficulté.	他得了咽炎，说话仍然很吃力。		
+physique	fizik	adj.	身体的；物理的	Il ne supportait plus l'effort physique que ce métier exigeait chaque jour de lui.	他再也受不了这份工作每天对他体力的要求。		
+picotement	pikɔtəmɑ̃	n.m.	刺痛	Elle sent un picotement bizarre au bout des doigts.	她觉得指尖有一种奇怪的刺痛感。		
+pie	pi	n.f.	喜鹊	Une pie a volé une cuillère sur la table du jardin.	一只喜鹊偷走了花园桌上的一把勺子。		
+pieuvre	pjœvʁ	n.f.	章鱼	La pieuvre change de couleur pour échapper à ses ennemis.	章鱼改变颜色以躲开敌人。		
+pigeon	piʒɔ̃	n.m.	鸽子	Un pigeon gris s'est posé sur le rebord de la fenêtre.	一只灰鸽子落在窗台上。		
+pigment	pigmɑ̃	n.m.	颜料	Le professeur nous a expliqué comment mélanger les pigments pour obtenir du vert.	老师给我们讲解了怎样调颜料才能调出绿色。		
+pile	pil	n.f.	电池；一叠	La pile de son réveil était morte, et il s'est réveillé bien après l'heure.	他闹钟的电池没电了，他醒来时早已过了时间。		
+pingouin	pɛ̃gwɛ̃	n.m.	企鹅	Le pingouin plonge dans l'eau glacée pour attraper des poissons.	企鹅潜入冰冷的水中捕鱼。		
+pipette	pipɛt	n.f.	吸管	L'enfant boit son jus avec une pipette en plastique.	孩子用塑料吸管喝果汁。		
+pirate	piʁat	n.m.	海盗；黑客	Un pirate a volé les données de plusieurs milliers de clients.	一名黑客窃取了数千名客户的数据。		
+piston	pistɔ̃	n.m.	活塞	Le piston du moteur bouge très vite quand on accélère.	一加速，发动机的活塞就动得很快。		
+pivert	pivɛʁ	n.m.	啄木鸟	Le pivert frappe le tronc du vieux chêne pour trouver des insectes.	啄木鸟敲打老橡树的树干找虫子。		
+pivoine	pivwan	n.f.	牡丹	Les pivoines du jardin s'ouvrent au début du printemps.	花园里的牡丹在初春开放。		
+plaie	plɛ	n.f.	伤口	Il faut nettoyer la plaie avant de la bander.	包扎之前得先清洗伤口。		
+plaine	plɛn	n.f.	平原	À perte de vue, la plaine s'étendait, dorée par le soleil couchant de septembre.	平原一望无际，被九月的落日染成金黄。		
+plane	plan	n.f.	枫树	Le plane du jardin donne une ombre agréable en été.	花园里的梧桐树夏天洒下宜人的阴凉。		
+planétarium	planetaʁjɔm	n.m.	天文馆	Nous avons passé tout l'après-midi au planétarium avec les enfants.	我们和孩子们在天文馆待了一下午。		
+planète	planɛt	n.f.	行星	Cette planète lointaine tourne autour d'une étoile presque invisible à l'oeil nu.	这颗遥远的行星围绕着一颗肉眼几乎看不见的恒星运行。		
+plante	plɑ̃t	n.f.	植物	Cette plante, venue d'un pays lointain, s'est si bien acclimatée qu'elle est devenue envahissante.	这种来自远方的植物适应得太好，竟变得四处蔓延。		
+poix	pwa	n.f.	树脂	La poix collait aux doigts des enfants qui grimpaient aux pins.	树脂粘在爬松树的孩子们的手指上。		
+pollen	polɛn	n.m.	花粉	Le pollen des fleurs provoque des allergies chez beaucoup de gens.	花粉让许多人过敏。		
+pollution	polysjɔ̃	n.f.	污染	La pollution de l'air provoque des maladies respiratoires chez les jeunes enfants.	空气污染使幼儿患上呼吸道疾病。		
+pommade	pomad	n.f.	药膏；发蜡	Il met de la pommade sur ses cheveux chaque matin.	他每天早上在头发上抹发蜡。		
+pompe	pɔ̃p	n.f.	泵；排场；豪华	La pompe du puits, rouillée par l'humidité, refusait de fonctionner depuis le début de l'été.	井上的水泵因潮湿生锈，从入夏起就无法使用。		
+potassium	potasjɔm	n.m.	钾	Les bananes contiennent beaucoup de potassium, utile pour les muscles.	香蕉含大量钾，对肌肉很有好处。		
+pou	pu	n.m.	虱子	Autrefois, les poux posaient de gros problèmes dans les écoles.	从前，虱子在学校里造成了大麻烦。		
+pouls	pu	n.m.	脉搏	Chaque matin, l'infirmière prend mon pouls avant les soins.	每天早上，护士在护理前给我量脉搏。		
+pourcentage	puʁsɑ̃taʒ	n.m.	百分比	Le pourcentage de chômeurs a légèrement baissé au dernier trimestre.	失业者比例在上个季度略有下降。		
+prairie	pʁeʁi	n.f.	草地	Les vaches mangent tranquillement dans la prairie derrière la ferme.	牛在农场后面的草地上安静地吃草。		
+pré	pʁe	n.m.	草地	Dans le pré, les vaches paissaient tranquillement, indifférentes au train qui passait au loin.	草地上，母牛安静地吃草，对远处驶过的火车毫不在意。		
+précipice	pʁesipis	n.m.	悬崖	Il ne faut pas s'approcher du précipice sans précaution.	没有防护措施的话不能靠近悬崖。		
+prématuré	pʁematyʁe	n.m.	早产儿；adj. 过早的	Ce bébé prématuré reste encore quelques jours à l'hôpital.	这个早产儿还要在医院待几天。		
+prescription	pʁɛskʁipsjɔ̃	n.f.	处方	Le pharmacien prépare le médicament selon la prescription du médecin.	药剂师按照医生的处方配药。		
+prescrire	pʁɛskʁiʁ	v.	开处方；规定	Le médecin m'a prescrit des antibiotiques pour une semaine.	医生给我开了一周的抗生素。		
+pression	pʁɛsjɔ̃	n.f.	气压	La pression des pneus doit être vérifiée chaque mois.	胎压必须每个月检查一次。		
+primate	pʁimat	n.m.	灵长目动物	Ce primate utilise des pierres pour casser des noix.	这只灵长类动物用石头砸开坚果。		
+proie	pʁwa	n.f.	猎物	L'aigle tournoyait au-dessus de la plaine, guettant une proie que la sécheresse rendait visible.	鹰在平原上空盘旋，窥伺着一只因干旱而暴露的猎物。		
+projecteur	pʁoʒɛktœʁ	n.m.	投影仪	Le projecteur ne marche plus, alors le cours se fait sans diapositives.	投影仪坏了，所以这节课没有幻灯片。		
+promontoire	pʁomɔ̃twaʁ	n.m.	海角	Un promontoire rocheux domine la baie depuis des siècles, offrant une vue superbe.	一处岩石海角俯瞰海湾数百年，景色极佳。		
+proportion	pʁopɔʁsjɔ̃	n.f.	比例	La proportion entre le haut et le bas est très importante.	上身和下身的比例非常重要。		
+proportionnel	pʁopɔʁsjonɛl	adj.	成比例的；相应的	Chez cet athlète, la taille et les épaules sont proportionnelles.	这位运动员的腰和肩膀很匀称。		
+protiste	pʁotɛst	n.m.	原生生物	Cet organisme unicellulaire est un protiste.	这种单细胞生物属于原生生物。		
+psychologie	psikoloʒi	n.f.	心理学	Il lit des livres de psychologie pour mieux comprendre ses camarades.	他读心理学书籍，为了更好地理解同学。		
+psychologique	psikoloʒik	adj.	心理学的	La fatigue psychologique explique en partie ce blocage devant l'examen.	心理上的疲劳部分解释了这种考前卡壳。		
+psychologue	psikolɔg	n.	心理学家	Un psychologue reçoit les étudiants stressés chaque après-midi au campus.	一位心理学家每天下午在校园接待压力大的学生。		
+psychose	psikoz	n.f.	精神病	Sa psychose nécessite aujourd'hui un suivi médical très régulier.	他的精神病如今需要非常规律的医疗跟踪。		
+puce	pys	n.f.	跳蚤；芯片	Mon chien a attrapé des puces pendant la promenade en forêt.	我的狗在森林散步时染上了跳蚤。		
+puissance	pɥisɑ̃s	n.f.	力量；功率	La puissance de la machine impressionnait les ouvriers, qui n'en avaient jamais vu de semblable.	这台机器的力量让工人们惊叹，他们从没见过这样的。		
+purification	pyʁifikasjɔ̃	n.f.	净化	La purification de l'eau du robinet rassure beaucoup les habitants.	自来水的净化让居民们放心不少。		
+purifier	pyʁifje	v.	净化	Cette plante purifie l'air de la chambre pendant la nuit.	这种植物夜里能净化卧室的空气。		
+putois	pytwa	n.m.	黄鼠狼	Le putois libère une odeur terrible quand il se sent en danger.	黄鼠狼感到危险时会放出难闻的气味。		
+queue	kø	n.f.	尾巴；队列	Le chien remuait la queue dès qu'il entendait la voix de son maître.	狗一听到主人的声音就摇尾巴。		
+racine	ʁasin	n.f.	根	Les racines de cet arbre descendent très profond dans le sol.	这棵树的根深深扎进土里。		
+radar	ʁadaʁ	n.m.	雷达	Le radar de l'aéroport a détecté un objet inconnu cette nuit.	机场雷达昨夜探测到一个不明物体。		
+radiation	ʁadjasjɔ̃	n.f.	放射	Les ouvriers ont été exposés à une forte radiation pendant leur travail.	工人们在工作中受到了强烈的辐射。		
+radioactif	ʁadjoaktif	adj.	放射性的	Le sol de la zone reste radioactif plusieurs décennies après la catastrophe.	灾难发生几十年后，该区域的土壤仍具有放射性。		
+rage	ʁaʒ	n.f.	狂怒；狂犬病	La rage le rendait presque muet, et il ne trouvait plus les mots qu'il aurait voulu crier.	愤怒让他几乎说不出话，他再也找不到那些想喊出来的词。		
+rat	ʁa	n.m.	老鼠	Un rat s'est glissé dans la cave et a rongé le sac de farine pendant la nuit.	一只老鼠溜进地窖，夜里啃破了面粉袋。		
+rayonner	ʁɛjone	v.	放射	Cette substance dangereuse continue de rayonner dans le sol pendant des années.	这种危险物质会在土壤中持续放射多年。		
+recharger	ʁəʃaʁʒe	v.	充电；重新装填	Je dois recharger mon téléphone avant de prendre le train.	我得在坐火车前给手机充好电。		
+recherche	ʁəʃɛʁʃ	n.f.	研究；寻找	Ses recherches sur ce virus ont duré plus de dix ans sans interruption.	他对这种病毒的研究持续了十多年，从未中断。		
+récif	ʁesif	n.m.	暗礁	Les plongeurs évitent ce récif parce que les courants y sont dangereux.	潜水者避开这处暗礁，因为那里的水流很危险。		
+reconstituer	ʁəkɔ̃stitɥe	v.	重组	Les scientifiques tentent de reconstituer le climat ancien à partir des glaces.	科学家试图依据冰层重建古代气候。		
+refléter	ʁəflete	v.	反射	Le miroir reflète la lumière du soleil dans le couloir.	镜子把阳光反射到走廊里。		
+réfrigération	ʁefʁiʒeʁasjɔ̃	n.f.	冷藏	La réfrigération garde le lait frais pendant plusieurs jours.	冷藏能让牛奶保鲜好几天。		
+renard	ʁənaʁ	n.m.	狐狸	Un renard roux rôdait autour du poulailler hier soir.	昨晚一只红狐狸在鸡舍周围转悠。		
+renardeau	ʁənaʁdo	n.m.	小狐狸	Au printemps, un renardeau curieux est venu près de notre jardin.	春天时，一只好奇的小狐狸来到了我们的花园附近。		
+reproduire	ʁəpʁodɥiʁ	v.	复制；繁殖；再现	Nous espérons que ce genre d'erreur ne se reproduira plus.	我们希望这类错误不会再发生。		
+requin	ʁəkɛ̃	n.m.	鲨鱼	Un requin a été signalé près de la plage, la baignade est interdite.	有人在海滩附近发现鲨鱼，禁止游泳。		
+réseau	ʁezo	n.m.	网络	Le réseau internet est très lent dans ce village.	这个村子的网络非常慢。		
+ressources	ʁəsuʁs	n.f.	资源	Les ressources en eau de cette région diminuent chaque année.	这个地区的水资源逐年减少。		
+rhinocéros	ʁinoseʁɔs	n.m.	犀牛	Le rhinocéros charge violemment dès qu'il se sent menacé par un intrus.	犀牛一感到受到入侵者威胁就会猛烈冲撞。		
+rhizome	ʁizom	n.m.	根茎	Le rhizome de l'iris pousse sous la terre et produit de nouvelles tiges.	鸢尾的根茎在地下生长，长出新的茎。		
+rhumatisme	ʁymatizm	n.m.	风湿病	Son grand-père se plaint souvent de rhumatismes en hiver.	他祖父冬天常抱怨风湿病发作。		
+rhume	ʁym	n.m.	感冒	J'ai attrapé un gros rhume en attendant le bus.	我等公交车时得了重感冒。		
+rivage	ʁivaʒ	n.m.	海岸	Les enfants cherchaient des coquillages le long du rivage.	孩子们沿着海岸寻找贝壳。		
+rive	ʁiv	n.f.	岸	Sur l'autre rive, les lumières de la ville tremblaient dans l'eau noire et semblaient toutes proches.	对岸城市的灯火在黑色的水面上颤动，看上去近在咫尺。		
+rivière	ʁivjɛʁ	n.f.	河	La rivière, grossie par les pluies, charriait des branches et menaçait les maisons bâties trop près.	河水因降雨上涨，冲下树枝，威胁着建得太近的房屋。		
+robot	ʁobo	n.m.	机器人	Ce robot sous-marin explore les fonds marins afin d'évaluer la pollution.	这台水下机器人勘探海底，以评估污染状况。		
+roche	ʁɔʃ	n.f.	岩	Les enfants ont grimpé sur une roche plate au bord de la rivière.	孩子们爬上了河边一块平坦的岩石。		
+rocher	ʁoʃe	n.m.	岩石	Le sentier serpentait entre d'énormes rochers avant d'atteindre le sommet balayé par le vent.	小路在巨石之间蜿蜒，最后通向被风扫过的山顶。		
+rossignol	ʁosiɲɔl	n.m.	夜莺	Le rossignol chante dans les buissons dès la fin du jour.	天一黑，夜莺就在灌木丛里歌唱。		
+sable	sabl	n.m.	沙子	Les enfants ont construit un château de sable tout près des vagues.	孩子们在浪边堆了一座沙堡。		
+saignée	seɲe	n.f.	放血；大量抽取	La fermeture de l'usine représente une saignée pour la région.	工厂关闭对该地区是一大损失。		
+sans-fil	sɑ̃fil	n.m.	无线电；无绳电话	Cette imprimante sans-fil fonctionne avec toutes les tablettes.	这台无线打印机可以和所有平板电脑配合使用。		
+santé	sɑ̃te	n.f.	健康	Sa santé s'est tellement améliorée qu'il peut de nouveau marcher sans aide.	他的健康好转了很多，又能独自走路了。		
+sapement	sapəmɑ̃	n.m.	侵蚀	Le sapement de la rive menace les maisons les plus proches.	河岸受到的侵蚀威胁着最近的几座房子。		
+satellite	satelit	n.m.	卫星	Ce satellite transmet des images de la Terre toutes les heures.	这颗卫星每小时传送一次地球图像。		
+saturer	satyʁe	v.	使饱和；使厌倦	Saturne est entourée d'anneaux visibles même avec un petit télescope.	即使用小望远镜也能看到土星周围的光环。		
+saule	sol	n.m.	柳树	Un saule pleureur cache presque toute la façade de la vieille ferme.	一棵垂柳几乎遮住了老农舍的整个正面。		
+scanner	skanɛʁ	n.m.	扫描机	Le scanner de la bibliothèque est en panne depuis trois jours.	图书馆的扫描机坏了三天了。		
+scanneur	skanœʁ	n.m.	扫描仪	Le scanneur du bureau ne fonctionne plus depuis hier matin.	办公室的扫描仪从昨天早上起就坏了。		
+science	sjɑ̃s	n.f.	科学	La science moderne nous aide à mieux comprendre le climat et à limiter les dégâts.	现代科学帮助我们更好地理解气候并减少损害。		
+sciène	sjɛn	n.f.	黄花鱼	La sciène est un poisson très apprécié sur les côtes atlantiques.	黄花鱼是大西洋沿岸很受欢迎的一种鱼。		
+scientifique	sjɑ̃tifik	adj.	科学的；科学家	Ce chercheur scientifique travaille sur un projet important.	这位科研人员正在做一个重要项目。		
+scientifiquement	sjɑ̃tifikəmɑ̃	adv.	科学地	Ce phénomène a été scientifiquement démontré par plusieurs laboratoires européens ces dernières années.	近年来，多家欧洲实验室已在科学上证实了这一现象。		
+scorpion	skɔʁpjɔ̃	n.m.	蝎子；天蝎座	Le Scorpion est décrit comme passionné, discret et parfois jaloux.	天蝎座被形容为热情、内敛，有时还爱吃醋。		
+segmentaire	sɛgmɑ̃tɛʁ	adj.	分节的；节段性的	Cette hausse segmentaire des prix ne touche pour l'instant que deux produits.	这次部分涨价目前只涉及两种产品。		
+seiche	sɛʃ	n.f.	乌贼	Une seiche a laissé son encre noire dans l'eau claire.	一只乌贼在清澈的水里留下了黑色的墨汁。		
+séisme	seizm	n.m.	地震	Le séisme a détruit plusieurs immeubles du centre historique de la ville.	地震摧毁了老城中心的几栋楼房。		
+sépale	sepal	n.m.	萼片	Les sépales protègent la fleur avant qu'elle ne s'ouvre.	萼片在花朵开放之前保护着它。		
+septicité	sɛptisite	n.f.	感染性	La septicité de cette plaie inquiète beaucoup le chirurgien.	这个伤口的感染性让外科医生十分担心。		
+seringue	səʁɛ̃g	n.f.	注射器	Le vétérinaire prépare une seringue pour le vieux chat.	兽医在给那只老猫准备一支注射器。		
+serpent	sɛʁpɑ̃	n.m.	蛇	Un serpent a traversé le sentier juste devant nos pieds.	一条蛇就在我们脚前穿过小路。		
+serre	sɛʁ	n.f.	温室	Cette jupe est trop serrée à la taille pour moi.	这条裙子腰部对我来说太紧了。		
+sérum	seʁɔm	n.m.	血清	Les médecins lui ont injecté un sérum contre le venin.	医生给他注射了抗蛇毒的血清。		
+signal	siɲal	n.m.	信号；信号灯	Attendez le signal vert avant de traverser la route.	过马路前要等绿灯信号。		
+singe	sɛ̃ʒ	n.m.	猴子	Les singes volent les lunettes des touristes pour s'amuser.	猴子们为了取乐偷游客的眼镜。		
+sismique	sismik	adj.	地震的	Les appareils ont enregistré une activité sismique inhabituelle sous le volcan endormi.	仪器记录到这座休眠火山下方异常的地震活动。		
+sismologie	sismoloʒi	n.f.	地震学	La sismologie permet de prévoir certaines secousses avec une précision limitée.	地震学能以有限的精度预报某些震动。		
+soigner	swaɲe	v.	治疗	Elle soigne les enfants malades dans un petit dispensaire.	她在一家小诊所里给生病的孩子治病。		
+sol	sɔl	n.m.	地面；土壤	Le sol de la cuisine est froid en hiver.	冬天厨房的地面很冷。		
+solidifier	solidifje	v.	固化	En refroidissant rapidement, la lave se solidifie et forme de nouvelles roches noires.	岩浆迅速冷却后凝固，形成新的黑色岩石。		
+sommet	somɛ	n.m.	顶峰	Au sommet de la colline se dressait une croix de pierre que le vent avait presque usée.	山顶上立着一座被风几乎磨蚀殆尽的石十字架。		
+souche	suʃ	n.f.	树桩	Il s'est assis sur une souche pour retirer ses chaussures.	他坐在树桩上脱鞋。		
+soufre	sufʁ	n.m.	硫磺	L'eau de cette source sent le soufre et attire peu de baigneurs.	这处泉水有硫磺味，很少有人来泡。		
+source	suʁs	n.f.	源头；来源	La source de la rivière se trouve dans les montagnes, à quelques heures de marche.	这条河的源头在山里，要走几个小时才能到。		
+souris	suʁi	n.f.	老鼠；鼠标	Ma souris sans fil ne fonctionne plus depuis ce matin.	我的无线鼠标从今天早上起就不能用了。		
+sphère	sfɛʁ	n.f.	范围	Ce sujet dépasse largement la sphère de mes connaissances actuelles.	这个题目远远超出了我目前的知识范围。		
+stalactite	stalaktit	n.f.	钟乳石	Les stalactites pendent du plafond de la grotte comme des épées.	钟乳石像剑一样从洞顶垂下。		
+stalagmite	stalagmit	n.f.	石笋	Une stalagmite pousse de quelques millimètres par siècle.	石笋每百年才长几毫米。		
+stellaire	stɛlɛʁ	adj.	恒星的	La lumière stellaire met parfois des siècles à nous parvenir.	星光有时要几百年才能到达我们这里。		
+steppe	stɛp	n.f.	大草原	La steppe s'étend jusqu'à l'horizon sans aucun arbre.	大草原一直延伸到地平线，一棵树也没有。		
+stérile	steʁil	adj.	无菌的	Le chirurgien travaille toujours avec des instruments parfaitement stériles.	外科医生始终使用完全无菌的器械。		
+stériliser	steʁilize	v.	灭菌	Il faut stériliser les pots avant de faire la confiture.	做果酱前要把罐子灭菌。		
+strabisme	stʁabizm	n.m.	斜眼	Son strabisme se voit surtout quand il est fatigué.	他的斜眼在他累的时候尤其明显。		
+submersible	sybmɛʁsibl	n.m.	潜水艇；adj. 可潜水的	Cet engin submersible descend à trente mètres de profondeur.	这个潜水装置能下到三十米深。		
+succion	sysjɔ̃	n.f.	吸吮；吸取	Ce poisson se nourrit par succion des petits organismes du fond.	这种鱼靠吸食水底的小生物为生。		
+surchauffe	syʁʃof	n.f.	过热	Une surchauffe du moteur l'a obligé à s'arrêter sur l'autoroute.	发动机过热迫使他在高速公路上停下车。		
+suturer	sytyʁe	v.	缝合	Le médecin a suturé la plaie en dix minutes.	医生十分钟就缝合了伤口。		
+symptôme	sɛ̃ptom	n.m.	症状	La fièvre est le premier symptôme de cette maladie.	发烧是这种病的第一个症状。		
+synchronisation	sɛ̃kʁonizasjɔ̃	n.f.	同步	La synchronisation de mes fichiers prend quelques minutes chaque matin.	我的文件同步每天早上要花几分钟。		
+synthétique	sɛ̃tetik	adj.	综合的	Ce rapport synthétique présente les principales conclusions de la longue enquête.	这份综合报告呈现了长期调查的主要结论。		
+système	sistɛm	n.m.	系统	Ce système fonctionne bien, mais il coûte vraiment trop cher à entretenir.	这个系统运转良好，但维护起来实在太贵。		
+taureau	toʁo	n.m.	公牛；金牛座	Le Taureau aime la stabilité et les plaisirs simples de la vie.	金牛座喜欢稳定和生活中简单的乐趣。		
+technique	tɛknik	n.f.	技术；adj. 技术的	Ce joueur a une technique remarquable mais manque encore de vitesse.	这名球员技术出色，但还缺少速度。		
+télécharger	teleʃaʁʒe	v.	下载	Vous pouvez télécharger le formulaire directement depuis notre site internet.	您可以直接从我们的网站下载表格。		
+télescope	telɛskɔp	n.m.	望远镜	Les enfants regardent la lune avec un petit télescope.	孩子们用小望远镜看月亮。		
+température	tɑ̃peʁatyʁ	n.f.	温度；体温	Le soir, l'infirmière prend ma température avant de partir.	晚上，护士在离开前给我量体温。		
+tempéré	tɑ̃peʁe	adj.	温和的；温带的	Ce vin tempéré accompagne parfaitement le poisson.	这款温和的葡萄酒配鱼非常合适。		
+tempête	tɑ̃pɛt	n.f.	暴风雨	La tempête a coupé l'électricité dans plusieurs villages isolés de montagne.	暴风雨使山区的几个偏僻村庄断电。		
+teneur	tənœʁ	n.	含量	La teneur en sucre de ce jus reste élevée.	这种果汁的含糖量仍然偏高。		
+termite	tɛʁmit	n.m.	白蚁	Les termites ont rongé toute la charpente de cette maison ancienne.	白蚁蛀空了这座老房子的整个屋架。		
+terre	tɛʁ	n.f.	大地；土地	Les paysans travaillent la terre du matin au soir.	农民们从早到晚在地里干活。		
+tétanos	tetanos	n.m.	破伤风	Le tétanos reste dangereux si l'on n'est pas vacciné.	如果不接种疫苗，破伤风仍然很危险。		
+théorie	teoʁi	n.f.	理论	Cette théorie explique comment les gaz polluants se déplacent lentement dans l'atmosphère.	这一理论解释了污染气体如何在大气中缓慢移动。		
+théorique	teoʁik	adj.	理论的	La partie théorique du cours est plus difficile que les travaux pratiques.	课程的理论部分比实践课难。		
+thermomètre	tɛʁmomɛtʁ	n.m.	温度计；体温计	Ce thermomètre électronique donne la température en quelques secondes.	这支电子体温计几秒钟就能测出体温。		
+tige	tiʒ	n.f.	茎	La tige de cette plante est si fine qu'elle plie au vent.	这株植物的茎太细了，风一吹就弯。		
+tigre	tigʁ	n.m.	老虎	Le tigre dort presque toute la journée dans un coin de son enclos.	老虎几乎整天睡在围栏的一个角落里。		
+tissu	tisy	n.m.	织物；组织	Le tissu de cette robe, d'une finesse rare, venait d'un atelier italien aujourd'hui disparu.	这条裙子的面料质地罕见细腻，出自一家如今已消失的意大利作坊。		
+toner	tonɛʁ	n.m.	着色剂	Il faut commander un nouveau toner pour l'imprimante du service.	得给部门的打印机订购新的墨粉。		
+tonnerre	tonɛʁ	n.m.	雷	Le tonnerre a grondé toute la nuit et les enfants ne dormaient pas.	雷声响了一整夜，孩子们都没睡着。		
+topographie	topogʁafi	n.f.	地形	La topographie accidentée de la région complique la construction des routes.	这个地区起伏的地形让修路变得复杂。		
+tornade	tɔʁnad	n.f.	龙卷风	Une tornade a traversé la plaine en quelques minutes seulement.	一场龙卷风只用几分钟就穿过了平原。		
+torrent	toʁɑ̃	n.m.	急流；湍流	Le torrent descend la pente avec une force impressionnante.	湍流以惊人的力量冲下斜坡。		
+tortue	tɔʁty	n.f.	乌龟	Cette tortue avance si lentement qu'on la croit immobile.	这只乌龟走得那么慢，让人以为它一动不动。		
+tourbillon	tuʁbijɔ̃	n.m.	旋风	Les feuilles mortes tourbillonnaient dans un tourbillon devant la vieille école.	枯叶在旧校舍前的一个旋涡里打转。		
+tourbillonner	tuʁbijone	v.	旋转	Les feuilles mortes tourbillonnaient dans le vent froid de l'automne.	枯叶在秋天寒冷的风中打转。		
+tournesol	tuʁnəsɔl	n.m.	向日葵	Le vase du salon contient trois tournesols jaunes très hauts.	客厅的花瓶里插着三支很高的黄向日葵。		
+tourterelle	tuʁtəʁɛl	n.f.	斑鸠	Une tourterelle roucoule doucement sur le toit de la maison voisine.	一只斑鸠在邻家的屋顶上轻声咕咕叫。		
+traitement	tʁɛtəmɑ̃	n.m.	处理；治疗；薪金	Le traitement des fonctionnaires sera revalorisé au mois de janvier.	公务员的薪金将于一月上调。		
+transparent	tʁɑ̃spaʁɑ̃	adj.	透明的	Cette grande vitre transparente laisse entrer beaucoup de lumière.	这块大玻璃很透明，透进很多光。		
+transplanter	tʁɑ̃splɑ̃te	v.	移植	Les chirurgiens ont transplanté un rein à mon cousin.	外科医生给我表兄移植了一个肾。		
+triangle	tʁijɑ̃gl	n.m.	三角形	L'enfant a dessiné un triangle rouge au milieu de la feuille.	孩子在纸的中央画了一个红色的三角形。		
+triangulaire	tʁijɑ̃gylɛʁ	adj.	三角形的	La petite fenêtre triangulaire éclaire faiblement l'escalier du vieux donjon.	那扇三角形小窗微弱地照亮老主塔的楼梯。		
+tronc	tʁɔ̃	n.m.	树干；躯干	Le tronc du vieux chêne, creusé par les ans, abritait des oiseaux que nul ne dérangeait.	老橡树的树干被岁月掏空，里面住着无人打扰的鸟。		
+tropical	tʁopikal	adj.	热带的	La forêt tropicale abrite une variété incroyable d'animaux.	热带森林里栖息着种类多得惊人的动物。		
+tropiques	tʁopik	n.m.pl.	热带	Ces plantes poussent bien sous les tropiques, près de l'équateur.	这些植物在赤道附近的热带地区长得很好。		
+trouée	tʁue	n.f.	豁口；缺口	Une étroite trouée dans la forêt permet aux secours d'atteindre le village.	林中一道狭窄的缺口让救援人员得以抵达村庄。		
+truite	tʁɥit	n.f.	鳟鱼	Il a préparé une truite grillée avec du beurre et du citron.	他做了一条黄油柠檬烤鳟鱼。		
+tsunami	tsynami	n.m.	海啸	Le tsunami a frappé la côte sans laisser le temps aux habitants de fuir.	海啸袭击海岸，没给居民留下逃离的时间。		
+tulipe	tylip	n.f.	郁金香	Elle a planté des tulipes rouges devant la porte d'entrée.	她在门口种了些红色郁金香。		
+tumeur	tymœʁ	n.f.	肿瘤	Les médecins ont retiré une petite tumeur de son épaule.	医生从他肩部切除了一个小肿瘤。		
+turbine	tyʁbin	n.f.	涡轮机	La turbine de cette usine fait beaucoup de bruit.	这家工厂的涡轮机噪音很大。		
+typhon	tifɔ̃	n.m.	台风	Le typhon approche des côtes et les pêcheurs rentrent au port.	台风逼近海岸，渔民们纷纷返回港口。		
+univers	ynivɛʁ	n.m.	宇宙	Il croyait que l'univers entier tenait dans les livres qu'il avait lus étant enfant.	他相信整个宇宙都装在他小时候读过的那些书里。		
+vache	vaʃ	n.f.	母牛	Une vache s'était égarée sur la route, obligeant les automobilistes à ralentir pendant plusieurs minutes.	一头母牛走失到了公路上，让开车的人不得不减速好几分钟。		
+vague	vag	n.f.	海浪	Les vagues sont très fortes aujourd'hui devant le port.	今天港口前的海浪非常大。		
+vaisseau	vɛso	n.m.	血管	Un vaisseau bouché peut provoquer un grave accident cardiaque.	一根堵塞的血管可能引发严重的心脏事故。		
+vallée	vale	n.f.	山谷	La vallée, noyée de brume, ne laissait deviner que la cime de quelques clochers.	山谷笼罩在雾中，只露出几座钟楼的尖顶。		
+valve	valv	n.f.	阀门	La valve du pneu laisse échapper un peu d'air.	轮胎的阀门漏出一点气。		
+vapeur	vapœʁ	n.	水蒸汽	De la vapeur sortait de la casserole posée sur le feu.	放在火上的锅里冒出蒸汽。		
+variant	vaʁjɑ̃	adj.	不同的；变异的	Ce variant de chou mariné est très épicé et acide.	这种腌白菜变体很辣，也很酸。		
+variateur	vaʁjatœʁ	n.m.	变速器	Le variateur change de vitesse tout seul sur ce scooter.	这辆踏板车的变速器会自己换挡。		
+variation	vaʁjasjɔ̃	n.f.	变异	Une légère variation de température suffit à bouleverser tout cet écosystème fragile.	温度稍有变化，就足以打乱整个脆弱的生态系统。		
+variété	vaʁjete	n.f.	多样性	La variété des paysages de cette région surprend tous les visiteurs.	这个地区景观的多样性让所有来访者惊叹。		
+vaseux	vazø	adj.	泥泞的；含糊的	Le fond vaseux de ce lac abrite encore de nombreuses espèces d'oiseaux.	这个湖淤泥质的湖底仍然栖息着许多鸟类。		
+vautour	votuʁ	n.m.	秃鹰	Deux grands vautours tournaient lentement au-dessus de la vallée silencieuse.	两只大秃鹰在寂静的山谷上空缓缓盘旋。		
+végétation	veʒetasjɔ̃	n.f.	植被	La végétation de cette région a souffert d'une chaleur exceptionnelle cet été.	今年夏天，这个地区的植被因异常高温而受损。		
+vert-de-gris	vɛʁdəgʁi	n.m.	铜绿	La vieille statue du jardin a pris une couleur vert-de-gris.	花园里的旧雕像已经泛出铜绿色。		
+vertige	vɛʁtiʒ	n.m.	眩晕	J'ai le vertige quand je monte sur le toit.	我上屋顶时会头晕。		
+vibrateur	vibʁatœʁ	n.m.	蜂鸣器	Le vibrateur de l'arbitre a retenti juste avant la pause.	裁判的蜂鸣器在暂停前响了起来。		
+vibrer	vibʁe	v.	震动	Le sol continue de vibrer plusieurs heures après la secousse principale du matin.	早晨的主震过后几个小时，地面仍在震动。		
+violette	vjolɛt	n.f.	紫罗兰	Elle a mis quelques violettes dans un petit verre.	她把几朵紫罗兰插在一个小玻璃杯里。		
+vitamine	vitamin	n.f.	维生素	Ce jus contient beaucoup de vitamine C et de sucre.	这种果汁含大量维生素C和糖。		
+volcan	vɔlkɑ̃	n.m.	火山	Ce volcan endormi depuis un siècle montre aujourd'hui des signes de réveil.	这座休眠了一个世纪的火山如今显露出苏醒的迹象。		
+volcanique	vɔlkanik	adj.	火山的	Les gaz volcaniques peuvent devenir dangereux pour les villages situés près du cratère.	火山气体对火山口附近的村庄可能变得危险。		
+volcanologue	vɔlkanolɔg	n.m.	火山学家	Un volcanologue surveille le cratère jour et nuit avec des instruments sensibles.	一位火山学家用灵敏的仪器日夜监测火山口。		
+voltage	vɔltaʒ	n.m.	电压	Le voltage de cette installation est trop élevé pour un appareil domestique.	这套设备的电压对家用电器来说太高了。		
+volume	volym	n.m.	体积	Le volume de ce poumon paraît normal sur l'image.	从影像上看，这个肺的体积似乎正常。		
+vomir	vomiʁ	v.	呕吐	Mon fils a vomi après avoir mangé trop de gâteau.	我儿子吃了太多蛋糕后吐了。		
+wapiti	wapiti	n.m.	马鹿	Un wapiti a traversé la route juste devant notre voiture.	一只马鹿从我们车前横穿公路。		
+yak	jak	n.m.	牦牛	Les yaks transportent les bagages des marcheurs dans l'Himalaya.	牦牛在喜马拉雅为徒步者运送行李。		
+yucca	juka	n.m.	丝兰	Le yucca supporte très bien la sécheresse et le vent du sud.	丝兰很能耐旱，也能抗南风。		
+zèbre	zɛbʁ	n.m.	斑马	Les zèbres se rassemblent près du point d'eau à la tombée du jour.	斑马在日落时聚集在水坑附近。		
+zoologie	zooloʒi	n.f.	动物学	À l'université, elle étudie la zoologie et passe ses vacances en Afrique.	她在大学学动物学，假期还去非洲。		

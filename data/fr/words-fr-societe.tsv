@@ -1,357 +1,587 @@
 word	ipa	pos	cn	sentence	sentence_cn	phrase	phrase_cn
-pays	pei	n.m.	国家	Ce pays a connu plusieurs crises politiques depuis le début du siècle.	这个国家自本世纪初以来经历了多次政治危机。		
-état	eta	n.m.	国家	L'État doit protéger les citoyens les plus fragiles face à la crise.	面对危机，国家必须保护最脆弱的公民。		
-nation	nasjɔ̃	n.f.	国家	La nation tout entière a célébré la victoire de son équipe hier soir.	全国上下昨晚都在庆祝国家队的胜利。		
-politique	politik	adj.	政治	La classe politique est critiquée pour son manque de transparence financière.	政界因财务缺乏透明度而受到批评。		
-président	pʁezidɑ̃	n.m.	主席，总统	Le président a annoncé une réforme des retraites devant l'Assemblée nationale.	总统在国民议会面前宣布了退休制度改革。		
-ministre	ministʁ	n.	总理	Le ministre de l'Intérieur a présenté son plan contre la délinquance urbaine.	内政部长提交了打击城市犯罪活动的计划。		
-préfet	pʁefɛ	n.m.	州长	Le préfet a décidé de fermer plusieurs écoles jugées dangereuses pour les élèves.	州长决定关闭几所被认为对学生有危险的学校。		
-sénateur	senatœʁ	n.m.	参议员	Ce sénateur défend depuis des années les droits des travailleurs les plus modestes.	这位参议员多年来一直为最普通劳动者的权利发声。		
-député	depyte	n.m.	众议员	Le député a voté contre le texte proposé par la majorité présidentielle.	这位众议员对总统多数派提出的文本投了反对票。		
-sénat	sena	n.m.	参议院	Le Sénat a rejeté le projet de loi adopté par les députés.	参议院否决了众议员通过的这项法案。		
-parlement	paʁləmɑ̃	n.m.	国会	Le Parlement européen examine une nouvelle directive sur la protection des données.	欧洲议会正在审议一项关于数据保护的新指令。		
-présidium	pʁezidjɔm	n.m.	主席团	Le présidium du parti s'est réuni pour préparer le prochain congrès.	党主席团开会筹备下届代表大会。		
-États-Unis	etazyni	n.m.pl.	美国	Les États-Unis sont un pays très vaste.	美国是一个非常大的国家。		
-canada	kanada	n.f.	加拿大	Le Canada a accueilli un grand nombre d'immigrants ces dernières années.	近年来加拿大接纳了大量移民。		
-japon	ʒapɔ̃	n.m.	日本	Le Japon vieillit vite et manque de main-d'œuvre dans plusieurs secteurs.	日本老龄化迅速，多个行业都缺人手。		
-australien	ostʁaljɛ̃	adj.	澳大利亚	Le gouvernement australien a durci sa politique d'immigration cette année.	澳大利亚政府今年收紧了移民政策。		
-angleterre	ɑ̃gløtɛʁ	n.f.	英国	En Angleterre, le système de santé public traverse une crise sans précédent.	在英国，公共医疗体系正经历一场空前的危机。		
+abbé	abe	n.m.	神父	L'abbé recevait les villageois dans une petite sacristie que le froid de l'hiver rendait inhospitalière.	神父在一间被冬寒弄得冷清的小圣器室里接待村民。		
+abolition	abolisjɔ̃	n.f.	废除	L'abolition de la peine de mort date de 1981 en France.	法国于1981年废除了死刑。		
+acclamation	aklamasjɔ̃	n.f.	欢呼；喝彩	Le chanteur est sorti sous les acclamations de la foule.	歌手在人群的欢呼声中走了出来。		
+acclamer	aklame	v.	欢呼	La foule a acclamé les champions à leur retour au village.	冠军们回到村里时，人群为他们欢呼。		
+accord	akɔʁ	n.m.	同意；一致	Nous sommes d'accord pour changer la date du voyage.	我们同意更改旅行的日期。		
+accuser	akyze	v.	控告	La victime accuse son voisin de lui avoir volé son portefeuille.	受害人控告邻居偷了他的钱包。		
+acquittement	akitəmɑ̃	n.m.	宣告无罪	L'acquittement de l'accusé a provoqué la colère de la famille.	被告被宣告无罪，激起了家属的愤怒。		
+acquitter	akite	v.	宣告无罪；清偿；履行	Il doit acquitter la facture d'électricité avant la fin du mois.	他必须在月底之前付清电费单。		
+acte	akt	n.m.	行为；幕	Cet acte de courage lui a valu l'admiration de tout le village.	这一勇敢的行为为他赢得了全村人的敬佩。		
+activisme	aktivizm	n.m.	行动主义；激进主义	L'activisme violent de ce groupe inquiète les services de renseignement depuis plusieurs mois.	这个团体的暴力极端主义活动让情报部门担忧了好几个月。		
+actualités	aktɥalite	n.f.	新闻；时事	Les actualités projetaient des images de la ville avant le film.	电影放映前新闻短片播放了这座城市的画面。		
+administration	administʁasjɔ̃	n.f.	行政	L'administration a changé la date de la rentrée sans prévenir personne.	行政部门没通知任何人就改了开学日期。		
+affiche	afiʃ	n.f.	海报	Une grande affiche du festival est collée sur le mur.	墙上贴着一张音乐节的大海报。		
+agent	aʒɑ̃	n.m.	代理人；警员	Un agent nous a expliqué que la route était coupée par la neige.	一名警员跟我们解释说，路被雪封了。		
+agression	agʁɛsjɔ̃	n.f.	袭击；侵犯	Une agression a eu lieu près de la gare tard dans la nuit.	深夜时车站附近发生了一起行凶抢劫。		
+alerte	alɛʁt	adj.	警觉的；警报	L'alerte a été levée après trois jours entiers sans nouvelle secousse.	在整整三天没有新的震动后，警报解除了。		
+alibi	alibi	n.m.	不在场证明	Son alibi ne convainc pas du tout les enquêteurs chargés de l'affaire.	他的不在场证明完全无法说服负责此案的调查人员。		
 allemagne	aləmaɲ	n.f.	德国	L'Allemagne accueille chaque année des milliers de réfugiés venus du Moyen-Orient.	德国每年接收数千名来自中东的难民。		
-litanie	litani	n.f.	意大利	Il nous a récité une litanie de plaintes contre l'administration.	他向我们罗列了一长串对行政部门的抱怨。		
-suède	sɥɛd	n.m.	瑞典	La Suède applique une politique sociale très généreuse envers les familles.	瑞典对家庭实行非常慷慨的社会政策。		
-société	sosjete	n.f.	社会	La société française change rapidement sous l'effet de la mondialisation.	在全球化影响下，法国社会正在迅速变化。		
-social	sosjal	adj.	社会的	Le gouvernement promet un plan social pour aider les quartiers les plus pauvres.	政府承诺出台一项社会计划，帮助最贫困的街区。		
-féodal	feodal	adj.	封建的	Ce roman décrit la vie des paysans dans une société féodale du Moyen Âge.	这部小说描写了中世纪封建社会里农民的生活。		
-féodalisme	feodalizm	n.m.	封建制度	Les historiens discutent encore du rôle du féodalisme dans cette région.	历史学家至今仍在争论封建制度在这一地区所起的作用。		
-esclavage	ɛsklavaʒ	n.m.	奴制	L'esclavage a été aboli en France au milieu du dix-neuvième siècle.	法国在十九世纪中叶废除了奴隶制。		
+allemand	aləmɑ̃	adj.	德国的	Il étudie l'allemand depuis trois ans pour travailler à Berlin.	他学德语三年了，为的是去柏林工作。		
+allocation	alokasjɔ̃	n.f.	津贴	Il touche une allocation de transport pour ses déplacements quotidiens.	他领取一笔用于日常通勤的交通津贴。		
+ambassadeur	ɑ̃basadœʁ	n.m.	大使	L'ambassadeur a reçu les journalistes dans un salon dont les fenêtres donnaient sur le parc.	大使在一间窗子朝向公园的客厅里接见了记者。		
+âme	am	n.f.	灵魂	Cette vieille musique touche mon âme à chaque fois.	这首老曲子每次都能打动我的心灵。		
+amende	amɑ̃d	n.f.	罚款	Il a payé une amende pour avoir garé sa voiture ici.	他因为把车停在这里而交了罚款。		
+américain	ameʁikɛ̃	adj.	美国的	Elle a épousé un réalisateur américain et vit maintenant à New York.	她嫁给了一位美国导演，现在住在纽约。		
+ange	ɑ̃ʒ	n.m.	天使	Elle dormait si paisiblement qu'on aurait dit un ange descendu parmi les hommes.	她睡得那么安详，简直像降临人间的天使。		
+anglais	ɑ̃glɛ	adj.	英国的	Le brouillard anglais, si dense qu'on ne voyait rien, avait retardé notre train de deux heures.	那场浓得看不见东西的英国式大雾让我们的火车晚点了两个小时。		
+angleterre	ɑ̃gløtɛʁ	n.f.	英国	En Angleterre, le système de santé public traverse une crise sans précédent.	在英国，公共医疗体系正经历一场空前的危机。		
+annonce	anɔ̃s	n.f.	公告	Une annonce pour ce poste a été publiée sur notre site.	这个岗位的招聘公告已发布在我们的网站上。		
+annoncer	anɔ̃se	v.	宣布	Le directeur a annoncé que les cours reprendraient lundi prochain.	校长宣布下周一复课。		
+antique	ɑ̃tik	adj.	古代的	Ils étudient les textes antiques dans le cours de latin.	他们在拉丁语课上研读古代文本。		
+antiquité	ɑ̃tikite	n.f.	古代；古董	Dans cette boutique, chaque antiquité raconte une histoire oubliée.	这家店里的每件古董都讲述着一段被遗忘的故事。		
+antiterroriste	ɑ̃titɛʁoʁist	adj.	反恐的	Le gouvernement a renforcé les mesures antiterroristes après l'attentat qui a choqué le pays.	那次震惊全国的攻击之后，政府加强了反恐措施。		
+appauvri	apovʁi	adj.	贫困的；贫化的	Les cultures répétées ont appauvri le sol de cette parcelle.	连续耕作使这块地的土壤贫瘠了。		
+appréhender	apʁeɑ̃de	v.	逮捕；担心	Les agents ont réussi à appréhender le fugitif dans un hôtel.	警员们在一家旅馆成功逮捕了这名逃犯。		
+arbitrer	aʁbitʁe	v.	仲裁	Un expert indépendant a été choisi pour arbitrer ce conflit commercial.	一位独立专家被选来仲裁这场商业纠纷。		
+archéologie	aʁkeoloʒi	n.f.	考古学	Elle étudie l'archéologie et passe ses étés sur des fouilles.	她学考古学，夏天都在考古发掘现场度过。		
+archéologique	aʁkeoloʒik	adj.	考古学的	Le petit musée du campus présente une collection archéologique très riche.	校园里的小博物馆藏有一批很丰富的考古藏品。		
+archéologue	aʁkeolɔg	n.	考古学家	Un archéologue est venu parler de ses fouilles en Égypte.	一位考古学家来讲述他在埃及的发掘工作。		
+argumenter	aʁgymɑ̃te	v.	辩论	Elle sait argumenter calmement sans jamais hausser la voix devant ses collègues.	她善于平心静气地辩论，从不在同事面前提高嗓门。		
+aristocratie	aʁistokʁasi	n.f.	贵族	L'aristocratie locale fréquentait autrefois ce salon de thé très cher.	当地贵族从前常来这家昂贵的茶馆。		
+arme	aʁm	n.f.	武器	Il n'avait pas d'arme quand la police est arrivée.	警察到时他手里没有武器。		
+armée	aʁme	n.f.	军队	Son frère travaille dans l'armée depuis cinq ans.	他哥哥在军队服役五年了。		
+armure	aʁmyʁ	n.f.	护甲	Ce chevalier porte une armure si lourde qu'il peut à peine marcher.	这位骑士的护甲重得他几乎无法走路。		
+arrestation	aʁɛstasjɔ̃	n.f.	逮捕	L'arrestation du camion par la douane a surpris toute l'équipe.	海关扣下卡车一事让整个团队都吃了一惊。		
+artillerie	aʁtijəʁi	n.f.	炮兵	L'artillerie a bombardé les positions ennemies pendant deux jours.	炮兵对敌方阵地进行了两天的炮击。		
+assemblée	asɑ̃ble	n.f.	集会；议会	L'assemblée s'est prononcée en faveur du projet, malgré les réserves exprimées par plusieurs membres.	尽管有几位成员表示保留，议会仍表决支持该方案。		
+assignation	asiɲasjɔ̃	n.f.	传票	Il a reçu une assignation à comparaître devant le tribunal correctionnel.	他收到了一张轻罪法庭的出庭传票。		
+assurance	asyʁɑ̃s	n.f.	保险；自信	Son assurance, un peu trop affichée, cachait mal une inquiétude qu'il s'efforçait de dissimuler.	他那过于外露的自信，掩饰不住他竭力想隐藏的不安。		
+assurance-maladie	asyʁɑ̃smaladi	n.f.	医疗保险	L'assurance-maladie rembourse une partie des consultations médicales de chaque salarié.	医疗保险报销每位员工部分就诊费用。		
+attaquer	atake	v.	攻击	Le chien a attaqué le facteur devant la grille.	那条狗在大门前攻击了邮递员。		
+audience	odjɑ̃s	n.f.	收视率；庭审	L'audience de cette série a battu tous les records de la chaîne.	这部电视剧的收视率打破了该台的所有纪录。		
+australien	ostʁaljɛ̃	adj.	澳大利亚的	Le gouvernement australien a durci sa politique d'immigration cette année.	澳大利亚政府今年收紧了移民政策。		
+australienne	ostʁaljɛn	n.f.	澳大利亚人	Une amie australienne nous a invités chez elle cet été.	一位澳大利亚朋友今年夏天请我们去她家。		
+autel	otɛl	n.m.	祭坛	Un autel en pierre se dresse au milieu de la chapelle.	一座石祭坛立在小教堂中央。		
+autocratie	otokʁasi	n.f.	专制	Cette autocratie contrôle la presse et réprime toute opposition politique.	这个专制政权控制新闻界，镇压一切政治反对派。		
+autorité	otoʁite	n.f.	权威	Les autorités locales ont décidé de fermer la plage pour deux semaines.	当地当局决定把海滩关闭两周。		
+aviso	avizo	n.m.	护卫舰	Cet aviso patrouille le long des côtes depuis lundi matin.	这艘护卫舰从周一早上起沿海南巡逻。		
+avocat	avoka	n.m.	律师；鳄梨	Son avocat lui a vivement conseillé de ne rien signer avant l'audience.	他的律师极力建议他在开庭前什么都不要签。		
+bagarrer	bagaʁe	v.	打架	Les deux garçons se sont bagarrés pendant la récréation.	两个男孩在课间打了起来。		
+balle	bal	n.f.	球；子弹	Les enfants se lançaient une vieille balle dans le jardin.	孩子们在花园里互相扔一个旧球。		
+banderole	bɑ̃dəʁɔl	n.f.	横幅	Une banderole annonçant les promotions est accrochée à l'entrée.	入口处挂着一条宣传促销的横幅。		
+bandit	bɑ̃di	n.m.	匪徒	Une bande de bandits a attaqué un convoi humanitaire sur la route.	一伙匪徒在路上袭击了一支人道救援车队。		
+banditisme	bɑ̃ditizm	n.m.	强盗行为	Le banditisme augmente dangereusement dans les régions isolées après les grandes catastrophes naturelles.	重大自然灾害之后，偏远地区的强盗行为危险地增多。		
+banlieue	bɑ̃ljø	n.f.	郊区	Ils ont acheté une petite maison en banlieue parisienne.	他们在巴黎郊区买了一栋小房子。		
+banque	bɑ̃k	n.f.	银行	La banque ferme ses portes à dix-sept heures ce vendredi.	这家银行这个周五十七点关门。		
+baptême	batɛm	n.m.	洗礼	Le baptême du petit garçon aura lieu dimanche dans la vieille église.	小男孩的洗礼将于周日在老教堂举行。		
+barricade	baʁikad	n.f.	临时路障	Les pompiers ont posé une barricade devant l'immeuble.	消防员在楼前设了路障。		
+bastion	bastjɔ̃	n.m.	堡垒	Ce bastion domine la vallée et protège l'entrée du village.	这座堡垒俯瞰山谷，守卫着村子的入口。		
+bataille	bataj	n.f.	战斗	La bataille a duré jusqu'au matin et a laissé le village en ruine.	战斗一直持续到早晨，把村子打得一片废墟。		
+bataillon	batajɔ̃	n.m.	营	Un bataillon entier a participé aux opérations de secours dans la montagne.	整整一个营参加了山区的救援行动。		
+bénir	beniʁ	v.	祝福	Le prêtre est venu bénir la maison de mes parents.	神父来为我父母的房子祝福。		
+bible	bibl	n.f.	圣经	La Bible reste le livre le plus traduit dans le monde entier.	圣经仍是全世界译本最多的书。		
+blanchiment	blɑ̃ʃimɑ̃	n.m.	漂白；洗钱	Le blanchiment des dents coûte assez cher chez le dentiste.	在牙医那里做牙齿美白挺贵的。		
+blockhaus	blɔkos	n.m.	碉堡	Les enfants jouent près du vieux blockhaus que les Allemands ont construit sur la plage.	孩子们在德国人当年建在海滩上的旧碉堡旁玩耍。		
+bombardement	bɔ̃baʁdəmɑ̃	n.m.	用炸弹袭击	Les habitants ont fui la ville après un violent bombardement.	居民们在一次猛烈轰炸后逃离了这座城市。		
+bombardier	bɔ̃baʁdje	n.m.	轰炸机	Le bombardier traverse le ciel avec un bruit terrible.	轰炸机带着可怕的轰鸣穿过天空。		
+bombe	bɔ̃b	n.f.	炸弹	Une bombe artisanale a explosé près du marché sans faire de victimes.	一枚自制炸弹在市场附近爆炸，未造成人员伤亡。		
+bouddhisme	budizm	n.m.	佛教	Le bouddhisme attire de plus en plus d'Occidentaux en quête de sens.	佛教吸引着越来越多寻求人生意义的西方人。		
+bourg	buʁ	n.m.	镇子	Ce joli bourg compte encore à peine mille habitants.	这个漂亮的小镇如今还只有不到一千居民。		
+bourgeoisie	buʁʒwazi	n.f.	资产阶级	La bourgeoisie commerçante a soutenu les réformes politiques du roi.	经商的资产阶级支持国王的政治改革。		
+bourse	buʁs	n.f.	奖学金；助学金；交易所	Elle a obtenu une bourse qui couvre le logement et les repas.	她拿到了涵盖住宿和餐费的奖学金。		
+brigade	bʁigad	n.f.	旅	Une brigade de gendarmerie a ouvert une enquête sur place.	一支宪兵队在现场展开了调查。		
+brigand	bʁigɑ̃	n.m.	盗匪	Le brigand a été arrêté par les gendarmes près de la frontière.	那名盗匪在边境附近被宪兵抓获。		
+briguer	bʁige	v.	渴求	Plusieurs cadres expérimentés briguent le poste de directeur commercial.	几位经验丰富的管理人员都在争取销售总监一职。		
+britannique	bʁitanik	adj.	英国的	Le gouvernement britannique avait refusé de signer l'accord, ce qui surprit ses partenaires.	英国政府拒绝签署这项协议，这让它的伙伴们感到意外。		
+bulletin	bylətɛ̃	n.m.	公告；简报；成绩单	Le bulletin interne annonce les changements d'horaires de la semaine.	内部布告通知了本周的作息变动。		
+cachot	kaʃo	n.m.	监狱	Le prisonnier politique est resté longtemps dans un cachot humide.	这名政治犯在潮湿的牢房里被关了很久。		
+calamité	kalamite	n.f.	灾荒	Cette sécheresse est devenue une calamité pour les agriculteurs de la région.	这场干旱已成为本地区农民的灾荒。		
+camp	kɑ̃	n.m.	营地；阵营	Nous avons installé notre camp près de la rivière ce soir-là.	那天晚上我们在河边扎了营。		
+campagne	kɑ̃paɲ	n.f.	乡下；运动	Mes grands-parents vivent à la campagne depuis leur retraite.	我祖父母退休后一直住在乡下。		
+Canada	kanada	n.m.	加拿大	Le Canada a accueilli un grand nombre d'immigrants ces dernières années.	近年来加拿大接纳了大量移民。		
+canadien	kanadjɛ̃	n.m.	加拿大人；加拿大的	Sa femme canadienne adore les hivers très froids de Québec.	他加拿大籍的妻子很喜欢魁北克严寒的冬天。		
+candidat	kɑ̃dida	n.m.	候选人	Chaque candidat doit présenter son programme avant le premier tour.	每位候选人都必须在首轮投票前公布自己的纲领。		
+canon	kanɔ̃	n.m.	炮；教规	Le canon tonnait au loin, et les villageois cherchaient refuge dans les caves, sans savoir quoi espérer.	大炮在远处轰鸣，村民们躲进地窖，不知该盼望什么。		
+canonnade	kanonad	n.f.	炮火	La canonnade a cessé au lever du soleil, selon les habitants.	据居民说，炮火在日出时停止了。		
+capitaine	kapitɛn	n.m.	船长；上尉	Le capitaine a annoncé que le bateau partait bientôt.	船长宣布船马上就要开了。		
+capital	kapital	n.m.	资本；资金	Le capital de cette entreprise appartient à des investisseurs étrangers.	这家企业的资金属于外国投资者。		
+capital-actions	kapital-aksjɔ̃	n.m.	股本	La société a augmenté son capital-actions l'an dernier.	公司去年增加了股本。		
+capital-risque	kapitalʁisk	n.m.	风险资本	Les fonds de capital-risque cherchent des projets innovants à fort potentiel.	风险资本基金在寻找潜力大的创新项目。		
+capitale	kapital	n.f.	首都	La capitale attire chaque année des millions de touristes.	首都每年吸引数百万游客。		
 capitalisme	kapitalizm	n.m.	资本主义	Certains économistes critiquent le capitalisme pour son manque de solidarité.	一些经济学家批评资本主义缺乏互助精神。		
 capitaliste	kapitalist	adj.	资本主义的	Les pays capitalistes ont connu une forte croissance après la guerre.	资本主义国家战后经历了强劲增长。		
-originale	oʁiʒinal	adj.	最初的	La version originale du texte a été modifiée par les députés.	文本的最初版本已被众议员改动。		
-contemporain	kɔ̃tɑ̃poʁɛ̃	adj.	现代的	Ce grand musée présente l'art contemporain de plusieurs pays européens.	这座大博物馆展出多个欧洲国家的现代艺术。		
-développement	devəlɔpəmɑ̃	n.m.	发展	Le développement économique de la région a créé de nombreux emplois.	该地区的经济发展创造了大量就业机会。		
-progressif	pʁogʁesif	adj.	前进的	Le gouvernement prévoit un retrait progressif et prudent des troupes étrangères.	政府计划逐步而谨慎地撤出外国军队。		
-révolution	ʁevolysjɔ̃	n.f.	革命	La révolution industrielle a transformé la vie des ouvriers européens.	工业革命改变了欧洲工人的生活。		
-reforme	ʁəfɔʁm	v.	改革	Le nouveau ministre veut reformer le système de santé publique.	新部长想改革公共医疗体系。		
-reformation	ʁəfɔʁmasjɔ̃	n.f.	改革	La reformation du code du travail a provoqué de longues grèves.	劳动法典的重新修订引发了长期罢工。		
-commencer	komɑ̃se	v.	开始	Les négociations ont commencé dans une atmosphère tendue entre les deux camps.	谈判在双方紧张的气氛中开始。		
-renverser	ʁɑ̃vɛʁse	v.	颠覆	Les jeunes manifestants espéraient renverser le régime en quelques semaines seulement.	年轻的示威者曾指望几周之内就推翻政权。		
-mondialisation	mɔ̃djalizasjɔ̃	n.f.	全球化	La mondialisation a accéléré les échanges mais creusé les inégalités sociales.	全球化加快了交流，却也加深了社会不平等。		
-urbanisation	yʁbanizasjɔ̃	n.f.	城市化	L'urbanisation rapide de la région a détruit de nombreuses terres agricoles.	该地区快速的城市化毁掉了大量农田。		
-informatique	ɛ̃fɔʁmatik	adj.	信息化	La sécurité informatique est devenue une priorité pour les grandes entreprises.	信息安全已成为大企业的首要任务。		
-évolutif	evolytif	adj.	发展的	Le système est évolutif et peut s'adapter aux besoins de demain.	这套系统可以演进，能适应未来的需求。		
-accumuler	akymyle	v.	积累	La ville a accumulé de nombreux problèmes sociaux au fil des années.	多年来这座城市积累了大量社会问题。		
-marxisme	maʁksizm	n.m.	马克思主义	Le marxisme a inspiré de nombreux mouvements politiques du vingtième siècle.	马克思主义启发了二十世纪的许多政治运动。		
-royauté	ʁwajote	n.f.	王权	La royauté française a été abolie pendant la Révolution de 1789.	法国王权在1789年大革命期间被废除。		
-prolétariat	pʁoletaʁja	n.m.	无产阶级	Le prolétariat urbain vivait dans des conditions très difficiles au dix-neuvième siècle.	十九世纪城市无产阶级的生活条件极为艰难。		
-bourgeoisie	buʁʒwazi	n.f.	资产阶级	La bourgeoisie commerçante a soutenu les réformes politiques du roi.	经商的资产阶级支持国王的政治改革。		
-autocratie	otokʁasi	n.f.	专制	Cette autocratie contrôle la presse et réprime toute opposition politique.	这个专制政权控制新闻界，镇压一切政治反对派。		
-souveraineté	suvəʁɛnəte	n.f.	主权	Le pays défend sa souveraineté face aux pressions des grandes puissances.	面对大国施压，这个国家捍卫自己的主权。		
-indépendante	ɛ̃depɑ̃dɑ̃t	adj.	独立的	La presse indépendante est menacée par les nouvelles lois sur l'information.	独立媒体受到新的信息法威胁。		
+catholicisme	katolisizm	n.m.	天主教	Le catholicisme reste la religion majoritaire dans plusieurs régions d'Europe.	天主教在欧洲多个地区仍是主要宗教。		
+célébration	selebʁasjɔ̃	n.f.	庆祝	La célébration du printemps dure trois jours dans ce village.	这个村庄的迎春庆祝活动持续三天。		
+célébrer	selebʁe	v.	庆祝；颂扬	L'équipe a célébré la signature du contrat autour d'un verre.	团队举杯庆祝合同签订。		
+célébrité	selebʁite	n.f.	名声；名人	Une célébrité locale a accepté de présenter la soirée de gala.	一位当地名人同意主持这场晚会。		
+censeur	sɑ̃sœʁ	n.m.	审查员；学监	Le censeur vérifie chaque sac avant le départ de l'avion.	安检员在飞机出发前检查每一个包。		
 centralisme	sɑ̃tʁalizm	n.m.	中央集权制	Le centralisme démocratique reste un principe officiel du parti au pouvoir.	民主集中制仍是执政党的正式原则。		
-ministère	ministɛʁ	n.m.	部	Le ministère de la Justice a publié un rapport sur les prisons françaises.	司法部发布了一份关于法国监狱的报告。		
-croisade	kʁwazad	n.f.	运动	Le président a lancé une croisade contre la fraude fiscale.	总统发起了一场打击逃税的运动。		
-présidentiel	pʁezidɑ̃sjɛl	adj.	总统的	La campagne présidentielle a dominé les débats pendant plusieurs mois.	总统竞选主导了几个月的公共讨论。		
-élire	eliʁ	v.	选举	Les citoyens vont élire un nouveau maire lors du scrutin de dimanche.	市民在周日的投票中选出了新市长。		
-discours	diskuʁ	n.m.	演说	Le discours du président a été retransmis en direct à la télévision.	总统的演说在电视上现场直播。		
-slogan	slogɑ̃	n.m.	口号	Les jeunes manifestants scandaient un slogan hostile au gouvernement dans la rue.	年轻的示威者在街上高喊敌视政府的口号。		
-candidat	kɑ̃dida	n.m.	候选人	Chaque candidat doit présenter son programme avant le premier tour.	每位候选人都必须在首轮投票前公布自己的纲领。		
-contradicteur	kɔ̃tʁadiktœʁ	adj.	反对者	Son contradicteur lui a répondu avec une violence verbale surprenante.	他的反对者用令人意外的激烈言辞回应了他。		
-souteneur	sutənœʁ	n.m.	支持者	Cet ancien souteneur a été condamné pour exploitation de plusieurs jeunes femmes.	这个昔日的皮条客因剥削多名年轻女子被判刑。		
-referendum	ʁefeʁɛ̃dɔm	n.m.	公民投票	Le gouvernement a organisé un référendum sur la réforme constitutionnelle.	政府就宪法改革组织了公民投票。		
-électorat	elɛktoʁa	n.m.	全体选民	L'électorat jeune se détourne des partis traditionnels depuis plusieurs années.	年轻选民多年来正逐渐远离传统政党。		
-série	seʁi	n.f.	轮	Le président a prononcé une série de discours dans les grandes villes.	总统在大城市发表了一系列演说。		
-votant	votɑ̃	adj.	投票者	Le nombre de votants a baissé lors de ce second tour.	第二轮投票的投票人数有所下降。		
+cérémonie	seʁemoni	n.f.	仪式	Une cérémonie officielle a réuni les familles des victimes dans la cathédrale.	一场官方仪式在主教座堂把遇难者家属聚在一起。		
+cerner	sɛʁne	v.	包围	Les chasseurs ont cerné le troupeau avant la tombée de la nuit.	猎人在天黑前把兽群包围了起来。		
+chapelle	ʃapɛl	n.f.	小教堂	La chapelle, bâtie à l'ombre d'un chêne immense, n'ouvrait ses portes qu'aux grandes fêtes.	这座小教堂建在一棵大橡树的阴影下，只在重大节日才开门。		
+chevalier	ʃəvalje	n.m.	骑士	Le chevalier, fidèle à son serment, reprit la route avant même que l'aube ne se levât.	那位忠于誓言的骑士，在天亮之前就重新上路了。		
+chiffonnier	ʃifonje	n.m.	捡垃圾者	Un vieux chiffonnier trie les poubelles derrière notre immeuble chaque matin.	每天早上都有个年老的拾荒者在楼后翻垃圾桶。		
+christianisme	kʁistjanizm	n.m.	基督教	Le christianisme a profondément marqué la culture européenne pendant des siècles.	基督教几个世纪以来深刻影响了欧洲文化。		
+cimetière	simətjɛʁ	n.m.	墓地	Le cimetière, envahi par les herbes, s'étendait derrière l'église, à l'écart de toute maison.	墓地杂草丛生，铺展在教堂后面，远离所有房屋。		
+civil	sivil	adj.	民法的	Le code civil fixe les règles du mariage et de l'héritage.	民法典规定了婚姻与继承的规则。		
+classe	klas	n.f.	班级；阶级	Toute la classe attendait le résultat de l'examen avec inquiétude.	全班都忐忑地等着考试结果。		
+cloche	klɔʃ	n.f.	钟	La cloche de l'église sonnait les heures avec une régularité que rien ne semblait troubler.	教堂的钟按时报时，规律得似乎什么也打不破。		
+code	kɔd	n.m.	法典	Le code pénal prévoit des peines sévères pour ce type de fraude.	刑法典对这类欺诈规定了严厉的刑罚。		
+colonel	kolonɛl	n.m.	上校	Le colonel exigeait que ses hommes soient prêts avant le lever du jour.	上校要求部下在天亮前准备就绪。		
+colonne	kolɔn	n.f.	柱子；专栏	Une colonne de fumée s'élevait à l'horizon, marquant l'endroit où le feu avait pris.	一道烟柱在天边升起，标示出起火的地方。		
+colporteur	kɔlpɔʁtœʁ	n.m.	小贩	Un colporteur vend des tapis devant la gare chaque matin.	每天早上都有个小贩在火车站前卖地毯。		
+combat	kɔ̃ba	n.m.	战斗	Ce combat a duré trois jours et a coûté beaucoup de vies.	这场战斗持续了三天，代价是许多生命。		
+combattre	kɔ̃batʁ	v.	与…战斗	Les pompiers ont combattu l'incendie pendant deux nuits entières avant d'en venir enfin à bout.	消防员与大火搏斗了两个整夜，才终于把它扑灭。		
+comité	komite	n.m.	委员会	Le comité s'est réuni trois fois avant de publier enfin ses conclusions.	委员会开了三次会，才终于公布结论。		
+commandant	komɑ̃dɑ̃	n.m.	指挥官	Le commandant refusa de reculer, convaincu que ses hommes tiendraient jusqu'à l'aube malgré le froid.	指挥官拒绝后撤，他相信手下再冷也能守到天亮。		
+commandement	komɑ̃dəmɑ̃	n.m.	命令；戒律	Le commandement fut transmis à voix basse, et chacun obéit sans poser la moindre question.	命令低声传了下去，每个人都照做，没有一个人发问。		
+commentateur	komɑ̃tatœʁ	n.m.	评论员	Le commentateur a décrit le match avec beaucoup d'enthousiasme.	评论员非常热情地解说了这场比赛。		
+commettre	komɛtʁ	v.	犯	Il refuse d'admettre qu'il ait pu commettre une erreur aussi grossière devant ses partisans.	他拒不承认自己竟会在支持者面前犯下如此粗心的错误。		
+commissaire	komisɛʁ	n.m.	专员；警长	Le commissaire a interrogé les témoins pendant près de trois heures avant de rendre sa conclusion.	警长讯问证人近三个小时后才给出结论。		
+communal	komynal	adj.	市镇的；公社的	La bibliothèque communale propose des ateliers gratuits pour enfants.	市镇图书馆为孩子提供免费的活动课。		
+communauté	komynote	n.f.	共同体；社区；群体	Les membres de la communauté ont voté à l'unanimité contre le projet.	该群体成员一致投票反对这一方案。		
+communication	komynikasjɔ̃	n.f.	通讯	Les réseaux de communication sont souvent saturés après chaque grande catastrophe naturelle.	每次重大自然灾害之后，通信网络往往都会拥堵。		
+communiquer	komynike	v.	传达；交流；沟通	L'université va communiquer les résultats officiels dès la semaine prochaine.	大学从下周起就会公布正式成绩。		
+compatriote	kɔ̃patʁijɔt	n.	同胞	Les nombreux compatriotes du défunt se sont recueillis devant l'ambassade.	死者的许多同胞在使馆前默哀。		
+complice	kɔ̃plis	n.m.	同谋；同谋的	Son complice l'attendait dans une voiture volée garée devant la banque.	他的同伙在一辆停在银行前的赃车里等他。		
+comte	kɔ̃t	n.m.	伯爵	Le comte possédait un domaine immense que ses deux fils se disputaient.	伯爵拥有一大片地产，两个儿子为它争执不休。		
+condamné	kɔ̃dane	n.m.	犯人；罪犯	Le condamné a demandé la clémence du tribunal.	罪犯请求法庭从轻发落。		
+confisquer	kɔ̃fiske	v.	没收	Les douaniers ont confisqué les fruits trouvés dans son sac.	海关人员没收了在他包里发现的水果。		
+conflit	kɔ̃fli	n.m.	冲突	Un conflit oppose deux collègues depuis la répartition des tâches.	自任务分配以来，两位同事之间一直存在冲突。		
+conscription	kɔ̃skʁipsjɔ̃	n.f.	征兵	La conscription a été supprimée dans ce pays en 1997.	这个国家于1997年废除了征兵制。		
+consommateur	kɔ̃somatœʁ	n.m.	消费者	Le consommateur exige des produits clairement étiquetés et faciles à comparer.	消费者要求产品标签清晰、便于比较。		
+consommation	kɔ̃somasjɔ̃	n.f.	消费	La consommation des ménages a nettement baissé au dernier trimestre.	家庭消费在上季度明显下降。		
+constitution	kɔ̃stitysjɔ̃	n.f.	宪法；构成；体质	La constitution de ce sol explique la couleur rouge de la terre.	这种土壤的成分解释了土地为何发红。		
+consul	kɔ̃syl	n.m.	领事	Le consul a aidé les ressortissants bloqués à l'étranger pendant la crise.	领事帮助了危机期间滞留国外的本国公民。		
+consulaire	kɔ̃sylɛʁ	adj.	领事的	Le personnel consulaire a traité des centaines de dossiers de visas.	领事人员处理了数百份签证申请。		
+contester	kɔ̃tɛste	v.	质疑	Les habitants contestent la décision du maire depuis plusieurs semaines.	居民们质疑市长的决定已经好几周了。		
+contravention	kɔ̃tʁavɑ̃sjɔ̃	n.f.	违规停车罚款	Elle a reçu une contravention pour s'être garée devant la gare.	她因为把车停在车站前而收到了违规停车罚款。		
+contre-torpilleur	kɔ̃tʁətɔʁpijœʁ	n.m.	驱逐舰	Le contre-torpilleur a quitté le port au milieu de la nuit.	这艘驱逐舰在午夜时分离开了港口。		
+contrefaire	kɔ̃tʁəfɛʁ	v.	伪造	Ils ont été condamnés pour avoir contrefait des billets de banque.	他们因伪造钞票而被判刑。		
+contribuable	kɔ̃tʁibɥabl	n.	纳税人	Chaque contribuable doit déclarer ses revenus avant la fin mai.	每位纳税人都必须在五月底前申报收入。		
+contribution	kɔ̃tʁibysjɔ̃	n.f.	贡献；捐税	Chaque pays membre verse une contribution annuelle au budget commun.	每个成员国每年向共同预算缴纳份额。		
+controverse	kɔ̃tʁovɛʁs	n.f.	争论	Cette décision a provoqué une vive controverse dans le pays.	这个决定在国内引发了激烈的争论。		
+copyright	kopiʁajt	n.m.	版权	Ce vieux disque est encore protégé par le copyright américain.	这张老唱片仍受美国版权保护。		
+correspondant	koʁɛspɔ̃dɑ̃	n.m.	记者；通信者	Notre correspondant à Londres nous a envoyé un long article.	我们驻伦敦的记者给我们发来一篇长文。		
+corrompre	koʁɔ̃pʁ	v.	腐蚀；贿赂	L'eau finit par corrompre la pierre tendre de la falaise.	水最终侵蚀了峭壁上松软的石头。		
+corruption	koʁypsjɔ̃	n.f.	腐败；贪污	Plusieurs élus sont soupçonnés de corruption dans cette affaire de marchés publics.	在这起公共采购案中，多名民选官员涉嫌腐败。		
+corsaire	kɔʁsɛʁ	n.	海盗	Ce vieux corsaire attaquait les navires au dix-septième siècle.	这个老海盗在十七世纪袭击船只。		
+couronne	kuʁɔn	n.f.	王冠；光环	Pendant l'éclipse, une couronne de lumière entoure le soleil noir.	日食期间，一圈光环围绕着黑色的太阳。		
+créditeur	kʁeditœʁ	n.m.	债权人；贷方	Le compte créditeur affiche un solde positif à la fin du mois.	贷方账户在月底显示为正余额。		
+crime	kʁim	n.m.	罪行	Ce crime, commis il y a vingt ans, n'a jamais été vraiment élucidé.	这桩二十年前犯下的罪行，从来没有真正查清。		
+criminel	kʁiminɛl	adj.	刑事的	Le tribunal criminel examine les affaires les plus graves du pays.	刑事法院审理全国最严重的案件。		
+crise	kʁiz	n.f.	危机	La crise avait vidé les magasins, et les habitants commençaient à craindre le pire.	危机让商店货架空空，居民们开始担心最坏的情况。		
+croisade	kʁwazad	n.f.	十字军东征；运动	Le président a lancé une croisade contre la fraude fiscale.	总统发起了一场打击逃税的运动。		
+croiseur	kʁwazœʁ	n.m.	巡洋舰	Le croiseur reste au large pendant toute la journée.	巡洋舰整天都停在远海。		
+croix	kʁwa	n.f.	十字；十字架	Une petite croix de bois marquait encore l'endroit où il était tombé.	一个小小的木十字仍然标记着他倒下的地方。		
+croyance	kʁwajɑ̃s	n.f.	信仰	La liberté de croyance reste garantie par la constitution de ce pays.	这个国家的宪法仍然保障信仰自由。		
+culture	kyltyʁ	n.f.	文化	Ce cours présente la culture française à travers ses films.	这门课通过电影介绍法国文化。		
+curé	kyʁe	n.m.	本堂神父	Le curé du village, homme discret et cultivé, recevait chaque semaine ceux qui voulaient parler.	村里的本堂神父为人低调、有教养，每周都接待那些想说说话的人。		
+débat	deba	n.m.	论战	Le débat sur le climat a duré plus de trois heures.	关于气候的辩论持续了三个多小时。		
+débouter	debute	v.	驳回	Le tribunal a décidé de débouter le locataire de sa demande.	法院决定驳回该租户的请求。		
+décès	desɛ	n.m.	死亡	Le bilan provisoire fait état de trente décès et de nombreux blessés.	初步统计显示有三十人死亡、多人受伤。		
+déclaration	deklaʁasjɔ̃	n.f.	申报	Vous devez remplir une déclaration avant de passer la douane.	过海关之前您要填一份申报单。		
+déclarer	deklaʁe	v.	声明	Le ministre a déclaré que la réforme entrerait en vigueur dès janvier.	部长声明改革将自一月起生效。		
+découvert	dekuvɛʁ	n.m.	透支；暴露的	Mon compte est à découvert depuis le début du mois.	我的账户从这个月初起就透支了。		
+dédommager	dedomaʒe	v.	赔偿	La société doit dédommager le client pour toutes les marchandises abîmées.	公司必须就所有受损货物赔偿客户。		
+déductible	dedyktibl	adj.	可扣除的	Ces frais professionnels sont entièrement déductibles de votre revenu imposable.	这些职业开支可全部从应纳税所得中扣除。		
+défaillant	defajɑ̃	adj.	缺席的	Deux membres défaillants ont été remplacés avant le vote final.	两名缺席的成员在最终表决前被替换。		
+défendeur	defɑ̃dœʁ	n.m.	被告	Le défendeur conteste les faits reprochés par la partie adverse.	被告对对方当事人所指控的事实提出异议。		
+défendre	defɑ̃dʁ	v.	保卫；禁止	Ce vieux chien défend la maison mieux que n'importe quel gardien.	这条老狗看家比任何守卫都强。		
+défense	defɑ̃s	n.f.	防御；禁止	La défense de ce quartier repose sur quelques ponts que l'armée avait fortifiés dès le printemps.	这个街区的防御依靠几座军队入春就加固过的桥。		
+déférer	defeʁe	v.	提起公诉	Le procureur a décidé de déférer le suspect devant la cour d'assises.	检察官决定将嫌疑人提交重罪法庭提起公诉。		
+déficit	defisit	n.m.	赤字	Le déficit public dépasse largement les limites fixées par Bruxelles.	公共赤字远超布鲁塞尔设定的上限。		
+défiler	defile	v.	列队行进	Les soldats ont défilé lentement devant le monument, sous les yeux d'une foule recueillie.	士兵们在纪念碑前缓缓列队走过，一群肃穆的人注视着。		
+délégation	delegasjɔ̃	n.f.	代表团	Une délégation de parlementaires s'est rendue dans la zone sinistrée.	一个议员代表团前往灾区。		
+délivrer	delivʁe	v.	交付；签发；释放	Le facteur délivre le courrier chaque matin sauf le dimanche.	邮差除星期天外每天早上送信。		
+dénoncer	denɔ̃se	v.	检举	Un employé a dénoncé les pratiques illégales de son directeur.	一名员工检举了其主管的违法行为。		
+dépeuplé	depœple	adj.	荒无人烟的	Cette vallée dépeuplée n'abrite plus que quelques bergers.	这个无人居住的山谷如今只剩几个牧羊人。		
+dépouille	depuj	n.f.	遗体；兽皮；战利品	La dépouille du peintre repose dans une petite salle du musée.	这位画家的遗物保存在博物馆的一个小展厅里。		
+député	depyte	n.m.	众议员	Le député a voté contre le texte proposé par la majorité présidentielle.	这位众议员对总统多数派提出的文本投了反对票。		
+dérober	deʁobe	v.	偷窃	Le voleur a réussi à dérober un tableau très célèbre.	窃贼成功偷走了一幅非常著名的画作。		
+désarmer	dezaʁme	v.	缴械	Les soldats ont désarmé les prisonniers avant de les fouiller.	士兵们缴了俘虏的械，然后搜身。		
+désastre	dezastʁ	n.m.	灾难	Ce désastre écologique a détruit des kilomètres de côtes et de forêts.	这场生态灾难摧毁了数公里的海岸和森林。		
+désastreusement	dezastʁøzəmɑ̃	adv.	灾难性地	Les secours sont arrivés désastreusement tard, près de quatre jours après le séisme.	救援来得极晚，地震后近四天才到。		
+désastreux	dezastʁø	adj.	灾难性的	Les effets désastreux de cette sécheresse se feront sentir pendant des années.	这场干旱的灾难性后果将持续多年。		
+désertion	dezɛʁsjɔ̃	n.f.	擅离职守；开小差；抛弃	Le soldat a été condamné pour désertion après trois semaines d'absence.	这名士兵因擅离部队三周而被判背叛罪。		
+détenir	dɛtəniʁ	v.	持有；掌握；关押	La police peut détenir un suspect pendant quarante-huit heures maximum.	警方最多可拘留嫌疑人四十八小时。		
+dette	dɛt	n.f.	债务	Le pays croule sous une dette extérieure de plus en plus lourde.	这个国家被日益沉重的外债压得喘不过气。		
+dévalorisation	devaloʁizasjɔ̃	n.f.	贬值	La dévalorisation de la monnaie a renchéri toutes les importations.	货币贬值使所有进口商品都变贵了。		
+dévaloriser	devaloʁize	v.	使贬值；贬低	Cette décision du gouvernement risque de dévaloriser la monnaie nationale.	政府的这一决定可能使本国货币贬值。		
+devineresse	dəvinəʁɛs	n.f.	占卜者	La devineresse lui a promis un long voyage avant la fin de l'année.	占卜者向他预言年底前会有一次长途旅行。		
+dévoiler	devwale	v.	揭露	Le journal a dévoilé un scandale qui a surpris tout le monde.	报纸揭露了一桩让所有人都吃惊的丑闻。		
+dévotion	devosjɔ̃	n.f.	崇拜	Les pèlerins expriment leur dévotion par des chants et des prières.	朝圣者用歌声和祈祷表达他们的虔诚。		
+diable	djabl	n.m.	魔鬼	Les enfants ont couru comme des diables dans le jardin trempé.	孩子们像小鬼一样在湿透的花园里乱跑。		
+diablerie	djabləʁi	n.f.	恶作剧；魔鬼行为	Dans sa bibliothèque, il garde un vieux recueil de diableries.	他的书房里保存着一本古老的鬼故事连环画。		
+dieu	djø	n.m.	神；上帝	Dans ce livre, un dieu protège les voyageurs.	在这本书里，一位神保护着旅人。		
+diffusion	difyzjɔ̃	n.f.	传播；发行；播送	La diffusion de ce quotidien baisse depuis plusieurs années déjà.	这份日报的发行量已经连年下降。		
+diplomate	diplomat	n.m.	外交官	Le diplomate a refusé de commenter cette affaire devant les journalistes.	这位外交官拒绝在记者面前评论此事。		
 diplomatie	diplomasi	n.f.	外交	La diplomatie française tente de relancer le dialogue entre les deux pays.	法国外交正努力重启两国之间的对话。		
 diplomatique	diplomatik	adj.	外交的	Les relations diplomatiques entre les deux pays se sont dégradées rapidement.	两国之间的外交关系迅速恶化。		
-voie	vwa	n.f.	途径	Le dialogue reste la seule voie possible pour sortir de cette crise.	对话仍是走出这场危机的唯一途径。		
-patronage	patʁonaʒ	n.m.	底护	Ce jeune homme a trouvé un emploi grâce au patronage d'un ancien ministre.	这个年轻人靠一位前部长的庇护找到了工作。		
-ambassadeur	ɑ̃basadœʁ	n.m.	大使	L'ambassadeur de France a été convoqué par le ministère des Affaires étrangères.	法国大使被外交部召见。		
-consul	kɔ̃syl	n.m.	领事	Le consul a aidé les ressortissants bloqués à l'étranger pendant la crise.	领事帮助了危机期间滞留国外的本国公民。		
-chasser	ʃase	v.	驱逐	La police a chassé les manifestants de la place centrale.	警方把示威者赶出了中心广场。		
-compatriote	kɔ̃patʁijɔt	n.	同胞	Les nombreux compatriotes du défunt se sont recueillis devant l'ambassade.	死者的许多同胞在使馆前默哀。		
-fonder	fɔ̃de	v.	建立	Les députés ont fondé un nouveau parti après la scission.	众议员在分裂之后建立了一个新党。		
-diplomate	diplomat	adj.	外交官	Le diplomate a refusé de commenter cette affaire devant les journalistes.	这位外交官拒绝在记者面前评论此事。		
-rompre	ʁɔ̃pʁ	v.	断绝	Le gouvernement a décidé de rompre les relations avec ce régime.	政府决定与该政权断绝关系。		
-rétablir	ʁetabliʁ	v.	恢复	Les deux pays ont décidé de rétablir leurs relations diplomatiques.	两国决定恢复外交关系。		
-consulaire	kɔ̃sylɛʁ	adj.	领事的	Le personnel consulaire a traité des centaines de dossiers de visas.	领事人员处理了数百份签证申请。		
-protester	pʁotɛste	v.	抗议	Des milliers de citoyens ont protesté contre la hausse des impôts.	数千市民抗议增税。		
-totalement	totaləmɑ̃	adv.	彻底地	Le gouvernement a totalement changé sa position sur ce dossier.	政府在这一问题上的立场彻底改变了。		
-délégation	delegasjɔ̃	n.f.	代表团	Une délégation de parlementaires s'est rendue dans la zone sinistrée.	一个议员代表团前往灾区。		
-immigrant	imigʁɑ̃	adj.	移民	La population immigrante contribue largement à l'économie de ce pays.	移民人口对这个国家的经济贡献很大。		
-posséder	posede	v.	享有	Tous les citoyens possèdent les mêmes droits devant la loi.	所有公民在法律面前享有同等权利。		
-assumer	asyme	v.	承担	Le ministre a assumé la responsabilité de cet échec devant le Parlement.	部长在议会面前承担了这次失败的责任。		
-liberté	libɛʁte	n.f.	自由	La liberté de la presse est garantie par la constitution de ce pays.	这个国家的宪法保障新闻自由。		
-veto	veto	n.m.	否决权	Un seul membre permanent peut bloquer une résolution avec son veto.	一个常任理事国就能用否决权阻止一项决议。		
-assemblée	asɑ̃ble	n.f.	集会	L'Assemblée nationale a adopté le texte par une large majorité.	国民议会以压倒多数通过了该文本。		
-défiler	defile	v.	游行	Des milliers d'étudiants ont défilé dans les rues de la capitale.	数千名学生在首都街头游行。		
-personnalité	pɛʁsonalite	n.f.	人格	Les psychologues judiciaires étudient la personnalité des criminels les plus violents.	司法心理学家研究最暴力罪犯的人格。		
-dignité	diɲite	n.f.	尊严	Tous les détenus doivent être traités avec respect et dignité.	所有在押人员都应受到尊重和有尊严的对待。		
-unir	yniʁ	v.	团结	Cette tragédie a fini par unir les habitants de toute la région.	这场悲剧使整个地区的居民团结起来。		
-race	ʁas	n.f.	种族	La loi interdit toute discrimination fondée sur la race ou l'origine.	法律禁止基于种族或出身的任何歧视。		
-agriculture	agʁikyltyʁ	n.f.	农业	L'agriculture biologique se développe rapidement dans le sud du pays.	有机农业在该国南部迅速发展。		
-immobilier	imobilje	adj.	房地产业	Le marché immobilier connaît une hausse des prix très inquiétante.	房地产市场出现了令人非常担忧的价格上涨。		
-amusement	amyzəmɑ̃	n.m.	娱乐	Ce grand parc d'amusement attire des familles entières chaque week-end.	这座大型游乐园每个周末都吸引全家老小前来。		
-consultant	kɔ̃syltɑ̃	adj.	咨询顾问	Le consultant a proposé une réforme du système fiscal au ministre.	这位咨询顾问向部长提出了税制改革方案。		
-nationaliser	nasjonalize	v.	使国有化	Le gouvernement a décidé de nationaliser plusieurs banques en difficulté.	政府决定将几家陷入困境的银行国有化。		
-nationalisation	nasjonalizasjɔ̃	n.f.	国有化	La nationalisation des chemins de fer a suscité un vif débat public.	铁路国有化引发了激烈的公共辩论。		
-privatisation	pʁivatizasjɔ̃	n.f.	私有化	La privatisation des autoroutes a rapporté des milliards à l'État.	高速公路私有化为国家带来了数十亿收入。		
-économie	ekonomi	n.f.	经济	L'économie de ce pays dépend fortement des exportations de pétrole.	这个国家的经济严重依赖石油出口。		
-économiquement	ekonomikəmɑ̃	adv.	经济地	Cette région du nord est économiquement dépendante des subventions publiques.	这个北部地区在经济上依赖公共补贴。		
-financièrement	finɑ̃sjɛʁəmɑ̃	adv.	金融地	De nombreux étudiants sont encore financièrement dépendants de leurs parents.	许多学生在经济上仍依赖父母。		
-crise	kʁiz	n.f.	危机	La crise économique a provoqué une hausse brutale du chômage.	经济危机导致失业率急剧上升。		
-récession	ʁesesjɔ̃	n.f.	萧条	Le pays est entré en récession après deux années de croissance faible.	在两年增长乏力之后，这个国家陷入了萧条。		
-revivre	ʁəvivʁ	v.	复苏	L'économie commence à revivre grâce à la baisse des taux.	得益于利率下降，经济开始复苏。		
-inflation	ɛ̃flasjɔ̃	n.f.	通货膨胀	L'inflation a atteint un niveau record dans toute la zone euro.	整个欧元区的通货膨胀率达到创纪录水平。		
-déficit	defisit	n.m.	赤字	Le déficit public dépasse largement les limites fixées par Bruxelles.	公共赤字远超布鲁塞尔设定的上限。		
-vachement	vaʃəmɑ̃	adv.	大大地	Les prix ont vachement augmenté depuis le début de l'année.	自年初以来物价涨得厉害。		
-affaires	afɛʁ	n.f.	生意，经济活动	Il a fait fortune dans les affaires avant d'entrer en politique.	他从政之前在生意场上发了财。		
-façonner	fasone	v.	加工	Ces années de guerre ont façonné la mentalité de toute une génération.	那些战争年代塑造了整整一代人的心态。		
-projectionniste	pʁoʒɛksjonist	n.	贸易保护主义者	Le projectionniste du cinéma a changé la pellicule avant la séance.	电影院的放映员在开演前换了胶片。		
-concilier	kɔ̃silje	v.	调解	Le médiateur tente de concilier les intérêts des deux parties.	调解人试图协调双方的利益。		
-yen	jɛn	n.m.	日元	Le yen a fortement baissé face au dollar cette année.	今年日元对美元大幅下跌。		
-peso	pezo	n.m.	比索	Le peso argentin a perdu la moitié de sa valeur en un an.	阿根廷比索一年内贬值一半。		
-contrefaire	kɔ̃tʁəfɛʁ	v.	伪造	Ils ont été condamnés pour avoir contrefait des billets de banque.	他们因伪造钞票而被判刑。		
-dévalorisation	devaloʁizasjɔ̃	n.f.	贬值	La dévalorisation de la monnaie a renchéri toutes les importations.	货币贬值使所有进口商品都变贵了。		
-fond	fɔ̃	n.m.	资金	Le fonds de solidarité aide les familles les plus démunies.	互助基金帮助最贫困的家庭。		
-capital	kapital	adj.	资金	Le capital de cette entreprise appartient à des investisseurs étrangers.	这家企业的资金属于外国投资者。		
-plus-value	plyvaly	n.f.	增值	La plus-value réalisée lors de cette vente immobilière sera lourdement imposée.	这次房产交易获得的增值将被课以重税。		
-dévaloriser	devaloʁize	v.	使贬值假的！100	Cette décision du gouvernement risque de dévaloriser la monnaie nationale.	政府的这一决定可能使本国货币贬值。		
-import	ɛ̃pɔʁ	n.m.	进口	L'import de voitures étrangères a fortement augmenté au cours de cette année.	今年外国汽车的进口大幅增长。		
-facture	faktyʁ	n.f.	发票	Le client refuse de payer cette facture jugée trop élevée.	客户拒绝支付这张被认为过高的发票。		
-pourcentage	puʁsɑ̃taʒ	n.m.	百分比	Le pourcentage de chômeurs a légèrement baissé au dernier trimestre.	失业者比例在上个季度略有下降。		
-fret	fʁɛ	n.m.	运费	Le fret maritime a augmenté à cause de la hausse du carburant.	由于燃料涨价，海运运费上涨了。		
-assurance	asyʁɑ̃s	n.f.	保险	Son assurance automobile couvre les dégâts causés par un accident.	他的汽车保险涵盖事故造成的损失。		
-bénéfice	benefis	n.m.	利润	Cette entreprise a réalisé un bénéfice record malgré la crise économique.	尽管经济危机，这家企业仍实现了创纪录的利润。		
-financement	finɑ̃səmɑ̃	n.m.	融资	La banque a refusé le financement de ce projet trop risqué.	银行拒绝为这个风险过高的项目提供融资。		
-échéance	eʃeɑ̃s	n.f.	到期日	La prochaine échéance du prêt tombe au mois de mars.	这笔贷款的下一个到期日在三月。		
-manifester	manifɛste	v.	表明	Les résultats manifestent une nette amélioration de la situation économique.	数据表明经济形势明显改善。		
-résilier	ʁezilje	v.	注销	Le client peut résilier son contrat à tout moment sans frais.	客户可以随时免费注销合同。		
-contribution	kɔ̃tʁibysjɔ̃	n.f.	份额	Chaque pays membre verse une contribution annuelle au budget commun.	每个成员国每年向共同预算缴纳份额。		
-bénéfique	benefik	adj.	有益的	Cette réforme fiscale serait bénéfique pour les petites entreprises françaises.	这项税制改革对法国中小企业会有好处。		
-épargné	epaʁɲe	v.	储蓄	Il a épargné pendant dix ans pour acheter un appartement.	他储蓄了十年才买下一套公寓。		
-réserve	ʁezɛʁv	n.f.	存款准备金	La banque centrale a relevé le taux de réserve obligatoire.	中央银行提高了法定存款准备金率。		
-intérêt	ɛ̃teʁɛ	n.m.	利息	Les intérêts de ce livret ont été versés en janvier.	这个存折的利息在一月份支付了。		
-tirelire	tiʁəliʁ	n.f.	存钱罐	L'enfant casse sa tirelire pour acheter un cadeau à sa mère.	孩子砸开存钱罐，给妈妈买礼物。		
-investir	ɛ̃vɛstiʁ	v.	投资	Les investisseurs étrangers hésitent à investir dans ce pays politiquement instable.	外国投资者不愿在这个政治不稳的国家投资。		
-commanditaire	komɑ̃ditɛʁ	n.	投资者	Le commanditaire exige un rapport trimestriel sur les résultats de l'entreprise.	投资者要求提交季度业绩报告。		
-risquer	ʁiske	v.	冒险	Les petits épargnants ne veulent pas risquer tout leur argent.	小储户不愿拿全部积蓄去冒险。		
-difficile	difisil	adj.	困难	Il est difficile d'obtenir un prêt sans garantie bancaire solide.	没有可靠的银行担保很难获得贷款。		
-capital-risque	kapitalʁisk	n.m.	风险资本	Les fonds de capital-risque cherchent des projets innovants à fort potentiel.	风险资本基金在寻找潜力大的创新项目。		
-propriété	pʁopʁijete	n.f.	财产	La propriété privée est strictement protégée par la loi française.	私有财产受法国法律的严格保护。		
-contribuer	kɔ̃tʁibɥe	v.	捐赠	Chaque citoyen est invité à contribuer à cette collecte nationale.	每位公民都被邀请为这次全国募捐捐款。		
-possession	posesjɔ̃	n.f.	所有物	Il a perdu toutes ses possessions dans l'incendie de sa maison.	他家失火，所有财物都化为乌有。		
-rupin	ʁypɛ̃	adj.	富有的	Ce quartier rupin attire les nouveaux riches de la capitale.	这个富人区吸引着首都的新贵。		
-investissement	ɛ̃vɛstisəmɑ̃	n.m.	投资	Cet investissement devrait être rentable dans cinq ou six ans.	这项投资应在五六年内收回成本。		
-client	klijɑ̃	n.m.	客户	Le client a demandé un remboursement complet de son achat.	客户要求全额退还购物款。		
-usure	yzyʁ	n.f.	高利贷	Ce prêteur exigeait des taux proches de l'usure, ce qui est illégal.	这个放贷者索取的利率接近高利贷，这是违法的。		
-créditeur	kʁeditœʁ	adj.	贷方	Le compte créditeur affiche un solde positif à la fin du mois.	贷方账户在月底显示为正余额。		
-éthique	etik	adj.	道德的	Les grandes banques doivent respecter des règles éthiques très strictes.	大银行必须遵守非常严格的道德规范。		
-dette	dɛt	n.f.	债务	Le pays croule sous une dette extérieure de plus en plus lourde.	这个国家被日益沉重的外债压得喘不过气。		
-emprunteur	ɑ̃pʁœ̃tœʁ	n.m.	借款方	L'emprunteur doit rembourser la totalité du capital avant la fin juin.	借款方必须在六月底前偿还全部本金。		
-gêne	ʒɛn	n.f.	困境	Cette famille vit dans une grande gêne depuis le licenciement du père.	这家人自父亲被解雇后一直处境艰难。		
-escroc	ɛskʁo	n.m.	骗子	L'escroc a soutiré des millions à des personnes âgées crédules.	骗子从轻信的老年人那里骗走了数百万。		
-garante	gaʁɑ̃t	adj.	担保	La banque est garante du remboursement en cas de défaut.	如发生违约，银行对还款承担担保。		
-hypothéquer	ipoteke	v.	抵押	Ils ont dû hypothéquer leur maison pour financer l'entreprise familiale.	他们不得不抵押房子来为家族企业融资。		
-élargir	elaʁʒiʁ	v.	扩大	Le gouvernement veut élargir l'accès au crédit pour les jeunes.	政府想扩大年轻人获得信贷的渠道。		
-grade	gʁad	n.m.	等级	Cet employé a obtenu un grade supérieur après dix ans.	这名职员十年后升到了更高的等级。		
-rendre	ʁɑ̃dʁ	v.	偿还	Il doit rendre l'argent qu'il a emprunté à son frère.	他必须把向哥哥借的钱还上。		
-rembourser	ʁɑ̃buʁse	v.	偿还	La banque accepte de rembourser les frais prélevés par erreur.	银行同意退还被错误扣除的费用。		
-égaler	egale	v.	等同	Le montant des frais finit par égaler le prix d'achat.	费用总额最终等同于购买价格。		
-préalable	pʁealabl	adj.	预先的	Un accord préalable du conseil est nécessaire avant le début des travaux.	动工之前必须得到委员会的预先同意。		
-subside	sypzid	n.m.	津贴	La région accorde un subside aux entreprises qui embauchent des jeunes.	大区向雇用年轻人的企业发放津贴。		
-stationnaire	stasjonɛʁ	adj.	定的	Le taux de chômage reste stationnaire depuis le début de l'année.	失业率自年初以来一直保持不变。		
-directe	diʁɛkt	adj.	移直接的	La taxation directe pèse davantage sur les ménages les plus modestes.	直接征税对最普通家庭的负担更重。		
-indirect	ɛ̃diʁɛkt	adj.	间接的	Cet impôt indirect frappe surtout la consommation des ménages les plus pauvres.	这种间接税主要打击最贫困家庭的消费。		
-communauté	komynote	n.f.	一致	Les membres de la communauté ont voté à l'unanimité contre le projet.	该群体成员一致投票反对这一方案。		
-opérer	opeʁe	v.	韧操纵	La police a opéré une perquisition au siège de la banque.	警方在银行总部实施了一次搜查。		
-capital-actions	kapital-aksjɔ̃	n.m.	股本	La société a augmenté son capital-actions l'an dernier.	公司去年增加了股本。		
-comite	kɔmit	n.m.	委员会	Le comité d'entreprise a demandé une hausse générale des salaires.	企业委员会要求全面加薪。		
-impôt	ɛ̃po	n.m.	税	Le gouvernement promet de baisser l'impôt sur le revenu dès 2027.	政府承诺从2027年起下调所得税。		
-fraude	fʁod	n.f.	逃税	Le fisc a découvert une fraude massive dans ce groupe immobilier.	税务部门在这个房地产集团查获大规模逃税行为。		
-déductible	dedyktibl	adj.	可扣除的	Ces frais professionnels sont entièrement déductibles de votre revenu imposable.	这些职业开支可全部从应纳税所得中扣除。		
-percepteur	pɛʁsɛptœʁ	adj.	税务员	Le percepteur a envoyé un avis de paiement au contribuable.	税务员向纳税人寄去了缴款通知。		
-contribuable	kɔ̃tʁibɥabl	n.	纳税人	Chaque contribuable doit déclarer ses revenus avant la fin mai.	每位纳税人都必须在五月底前申报收入。		
-affranchir	afʁɑ̃ʃiʁ	v.	免除	Cette mesure affranchit les petits salariés de la taxe locale.	这项措施免除了低收入工薪族的地方税。		
-bien-être	bjɛ̃-ɛtʁ	adj.	福利	Le bien-être social des salariés devient une priorité pour les entreprises.	员工的社会福利正成为企业的优先事项。		
-travailleur	tʁavajœʁ	adj.	工作者	Les travailleurs étrangers représentent une part croissante de la main-d'œuvre.	外籍劳动者在劳动力中所占比例不断上升。		
-volontiers	volɔ̃tje	adv.	自愿地	Les jeunes salariés acceptent volontiers ce nouvel horaire beaucoup plus souple.	年轻员工很乐意接受这个灵活得多的新作息。		
-attendre	atɑ̃dʁ	v.	等待	Des centaines de chômeurs attendent encore une réponse de l'administration.	数百名失业者仍在等待行政部门的答复。		
-acquérir	akeʁiʁ	v.	获得	Les ménages modestes ont du mal à acquérir un logement décent.	普通家庭很难买到像样的住房。		
-croyance	kʁwajɑ̃s	n.f.	信仰	La liberté de croyance reste garantie par la constitution de ce pays.	这个国家的宪法仍然保障信仰自由。		
-christianisme	kʁistjanizm	n.m.	基督教	Le christianisme a profondément marqué la culture européenne pendant des siècles.	基督教几个世纪以来深刻影响了欧洲文化。		
-catholicisme	katolisizm	n.m.	天主教	Le catholicisme reste la religion majoritaire dans plusieurs régions d'Europe.	天主教在欧洲多个地区仍是主要宗教。		
-judaïsme	ʒydaizm	n.m.	犹太教	Le judaïsme compte des communautés anciennes dans toute l'Europe centrale.	犹太教在中欧各地都有历史悠久的社群。		
-islamisme	islamizm	n.m.	伊斯兰教	La montée de l'islamisme politique inquiète les autorités de plusieurs pays.	政治伊斯兰主义的抬头令多国当局担忧。		
-bouddhisme	budizm	n.m.	佛教	Le bouddhisme attire de plus en plus d'Occidentaux en quête de sens.	佛教吸引着越来越多寻求人生意义的西方人。		
-taoïsme	taoizm	n.m.	道教	Le taoïsme propose une vision très particulière de l'équilibre humain.	道教对人类平衡提出了非常独特的看法。		
-hérésie	eʁezi	n.f.	异端	L'Église médiévale condamnait toute opinion contraire comme une véritable hérésie.	中世纪的教会把一切相反观点都斥为真正的异端。		
-fétichisme	fetiʃizm	n.m.	拜物教	Les jeunes anthropologues étudient le fétichisme dans plusieurs sociétés traditionnelles.	年轻的人类学家研究若干传统社会中的拜物教。		
-rachat	ʁaʃa	n.m.	救赎	Le rachat des péchés suppose un véritable repentir du croyant.	罪的救赎以信徒真心悔改为前提。		
 disciple	disipl	n.	信徒	Les disciples du maître ont poursuivi son enseignement après sa mort.	大师的信徒在他死后继续传承他的教诲。		
-faute	fot	n.f.	罪	Le prêtre a demandé pardon pour ses fautes devant l'assemblée.	神父在众人面前为自己的罪过请求宽恕。		
-bible	bibl	n.f.	圣经	La Bible reste le livre le plus traduit dans le monde entier.	圣经仍是全世界译本最多的书。		
-ange	ɑ̃ʒ	n.m.	天使	Les enfants du chœur portaient des ailes d'ange en carton.	唱诗班的孩子们戴着纸板做的天使翅膀。		
-dieu	djø	n.m.	上帝	Les fidèles prient leur dieu avant chaque repas de la communauté.	信徒们在团体每次用餐前向他们的神祈祷。		
-baptême	batɛm	n.m.	洗礼	Le baptême du petit garçon aura lieu dimanche dans la vieille église.	小男孩的洗礼将于周日在老教堂举行。		
-abolition	abolisjɔ̃	n.f.	废除	L'abolition de la peine de mort date de 1981 en France.	法国于1981年废除了死刑。		
-cérémonie	seʁemoni	n.f.	仪式	Une cérémonie officielle a réuni les familles des victimes dans la cathédrale.	一场官方仪式在主教座堂把遇难者家属聚在一起。		
+discours	diskuʁ	n.m.	演讲	Son discours, long et confus, endormit peu à peu l'auditoire le plus patient.	他的演讲又长又乱，连最有耐心的听众也渐渐睡着了。		
+distanciation	distɑ̃sjasjɔ̃	n.f.	疏远；拉开距离	La distanciation entre les deux immeubles reste assez grande.	两栋楼之间的距离仍然相当大。		
+district	distʁikt	n.m.	县	Ce district rural manque encore de médecins et d'écoles.	这个乡村县仍然缺少医生和学校。		
+diversité	divɛʁsite	n.f.	多样化	La diversité des commerces rend ce quartier très agréable.	商铺的多样化让这个街区非常舒适。		
+divination	divinasjɔ̃	n.f.	占卜	La divination par les cartes existe depuis plusieurs siècles.	用纸牌占卜已经存在好几个世纪了。		
 dogme	dɔgm	n.m.	教义	Ce dogme religieux a été défini lors d'un concile ancien.	这条宗教教义是在一次古代公会议上确定的。		
-dévotion	devosjɔ̃	n.f.	崇拜	Les pèlerins expriment leur dévotion par des chants et des prières.	朝圣者用歌声和祈祷表达他们的虔诚。		
-appel	apɛl	n.m.	号召	Le gouvernement a lancé un appel au calme après les incidents.	事件发生后，政府发出了保持冷静的号召。		
-recruter	ʁəkʁyte	v.	征募	L'armée cherche à recruter des jeunes dans les zones rurales.	军队正设法在乡村地区招募年轻人。		
-évangéliste	evɑ̃ʒelist	n.m.	传福音	Cet évangéliste parcourt les villages pour convertir de nouveaux fidèles.	这位传福音者走遍村庄，劝人皈依。		
-canon	kanɔ̃	adj.	教规	Le droit canon régit encore certaines questions matrimoniales dans l'Église.	教会法仍规范教会内的某些婚姻问题。		
-punissable	pynisabl	adj.	该罚的	Ce délit grave est punissable de trois ans d'emprisonnement ferme.	这项严重罪行可判处三年实刑。		
-sculpteur	skyltœʁ	n.m.	雕刻师	Le sculpteur travaille le marbre depuis plus de trente ans.	这位雕刻师雕琢大理石已三十多年。		
-sculpter	skylte	v.	雕刻	L'artiste a sculpté une statue de bronze pour la place centrale.	艺术家为中央广场雕刻了一座铜像。		
-effigie	efiʒi	n.f.	人像	Les manifestants ont brûlé une effigie du président devant le Parlement.	示威者在议会前焚烧了总统的人像。		
-cariatide	kaʁjatid	n.f.	女像柱	Une cariatide soutient le balcon de ce vieil immeuble parisien.	一尊女像柱支撑着这座巴黎老楼阳台。		
-ciselait	sizəlɛ	v.	浮雕	L'orfèvre ciselait patiemment les motifs délicats de la coupe d'argent.	金银匠耐心地镂刻银杯上精致的花纹。		
-moule	mul	n.	模子	Le fondeur verse le métal chaud dans un moule en sable.	铸造工把炽热的金属倒进砂模。		
-modèle	modɛl	adj.	模型	Ce modèle réduit reproduit fidèlement la cathédrale de Strasbourg en bois.	这个木质模型逼真地再现了斯特拉斯堡主教座堂。		
-graver	gʁave	v.	雕刻	L'artisan a gravé le nom du défunt sur la pierre tombale.	工匠把逝者的名字刻在墓碑上。		
-ciseler	sizəle	v.	雕刻	Il faut ciseler le métal avec beaucoup de patience et de précision.	加工这块金属需要极大的耐心和精确。		
-gravure	gʁavyʁ	n.f.	雕刻术	La gravure sur bois demande un apprentissage long et exigeant.	木刻需要长期而严格的训练。		
-découpage	dekupaʒ	n.m.	切开	Le découpage du métal se fait à l'aide d'une machine laser.	金属切割是用激光机完成的。		
-statue	staty	n.f.	雕塑	Une statue de bronze rend hommage au fondateur de la ville.	一座铜像纪念这座城市的创建者。		
-appareiller	apaʁeje	v.	凿	Les ouvriers doivent appareiller ces blocs avant de les poser.	工人必须先把这些石块凿修好再砌上。		
-schlass	ʃlas	adj.	刀子	Après trois verres de vin, il était complètement schlass au mariage.	喝了三杯酒，他在婚礼上已经醉得不成样子。		
-compact	kɔ̃pakt	adj.	密集的	Ce centre-ville compact se parcourt facilement à pied en une heure.	这个紧凑的市中心一小时就能步行逛完。		
-constructeur	kɔ̃stʁyktœʁ	adj.	建筑师	Le constructeur du pont promet une livraison avant la fin d'année.	桥梁承建方承诺年底前交付。		
-rotondes	ʁotɔ̃d	n.f.	形建筑物	Deux grandes rotondes encadrent l'entrée du nouveau quartier administratif de la ville.	两座大型圆形建筑夹着城市新行政区的入口。		
-grandiose	gʁɑ̃djoz	adj.	雄伟的	La façade grandiose de la cathédrale impressionne tous les visiteurs.	主教座堂雄伟的正面令所有参观者震撼。		
-dôme	dom	n.m.	屋顶	Le dôme de la cathédrale domine toute la vieille ville.	主教座堂的穹顶俯瞰着整个老城。		
-ouverture	uvɛʁtyʁ	n.f.	孔	Une étroite ouverture dans le mur laissait passer un peu de lumière.	墙上一道窄孔透进一点光。		
-triangulaire	tʁijɑ̃gylɛʁ	adj.	三角形的	La petite fenêtre triangulaire éclaire faiblement l'escalier du vieux donjon.	那扇三角形小窗微弱地照亮老主塔的楼梯。		
-marionnette	maʁjonɛt	n.f.	木偶	Les enfants applaudissent la marionnette qui danse sur la scène.	孩子们为在台上跳舞的木偶鼓掌。		
-pantomime	pɑ̃tomim	n.f.	哑剧	La troupe présente une pantomime muette devant un public enchanté.	剧团在一群着迷的观众面前表演哑剧。		
-incarner	ɛ̃kaʁne	v.	扮演	Ce jeune acteur incarne un juge intègre dans cette série policière.	这位年轻演员在这部警匪剧里扮演一位正直的法官。		
-prologue	pʁolɔg	n.m.	序幕	Le long prologue de la pièce présente les personnages principaux.	这部戏冗长的序幕介绍了主要人物。		
-unique	ynik	adj.	独有的	Chaque région de ce pays possède une identité culturelle unique et précieuse.	这个国家的每个地区都有独特而珍贵的文化身份。		
-promener	pʁɔmne	v.	散步.数量	Nous aimons promener le chien le long de la rivière.	我们喜欢沿着河边遛狗。		
-nouvelles	nuvɛl	n.f.	消息	Les nouvelles du front arrivent avec plusieurs jours de retard.	前线的消息要晚好几天才传到。		
-radio	ʁadjo	n.	收音机	Il écoute la radio tous les matins en prenant son café.	他每天早上一边喝咖啡一边听收音机。		
-porte-parole	pɔʁt-paʁɔl	n.m.	发言人	Le porte-parole du gouvernement a confirmé la nouvelle.	政府发言人证实了这一消息。		
-grève	gʁɛv	n.f.	罢工	Les conducteurs de train ont entamé une grève de trois jours.	火车司机开始了为期三天的罢工。		
-défécation	defekasjɔ̃	n.f.	澄清	Les autorités sanitaires rappellent les règles d'hygiène liées à la défécation en plein air.	卫生部门重申了露天排便相关的卫生规定。		
-rumeur	ʁymœʁ	n.f.	谣言	Une rumeur de démission du ministre circule depuis hier soir.	从昨晚起就流传着部长辞职的谣言。		
-embrouille	ɑ̃bʁuj	n.f.	扰乱	Cette embrouille administrative a longtemps retardé le versement des aides sociales.	这场行政纠纷长期拖延了社会补助的发放。		
-absurde	apsyʁd	adj.	荒谬的	Il est absurde de croire que cette loi protège vraiment les citoyens.	认为这条法律真正保护公民是荒谬的。		
-convoquer	kɔ̃voke	v.	召开	Le gouvernement a convoqué une réunion d'urgence avec les syndicats.	政府与工会紧急召开了一次会议。		
-media	medja	n.f.	媒体	Les médias ont publié des informations contradictoires sur cette affaire.	媒体对这起案件发布了相互矛盾的消息。		
-dernière	dɛʁnjɛʁ	adj.	最新的	La dernière réforme du code du travail a provoqué de vives protestations.	最新的劳动法典改革引发了强烈的抗议。		
-formuler	fɔʁmyle	v.	制定	Les députés ont formulé plusieurs propositions pour réformer la justice.	议员们提出了多项司法改革建议。		
-ordonnance	ɔʁdonɑ̃s	n.	法令	Cette ordonnance permet au préfet de fermer les lieux publics dangereux.	这项法令允许省长关闭危险的公共场所。		
-législation	leʒislasjɔ̃	n.f.	立法	La nouvelle législation oblige les entreprises à publier leurs comptes.	新立法强制企业公开其账目。		
-criminel	kʁiminɛl	adj.	刑事的	Le tribunal criminel examine les affaires les plus graves du pays.	刑事法院审理全国最严重的案件。		
-civil	sivil	adj.	民法的	Le code civil fixe les règles du mariage et de l'héritage.	民法典规定了婚姻与继承的规则。		
-législature	leʒislatyʁ	n.f.	立法机关	Cette législature a voté peu de lois malgré de longues discussions.	本届立法机关虽经长时间讨论，却只通过了很少的法律。		
-obéir	obeiʁ	v.	顺从	Les fonctionnaires doivent obéir aux ordres de leur supérieur hiérarchique.	公务员必须服从上级的命令。		
-fiscalité	fiskalite	n.f.	税法	La fiscalité locale finance une grande partie des services publics.	地方税收为大部分公共服务提供资金。		
-code	kɔd	n.m.	法典	Le code pénal prévoit des peines sévères pour ce type de fraude.	刑法典对这类欺诈规定了严厉的刑罚。		
-commettre	komɛtʁ	v.	犯	Il refuse de commettre une erreur grave en signant ce contrat sans le lire.	他拒绝在没看合同的情况下签字，以免犯下大错。		
-crime	kʁim	n.m.	罪行	La police enquête sur un crime commis près de la gare centrale.	警方正在调查一起发生在中央车站附近的罪行。		
-pécher	peʃe	v.	犯罪	Dans ce roman, le héros pense avoir péché en trahissant son ami.	在这部小说里，主人公认为自己背叛朋友是有罪的。		
-délibérément	delibeʁemɑ̃	adv.	蓄意地	Le témoin affirme que l'accusé a délibérément caché la vérité.	证人断言被告蓄意隐瞒了真相。		
-voulu	vuly	adj.	故意的	Le juge a conclu à un incendie voulu, et non à un accident.	法官认定这是一起故意纵火，而非意外事故。		
-intention	ɛ̃tɑ̃sjɔ̃	n.f.	意图	Le procureur doit prouver l'intention de nuire devant la cour.	检察官必须向法庭证明其恶意意图。		
-motif	motif	n.m.	动机犯罪	Les enquêteurs cherchent le motif exact de ce crime violent.	调查人员正在寻找这起暴力罪行的确切动机。		
-voler	vole	v.	抢劫把手伸	Deux hommes ont volé le sac d'une femme devant la banque.	两名男子在银行门前抢劫了一位女士的包。		
-dérober	deʁobe	v.	偷窃	Le voleur a réussi à dérober un tableau très célèbre.	窃贼成功偷走了一幅非常著名的画作。		
-corruption	koʁypsjɔ̃	n.f.	腐败家陆续成	Plusieurs élus sont soupçonnés de corruption dans cette affaire de marchés publics.	在这起公共采购案中，多名民选官员涉嫌腐败。		
-exaction	ɛgzaksjɔ̃	n.f.	敲诈	Le rapport dénonce les exactions commises par certains policiers locaux.	报告揭露了部分地方警察的敲诈行为。		
-incendiaire	ɛ̃sɑ̃djɛʁ	adj.	纵火犯	La police recherche l'auteur de l'attaque incendiaire contre ce marché.	警方正在追查对这处市场实施纵火袭击的作案者。		
-tueur	tɥœʁ	n.m.	杀手	Le tueur présumé a été arrêté hier soir à la frontière.	这名凶杀嫌疑人昨晚在边境被捕。		
-bombardement	bɔ̃baʁdəmɑ̃	n.m.	用炸弹袭击	Les habitants ont fui la ville après un violent bombardement.	居民们在一次猛烈轰炸后逃离了这座城市。		
-parjure	paʁʒyʁ	n.m.	伪证罪	Le témoin risque une peine pour parjure s'il ment devant le tribunal.	证人若在法庭上撒谎，将面临伪证罪的刑罚。		
-désertion	dezɛʁsjɔ̃	n.f.	背叛	Le soldat a été condamné pour désertion après trois semaines d'absence.	这名士兵因擅离部队三周而被判背叛罪。		
-kidnapper	kidnape	v.	绑架	Des inconnus ont tenté de kidnapper le fils d'un homme d'affaires.	几名陌生人企图绑架一位企业家的儿子。		
-prison	pʁizɔ̃	n.f.	监狱	Il risque cinq ans de prison pour avoir frappé un policier.	他因殴打警察可能面临五年监禁。		
-cachot	kaʃo	n.m.	监狱	Le prisonnier politique est resté longtemps dans un cachot humide.	这名政治犯在潮湿的牢房里被关了很久。		
-condamne	kɔ̃dan	v.	犯人	Le tribunal condamne le conducteur à deux ans de prison ferme.	法院判处这名司机两年实刑。		
-fusiller	fyzije	v.	枪决	Le résistant a été fusillé par l'armée ennemie en 1944.	这名抵抗者于1944年被敌军枪决。		
-libérer	libeʁe	v.	释放	Le juge a décidé de libérer le suspect faute de preuves.	由于证据不足，法官决定释放这名嫌疑人。		
-pénalement	penaləmɑ̃	adv.	刑罚上	Pénalement, l'entreprise est responsable des actes de ses salariés.	在刑罚上，企业对其员工的行为负有责任。		
-dénoncer	denɔ̃se	v.	检举	Un employé a dénoncé les pratiques illégales de son directeur.	一名员工检举了其主管的违法行为。		
-accuser	akyze	v.	控告	La victime accuse son voisin de lui avoir volé son portefeuille.	受害人控告邻居偷了他的钱包。		
-prisonnier	pʁizonje	adj.	犯人	Le prisonnier a refusé de répondre aux questions du juge.	这名犯人拒绝回答法官的提问。		
-tribunal	tʁibynal	n.m.	法院	Le tribunal doit rendre son jugement avant la fin du mois.	法院必须在本月底之前作出判决。		
-palis	pali	n.m.	围栏	Autour du champ, un palis de bois empêche les animaux d'entrer.	田地四周有一道木围栏，防止牲畜进入。		
-juge	ʒyʒ	n.m.	法官	Le juge a demandé le silence avant de lire la décision.	法官在宣读裁定前要求全场安静。		
-magistrat	maʒistʁa	n.m.	地方法官	Ce magistrat travaille depuis vingt ans au parquet de Lyon.	这位地方法官在里昂检察院工作了二十年。		
-ajourner	aʒuʁne	v.	休庭	Le président a décidé d'ajourner l'audience à la semaine prochaine.	庭长决定将庭审休庭至下周。		
-justifier	ʒystifje	v.	辩护	L'avocat tente de justifier le comportement de son client devant le jury.	律师试图在陪审团面前为其当事人的行为辩护。		
-défendeur	defɑ̃dœʁ	n.m.	被告	Le défendeur conteste les faits reprochés par la partie adverse.	被告对对方当事人所指控的事实提出异议。		
-juger	ʒyʒe	v.	判决	Les jurés vont juger cette affaire très médiatisée la semaine prochaine.	陪审员们下周将审理这起备受媒体关注的案件。		
-assignation	asiɲasjɔ̃	n.f.	传票	Il a reçu une assignation à comparaître devant le tribunal correctionnel.	他收到了一张轻罪法庭的出庭传票。		
-détenir	dɛtəniʁ	v.	拘留	La police peut détenir un suspect pendant quarante-huit heures maximum.	警方最多可拘留嫌疑人四十八小时。		
+drapeau	dʁapo	n.m.	旗帜	Un drapeau décoloré pendait à la fenêtre, souvenir d'une fête que nul ne célébrait plus.	一面褪色的旗子挂在窗前，是某个再无人庆祝的节日的纪念。		
+drogue	dʁɔg	n.f.	毒品；药物	Cette drogue soulage la douleur mais endort le patient.	这种麻醉药能止痛，但会让病人昏睡。		
+duper	dype	v.	欺骗	Ce vendeur malhonnête a réussi à duper plusieurs clients âgés.	这个不老实的推销员骗了好几位老年顾客。		
+économie	ekonomi	n.f.	经济	L'économie de ce pays dépend fortement des exportations de pétrole.	这个国家的经济严重依赖石油出口。		
+économique	ekonomik	adj.	经济的	Cette solution est plus économique que celle que nous avions choisie.	这个方案比我们原先选的更经济。		
+économiquement	ekonomikəmɑ̃	adv.	经济地	Cette région du nord est économiquement dépendante des subventions publiques.	这个北部地区在经济上依赖公共补贴。		
+éditorial	editoʁjal	n.m.	社论	L'éditorial du directeur critique sévèrement la nouvelle réforme du gouvernement.	社长的社论严厉批评了政府的新改革。		
+église	egliz	n.f.	教堂	Nous avons visité une belle église au centre du village.	我们参观了村子中心一座漂亮的教堂。		
+égout	egu	n.m.	下水道	L'égout de la rue est bouché depuis la semaine dernière.	街上的下水道从上星期起就堵了。		
+électorat	elɛktoʁa	n.m.	全体选民	L'électorat jeune se détourne des partis traditionnels depuis plusieurs années.	年轻选民多年来正逐渐远离传统政党。		
+élire	eliʁ	v.	选举	Les citoyens vont élire un nouveau maire lors du scrutin de dimanche.	市民在周日的投票中选出了新市长。		
+emparer	ɑ̃paʁe	v.	夺取	Les insurgés se sont emparés du palais avant l'aube, sans rencontrer de véritable résistance.	起义者在黎明前夺取了宫殿，没有遇到真正的抵抗。		
+empereur	ɑ̃pəʁœʁ	n.m.	皇帝	L'empereur, entouré de ses ministres, recevait les ambassadeurs dans la grande salle du palais.	皇帝在几位大臣的簇拥下，在宫殿大厅接见各国使节。		
+empiéter	ɑ̃pjete	v.	侵犯	Ce voisin empiète sur notre terrain depuis plusieurs années.	这个邻居侵占我们的地已经好几年了。		
+empire	ɑ̃piʁ	n.m.	帝国	L'empire s'était effondré en quelques années, laissant derrière lui des ruines et des légendes.	帝国在几年间崩塌，只留下废墟和传说。		
 emprisonner	ɑ̃pʁizone	v.	监禁	Le juge a décidé d'emprisonner l'homme malgré ses protestations.	尽管这名男子抗议，法官仍决定将其监禁。		
-appréhender	apʁeɑ̃de	v.	速捕	Les agents ont réussi à appréhender le fugitif dans un hôtel.	警员们在一家旅馆成功逮捕了这名逃犯。		
-sursis	syʁsi	n.m.	缓刑	Le jeune homme a été condamné à six mois avec sursis.	这名年轻人被判处六个月缓刑。		
-acquittement	akitəmɑ̃	n.m.	宣告无罪	L'acquittement de l'accusé a provoqué la colère de la famille.	被告被宣告无罪，激起了家属的愤怒。		
-poursuite	puʁsɥit	n.f.	起诉	Le parquet a annoncé la poursuite de l'ancien ministre pour fraude.	检察院宣布以欺诈罪起诉前部长。		
-déférer	defeʁe	v.	提起公诉	Le procureur a décidé de déférer le suspect devant la cour d'assises.	检察官决定将嫌疑人提交重罪法庭提起公诉。		
-interroger	ɛ̃tɛʁoʒe	v.	审讯	Les policiers vont interroger le témoin pendant plusieurs heures.	警察将对证人进行数小时的审讯。		
-cuisiner	kɥizine	v.	审问	Les enquêteurs ont cuisiné le suspect jusqu'à ce qu'il avoue.	调查人员反复审问嫌疑人，直到他招供。		
-doute	dut	n.m.	疑问	Il reste un doute sérieux sur l'heure exacte du crime.	关于案发的确切时间仍存在重大疑问。		
-audition	odisjɔ̃	n.f.	听证	L'audition du ministre devant la commission a duré trois heures.	部长在委员会面前的听证持续了三个小时。		
-inculper	ɛ̃kylpe	v.	控告	Le juge a décidé d'inculper deux responsables de l'entreprise.	法官决定控告该企业的两名负责人。		
-procès	pʁosɛ	n.m.	诉讼	Le procès de l'ancien maire commence lundi au tribunal de Paris.	前市长的诉讼将于周一在巴黎法院开庭。		
-témoin	temwɛ̃	n.m.	证人	Le seul témoin de l'accident a accepté de parler aux journalistes.	事故的唯一证人同意接受记者采访。		
-débouter	debute	v.	驳回	Le tribunal a décidé de débouter le locataire de sa demande.	法院决定驳回该租户的请求。		
-menacer	mənase	v.	恐吓	Le suspect aurait menacé le témoin pour l'empêcher de parler.	嫌疑人涉嫌恐吓证人，阻止其作证。		
-escroquer	ɛskʁoke	v.	诈骗	Deux hommes ont escroqué des personnes âgées en se faisant passer pour des banquiers.	两名男子冒充银行人员诈骗了老年人。		
-faux-fuyant	fofɥijɑ̃	n.m.	推语	Le ministre a répondu par un faux-fuyant pour éviter la question.	部长用一句推托之词回避了这个问题。		
-requête	ʁəkɛt	n.f.	诉状	L'avocat a déposé une requête auprès du tribunal administratif.	律师向行政法院提交了一份诉状。		
-régiment	ʁeʒimɑ̃	n.m.	团	Ce régiment est stationné près de la frontière depuis six mois.	这个团在边境附近驻扎了六个月。		
-armée	aʁme	n.f.	部队	L'armée a été envoyée pour aider les victimes de la tempête.	部队被派去援助风暴的受灾者。		
-brigade	bʁigad	n.f.	旅	Une brigade de gendarmerie a ouvert une enquête sur place.	一支宪兵队在现场展开了调查。		
-bataillon	batajɔ̃	n.m.	营	Un bataillon entier a participé aux opérations de secours dans la montagne.	整整一个营参加了山区的救援行动。		
-infanterie	ɛ̃fɑ̃təʁi	n.f.	步兵	Les soldats d'infanterie ont marché toute la nuit sous la pluie.	步兵们在雨中走了一整夜。		
-sauveteur	sovətœʁ	n.m.	救援人员	Les sauveteurs ont retrouvé l'enfant sain et sauf près de la rivière.	救援人员在河边找到了安然无恙的孩子。		
-rebelles	ʁəbɛl	adj.	反叛	Les groupes rebelles contrôlent une partie du nord du pays.	反叛武装控制着该国北部的一部分地区。		
-artillerie	aʁtijəʁi	n.f.	炮兵	L'artillerie a bombardé les positions ennemies pendant deux jours.	炮兵对敌方阵地进行了两天的炮击。		
-commandant	komɑ̃dɑ̃	adj.	指挥官	Le commandant a donné l'ordre de rentrer au camp.	指挥官下令返回营地。		
-ordre	ɔʁdʁ	n.m.	命令	Le soldat a refusé d'obéir à cet ordre dangereux.	这名士兵拒绝执行这道危险的命令。		
-pistolet	pistolɛ	n.m.	手枪	L'homme portait un pistolet caché sous sa veste noire.	这名男子在黑色外套下藏着一把手枪。		
-fusil	fyzi	n.m.	步枪	Le chasseur a posé son fusil contre le mur de la cabane.	猎人把步枪靠在木屋的墙上。		
-mitrailleuse	mitʁajøz	n.f.	机关枪	Une mitrailleuse lourde était installée au sommet de la colline.	一挺重机枪架在山丘顶上。		
-revolver	ʁevɔlvɛʁ	n.m.	左轮	On a retrouvé un revolver dans le tiroir de la chambre.	人们在房间的抽屉里找到了一把左轮手枪。		
-déclic	deklik	n.m.	扳机	Le déclic du pistolet a fait sursauter toute la salle.	手枪扳机的一声轻响让全场人都吓了一跳。		
-munitions	mynisjɔ̃	n.f.	弹药	Les soldats manquaient de munitions après trois jours de combats.	战斗三天后，士兵们缺乏弹药。		
-épauler	epole	v.	瞄准	Le chasseur a épaulé son fusil avant de viser la cible.	猎人端起枪托瞄准了目标。		
-canonnade	kanonad	n.f.	炮火	La canonnade a cessé au lever du soleil, selon les habitants.	据居民说，炮火在日出时停止了。		
-pare-balles	paʁbal	adj.	防弹衣	Les agents portent un gilet pare-balles lors des interventions risquées.	警员在危险行动中穿着防弹衣。		
-nucléaire	nykleɛʁ	adj.	核的	Le pays discute de la construction d'une nouvelle centrale nucléaire.	该国正在讨论建造一座新的核电站。		
-rayonner	ʁɛjone	v.	放射	Cette substance dangereuse continue de rayonner dans le sol pendant des années.	这种危险物质会在土壤中持续放射多年。		
-bombe	bɔ̃b	n.f.	炸弹	Une bombe artisanale a explosé près du marché sans faire de victimes.	一枚自制炸弹在市场附近爆炸，未造成人员伤亡。		
-radiation	ʁadjasjɔ̃	n.f.	放射	Les ouvriers ont été exposés à une forte radiation pendant leur travail.	工人们在工作中受到了强烈的辐射。		
-canadair	kanadɛʁ	n.m.	通气道	Un canadair a survolé la forêt pour éteindre les flammes.	一架灭火飞机飞过森林上空扑灭火焰。		
-larguer	laʁge	v.	投放	L'avion a largué de l'eau sur l'incendie qui menaçait le village.	飞机向威胁村庄的大火投放了水。		
-souffle	sufl	n.m.	冲击波	Le souffle de l'explosion a brisé toutes les vitres du quartier.	爆炸的冲击波震碎了整个街区的玻璃。		
-radioactif	ʁadjoaktif	adj.	放射性的	Le sol de la zone reste radioactif plusieurs décennies après la catastrophe.	灾难发生几十年后，该区域的土壤仍具有放射性。		
-ogive	oʒiv	n.f.	弹头	Les experts examinent une vieille ogive retrouvée par des pêcheurs au large.	专家们正在检查渔民在近海打捞出的一枚旧弹头。		
-engins	ɑ̃ʒɛ̃	n.m.	地对地导弹	L'armée a détruit plusieurs engins explosifs retrouvés près de la route.	军队销毁了在公路附近发现的多枚爆炸装置。		
-périscope	peʁiskɔp	n.m.	潜望镜	Le sous-marin a remonté son périscope pour observer la côte.	潜艇升起了潜望镜观察海岸。		
-torpille	tɔʁpij	n.f.	鱼雷	Une torpille a touché le navire avant qu'il ne coule.	一枚鱼雷击中了那艘船，随后它便沉没了。		
-émetteur	emetœʁ	adj.	发射机	Un émetteur installé sur la colline diffuse les programmes locaux.	一台架在山丘上的发射机播放本地节目。		
-tank	tɑ̃k	n.m.	坦克	Un tank est stationné devant l'entrée du bâtiment officiel.	一辆坦克停在官方大楼的入口前。		
-contre-torpilleur	kɔ̃tʁətɔʁpijœʁ	n.m.	驱逐舰	Le contre-torpilleur a quitté le port au milieu de la nuit.	这艘驱逐舰在午夜时分离开了港口。		
-aviso	avizo	n.m.	护卫舰	Cet aviso patrouille le long des côtes depuis lundi matin.	这艘护卫舰从周一早上起沿海南巡逻。		
+emprunteur	ɑ̃pʁœ̃tœʁ	n.m.	借款方	L'emprunteur doit rembourser la totalité du capital avant la fin juin.	借款方必须在六月底前偿还全部本金。		
+encart	ɑ̃kaʁ	n.m.	插页	Un encart publicitaire occupe toute la dernière page du magazine.	一则广告插页占满了杂志的最后一页。		
+enfer	ɑ̃fɛʁ	n.m.	地狱	Cette maison est devenue un véritable enfer pour les enfants depuis le divorce.	离婚后，这栋房子对孩子们来说成了真正的地狱。		
+enjeu	ɑ̃ʒø	n.m.	赌注	L'enjeu de cette partie n'était pas de l'argent, mais un dîner.	这局的赌注不是钱，而是一顿晚餐。		
+ennemi	ɛnəmi	n.m.	敌人	Mon grand-père parlait souvent de ses anciens ennemis avec respect.	我祖父常常怀着敬意谈起他以前的敌人。		
+enquête	ɑ̃kɛt	n.f.	调查；侦查	L'acheteur étranger nous a envoyé une enquête pour nos nouveaux produits.	那位外国买方就我们的新产品向我们发来了询盘。		
+enquêter	ɑ̃kete	v.	调查	La police a commencé à enquêter sur la disparition des marchandises.	警方已开始调查货物失踪一事。		
+enrôler	ɑ̃ʁole	v.	征召	L'armée a enrôlé de nombreux jeunes gens cette année-là.	那一年军队征召了许多年轻人。		
+enterrement	ɑ̃tɛʁəmɑ̃	n.m.	葬礼	L'enterrement a eu lieu le lendemain matin, sans aucune cérémonie.	葬礼第二天早上举行，没有任何仪式。		
+enterrer	ɑ̃teʁe	v.	掩埋	Les habitants ont enterré leurs objets précieux pour les protéger des pillards.	居民们把贵重物品埋起来，以防被盗匪抢走。		
+épargner	epaʁɲe	v.	储蓄；节省	Il a épargné pendant dix ans pour acheter un appartement.	他储蓄了十年才买下一套公寓。		
+époque	epɔk	n.f.	时代	À cette époque, nous n'avions pas encore de téléphone.	那时候我们还没有电话。		
+épousailles	epuzaj	n.f.	婚庆	Les épousailles de leur fille ont duré jusqu'au matin.	他们女儿的婚宴一直持续到早上。		
+épouser	epuze	v.	娶；嫁	Il a épousé une jeune femme rencontrée à l'université.	他娶了一位在大学认识的年轻女子。		
+esclavage	ɛsklavaʒ	n.m.	奴制	L'esclavage a été aboli en France au milieu du dix-neuvième siècle.	法国在十九世纪中叶废除了奴隶制。		
 escorteur	ɛskɔʁtœʁ	n.m.	护卫舰	Un escorteur accompagne le convoi jusqu'à la sortie du détroit.	一艘护卫舰护送船队直到海峡出口。		
-cosmologie	kɔsmoloʒi	n.f.	宇宙论	La cosmologie moderne étudie l'origine et l'évolution de tout l'univers.	现代宇宙论研究整个宇宙的起源与演化。		
-ciel	sjɛl	n.m.	天	Le ciel était si clair qu'on voyait des milliers d'étoiles.	天空如此晴朗，能看到成千上万颗星星。		
-soleil	solɛj	n.m.	太阳	Le soleil se couche derrière les montagnes vers huit heures.	太阳大约八点落在群山之后。		
-chromosphère	kʁomosfɛʁ	n.f.	色球	La chromosphère du soleil est visible pendant une éclipse totale.	日全食期间可以看到太阳的色球层。		
-couronne	kuʁɔn	n.f.	光环	Pendant l'éclipse, une couronne de lumière entoure le soleil noir.	日食期间，一圈光环围绕着黑色的太阳。		
-satellite	satelit	n.m.	卫星	Ce satellite transmet des images de la Terre toutes les heures.	这颗卫星每小时传送一次地球图像。		
-radar	ʁadaʁ	n.m.	雷达	Le radar de l'aéroport a détecté un objet inconnu cette nuit.	机场雷达昨夜探测到一个不明物体。		
-fusée	fyze	n.f.	火箭	La fusée a décollé de la base spatiale à l'heure prévue.	火箭按预定时间从航天基地升空。		
-astronef	astʁonɛf	n.m.	太空船	L'astronef a passé six mois en orbite autour de la planète.	这艘太空船在行星轨道上停留了六个月。		
-biens-fonds	bjɛ̃-fɔ̃	n.m.pl.	房地产；不动产	Il a investi toute sa fortune dans des biens-fonds.	他把全部财产都投进了房地产。		
-licence	lisɑ̃s	n.f.	许可证	L'entreprise a obtenu une licence pour vendre ces médicaments.	该企业获得了销售这些药品的许可证。		
-adjuger	adʒyʒe	v.	拍卖给	Le tribunal a décidé d'adjuger la maison au plus offrant.	法院决定将这栋房子拍卖给出价最高者。		
-foncier	fɔ̃sje	adj.	地产	Le prix du marché foncier a beaucoup augmenté dans cette région.	该地区地产市场的价格大幅上涨。		
-domiciliaires	domisiljɛʁ	adj.	住宅的	Plusieurs perquisitions domiciliaires ont eu lieu tôt ce matin chez les suspects.	今天清早对嫌疑人住所进行了多次搜查。		
-céder	sede	v.	割让	Le propriétaire a accepté de céder une partie de son terrain.	业主同意割让其部分土地。		
-synthétique	sɛ̃tetik	adj.	综合的	Ce rapport synthétique présente les principales conclusions de la longue enquête.	这份综合报告呈现了长期调查的主要结论。		
+escroc	ɛskʁo	n.m.	骗子	L'escroc a soutiré des millions à des personnes âgées crédules.	骗子从轻信的老年人那里骗走了数百万。		
+escroquer	ɛskʁoke	v.	诈骗	Deux hommes ont escroqué des personnes âgées en se faisant passer pour des banquiers.	两名男子冒充银行人员诈骗了老年人。		
+espagnol	ɛspaɲɔl	adj.	西班牙的；n.m. 西班牙语	Sa sœur espagnole danse vraiment très bien le flamenco traditionnel.	他西班牙籍的姐姐传统弗拉门戈跳得非常好。		
+état	eta	n.m.	状态；国家	Cette vieille voiture est dans un état vraiment très mauvais.	这辆旧车状况真的很糟。		
+États-Unis	etazyni	n.m.pl.	美国	Les États-Unis sont un pays très vaste.	美国是一个非常大的国家。		
+éthique	etik	adj.	道德的	Les grandes banques doivent respecter des règles éthiques très strictes.	大银行必须遵守非常严格的道德规范。		
+étranger	etʁɑ̃ʒe	adj.	外国的	Il travaille dans une grande entreprise étrangère installée à Lyon depuis trois ans.	他在一家设在里昂的外国大公司工作了三年。		
+évangéliste	evɑ̃ʒelist	n.m.	福音传道者；福音书作者	Cet évangéliste parcourt les villages pour convertir de nouveaux fidèles.	这位传福音者走遍村庄，劝人皈依。		
+évasion	evazjɔ̃	n.f.	逃避	La lecture est pour lui une belle évasion du quotidien.	读书对他来说是一种对日常生活的美好逃避。		
+exaction	ɛgzaksjɔ̃	n.f.	敲诈	Le rapport dénonce les exactions commises par certains policiers locaux.	报告揭露了部分地方警察的敲诈行为。		
+exalter	ɛgzalte	v.	表扬	Le journaliste a exalté le courage des sauveteurs après l'accident.	记者赞扬了事故后救援人员的勇气。		
+exterminateur	ɛkstɛʁminatœʁ	adj.	灭绝的	Cet insecticide exterminateur a détruit toute la colonie de fourmis.	这种灭绝性杀虫剂消灭了整个蚁群。		
+exterminer	ɛkstɛʁmine	v.	消灭；灭绝	En dix coups, il a exterminé toutes les pièces de son adversaire.	他十步之内吃掉了对手所有的棋子。		
+fauche	foʃ	n.f.	贼赃	La police a retrouvé une partie de la fauche dans un entrepôt abandonné.	警方在一座废弃仓库里找回了部分赃物。		
+favoriser	favoʁize	v.	帮助	Ces horaires souples favorisent l'équilibre entre vie privée et travail.	这些弹性作息有助于平衡私人生活与工作。		
+féodal	feodal	adj.	封建的	Ce roman décrit la vie des paysans dans une société féodale du Moyen Âge.	这部小说描写了中世纪封建社会里农民的生活。		
+féodalisme	feodalizm	n.m.	封建制度	Les historiens discutent encore du rôle du féodalisme dans cette région.	历史学家至今仍在争论封建制度在这一地区所起的作用。		
+fétichisme	fetiʃizm	n.m.	拜物教	Les jeunes anthropologues étudient le fétichisme dans plusieurs sociétés traditionnelles.	年轻的人类学家研究若干传统社会中的拜物教。		
+financement	finɑ̃səmɑ̃	n.m.	融资	La banque a refusé le financement de ce projet trop risqué.	银行拒绝为这个风险过高的项目提供融资。		
+finances	finɑ̃s	n.f.	财务	Il étudie les finances pour travailler plus tard dans une banque.	他学财务，为了以后在银行工作。		
+financièrement	finɑ̃sjɛʁəmɑ̃	adv.	财政上；经济上	De nombreux étudiants sont encore financièrement dépendants de leurs parents.	许多学生在经济上仍依赖父母。		
+finlandais	fɛ̃lɑ̃dɛ	adj.	芬兰的；芬兰人	Ce photographe finlandais travaille surtout pendant les nuits d'hiver.	这位芬兰摄影师主要在冬夜工作。		
+fiscalité	fiskalite	n.f.	税法	La fiscalité locale finance une grande partie des services publics.	地方税收为大部分公共服务提供资金。		
+fléchissement	fleʃisəmɑ̃	n.m.	下跌	On remarque un léger fléchissement des prix depuis janvier.	从一月起价格略有下跌。		
+foi	fwa	n.f.	信仰；信任	Elle garde une foi profonde en la bonté des gens simples.	她始终深信普通人的善良。		
+folklore	fɔlklɔʁ	n.m.	民间文学	Ce professeur passionné collectionne les contes du folklore breton depuis vingt ans.	这位热心的教授二十年来一直收集布列塔尼民间文学中的故事。		
+fonctionnaire	fɔ̃ksjonɛʁ	n.	官员	Elle est fonctionnaire et travaille à la mairie du quartier.	她是公务员，在街区市政厅工作。		
+fondation	fɔ̃dasjɔ̃	n.f.	创建；基金会	Il suit une année de fondation avant d'entrer en master.	他先读一年预科，然后才进入硕士阶段。		
+fortification	fɔʁtifikasjɔ̃	n.f.	防御工事；加固	Les fortifications de la ville datent du Moyen Âge.	这座城市的防御工事建于中世纪。		
+fortune	fɔʁtyn	n.f.	运气；财富	Il a eu la chance de trouver ce trésor par pure fortune.	他碰巧发现了这件宝物，纯属运气。		
+foule	ful	n.f.	人群	Une foule immense attendait devant la gare depuis le matin.	一大群人从早上起就在车站前等着。		
+fourgon-pompe	fuʁgɔ̃-pɔ̃p	n.m.	消防车	Le fourgon-pompe est parti immédiatement vers le front du feu avec quatre hommes.	消防车带着四名队员立刻赶往火线。		
+français	fʁɑ̃sɛ	adj.	法国的；法语的	Elle parle très bien français.	她法语说得很好。		
+fraude	fʁod	n.f.	欺诈；舞弊	Le fisc a découvert une fraude massive dans ce groupe immobilier.	税务部门在这个房地产集团查获大规模逃税行为。		
+frontière	fʁɔ̃tjɛʁ	n.f.	边境	La frontière n'était qu'un ruisseau, mais personne ne traversait sans y réfléchir à deux fois.	边境不过是一条小溪，可谁也不会不加思量就跨过去。		
+funérailles	fyneʁaj	n.f.	葬礼	Les funérailles ont réuni toute la famille dans le village.	葬礼把全家人聚到了村子里。		
+funeste	fynɛst	adj.	悲惨的	Cette décision a eu des conséquences funestes pour toute la vallée voisine.	这个决定给整个邻近山谷带来了悲惨的后果。		
+fusil	fyzi	n.m.	步枪	Le vieux fusil accroché au mur n'avait pas servi depuis des années.	挂在墙上的那支旧步枪已经多年没用过了。		
+fusilier	fyzilje	n.m.	步枪手；步兵	Un jeune fusilier garde l'entrée du bâtiment officiel toute la nuit.	一名年轻士兵整夜守着办公楼的入口。		
+fusiller	fyzije	v.	枪决	Le résistant a été fusillé par l'armée ennemie en 1944.	这名抵抗者于1944年被敌军枪决。		
+garde	gaʁd	n.f.	看守；守卫	Un garde surveille l'entrée du musée toute la nuit.	一名守卫整夜看守博物馆的入口。		
+gendarme	ʒɑ̃daʁm	n.m.	宪兵	Le gendarme nota la déclaration sans commentaire, puis demanda si elle souhaitait ajouter quelque chose.	宪兵不作评论地记下陈述，随后问她是否还想补充什么。		
+général	ʒeneʁal	adj.	总的；将军	En général, il rentre chez lui vers sept heures.	他一般七点左右回家。		
+génération	ʒeneʁasjɔ̃	n.f.	一代人	Chaque génération réinvente les mots dont elle se sert pour dire la même chose.	每一代人都重新发明自己用来表达同一件事的词。		
+gouvernement	guvɛʁnəmɑ̃	n.m.	政府	Le gouvernement a décidé de construire une nouvelle école.	政府决定建一所新学校。		
+grec	gʁɛk	adj.	希腊的；n.m. 希腊人	Mon voisin grec nous invite souvent à manger chez lui.	我的希腊邻居常请我们到他家吃饭。		
+grenade	gʁənad	n.f.	石榴；手榴弹	Elle ouvre une grenade et sépare les grains rouges un par un.	她掰开一个石榴，把红色的果粒一颗颗分开。		
+grève	gʁɛv	n.f.	罢工	Les conducteurs de train ont entamé une grève de trois jours.	火车司机开始了为期三天的罢工。		
+groupe	gʁup	n.m.	团体；组	Notre groupe de touristes est arrivé devant le musée.	我们的旅游团到了博物馆前面。		
+guerre	gɛʁ	n.f.	战争	La guerre fait beaucoup de mal aux enfants.	战争给孩子们带来很多苦难。		
+habitant	abitɑ̃	n.m.	居民；住户	Chaque habitant de l'immeuble reçoit une nouvelle clé.	楼里每个住户都收到一把新钥匙。		
+harangue	aʁɑ̃g	n.f.	演讲	Le maire a prononcé une longue harangue devant les habitants.	市长在居民面前发表了一通长篇演讲。		
+hebdomadaire	ɛbdomadɛʁ	adj.	每周的；n.m. 周刊	Ce magazine hebdomadaire consacre sa couverture au cinéma français.	这本周刊把封面留给了法国电影。		
+hérésie	eʁezi	n.f.	异端	L'Église médiévale condamnait toute opinion contraire comme une véritable hérésie.	中世纪的教会把一切相反观点都斥为真正的异端。		
+héros	eʁo	n.m.	英雄	Ce héros discret a sauvé trois enfants sans attendre la moindre récompense.	这位低调的英雄救了三个孩子，不求任何回报。		
+histoire	istwaʁ	n.f.	故事；历史	Ma grand-mère raconte une belle histoire aux enfants.	奶奶给孩子们讲了一个好听的故事。		
+historique	istoʁik	adj.	历史的	Ce roman historique décrit la vie des paysans au dix-huitième siècle.	这部历史小说描写了十八世纪农民的生活。		
+honneur	onœʁ	n.m.	荣誉	Il a refusé cet argent parce que son honneur comptait davantage.	他拒绝了那笔钱，因为在他看来荣誉更重要。		
+honorer	onoʁe	v.	尊敬；履行；如期支付	Il a honoré toutes ses factures avant de quitter l'appartement.	他在搬出公寓前付清了所有账单。		
+humain	ymɛ̃	adj.	人类的	Le corps humain est une machine très compliquée.	人体是一台非常复杂的机器。		
+hypogée	ipoʒe	n.m.	地下墓室	Ils ont visité un vieil hypogée sous la colline.	他们参观了山丘下的古老地下墓室。		
+hypothéquer	ipoteke	v.	抵押	Ils ont dû hypothéquer leur maison pour financer l'entreprise familiale.	他们不得不抵押房子来为家族企业融资。		
+identité	idɑ̃tite	n.f.	身份；同一性	Ce journal défend depuis toujours l'identité culturelle de sa région.	这份报纸一直捍卫本地区的文化认同。		
+immigrant	imigʁɑ̃	n.m.	移民；adj. 移入的	La population immigrante contribue largement à l'économie de ce pays.	移民人口对这个国家的经济贡献很大。		
+impérial	ɛ̃peʁjal	adj.	皇帝的	Le palais impérial domine toute la vieille ville.	皇宫俯瞰着整座老城。		
+impôt	ɛ̃po	n.m.	税	Le gouvernement promet de baisser l'impôt sur le revenu dès 2027.	政府承诺从2027年起下调所得税。		
+incantation	ɛ̃kɑ̃tasjɔ̃	n.f.	咒语	La vieille sorcière murmurait une incantation étrange devant le feu de bois.	老女巫在柴火前低声念着奇怪的咒语。		
+incendiaire	ɛ̃sɑ̃djɛʁ	adj.	纵火的；n. 纵火犯	La police recherche l'auteur de l'attaque incendiaire contre ce marché.	警方正在追查对这处市场实施纵火袭击的作案者。		
+inculper	ɛ̃kylpe	v.	控告	Le juge a décidé d'inculper deux responsables de l'entreprise.	法官决定控告该企业的两名负责人。		
+indemniser	ɛ̃dɛmnize	v.	赔偿	L'assurance va enfin indemniser l'entreprise pour la perte des marchandises.	保险公司终于要就货物损失赔偿这家企业了。		
+indice	ɛ̃dis	n.m.	指数	L'indice de confiance des consommateurs a légèrement remonté ce mois-ci.	消费者信心指数本月略有回升。		
+indien	ɛ̃djɛ̃	adj.	印度的；印第安的	Les requins de l'océan Indien sont célèbres pour leur taille.	印度洋的鲨鱼以体型巨大而闻名。		
+infanterie	ɛ̃fɑ̃təʁi	n.f.	步兵	Les soldats d'infanterie ont marché toute la nuit sous la pluie.	步兵们在雨中走了一整夜。		
+inflation	ɛ̃flasjɔ̃	n.f.	通货膨胀	L'inflation a atteint un niveau record dans toute la zone euro.	整个欧元区的通货膨胀率达到创纪录水平。		
+information	ɛ̃fɔʁmasjɔ̃	n.f.	信息	L'information sur le retard est affichée à l'entrée.	关于延误的信息贴在入口处。		
+inspecter	ɛ̃spɛkte	v.	检查；视察	Le technicien inspecte le moteur avant chaque départ de l'avion.	技师在每次飞机出发前检查发动机。		
+interdire	ɛ̃tɛʁdiʁ	v.	禁止	Le règlement interdit qu'on fume dans les couloirs de l'immeuble à toute heure.	楼规禁止任何时候在楼道里吸烟。		
+intérêt	ɛ̃teʁɛ	n.m.	兴趣；利益	Ce livre a éveillé son intérêt pour l'histoire de la région.	这本书激起了他对当地历史的兴趣。		
+international	ɛ̃tɛʁnasjonal	adj.	国际的	La zone internationale de l'aéroport ouvre à six heures.	机场的国际区六点开放。		
+intervenir	ɛ̃tɛʁvəniʁ	v.	干预；介入	Le maire a dû intervenir en personne pour apaiser la querelle qui opposait les deux voisins.	市长不得不亲自出面，平息两个邻居之间的争吵。		
+investir	ɛ̃vɛstiʁ	v.	投资	Les investisseurs étrangers hésitent à investir dans ce pays politiquement instable.	外国投资者不愿在这个政治不稳的国家投资。		
+investissement	ɛ̃vɛstisəmɑ̃	n.m.	投资	Cet investissement devrait être rentable dans cinq ou six ans.	这项投资应在五六年内收回成本。		
+irlandais	iʁlɑ̃dɛ	adj.	爱尔兰的	Son ami irlandais chante très bien après quelques verres.	他的爱尔兰朋友喝上几杯后唱得很好。		
+islamisme	islamizm	n.m.	伊斯兰教	La montée de l'islamisme politique inquiète les autorités de plusieurs pays.	政治伊斯兰主义的抬头令多国当局担忧。		
+italien	italjɛ̃	adj.	意大利的	Ce village italien, accroché à flanc de coteau, attire des voyageurs en quête de silence.	这座依山而建的意大利村庄，吸引着寻求宁静的旅人。		
+japon	ʒapɔ̃	n.m.	日本	Le Japon vieillit vite et manque de main-d'œuvre dans plusieurs secteurs.	日本老龄化迅速，多个行业都缺人手。		
+japonais	ʒaponɛ	adj.	日本的	Sa voisine japonaise prépare d'excellents petits gâteaux le dimanche.	他的日本邻居周日会做很棒的小点心。		
+journal	ʒuʁnal	n.m.	报纸；日记	Mon père lit le journal tous les matins à la cuisine.	我父亲每天早上在厨房看报纸。		
+journalisme	ʒuʁnalizm	n.m.	新闻界	Elle rêve de travailler dans le journalisme depuis son enfance.	她从小就梦想从事新闻工作。		
+journaliste	ʒuʁnalist	n.	记者	Une journaliste indépendante a enquêté sur ce sujet pendant six mois.	一位独立记者就这个话题调查了六个月。		
+judaïsme	ʒydaizm	n.m.	犹太教	Le judaïsme compte des communautés anciennes dans toute l'Europe centrale.	犹太教在中欧各地都有历史悠久的社群。		
+juge	ʒyʒ	n.m.	法官	Le juge a demandé le silence avant de lire la sentence préparée pendant la nuit.	法官要求大家安静，然后宣读夜里写好的判决。		
+jugement	ʒyʒəmɑ̃	n.m.	判断；判决	Le jugement de l'arbitre a provoqué la colère du public.	裁判的判罚引起了观众的不满。		
+juger	ʒyʒe	v.	判断；审判	Ne juge pas trop vite les gens que tu connais mal.	别太快评判你不太了解的人。		
+juif	ʒɥif	adj.	犹太的	Ce quartier juif, autrefois animé, garde le souvenir d'une communauté que le temps a presque entièrement effacée.	这个曾经热闹的犹太街区，保留着一个几乎被时间完全抹去的群体的记忆。		
+justice	ʒystis	n.f.	正义；司法	Elle réclamait justice depuis des années, sans que personne, autour d'elle, l'écoutât vraiment.	她多年来一直要求公道，身边却没有谁真正听她说话。		
+kidnapper	kidnape	v.	绑架	Des inconnus ont tenté de kidnapper le fils d'un homme d'affaires.	几名陌生人企图绑架一位企业家的儿子。		
+kippa	kipa	n.f.	犹太小圆帽	Il porte une petite kippa blanche pendant toute la cérémonie.	整场仪式上他都戴着一顶白色小圆帽。		
+langage	lɑ̃gaʒ	n.m.	语言；措辞	Le langage de ce poète, dépouillé jusqu'à l'os, déroute les lecteurs habitués aux images somptueuses.	这位诗人的语言简练到极点，让习惯了华丽意象的读者不知所措。		
+langue	lɑ̃g	n.f.	语言；舌头	Apprendre une nouvelle langue demande beaucoup de patience et de régularité.	学一门新语言需要很大的耐心和规律性。		
+législation	leʒislasjɔ̃	n.f.	立法	La nouvelle législation oblige les entreprises à publier leurs comptes.	新立法强制企业公开其账目。		
+législature	leʒislatyʁ	n.f.	立法机关	Cette législature a voté peu de lois malgré de longues discussions.	本届立法机关虽经长时间讨论，却只通过了很少的法律。		
+libération	libeʁasjɔ̃	n.f.	解放	La libération de la ville fut célébrée pendant trois jours, et personne ne travailla dans les bureaux.	城市解放庆祝了三天，各机关里没人办公。		
+libérer	libeʁe	v.	释放；解放	Les pompiers ont libéré le passager coincé dans la voiture après vingt minutes.	消防员花了二十分钟才把卡在车里的乘客救出来。		
+liberté	libɛʁte	n.f.	自由	Après des mois de travail, il goûtait enfin sa liberté.	工作了几个月后，他终于尝到了自由。		
+lieutenant	ljøtənɑ̃	n.m.	中尉	Le lieutenant a ordonné que personne ne quitte la position avant l'aube.	中尉下令天亮前谁都不许离开阵地。		
+linguistique	lɛ̃gɥistik	adj.	语言学的	Il fait des études linguistiques à l'université de Lyon.	他在里昂大学读语言学。		
+litanie	litani	n.f.	连祷；冗长列举	Il nous a récité une litanie de plaintes contre l'administration.	他向我们罗列了一长串对行政部门的抱怨。		
+loi	lwa	n.f.	法律	Cette nouvelle loi protège les enfants contre certaines publicités.	这条新法律保护儿童免受某些广告的侵害。		
+lutte	lyt	n.f.	斗争	La lutte contre l'incendie dura toute la nuit, et les pompiers ne purent sauver que la façade.	灭火持续了一整夜，消防员只保住了外墙。		
+lutter	lyte	v.	斗争；搏斗	Les habitants luttaient contre la montée des eaux, remplissant des sacs de sable toute la nuit.	居民们与上涨的河水搏斗，整夜装填沙袋。		
+magistrat	maʒistʁa	n.m.	法官；司法官	Ce magistrat travaille depuis vingt ans au parquet de Lyon.	这位地方法官在里昂检察院工作了二十年。		
+manifester	manifɛste	v.	表明；示威	Les étudiants ont manifesté toute la journée pour obtenir la révision d'une décision jugée inique.	学生们示威了一整天，要求重新审议一项被他们视为不公的决定。		
+maréchal	maʁeʃal	n.m.	元帅	Le maréchal, vieilli et presque sourd, recevait encore des visiteurs que sa gloire passée impressionnait.	那位元帅年老近乎失聪，仍接待着一些被他昔日荣光所震动的访客。		
+mariage	maʁjaʒ	n.m.	婚姻；婚礼	Leur mariage aura lieu au printemps, dans un petit village.	他们的婚礼将于春天在一个小村庄举行。		
+marier	maʁje	v.	使结婚	Le maire va marier ce jeune couple samedi prochain.	市长下周六要为这对年轻人主持婚礼。		
+marxisme	maʁksizm	n.m.	马克思主义	Le marxisme a inspiré de nombreux mouvements politiques du vingtième siècle.	马克思主义启发了二十世纪的许多政治运动。		
+mausolée	mozole	n.m.	墓	Ce mausolée de pierre blanche date du troisième siècle de notre ère.	这座白色石砌陵墓建于公元三世纪。		
+média	medja	n.m.	媒体	Les médias ont publié des informations contradictoires sur cette affaire.	媒体对这起案件发布了相互矛盾的消息。		
+mêlée	mele	n.f.	混战	Une mêlée s'est formée devant le but après le corner.	角球开出后，球门前一片混战。		
+membre	mɑ̃bʁ	n.m.	成员；肢体	Chaque membre du comité doit présenter brièvement son idée avant vendredi soir.	委员会每位成员都要在周五晚上前简要说明自己的想法。		
+menace	mənas	n.f.	威胁	La menace était claire, et pourtant il refusa de quitter la ville avant la fin du mois.	威胁很清楚，可他仍拒绝在月底前离开这座城市。		
+menacer	mənase	v.	威胁	La tempête menaçait de détruire les récoltes, et les paysans regardaient le ciel avec anxiété.	暴风雨眼看要毁掉庄稼，农民们焦虑地望着天空。		
+messe	mɛs	n.f.	弥撒	La messe du dimanche, chantée par une chorale d'enfants, attirait presque tout le village.	星期日的弥撒由一支儿童合唱队唱诵，几乎吸引了全村的人。		
+meurtre	mœʁtʁ	n.m.	谋杀	Le meurtre a eu lieu dans un parc très fréquenté du centre-ville.	这起谋杀发生在市中心一个很热闹的公园里。		
+meurtrier	mœʁtʁije	n.m.	凶手；adj. 致命的	Un incendie meurtrier a fait cinq victimes dans le massif forestier varois.	一场致命大火在瓦尔森林造成五人死亡。		
+mi-carême	mi-kaʁɛm	n.f.	四旬斋中期	Pendant la mi-carême, les gens se déguisent et dansent dans les rues.	狂欢节期间，人们化装打扮，在街上跳舞。		
+militaire	militɛʁ	adj.	军事的	La base militaire se trouve à quelques kilomètres du village.	军事基地离村子只有几公里。		
+mineur	minœʁ	adj.	未成年的；次要的	Elle est encore mineure et ne peut pas signer le bail.	她还未成年，不能签租约。		
+ministère	ministɛʁ	n.m.	部	Le ministère de la Justice a publié un rapport sur les prisons françaises.	司法部发布了一份关于法国监狱的报告。		
+ministre	ministʁ	n.m.	部长	Le ministre a promis de visiter la région sinistrée avant la fin du mois.	部长承诺月底前视察受灾地区。		
+misère	mizɛʁ	n.f.	贫困；苦难	La misère des faubourgs, qu'il avait connue enfant, ne l'avait jamais tout à fait quitté.	他童年经历过的郊区贫困，从未真正离开过他。		
+mitrailleuse	mitʁajøz	n.f.	机关枪	Une mitrailleuse lourde était installée au sommet de la colline.	一挺重机枪架在山丘顶上。		
+moine	mwan	n.m.	修士	Le moine copiait des manuscrits dans le silence du cloître, sans jamais lever les yeux.	修士在修道院的寂静中抄写手稿，从不抬头。		
+monde	mɔ̃d	n.m.	世界；人	Beaucoup de gens dans le monde parlent français.	世界上很多人说法语。		
+mondialisation	mɔ̃djalizasjɔ̃	n.f.	全球化	La mondialisation a accéléré les échanges mais creusé les inégalités sociales.	全球化加快了交流，却也加深了社会不平等。		
+monétaire	monetɛʁ	adj.	货币的	La crise monétaire a fait monter le prix des meubles importés.	货币危机让进口家具的价格上涨了。		
+mont-de-piété	mɔ̃-də-pjete	n.m.	当铺	Il a porté sa montre au mont-de-piété pour payer le loyer.	他把手表拿到当铺，好付房租。		
+monument	monymɑ̃	n.m.	纪念碑	Nous avons visité un vieux monument au centre-ville.	我们在市中心参观了一座古老的纪念碑。		
+moral	moʁal	adj.	道德的；精神的	Il lui a offert un soutien purement moral, faute de pouvoir l'aider d'une autre manière.	他只能给她精神上的支持，因为无法以别的方式帮她。		
+motif	motif	n.m.	动机；理由；图案	Les enquêteurs cherchent le motif exact de ce crime violent.	调查人员正在寻找这起暴力罪行的确切动机。		
+munitions	mynisjɔ̃	n.f.	弹药	Les soldats manquaient de munitions après trois jours de combats.	战斗三天后，士兵们缺乏弹药。		
+nation	nasjɔ̃	n.f.	民族；国家	Cette nation, divisée par des siècles de guerres, cherchait enfin une raison de se sentir une.	这个被数百年战争分裂的民族，终于寻找一个自觉团结的理由。		
+national	nasjonal	adj.	国家的	La fête nationale est célébrée partout dans le pays.	国庆节在全国各地都会庆祝。		
+nationalisation	nasjonalizasjɔ̃	n.f.	国有化	La nationalisation des chemins de fer a suscité un vif débat public.	铁路国有化引发了激烈的公共辩论。		
+nationaliser	nasjonalize	v.	使国有化	Le gouvernement a décidé de nationaliser plusieurs banques en difficulté.	政府决定将几家陷入困境的银行国有化。		
+nationalité	nasjonalite	n.f.	国籍	Elle a demandé la nationalité française après dix ans ici.	她在这里住了十年后申请了法国国籍。		
+nef	nɛf	n.f.	教堂中殿	La nef de la cathédrale peut accueillir plus de mille fidèles.	大教堂的中殿可以容纳一千多名信徒。		
+noble	nɔbl	adj.	贵族	Sa famille noble possède encore un château près de la Loire.	他的贵族家族在卢瓦尔河附近还有一座城堡。		
+noël	noɛl	n.m.	圣诞节	Chaque année, nous passons Noël chez mes grands-parents, à la campagne.	每年我们都在乡下的祖父母家过圣诞节。		
+nouvelles	nuvɛl	n.f.	消息	Les nouvelles du front arrivent avec plusieurs jours de retard.	前线的消息要晚好几天才传到。		
+obligation	obligasjɔ̃	n.f.	义务；债券	Son mari préfère les obligations aux actions depuis deux ans.	她丈夫两年来更偏爱债券而不是股票。		
+obligatoire	obligatwaʁ	adj.	义务的；强制的	Ce cours est obligatoire, même pour les étudiants de troisième année.	这门课是必修的，连三年级学生也要上。		
+officiel	ofisjɛl	adj.	官方的	Le communiqué officiel, publié tard dans la soirée, démentait les rumeurs qui circulaient depuis midi.	深夜发布的官方公报否认了中午以来流传的谣言。		
+officier	ofisje	n.m.	军官	Un officier est venu nous demander nos papiers à la sortie du village.	出村时，一名军官来查我们的证件。		
+ogive	oʒiv	n.f.	弹头	Les experts examinent une vieille ogive retrouvée par des pêcheurs au large.	专家们正在检查渔民在近海打捞出的一枚旧弹头。		
+opinion	opinjɔ̃	n.f.	意见	L'opinion publique, longtemps indifférente, se retourna brusquement contre lui après la publication du rapport.	长期漠不关心的舆论在报告公布后突然转而攻击他。		
+ordonnance	ɔʁdonɑ̃s	n.	法令；处方	Cette ordonnance permet au préfet de fermer les lieux publics dangereux.	这项法令允许省长关闭危险的公共场所。		
+otage	otaʒ	n.m.	人质	Les ravisseurs ont libéré l'otage après trois jours de négociations difficiles avec la police.	绑匪在与警方艰难谈判三天后释放了人质。		
+pacifique	pasifik	adj.	和平的；太平的	Le Pacifique est l'océan le plus vaste de notre planète.	太平洋是我们星球上最大的大洋。		
+paix	pɛ	n.f.	和平	Après tant d'années de guerre, le pays veut la paix.	经过这么多年战争，这个国家想要和平。		
+palais	palɛ	n.m.	宫殿；腭	Le palais avait été construit au bord du fleuve, face à la vieille ville.	这座宫殿建在河边，正对着老城。		
+pâques	pak	n.m.	复活节	À Pâques, les enfants cherchent des œufs en chocolat dans le jardin.	复活节时孩子们在花园里找巧克力蛋。		
+paquetage	pakətaʒ	n.m.	行装；装备；背包	Son paquetage était trop lourd pour monter dans le train.	他的背包太重了，上不了火车。		
+pare-balles	paʁbal	adj.	防弹的；防弹背心	Les agents portent un gilet pare-balles lors des interventions risquées.	警员在危险行动中穿着防弹衣。		
+parjure	paʁʒyʁ	n.m.	伪证罪	Le témoin risque une peine pour parjure s'il ment devant le tribunal.	证人若在法庭上撒谎，将面临伪证罪的刑罚。		
+parlement	paʁləmɑ̃	n.m.	国会	Le Parlement européen examine une nouvelle directive sur la protection des données.	欧洲议会正在审议一项关于数据保护的新指令。		
+pasteur	pastœʁ	n.m.	牧师	Le pasteur a prononcé un discours très émouvant dimanche.	牧师星期天发表了一段非常感人的讲话。		
+patronage	patʁonaʒ	n.m.	赞助；庇护	Ce jeune homme a trouvé un emploi grâce au patronage d'un ancien ministre.	这个年轻人靠一位前部长的庇护找到了工作。		
+pauvre	povʁ	adj.	贫穷的；可怜的	Cette pauvre femme cherche son chien depuis ce matin.	这个可怜的女人从早上就在找她的狗。		
+pays	pei	n.m.	国家；地区	Ce pays attire beaucoup de touristes pendant l'été.	这个国家夏天吸引很多游客。		
+paysannerie	peizanəʁi	n.f.	农民	La paysannerie de cette région travaille surtout la vigne.	这个地区的农民主要种葡萄。		
+péché	peʃe	n.m.	罪；罪孽	Ce roman parle du péché et du pardon dans un petit village.	这部小说讲的是一个小村庄里的罪与宽恕。		
+pécher	peʃe	v.	犯罪	Dans ce roman, le héros pense avoir péché en trahissant son ami.	在这部小说里，主人公认为自己背叛朋友是有罪的。		
+pénalement	penaləmɑ̃	adv.	刑罚上	Pénalement, l'entreprise est responsable des actes de ses salariés.	在刑罚上，企业对其员工的行为负有责任。		
+pénaliser	penalize	v.	处罚	Le professeur pénalise sévèrement les copies rendues après l'heure limite.	老师对超时交的试卷扣分很重。		
+pendaison	pɑ̃dɛzɔ̃	n.f.	绞刑；悬挂	La pendaison des guirlandes a occupé les enfants tout l'après-midi.	挂彩带这件事让孩子们忙了一下午。		
+percepteur	pɛʁsɛptœʁ	n.m.	税务员	Le percepteur a envoyé un avis de paiement au contribuable.	税务员向纳税人寄去了缴款通知。		
+périodique	peʁjodik	n.m.	期刊	Cette revue périodique arrive chez nous au début de chaque mois.	这份期刊每月初送到我们家。		
+peuple	pøpl	n.m.	人民；民族	Le peuple de ce pays réclame plus de liberté depuis des années.	这个国家的人民多年来一直要求更多自由。		
+peuplement	pøpləmɑ̃	n.m.	人口；定居；种群	Le peuplement de cette forêt a beaucoup changé après les incendies répétés.	屡次火灾之后，这片森林的种群构成变化很大。		
+pillage	pijaʒ	n.m.	抢掠	Le pillage des magasins a commencé dès la première nuit du désastre.	灾难发生的第一夜，商店就遭到了抢掠。		
+piller	pije	v.	掠夺	Les soldats ont pillé le village avant de repartir vers le nord.	士兵们洗劫了村庄，然后向北撤离。		
+pirate	piʁat	n.m.	海盗；黑客	Un pirate a volé les données de plusieurs milliers de clients.	一名黑客窃取了数千名客户的数据。		
+pistolet	pistolɛ	n.m.	手枪	L'homme portait un pistolet caché sous sa veste noire.	这名男子在黑色外套下藏着一把手枪。		
+placement	plasəmɑ̃	n.m.	安置；投资	Ce placement rapporte peu, mais il reste très sûr.	这项投资收益不高，但非常稳妥。		
+plébéien	plebejɛ̃	n.m.	平民	Son accent plébéien choque certains invités un peu snobs.	他平民腔的口音让几个有点势利的客人不适。		
+plus-value	plyvaly	n.f.	增值	La plus-value réalisée lors de cette vente immobilière sera lourdement imposée.	这次房产交易获得的增值将被课以重税。		
+poignard	pwaɲaʁ	n.m.	匕首	Il portait un vieux poignard caché sous sa veste de cuir.	他皮衣下面藏着一把旧匕首。		
+police	polis	n.f.	警察	La police cherche encore l'homme qui a pris le sac.	警方还在找那个拿走包的男人。		
+policier	polisje	n.m.	警察；侦探	Mon frère lit un roman policier avant de s'endormir chaque nuit.	我弟弟每晚睡前都读一本侦探小说。		
+politique	politik	adj.	政治的	La situation politique du pays inquiète les investisseurs étrangers depuis plusieurs mois.	该国政治局势几个月来一直让外国投资者忧心。		
+pompier	pɔ̃pje	n.m.	消防员	Les pompiers ont lutté toute la nuit contre les flammes du maquis.	消防员整夜与灌木丛的大火搏斗。		
+populaire	popylɛʁ	adj.	大众的；流行的	Ces baskets blanches sont très populaires chez les jeunes filles.	这款白球鞋在年轻女孩中很流行。		
+population	popylasjɔ̃	n.f.	人口	La population de ce bourg a doublé en dix ans, au grand dam des anciens habitants.	这个小镇的人口十年间翻了一倍，令老居民十分不满。		
+populeux	popylø	adj.	人口稠密的	Ce quartier populeux devient très bruyant le week-end.	这个人口稠密的街区周末变得很吵。		
+porte-parole	pɔʁt-paʁɔl	n.m.	发言人	Le porte-parole du gouvernement a confirmé la nouvelle.	政府发言人证实了这一消息。		
+portefeuille	pɔʁtəfœj	n.m.	钱包；证券组合	Mon banquier gère un portefeuille diversifié pour toute la famille.	我的银行家为全家管理一个多元化的证券组合。		
+pot-de-vin	podəvɛ̃	n.m.	贿赂款；回扣	Il a refusé le pot-de-vin et a prévenu son directeur.	他拒收了那个红包，并报告了经理。		
+poursuite	puʁsɥit	n.f.	起诉	Le parquet a annoncé la poursuite de l'ancien ministre pour fraude.	检察院宣布以欺诈罪起诉前部长。		
+préfecture	pʁefɛktyʁ	n.f.	省政府；专区	La préfecture se trouve au centre de la ville.	州政府位于市中心。		
+préfet	pʁefɛ	n.m.	省长；行政长官	Le préfet a décidé de fermer plusieurs écoles jugées dangereuses pour les élèves.	州长决定关闭几所被认为对学生有危险的学校。		
+prélèvement	pʁelɛvəmɑ̃	n.m.	抽取	Le prélèvement de sang se fait le matin à jeun.	抽血要在早上空腹时进行。		
+premier-maître	pʁømjemɛtʁ	n.m.	大副	Le premier-maître surveille les jeunes marins sur le pont.	大副在甲板上看管年轻的水手。		
+présentateur	pʁezɑ̃tatœʁ	n.m.	主持人	Le présentateur a introduit chaque intervenant avant de lancer le débat.	主持人在开始讨论前介绍了每位发言者。		
+président	pʁezidɑ̃	n.m.	总统；主席	Le président a prononcé un discours très court hier soir.	总统昨晚发表了一个很简短的讲话。		
+présidentiel	pʁezidɑ̃sjɛl	adj.	总统的	La campagne présidentielle a dominé les débats pendant plusieurs mois.	总统竞选主导了几个月的公共讨论。		
+présidium	pʁezidjɔm	n.m.	主席团	Le présidium du parti s'est réuni pour préparer le prochain congrès.	党主席团开会筹备下届代表大会。		
+presse	pʁɛs	n.f.	报刊；新闻界	La presse autour du kiosque devient très dense le matin.	早上书报亭周围的人群变得很拥挤。		
+prestige	pʁɛstiʒ	n.m.	信誉	Ce magazine a perdu son prestige après plusieurs erreurs graves.	这本杂志在几次严重错误后失去了信誉。		
+preuve	pʁœv	n.f.	证据	La police cherche encore une preuve de sa présence.	警方仍在寻找他在场的证据。		
+prier	pʁije	v.	请求；祈祷	Je vous prie de fermer la porte en sortant.	请您出去时把门关上。		
+prince	pʁɛ̃s	n.m.	王子	Le prince a traversé le village à cheval, sans un mot.	王子骑马穿过村子，一言不发。		
+prison	pʁizɔ̃	n.f.	监狱	Il a passé trois ans en prison pour un vol.	他因盗窃坐了三年牢。		
+prisonnier	pʁizonje	n.m.	囚犯	Le prisonnier a refusé de répondre aux questions du juge.	这名犯人拒绝回答法官的提问。		
+privatisation	pʁivatizasjɔ̃	n.f.	私有化	La privatisation des autoroutes a rapporté des milliards à l'État.	高速公路私有化为国家带来了数十亿收入。		
+privé	pʁive	adj.	私人的	Il travaille dans un cabinet privé du centre-ville.	他在市中心一家私人诊所工作。		
+privilégié	pʁivileʒje	adj.	享有特权的	Les personnes âgées ont un accès privilégié au bus.	老年人乘公交享优先权。		
+procédure	pʁosedyʁ	n.f.	手续	La procédure pour obtenir un visa prend plusieurs semaines.	办签证的手续要花好几周。		
+procès	pʁosɛ	n.m.	诉讼	Le procès de l'ancien maire commence lundi au tribunal de Paris.	前市长的诉讼将于周一在巴黎法院开庭。		
+prolétariat	pʁoletaʁja	n.m.	无产阶级	Le prolétariat urbain vivait dans des conditions très difficiles au dix-neuvième siècle.	十九世纪城市无产阶级的生活条件极为艰难。		
+propagande	pʁopagɑ̃d	n.f.	宣传	Cette campagne ressemble plus à de la propagande qu'à de l'information.	这场宣传活动更像是宣传鼓动，而非信息发布。		
+propriété	pʁopʁijete	n.f.	财产	La propriété privée est strictement protégée par la loi française.	私有财产受法国法律的严格保护。		
+prospère	pʁɔspɛʁ	adj.	繁荣的	Ce commerçant prospère habite une belle maison près du parc.	这位生意兴隆的商人住在公园附近的漂亮房子里。		
+protester	pʁotɛste	v.	抗议	Les habitants ont protesté contre la fermeture de l'école, jugeant la décision à la fois brutale et injustifiée.	居民们抗议关闭学校，认为这一决定既粗暴又没有道理。		
+province	pʁovɛ̃s	n.f.	省份	Sa famille vit en province depuis plus de trois générations.	他家在外省已经住了三代以上。		
+public	pyblik	adj.	公共的	Ce jardin public reste fermé toute la nuit pour éviter les dégradations.	这个公共花园整夜关闭，以防遭到破坏。		
+publication	pyblikasjɔ̃	n.f.	出版	La publication de son premier livre a changé toute sa vie.	第一本书的出版改变了他的整个生活。		
+publicité	pyblisite	n.f.	广告	Cette entreprise a lancé une grande campagne de publicité pour recruter des jeunes.	这家企业发起了一场大规模招聘广告活动。		
+publier	pyblije	v.	发表；出版	Il a publié ses premiers poèmes à vingt ans, dans une revue que personne ne lit plus.	他二十岁就发表最初的诗作，登在一份如今无人再读的杂志上。		
+punissable	pynisabl	adj.	该罚的	Ce délit grave est punissable de trois ans d'emprisonnement ferme.	这项严重罪行可判处三年实刑。		
+race	ʁas	n.f.	种族；品种	Ce chien appartient à une race ancienne, dont les origines se perdent dans la nuit des temps.	这条狗属于一个古老品种，其起源湮没在遥远的年代里。		
+rachat	ʁaʃa	n.m.	赎回；回购	Le rachat des péchés suppose un véritable repentir du croyant.	罪的救赎以信徒真心悔改为前提。		
+radio	ʁadjo	n.f.	收音机；广播	La radio annonçait une tempête alors que le ciel restait parfaitement bleu.	收音机里预报有暴风雨，可天空却一片湛蓝。		
+radiodiffuser	ʁadjodifyze	v.	广播；播送	Le match sera radiodiffusé cet après-midi sur cette station.	这场比赛今天下午将在本台广播。		
+rebelle	ʁəbɛl	adj.	反叛的	Les groupes rebelles contrôlent une partie du nord du pays.	反叛武装控制着该国北部的一部分地区。		
+récession	ʁesesjɔ̃	n.f.	萧条	Le pays est entré en récession après deux années de croissance faible.	在两年增长乏力之后，这个国家陷入了萧条。		
+référendum	ʁefeʁɛ̃dɔm	n.m.	全民公投	Le gouvernement a organisé un référendum sur la réforme constitutionnelle.	政府就宪法改革组织了公民投票。		
+reformation	ʁəfɔʁmasjɔ̃	n.f.	改革	La reformation du code du travail a provoqué de longues grèves.	劳动法典的重新修订引发了长期罢工。		
+réformer	ʁefɔʁme	v.	改革；改造	Le nouveau ministre veut reformer le système de santé publique.	新部长想改革公共医疗体系。		
+refouler	ʁəfule	v.	击退	Les défenseurs ont refoulé l'ennemi loin des remparts de la ville.	守军把敌人击退到离城墙很远的地方。		
+régime	ʁeʒim	n.m.	饮食制度；政体	Son régime alimentaire, très strict, excluait tout ce qu'il aimait, ce qui le rendait maussade.	他的饮食制度极严，排除了他爱吃的所有东西，这让他闷闷不乐。		
+régiment	ʁeʒimɑ̃	n.m.	团	Ce régiment est stationné près de la frontière depuis six mois.	这个团在边境附近驻扎了六个月。		
+région	ʁeʒjɔ̃	n.f.	行政区	Notre région produit beaucoup de vin et de fromage.	我们这一地区出产大量葡萄酒和奶酪。		
+régner	ʁeɲe	v.	统治；盛行	Un calme étrange régnait dans la maison, comme si chacun retenait son souffle en attendant.	屋里笼罩着一种奇怪的平静，仿佛人人都在屏息等待。		
+reine	ʁɛn	n.f.	后	La reine est la pièce la plus puissante du jeu.	后是棋局中最厉害的棋子。		
+religion	ʁəliʒjɔ̃	n.f.	宗教	La religion de ses ancêtres lui demeurait étrangère, bien qu'il en respectât les rites.	他祖先的宗教对他来说始终陌生，尽管他尊重其仪式。		
+représenter	ʁəpʁezɑ̃te	v.	代表；表现	Ce tableau représente une femme assise au bord d'une rivière.	这幅画表现的是一位坐在河边的女子。		
+réputation	ʁepytasjɔ̃	n.f.	荣誉	Ce lycée a bonne réputation, surtout pour ses classes de sciences.	这所高中名声很好，尤其是理科班。		
+requête	ʁəkɛt	n.f.	诉状	L'avocat a déposé une requête auprès du tribunal administratif.	律师向行政法院提交了一份诉状。		
+réserve	ʁezɛʁv	n.f.	储备；保留；储备金	La banque centrale a relevé le taux de réserve obligatoire.	中央银行提高了法定存款准备金率。		
+restitution	ʁɛstitysjɔ̃	n.f.	归还；恢复	La restitution de l'appartement a pris plusieurs mois.	公寓的重建花了几个月。		
+révolution	ʁevolysjɔ̃	n.f.	革命	La révolution industrielle transforma en quelques décennies des paysages que des siècles avaient laissés intacts.	工业革命在几十年间改变了数百年未受触动的景貌。		
+revolver	ʁevɔlvɛʁ	n.m.	左轮	On a retrouvé un revolver dans le tiroir de la chambre.	人们在房间的抽屉里找到了一把左轮手枪。		
+rite	ʁit	n.m.	礼仪	Mettre la table est un rite familial chez nous.	摆餐桌在我们家是一种家庭礼仪。		
+roi	ʁwa	n.m.	国王	Dans ce vieux livre, le roi habite un grand château.	在这本旧书里，国王住在一座大城堡里。		
+royauté	ʁwajote	n.f.	王权	La royauté française a été abolie pendant la Révolution de 1789.	法国王权在1789年大革命期间被废除。		
+rubrique	ʁybʁik	n.f.	专栏	Elle tient une rubrique sur la musique dans ce journal.	她在这份报纸上主持一个音乐专栏。		
+ruine	ʁɥin	n.f.	废墟；毁灭	Les ruines de l'abbaye dominent encore la vallée, malgré les siècles et les intempéries.	尽管历经数百年风雨，修道院的废墟仍俯瞰着山谷。		
+rumeur	ʁymœʁ	n.f.	传言	La rumeur selon laquelle il aurait démissionné s'est répandue en quelques heures dans la ville.	关于他已辞职的传言几小时内就传遍了全城。		
+rupin	ʁypɛ̃	adj.	富有的	Ce quartier rupin attire les nouveaux riches de la capitale.	这个富人区吸引着首都的新贵。		
+russe	ʁys	adj.	俄罗斯的；俄罗斯人	Son mari russe lit des romans français tous les soirs.	他俄罗斯籍的丈夫每天晚上读法国小说。		
+saccager	sakaʒe	v.	洗劫；破坏	Des groupes violents ont saccagé plusieurs boutiques du quartier pendant la nuit.	一些暴力团伙夜间砸抢了街区的几家店铺。		
+sacré	sakʁe	adj.	神圣的	Pour lui, le dimanche était un jour sacré qu'aucun travail ne devait troubler.	对他而言，星期天是神圣的日子，任何工作都不该打扰。		
+saint	sɛ̃	adj.	神圣的；圣	Le saint homme vivait à l'écart du village, et l'on venait le consulter de fort loin.	那位圣者住在村子边上，人们从很远的地方来求教于他。		
+satanique	satanik	adj.	邪恶的	Son sourire satanique fait vraiment peur aux petits enfants.	他邪恶的笑容真把小孩子吓着了。		
+sauvetage	sovətaʒ	n.m.	救援	Les équipes de sauvetage ont travaillé toute la nuit sous la pluie.	救援队冒雨工作了一整夜。		
+sauveteur	sovətœʁ	n.m.	救援人员	Les sauveteurs ont retrouvé l'enfant sain et sauf près de la rivière.	救援人员在河边找到了安然无恙的孩子。		
+scabreux	skabʁø	adj.	粗俗的；棘手的	Il évite les plaisanteries scabreuses qui mettent ses amis mal à l'aise.	他避免讲那些让朋友尴尬的粗俗笑话。		
+scandale	skɑ̃dal	n.m.	丑闻	Ce scandale politique a rempli les pages des journaux pendant des semaines.	这桩政治丑闻占据报纸版面好几个星期。		
+scientologie	sjɑ̃toloʒi	n.f.	科学论派	La scientologie reste un mouvement très controversé dans plusieurs pays européens aujourd'hui.	科学论派如今在多个欧洲国家仍是一个备受争议的运动。		
+sécessionniste	sesesjɔnist	adj.	分裂主义的；分裂分子	Les mouvements sécessionnistes de la région réclament l'indépendance depuis la fin de la guerre.	该地区的分裂主义运动自战争结束以来一直要求独立。		
+secours	səkuʁ	n.m.	救援	Les secours sont arrivés trop tard pour sauver le blessé, ce qui a bouleversé toute l'équipe.	救援人员来得太晚，没能救下伤者，整个团队都因此深受震动。		
+sécurité	sekyʁite	n.f.	安全	La sécurité des passagers exige que ces contrôles soient faits chaque jour.	乘客的安全要求这些检查每天都要做。		
+seigneur	sɛɲœʁ	n.m.	领主；老爷	Le seigneur du village possédait autrefois toutes les terres voisines.	村里的领主从前拥有周围所有的土地。		
+sénat	sena	n.m.	参议院	Le Sénat a rejeté le projet de loi adopté par les députés.	参议院否决了众议员通过的这项法案。		
+sénateur	senatœʁ	n.m.	参议员	Ce sénateur défend depuis des années les droits des travailleurs les plus modestes.	这位参议员多年来一直为最普通劳动者的权利发声。		
+serment	sɛʁmɑ̃	n.m.	誓言	Les deux amis ont fait un serment d'amitié éternelle.	两个朋友立下了友谊长存的誓言。		
+siècle	sjɛkl	n.m.	世纪	Ce vieux château a été construit au dix-septième siècle, dit-on.	据说这座古堡建于十七世纪。		
+sirène	siʁɛn	n.f.	警报器	La sirène d'alerte a retenti dans toute la vallée vers midi.	中午时分，警报声在整个山谷响起。		
+slogan	slogɑ̃	n.m.	口号	Les jeunes manifestants scandaient un slogan hostile au gouvernement dans la rue.	年轻的示威者在街上高喊敌视政府的口号。		
+social	sosjal	adj.	社会的	Le gouvernement promet un plan social pour aider les quartiers les plus pauvres.	政府承诺出台一项社会计划，帮助最贫困的街区。		
+société	sosjete	n.f.	社会；公司	Dans cette société, les jeunes ont du mal à trouver un logement.	在这个社会里，年轻人很难找到住处。		
+sociologie	sosjoloʒi	n.f.	社会学	La sociologie l'intéresse bien plus que l'économie depuis cette année.	从今年起，社会学比经济学更让他感兴趣。		
+soldat	sɔlda	n.m.	士兵	Le jeune soldat écrit une longue lettre à sa mère.	年轻的士兵给母亲写了一封长信。		
+solde	sɔld	n.	银行存款余额	Je vérifie le solde de mon compte chaque fin de mois.	我每个月底都会查一下账户余额。		
+somme	sɔm	n.f.	金额；总量	La somme qu'il doit rembourser dépasse largement ce qu'il gagne chaque mois.	他要还的钱远远超过他每月的收入。		
+sorcier	sɔʁsje	n.m.	巫师；adj. 有魔力的	La vieille sorcière du village préparait des potions dans sa cave.	村里的老女巫在地窖里熬制各种魔药。		
+sous-développé	su devlɔpe	adj.	欠发达的	Ce pays a longtemps été considéré comme sous-développé.	这个国家长期被视为欠发达国家。		
+souteneur	sutənœʁ	n.m.	拉皮条者；皮条客	Cet ancien souteneur a été condamné pour exploitation de plusieurs jeunes femmes.	这个昔日的皮条客因剥削多名年轻女子被判刑。		
+souveraineté	suvəʁɛnəte	n.f.	主权	Le pays défend sa souveraineté face aux pressions des grandes puissances.	面对大国施压，这个国家捍卫自己的主权。		
+stagnant	stagnɑ̃	adj.	停滞的；萧条的	L'économie stagnante inquiète beaucoup les petits commerçants du quartier.	停滞的经济让街区的小商贩很不安。		
+stipuler	stipyle	v.	规定	Le contrat stipule que le paiement doit être fait en dollars.	合同规定付款须以美元进行。		
+subrogation	sybʁogasjɔ̃	n.f.	代理	La subrogation permet à l'assureur de réclamer les sommes versées.	代位求偿使承保人能够追回已支付的款项。		
+subside	sypzid	n.m.	津贴	La région accorde un subside aux entreprises qui embauchent des jeunes.	大区向雇用年轻人的企业发放津贴。		
+subvention	sybvɑ̃sjɔ̃	n.f.	津贴	L'association a obtenu une subvention pour former ses bénévoles.	协会获得了一笔津贴用于培训志愿者。		
+Suède	sɥɛd	n.f.	瑞典	La Suède applique une politique sociale très généreuse envers les familles.	瑞典对家庭实行非常慷慨的社会政策。		
+suisse	sɥis	adj.	瑞士的；n. 瑞士人	Un médecin suisse a ouvert une petite clinique ici.	一位瑞士医生在这里开了一家小诊所。		
+sujétion	syʒesjɔ̃	n.f.	从属；束缚	Travailler chaque dimanche est une vraie sujétion pour les employés.	每个星期天都上班对员工来说确实很不方便。		
+superstitieux	sypɛʁstisjø	adj.	迷信的	Ma grand-mère est très superstitieuse et ne sort jamais un vendredi treize.	我奶奶非常迷信，十三号星期五从不出门。		
+superstition	sypɛʁstisjɔ̃	n.f.	迷信	Il ne croit pas aux superstitions mais évite de passer sous une échelle.	他不信迷信，却还是会避开从梯子下走过。		
+supplice	syplis	n.m.	剧痛	Chaque pas dans l'escalier lui cause un véritable supplice.	每爬一级楼梯都让他剧痛难忍。		
+sûreté	syʁəte	n.f.	安全	La sûreté de l'aéroport vérifie tous les sacs à main.	机场的安全部门检查所有手提包。		
+sursis	syʁsi	n.m.	缓刑	Le jeune homme a été condamné à six mois avec sursis.	这名年轻人被判处六个月缓刑。		
+survivance	syʁvivɑ̃s	n.f.	残余	La survivance de certaines traditions anciennes étonne encore les jeunes chercheurs européens.	某些古老传统的留存仍让年轻的欧洲研究者感到惊讶。		
+suspect	syspɛ	adj.	可疑的	Une odeur suspecte s'échappait du local technique depuis plusieurs heures déjà.	一股可疑的气味已经从设备间飘出好几个小时。		
+tank	tɑ̃k	n.m.	坦克	Un tank est stationné devant l'entrée du bâtiment officiel.	一辆坦克停在官方大楼的入口前。		
+taoïsme	taoizm	n.m.	道教	Le taoïsme propose une vision très particulière de l'équilibre humain.	道教对人类平衡提出了非常独特的看法。		
+taxe	taks	n.f.	税	Cette taxe s'ajoute au prix du billet d'avion.	这笔税加在机票价格上。		
+témoin	temwɛ̃	n.m.	证人；迹象	Le seul témoin de l'accident refuse toujours de parler à la police.	事故唯一的目击者始终拒绝向警方开口。		
+temple	tɑ̃pl	n.m.	庙宇	Ce vieux temple bouddhiste attire chaque année des milliers de visiteurs étrangers.	这座古老的佛寺每年吸引成千上万名外国游客。		
+terrorisme	tɛʁoʁizm	n.m.	恐怖主义	Les spécialistes étudient le lien entre la pauvreté et le terrorisme dans cette région.	专家们正在研究该地区贫困与恐怖主义之间的联系。		
+terroriste	tɛʁoʁist	n.m.	恐怖分子；adj. 恐怖的	La police a démantelé une cellule terroriste qui préparait un attentat en Europe.	警方捣毁了一个准备在欧洲发动袭击的恐怖分子小组。		
+tombe	tɔ̃b	n.f.	墓	Une tombe ancienne a été découverte derrière le vieux mur.	一座古墓在老墙后面被发现了。		
+torpille	tɔʁpij	n.f.	鱼雷	Une torpille a touché le navire avant qu'il ne coule.	一枚鱼雷击中了那艘船，随后它便沉没了。		
+tradition	tʁadisjɔ̃	n.f.	传统	La tradition veut que l'on offre du pain et du sel aux nouveaux arrivants du village.	按照传统，人们要向村里新来的人送上面包和盐。		
+traditionnel	tʁadisjonɛl	adj.	传统的	Pour le nouvel an, ma mère prépare un repas traditionnel.	过年时妈妈会做一顿传统饭菜。		
+tranchée	tʁɑ̃ʃe	n.f.	战壕；沟	La tranchée, creusée à la hâte, retenait l'eau de pluie et empêchait tout passage.	匆忙挖成的沟积着雨水，任何通行都被挡住了。		
+transgresser	tʁɑ̃sgʁese	v.	违反	Ce joueur a transgressé les règles en retirant son maillot.	这名球员脱下球衣，违反了规则。		
+tribunal	tʁibynal	n.m.	法院	Le tribunal doit rendre son jugement avant la fin du mois.	法院必须在本月底之前作出判决。		
+troupe	tʁup	n.f.	队伍；部队	Une troupe de comédiens est arrivée au village hier.	一个剧团昨天来到了村里。		
+tueur	tɥœʁ	n.m.	杀手	Le tueur présumé a été arrêté hier soir à la frontière.	这名凶杀嫌疑人昨晚在边境被捕。		
+TVA	tevea	n.f.	增值税	Le prix inclut la TVA.	价格含增值税。		
+unir	yniʁ	v.	联合	Ce pont, construit au siècle dernier, devait unir deux villages que la rivière séparait.	这座建于上世纪的桥本应连接被河流分开的两个村庄。		
+urbanisation	yʁbanizasjɔ̃	n.f.	城市化	L'urbanisation rapide de la région a détruit de nombreuses terres agricoles.	该地区快速的城市化毁掉了大量农田。		
+valorisation	valoʁizasjɔ̃	n.f.	增值	La valorisation de ces objets a surpris tous les collectionneurs de la ville.	这些物品的增值让城里所有收藏家都感到惊讶。		
+versement	vɛʁsəmɑ̃	n.m.	分期付款	Le versement mensuel sera fait par carte bancaire.	每月的分期付款将用银行卡支付。		
+verser	vɛʁse	v.	支付	Nous versons chaque mois une somme fixe pour le loyer.	我们每月支付一笔固定的房租。		
+veto	veto	n.m.	否决权	Un seul membre permanent peut bloquer une résolution avec son veto.	一个常任理事国就能用否决权阻止一项决议。		
+victime	viktim	n.f.	受害者	Les victimes de l'incendie ont été recueillies par les voisins du quartier.	火灾的受害者被街坊邻居收留了。		
+violence	vjolɑ̃s	n.f.	暴力	La violence du vent était telle que les volets claquaient contre les murs toute la nuit.	风势太猛，百叶窗整夜拍打着墙壁。		
+violer	vjole	v.	违反	En livrant si tard, vous violez clairement les termes du contrat.	这么晚才交货，你们明显违反了合同条款。		
+virer	viʁe	v.	转账；赶走	Il a viré la somme convenue sur le compte de son frère.	他把说好的钱转到了弟弟的账户上。		
+vol	vɔl	n.m.	飞行；盗窃	Le vol a été signalé au commissariat quelques minutes après les faits.	案发几分钟后，盗窃案就报到了警局。		
+voleur	volœʁ	n.m.	小偷	Le voleur a profité de la panne d'électricité pour entrer dans l'immeuble.	小偷趁停电溜进了大楼。		
+votant	votɑ̃	n.m.	投票者	Le nombre de votants a baissé lors de ce second tour.	第二轮投票的投票人数有所下降。		
+yankee	jɑ̃ki	n.	美国人	Un touriste yankee demande son chemin devant la boulangerie.	一个美国游客在面包店门口问路。		

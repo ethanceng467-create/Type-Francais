@@ -1,270 +1,562 @@
 word	ipa	pos	cn	sentence	sentence_cn	phrase	phrase_cn
-corpulence	kɔʁpylɑ̃s	n.f.	肥胖	Sa forte corpulence l'empêche de monter facilement les escaliers.	他过于肥胖，上楼很吃力。		
-stature	statyʁ	n.f.	身材	Il a la stature d'un ancien joueur de basket.	他有着昔日篮球运动员的身材。		
-mince	mɛ̃s	adj.	苗条的	Sa sœur est grande et mince comme leur mère.	他姐姐像母亲一样又高又苗条。		
-haute	ot	n.f.	高的	Elle est de haute taille et marche très droite.	她个子很高，走路很直。		
-grosse	gʁos	adj.	胖的	La voisine grosse et souriante garde toujours ses petits-enfants.	那位胖胖的、总带笑的邻居一直照看孙辈。		
-maigre	mɛgʁ	adj.	瘦的	Il est resté maigre malgré les repas copieux de sa mère.	尽管母亲做的饭菜很丰盛，他还是那么瘦。		
-petite	pətit	adj.	小的	Sa petite sœur a les yeux bleus de leur père.	他妹妹有和父亲一样的蓝眼睛。		
-grand	gʁɑ̃	adj.	大的	Son grand frère mesure presque deux mètres depuis l'année dernière.	他哥哥从去年起身高快两米了。		
-fuselé	fyzəle	adj.	细长的	Elle a des doigts fuselés et une voix très douce.	她的手指细长，声音很柔和。		
-fort	fɔʁ	adj.	优美健壮的	C'est un homme fort, mais il reste très doux.	他身体健壮，但性情很温和。		
-balourd	baluʁ	adj.	笨拙的	Ce grand garçon balourd renverse souvent les verres à table.	这个笨手笨脚的大男孩在饭桌上常打翻杯子。		
-échelle	eʃɛl	n.f.	比例	Sur cette vieille photo, l'échelle des visages paraît vraiment étrange.	在这张老照片上，人脸的比例显得很奇怪。		
-regard	ʁəgaʁ	n.m.	眼神	Son regard calme rassure les enfants de la classe.	他平静的眼神让班上的孩子安心。		
-blonde	blɔ̃d	adj.	金发	Sa fille blonde ressemble beaucoup à sa grand-mère paternelle.	他的金发女儿很像她奶奶。		
-dolent	dɔlɑ̃	adj.	悲伤的	Il nous a regardés d'un air dolent avant de partir.	他走之前用一种哀伤的神情看着我们。		
-enfoncé	ɑ̃fɔ̃se	adj.	深陷的	Ses yeux enfoncés lui donnent un air grave et fatigué.	他深陷的眼睛让他显得严肃又疲惫。		
-déprimé	depʁime	adj.	凹陷的	Il a les joues déprimées après sa longue maladie.	久病之后他的双颊凹陷下去。		
-strabisme	stʁabizm	n.m.	斜眼	Son strabisme se voit surtout quand il est fatigué.	他的斜眼在他累的时候尤其明显。		
-borgne	bɔʁɲ	adj.	独眼的	Le vieux borgne du village raconte souvent des histoires.	村里那个独眼的老人常常讲故事。		
-brun	bʁœ̃	adj.	棕色的	Il a les cheveux bruns et les yeux verts.	他头发是棕色的，眼睛是绿的。		
-clignement	kliɲəmɑ̃	n.m.	眼睛咪	Un clignement des yeux suffit pour lui faire comprendre.	眨一下眼就足以让他明白。		
-rond	ʁɔ̃	adj.	圆的	Son visage rond et ses joues roses plaisent aux enfants.	他圆圆的脸和粉红的脸颊很讨孩子喜欢。		
-ovalaire	ovalɛʁ	adj.	椭圆的	Elle a un visage ovalaire et de grands yeux noirs.	她有一张椭圆的脸和一双黑色的大眼睛。		
-dodu	dody	adj.	胖的	Le bébé dodu dort dans les bras de sa mère.	胖乎乎的婴儿在母亲怀里睡着。		
-bouffi	bufi	adj.	浮肿的	Son visage bouffi après la nuit montre qu'il a pleuré.	他过了一夜脸有些浮肿，看得出哭过。		
-flétri	fletʁi	v.	的	Son beau visage flétri garde encore un certain charme.	他那张憔悴的俊脸仍带着几分魅力。		
-ride	ʁid	n.f.	皱纹	Une ride profonde traverse son front quand elle réfléchit.	她思考时额头上会有一道深皱纹。		
+abdomen	abdomɛn	n.m.	肚子	Il ressent une gêne au niveau de l'abdomen depuis hier.	从昨天起他就觉得腹部不舒服。		
 acné	akne	n.f.	痤疮，粉刺	À quinze ans, il souffrait beaucoup de son acné.	十五岁时，他因满脸粉刺十分苦恼。		
-moustache	mustaʃ	n.f.	胡子	Son grand-père porte une moustache blanche vraiment très fournie.	他祖父留着一把非常浓密的白胡子。		
-barbe	baʁb	n.	胡须	Il laisse pousser sa barbe depuis le début des vacances.	他从假期开始就任胡须长着。		
-frimousse	fʁimus	n.f.	脸蛋儿	Sa petite frimousse couverte de taches amuse tout le monde.	他那张满是斑点的小脸蛋逗得大家直笑。		
-grêlée	gʁele	v.	麻脸的	Sa peau grêlée garde les traces de son enfance.	他那张麻点的皮肤留着童年的痕迹。		
-dérider	deʁide	v.	露出笑容	Cette histoire drôle réussit toujours à dérider mon père.	这个有趣的故事总能让我父亲露出笑容。		
-sémillant	semijɑ̃	adj.	快活	Son caractère sémillant plaît beaucoup aux amis de la famille.	他快活的性格很受家里朋友们的喜爱。		
-jovial	ʒovjal	adj.	开朗的	Son oncle jovial raconte des blagues à chaque repas.	他那开朗的叔叔每顿饭都讲笑话。		
-attrayant	atʁɛjɑ̃	adj.	迷人的	Elle a un sourire attrayant qui met tout le monde à l'aise.	她迷人的微笑让所有人都自在。		
-prospère	pʁɔspɛʁ	adj.	繁荣的	Ce commerçant prospère habite une belle maison près du parc.	这位生意兴隆的商人住在公园附近的漂亮房子里。		
-sourire	suʁiʁ	n.m.	微笑	Son sourire discret cache une grande timidité devant les inconnus.	他腼腆的微笑掩藏着面对陌生人时的羞怯。		
-ridicule	ʁidikyl	adj.	可笑的	Son chapeau trop grand le rend un peu ridicule.	他那顶太大的帽子让他有点可笑。		
-dédaigneuse	dedɛɲøz	n.f.	轻葳的	Sa réponse dédaigneuse a blessé toute la famille hier soir.	她轻蔑的回答昨晚伤了全家人的心。		
-railler	ʁaje	v.	笑	Ses camarades aiment railler son accent du sud devant tout le monde.	他的同学喜欢当着大家的面取笑他的南方口音。		
-bruit	bʁɥi	n.m.	噪音	Le bruit des voisins l'empêche de dormir depuis une semaine.	邻居的噪音让他一星期没睡好。		
-voix	vwa	n.f.	声音	Sa voix grave le rend facile à reconnaître au téléphone.	他低沉的嗓音让他在电话里很容易被认出。		
-limpide	lɛ̃pid	adj.	清晰的	Sa voix limpide passe très bien dans cette grande salle.	他清亮的声音在这个大厅里传得很清楚。		
-sourde	suʁd	adj.	低沉的	Il a répondu d'une voix sourde, presque un murmure.	他用一种低沉的、近乎耳语的声音回答。		
-éclatante	eklatɑ̃t	adj.	响亮的	Sa voix éclatante remplit toute la cour de l'école.	他响亮的嗓音传遍了整个校园。		
-dure	dyʁ	n.f.	刺耳的	Elle a une voix dure qui surprend au premier abord.	她的嗓音很刺耳，初见时让人吃惊。		
-strident	stʁidɑ̃	adj.	刺耳的	Un bruit strident sort de la machine à laver.	洗衣机里传出一阵刺耳的响声。		
-gentil	ʒɑ̃ti	adj.	温柔的	Son frère est gentil avec tout le monde, même les étrangers.	他弟弟对谁都很温和，连陌生人也不例外。		
-suave	sɥav	adj.	甜蜜的	Elle parle d'une voix suave qui endort presque les invités.	她用甜腻的嗓音说话，几乎把客人都哄睡了。		
-monotone	monotɔn	adj.	单调的	Sa voix monotone rend le cours vraiment très long.	他单调的声音让这节课显得格外漫长。		
-frêle	fʁɛl	adj.	微弱的	On entendait une voix frêle derrière la porte fermée.	门后传来一个微弱的声音。		
-pale	pal	n.f.	微弱的	Son visage pâle inquiète sa mère depuis hier soir.	他从昨晚起脸色苍白，让母亲很担心。		
-aigu	egy	adj.	高音的	Sa voix aiguë traverse facilement le bruit de la rue.	他尖细的嗓音轻易就盖过了街上的噪音。		
-féerique	feʁik	adj.	美妙的	Le décor féerique du jardin émerveille les enfants chaque hiver.	花园里如梦似幻的装饰每年冬天都让孩子们惊叹。		
-position	pozisjɔ̃	n.f.	地位	Sa position dans l'entreprise lui donne beaucoup de pouvoir.	他在公司里的地位给了他很大权力。		
-plébéien	plebejɛ̃	adj.	平民	Son accent plébéien choque certains invités un peu snobs.	他平民腔的口音让几个有点势利的客人不适。		
-paysannerie	peizanəʁi	n.f.	农民	La paysannerie de cette région travaille surtout la vigne.	这个地区的农民主要种葡萄。		
-cadre	kadʁ	n.m.	干部	Son père est cadre dans une grande entreprise de transport.	他父亲在一家大型运输公司当干部。		
-militaire	militɛʁ	adj.	军人	Son oncle militaire rentre rarement à la maison pendant l'année.	他那当兵的叔叔一年里很少回家。		
-fonctionnaire	fɔ̃ksjonɛʁ	n.	官员	Elle est fonctionnaire et travaille à la mairie du quartier.	她是公务员，在街区市政厅工作。		
-diriger	diʁiʒe	v.	领导	Il dirige une petite équipe de dix personnes depuis janvier.	他从一月起带领一个十人的小团队。		
-noble	nɔbl	adj.	贵族	Sa famille noble possède encore un château près de la Loire.	他的贵族家族在卢瓦尔河附近还有一座城堡。		
-aristocratie	aʁistokʁasi	n.f.	贵族	L'aristocratie locale fréquentait autrefois ce salon de thé très cher.	当地贵族从前常来这家昂贵的茶馆。		
-magnifique	maɲifik	adj.	卓越的	Elle porte une robe magnifique pour la cérémonie de ce soir.	她为今晚的典礼穿了一条漂亮的裙子。		
-excellente	ɛksɛlɑ̃t	adj.	杰出的	C'est une excellente professeure, aimée de tous ses élèves.	她是一位杰出的老师，深受所有学生喜爱。		
-bon	bɔ̃	adj.	好的	C'est un bon voisin, toujours prêt à rendre service.	他是个好邻居，总是乐于帮忙。		
-positif	pozitif	adj.	积极的	Son attitude positive aide toute l'équipe à avancer malgré les difficultés.	他积极的态度帮助全队在困难中前进。		
-honnête	onɛt	adj.	善良的	C'est un homme honnête qui ne ment jamais à ses amis.	他是个正直的人，从不对朋友撒谎。		
-véridique	veʁidik	adj.	诚实的	Son récit véridique a finalement convaincu tous les policiers.	他那真实的叙述最终说服了所有警察。		
-assidu	asidy	adj.	勤奋的	C'est un élève assidu qui travaille sérieusement chaque soir.	他是个用功的学生，每天晚上都认真学习。		
-sagace	sagas	adj.	聪明的	Son grand-père sagace comprend tout bien avant les autres.	他那睿智的祖父总比别人先明白一切。		
-futé	fyte	adj.	精明的	Ce petit futé trouve toujours une solution à tout.	这个小机灵鬼总能想出办法应对一切。		
-créateur	kʁeatœʁ	adj.	创造者	Cet artiste créateur imagine des meubles très simples et beaux.	这位有创造力的艺术家设计出极简又美观的家具。		
-responsable	ʁɛspɔ̃sabl	adj.	负责的	Elle est responsable du rayon meubles depuis trois ans.	她负责家具区已经三年了。		
-sérieusement	seʁjøzəmɑ̃	adv.	认真地	Il travaille sérieusement pour réussir son examen de français.	他认真学习，想通过法语考试。		
-négatif	negatif	adj.	消极的	Son regard négatif décourage souvent les plus jeunes de l'équipe.	他消极的看法常让队里最年轻的人泄气。		
-pessimiste	pesimist	adj.	悲观的	Mon voisin pessimiste pense que tout va mal ici.	我那位悲观的邻居觉得这里一切都不好。		
-sourcilleux	suʁsijø	adj.	吹毛求症的	Un patron sourcilleux vérifie chaque détail avant de signer.	挑剔的老板签字前会核查每个细节。		
-mou	mu	adj.	优柔寡断的	Il est trop mou pour prendre une décision ce soir.	他太优柔寡断，今晚做不了决定。		
-pingre	pɛ̃gʁ	adj.	音的	Ce voisin pingre ne prête jamais rien à personne.	这个吝啬的邻居从不借东西给任何人。		
-chatouilleuse	ʃatujøz	adj.	敏感的	Elle est chatouilleuse sur le sujet de son âge.	一提到年龄她就很敏感。		
-dégueulasse	degølas	adj.	卑部的	Cette odeur dégueulasse vient du frigo, il faut le nettoyer.	这股恶心的味道来自冰箱，得清理一下。		
-satanique	satanik	adj.	邪恶的	Son sourire satanique fait vraiment peur aux petits enfants.	他邪恶的笑容真把小孩子吓着了。		
-malhonnête	malonɛt	adj.	不诚实的	Ce commerçant malhonnête a trompé tous ses clients du quartier.	这个不诚实的商家骗了街区所有顾客。		
-bêta	bɛta	adj.	愚鑫的	Quel garçon bêta, il croit encore toutes ces histoires.	这男孩真傻，还相信那些说法。		
-stupide	stypid	adj.	患鑫的	Cette décision stupide a coûté cher à toute la famille.	这个愚蠢的决定让全家付出了很大代价。		
-nationalité	nasjonalite	n.f.	国籍	Elle a demandé la nationalité française après dix ans ici.	她在这里住了十年后申请了法国国籍。		
-yankee	jɑ̃ki	n.	美国人	Un touriste yankee demande son chemin devant la boulangerie.	一个美国游客在面包店门口问路。		
-canadienne	kanadjɛn	adj.	加拿大人	Sa femme canadienne adore les hivers très froids de Québec.	他加拿大籍的妻子很喜欢魁北克严寒的冬天。		
-japonaise	ʒaponɛz	adj.	日本人	Sa voisine japonaise prépare d'excellents petits gâteaux le dimanche.	他的日本邻居周日会做很棒的小点心。		
-français	fʁɑ̃sɛ	adj.	法国人	Mon professeur français explique la grammaire avec beaucoup de patience.	我的法国老师讲语法非常有耐心。		
-australienne	ostʁaljɛn	n.f.	澳大利亚人	Une amie australienne nous a invités chez elle cet été.	一位澳大利亚朋友今年夏天请我们去她家。		
-russe	ʁys	adj.	俄罗斯人	Son mari russe lit des romans français tous les soirs.	他俄罗斯籍的丈夫每天晚上读法国小说。		
-allemand	aləmɑ̃	adj.	德国人	Notre voisin allemand répare lui-même sa vieille voiture le dimanche.	我们那位德国邻居周日自己修旧车。		
-britannique	bʁitanik	adj.	英国人	Un couple britannique a loué l'appartement du dessus cet été.	今年夏天一对英国夫妇租下了楼上的公寓。		
-irlandais	iʁlɑ̃dɛ	adj.	爱尔兰人	Son ami irlandais chante très bien après quelques verres.	他的爱尔兰朋友喝上几杯后唱得很好。		
-finlandais	fɛ̃lɑ̃dɛ	adj.	芬兰人	Ce photographe finlandais travaille surtout pendant les nuits d'hiver.	这位芬兰摄影师主要在冬夜工作。		
-suisse	sɥis	adj.	瑞士人	Un médecin suisse a ouvert une petite clinique ici.	一位瑞士医生在这里开了一家小诊所。		
-grec	gʁɛk	adj.	希腊人	Mon voisin grec nous invite souvent à manger chez lui.	我的希腊邻居常请我们到他家吃饭。		
-espagnol	ɛspaɲɔl	adj.	西班牙人	Sa sœur espagnole danse vraiment très bien le flamenco traditionnel.	他西班牙籍的姐姐传统弗拉门戈跳得非常好。		
-age	aʒ	n.m.	年龄	À son âge, il monte encore les cinq étages à pied.	到了他这年纪，他还能步行上五楼。		
-nouveau-né	nuvo ne	n.m.	新生儿	Le nouveau-né dort presque toute la journée.	新生儿几乎整天都在睡觉。		
-prématuré	pʁematyʁe	adj.	早产儿	Ce bébé prématuré reste encore quelques jours à l'hôpital.	这个早产儿还要在医院待几天。		
-bébé	bebe	n.m.	婴儿	Le bébé pleure dès que sa mère quitte la chambre.	母亲一离开房间，婴儿就哭。		
-enfant	ɑ̃fɑ̃	n.	小孩	Cet enfant joue seul dans le jardin depuis une heure.	这个孩子一个人在花园里玩了一小时。		
-mineure	minœʁ	adj.	未成年	Elle est encore mineure et ne peut pas signer le bail.	她还未成年，不能签租约。		
-majeure	maʒœʁ	adj.	成年的	Depuis l'an dernier, sa fille est majeure et indépendante.	从去年起，他女儿就成年独立了。		
-jeune	ʒœn	adj.	年轻的	Il est encore jeune, mais il travaille déjà beaucoup.	他还年轻，但已经很努力工作了。		
+adaptable	adaptabl	adj.	适应性强的	Un bon commercial doit être adaptable face aux demandes des clients.	优秀的销售员要能灵活适应客户的需求。		
+admiration	admiʁasjɔ̃	n.f.	钦佩	Son courage a suscité une admiration que même ses adversaires n'ont pu lui refuser.	他的勇气引来一份连对手也无法不给予的钦佩。		
+admirer	admiʁe	v.	钦佩；欣赏	Nous avons admiré le coucher du soleil depuis la terrasse du café.	我们在咖啡馆的露台上欣赏了日落。		
+adorer	adoʁe	v.	非常喜爱	J'adore me promener dans ce parc au début du printemps.	我很喜欢初春时在这个公园里散步。		
 adulte	adylt	adj.	成年	Chaque adulte doit signer le contrat avant de déménager.	每个成年人都必须在搬家前签合同。		
-vieillard	vjɛjaʁ	n.m.	老人	Un vieillard très maigre habite seul au dernier étage.	一位很瘦的老人独自住在顶层。		
-mineur	minœʁ	adj.	未成年	Ce garçon mineur ne peut pas voyager sans ses parents.	这个未成年的男孩不能独自出行。		
-métier	metje	n.m.	职业	Elle a choisi le métier de fleuriste par passion.	她出于热爱选择了花艺师这个职业。		
-travailler	tʁavaje	v.	工作	Il préfère travailler le matin pour rentrer plus tôt.	他更喜欢上午工作，好早点回家。		
-emploi	ɑ̃plwa	n.m.	工作	Elle cherche un emploi stable près de son nouvel appartement.	她在新公寓附近找一份稳定的工作。		
-domaine	domɛn	n.m.	领域	Mon frère travaille dans le domaine de la décoration intérieure.	我哥哥从事室内装饰这一行。		
-cursus	kyʁsys	n.m.	职业生涯	Son long cursus impressionne tous les directeurs qu'il rencontre.	他长长的履历让遇到的每位主管都印象深刻。		
-docteur	dɔktœʁ	n.m.	医生	Le docteur lui conseille de marcher un peu chaque jour.	医生建议他每天走一走。		
-designer	deziɲe	n.	设计师	Cette designer a dessiné tous les meubles de notre salon.	这位设计师设计了我们客厅里的所有家具。		
-professeur	pʁofɛsœʁ	n.	老师	Mon professeur de français habite dans le même immeuble.	我的法语老师就住在同一栋楼里。		
-amateur	amatœʁ	adj.	业余运动员	Mon cousin est un joueur de tennis amateur très motivé.	我表哥是个非常投入的业余网球选手。		
-nettoyeurs	netwajœʁ	n.m.	清洁工	Les nettoyeurs de la ville passent tôt le matin dans notre rue.	市里的清洁工一大早就来到我们这条街。		
-savante	savɑ̃t	adj.	学者	Cette femme savante parle de philosophie avec une grande simplicité.	这位学识渊博的女士谈论哲学时非常平易近人。		
-scientifique	sjɑ̃tifik	adj.	科学家	Ce chercheur scientifique travaille sur un projet important.	这位科研人员正在做一个重要项目。		
-vendeur	vɑ̃dœʁ	n.m.	售货员	Le vendeur du magasin m'a conseillé un manteau plus chaud.	店里的售货员给我推荐了一件更暖和的大衣。		
-parler	paʁle	adj.	说话	Elle aime parler de ses voyages avec ses amis le soir.	她喜欢晚上和朋友们聊自己的旅行。		
-dire	diʁ	n.m.	说话	Il n'ose pas dire la vérité devant toute la famille.	他不敢当着一家人的面说出真相。		
-harangue	aʁɑ̃g	n.f.	演讲	Le maire a prononcé une longue harangue devant les habitants.	市长在居民面前发表了一通长篇演讲。		
-crier	kʁije	v.	喊叫	Les enfants se sont mis à crier quand le spectacle a commencé.	演出开始时，孩子们开始大喊大叫。		
-clamer	klame	v.	叫喊	Les manifestants ont clamé leur colère toute la journée.	示威者整天高声表达他们的愤怒。		
-braillement	bʁajəmɑ̃	n.m.	喊叫	Son braillement nous a empêchés de dormir toute la nuit.	他的大声嚷嚷害我们一整夜没睡着。		
-exhorter	ɛgzɔʁte	v.	劝说	Le professeur nous a exhortés à lire davantage de romans français.	老师劝我们多读一些法国小说。		
-expliquer	ɛksplike	v.	解释	Elle a expliqué la règle aux nouveaux élèves avec patience.	她耐心地给新来的学生解释了这条规则。		
+affligeante	afliʒɑ̃t	adj.	令人沮丧的；可悲的	La situation de ces familles est vraiment affligeante.	这些家庭的处境实在令人难受。		
+affliger	afliʒe	v.	使忧愁	Cette nouvelle a affligé toute la famille pendant des jours.	这个消息让全家人难过了好几天。		
+âge	aʒ	n.m.	年龄	Mon grand-père a arrêté de travailler à l'âge de soixante ans.	我祖父六十岁才停止工作。		
+agréable	agʁeabl	adj.	令人愉快的	La soirée fut si agréable que personne ne songea à regarder l'heure avant minuit.	那个夜晚如此愉快，谁也没想到在午夜前看看时间。		
+agressif	agʁɛsif	adj.	好斗的；有进取心的	Elle est agressive dans les négociations, mais toujours très professionnelle.	她在谈判中很有冲劲，但始终非常专业。		
+aigu	egy	adj.	高音的	Sa voix aiguë traverse facilement le bruit de la rue.	他尖细的嗓音轻易就盖过了街上的噪音。		
+aimable	ɛmabl	adj.	亲切的	Le responsable du service est toujours aimable avec les nouveaux employés.	部门负责人对新员工总是很亲切。		
+aimer	eme	v.	爱；喜欢	J'aime beaucoup ce film.	我很喜欢这部电影。		
+air	ɛʁ	n.m.	空气；神态	L'air est frais ce matin dans la forêt.	今天早上森林里的空气很凉爽。		
+allure	alyʁ	n.f.	步态；外表	Elle avait l'allure d'une femme habituée à décider, et personne n'osait la contredire.	她看上去像个习惯做决定的女人，没人敢反驳她。		
+amant	amɑ̃	n.m.	情人	Elle a quitté son mari l'été dernier pour rejoindre son amant à Marseille.	去年夏天她离开丈夫，去马赛投奔情人。		
+ambitieux	ɑ̃bisjø	adj.	有抱负的	Ce projet est vraiment ambitieux, mais toute l'équipe y croit.	这个项目确实很有抱负，但整个团队都相信它。		
+ambition	ɑ̃bisjɔ̃	n.f.	抱负	Son ambition est de devenir un jour chercheuse en biologie.	她的抱负是有朝一日成为生物学家。		
+ami	ami	n.m.	朋友	C'est mon meilleur ami.	这是我最好的朋友。		
+amical	amikal	adj.	友好的	L'accueil amical de l'équipe m'a beaucoup rassuré dès mon arrivée.	团队友好的接待让我一到就安心了许多。		
+amitié	amitje	n.f.	友谊	Leur amitié, née à l'école, a résisté à toutes les années et aux distances.	他们的友谊始于学校，历经岁月与距离而不变。		
+amour	amuʁ	n.m.	爱	L'amour de sa famille lui donne beaucoup de force.	家人的爱给了他很多力量。		
+amoureux	amuʁø	adj.	恋爱的	Il était amoureux d'elle depuis le premier jour, mais il n'osait rien dire.	他从第一天起就爱上了她，却什么也不敢说。		
+ancien	ɑ̃sjɛ̃	adj.	古老的；前任的	Ils habitent dans une ancienne maison près de l'église.	他们住在一座教堂附近的古老房子里。		
+angoisse	ɑ̃gwas	n.f.	焦虑	Une angoisse sourde l'envahissait chaque fois qu'il devait parler devant un public nombreux.	每次要在众多听众面前讲话，一种隐隐的焦虑就会攫住他。		
+annulaire	anylɛʁ	n.m.	无名指	C'est à l'annulaire gauche qu'elle porte cette bague ancienne.	那枚旧戒指她戴在左手无名指上。		
+apaiser	apeze	v.	使平静	Ses paroles apaisèrent la colère du vieil homme, sans pour autant dissiper ses soupçons.	他的话平息了老人的怒气，却没能消除他的怀疑。		
+apparence	apaʁɑ̃s	n.f.	外表	Sous des apparences tranquilles, la ville cachait une tension que chacun sentait sans oser la nommer.	在平静的外表下，这座城市藏着一种人人都感到却不敢说破的紧张。		
+appendice	apɛ̃dis	n.m.	阑尾	Le médecin a retiré son appendice hier matin à l'hôpital.	医生昨天上午在医院切除了他的阑尾。		
+ardeur	aʁdœʁ	n.f.	热情；炽热	L'ardeur du soleil rend le travail presque impossible sur le chantier l'après-midi.	烈日酷热使下午工地上的工作几乎无法进行。		
+artère	aʁtɛʁ	n.f.	动脉；干线	Cette grande artère du centre-ville est fermée à cause des travaux urgents.	这条市中心的主干道因紧急施工而封闭。		
+aspiration	aspiʁasjɔ̃	n.f.	吸气	L'aspiration de cet appareil est si puissante qu'il avale tout.	这台机器的吸力大得能把什么都吸进去。		
+aspirer	aspiʁe	v.	吸气；渴望	Il aspire profondément l'air froid avant de plonger dans l'eau.	他深吸一口冷空气才跳进水里。		
+assidu	asidy	adj.	勤奋的	C'est un élève assidu qui travaille sérieusement chaque soir.	他是个用功的学生，每天晚上都认真学习。		
+assoiffé	aswafe	adj.	渴的	Après trois heures de marche, nous étions tous assoiffés.	走了三个小时之后，我们全都渴坏了。		
+assouvir	asuviʁ	v.	吃饱	Ce grand plat de pâtes a assouvi toute la famille.	这一大盘意大利面让全家都吃饱了。		
+assurance	asyʁɑ̃s	n.f.	保险；自信	Son assurance, un peu trop affichée, cachait mal une inquiétude qu'il s'efforçait de dissimuler.	他那过于外露的自信，掩饰不住他竭力想隐藏的不安。		
+assuré	asyʁe	adj.	确信的；投保的	Elle est très assurée lorsqu'elle présente son exposé devant la classe.	她在班上做报告时显得非常自信。		
+attentif	atɑ̃tif	adj.	专注的	Les élèves, attentifs au moindre geste du maître, retenaient leur respiration dans la classe silencieuse.	学生们专注地留意老师最细微的动作，在安静的教室里屏住呼吸。		
+attitude	atityd	n.f.	态度	Son attitude envers les clients a fini par lui coûter son poste.	他对客户的态度最终让他丢了工作。		
+audition	odisjɔ̃	n.f.	听觉；试演	L'audition du ministre devant la commission a duré trois heures.	部长在委员会面前的听证持续了三个小时。		
+aveugle	avœgl	adj.	瞎的	Devenu aveugle à la fin de sa vie, il continuait de dicter des pages d'une précision stupéfiante.	晚年失明后，他仍口述出一页页精确得惊人的文字。		
+balourd	baluʁ	adj.	笨拙的	Ce grand garçon balourd renverse souvent les verres à table.	这个笨手笨脚的大男孩在饭桌上常打翻杯子。		
+barbe	baʁb	n.	胡须	Il laisse pousser sa barbe depuis le début des vacances.	他从假期开始就任胡须长着。		
+bassement	basəmɑ̃	adv.	卑劣地；低贱地	Le cellier se trouve bassement, sous la vieille cuisine.	储藏室在楼下，在老厨房下面。		
+baver	bave	v.	流口水	Le bébé bave quand il voit le gâteau au chocolat.	宝宝看到巧克力蛋糕就流口水。		
+beau	bo	adj.	美丽的	Un bel horizon s'ouvrait devant eux, que la brume du matin rendait presque irréel.	一道美丽的风景在他们面前展开，晨雾让它几乎显得不真实。		
+beauté	bote	n.f.	美	La beauté de ce paysage m'a laissé sans voix.	这片风景之美让我说不出话来。		
+bébé	bebe	n.m.	婴儿	Le bébé a dormi toute la nuit pour la première fois.	宝宝第一次一觉睡到了天亮。		
+bêta	bɛta	adj.	愚蠢的	Quel garçon bêta, il croit encore toutes ces histoires.	这男孩真傻，还相信那些说法。		
+bien-être	bjɛ̃-ɛtʁ	n.m.	舒适；福祉	Le bien-être social des salariés devient une priorité pour les entreprises.	员工的社会福利正成为企业的优先事项。		
 blâmer	blame	v.	责备	Personne dans la salle n'a blâmé le jeune serveur pour cette erreur.	在场没有人因为这点差错责怪那位年轻服务员。		
-critiquer	kʁitike	v.	批评	Il critique souvent ses collègues mais il ne les écoute jamais.	他常常批评同事，却从不听别人说。		
-introduire	ɛ̃tʁodɥiʁ	v.	介绍	Le directeur m'a introduit auprès de ses partenaires étrangers.	经理把我介绍给了他的外国合作伙伴。		
-exalter	ɛgzalte	v.	表扬	Le journaliste a exalté le courage des sauveteurs après l'accident.	记者赞扬了事故后救援人员的勇气。		
-mentir	mɑ̃tiʁ	v.	撒	Il ne faut jamais mentir à ses parents sur ses notes.	绝不能在成绩上对父母撒谎。		
-soupir	supiʁ	n.m.	叹息	Elle a poussé un long soupir avant de répondre.	她长长地叹了一口气才回答。		
-recommander	ʁəkomɑ̃de	v.	推荐	Je te recommande ce petit restaurant près de la gare.	我推荐你去火车站附近那家小餐馆。		
-hochement	ɔʃəmɑ̃	n.m.	点头	Il a répondu par un simple hochement de tête.	他只是点了点头作为回答。		
-branler	bʁɑ̃le	v.	摇动	Le vent a fait branler la vieille enseigne du café.	风把咖啡馆那块旧招牌吹得晃来晃去。		
-incliner	ɛ̃kline	v.	翰射	Il a incliné la tête pour saluer les invités.	他低下头向客人们致意。		
-applaudir	aplodiʁ	v.	鼓掌	Les spectateurs ont applaudi la troupe pendant plusieurs minutes.	观众为剧团鼓掌了好几分钟。		
-acclamer	aklame	v.	欢呼	La foule a acclamé les champions à leur retour au village.	冠军们回到村里时，人群为他们欢呼。		
-interprété	ɛ̃tɛʁpʁete	v.	口译	Le discours a été interprété en direct par une traductrice.	这场讲话由一位女译员现场口译。		
-faire	fɛʁ	v.	做	Qu'est-ce que tu vas faire ce week-end avec tes cousins?	你这个周末打算和表兄弟们做什么？		
-représenter	ʁəpʁezɑ̃te	v.	表演	Les élèves ont représenté une pièce de Molière devant toute l'école.	学生们在全校面前表演了一出莫里哀的戏。		
-action	aksjɔ̃	n.f.	行为	Son action courageuse a sauvé la vie d'un enfant.	他勇敢的举动救了一个孩子的命。		
-pratiquer	pʁatike	v.	练习	Elle pratique le piano deux heures chaque soir après le dîner.	她每天晚饭后练两小时钢琴。		
-demander	dəmɑ̃de	v.	问	Il m'a demandé où se trouvait la station de métro.	他问我地铁站在哪里。		
-contester	kɔ̃tɛste	v.	质疑	Les habitants contestent la décision du maire depuis plusieurs semaines.	居民们质疑市长的决定已经好几周了。		
-crispation	kʁispasjɔ̃	n.f.	蜷缩	Une crispation du visage trahissait sa peur devant le jury.	他脸上一阵紧绷，流露出面对评委时的恐惧。		
-saluer	salɥe	v.	致敬	Il a salué les invités avant de commencer son discours.	他先向宾客们致意，然后开始讲话。		
-remercier	ʁəmɛʁsje	v.	谢谢	Je voudrais remercier tous ceux qui m'ont aidé.	我想感谢所有帮助过我的人。		
+blessé	blese	adj.	受伤的	La jeune fille blessée a été transportée à l'hôpital.	受伤的姑娘被送到了医院。		
+blond	blɔ̃	adj.	金发的；金黄色的	Sa fille blonde ressemble beaucoup à sa grand-mère paternelle.	他的金发女儿很像她奶奶。		
+bluffeur	blœfœʁ	n.m.	虚张声势的人	Ce joueur est un bluffeur: il sourit toujours quand il ment.	这个玩家爱虚张声势，说谎时总是面带微笑。		
+boiter	bwate	v.	跛行；一瘸一拐	Depuis sa chute, il boite un peu en montant les escaliers.	自从摔了一跤，他上楼梯时有点跛。		
+bomber	bɔ̃be	v.	使鼓起；隆起	Le champion a bombé le torse devant les photographes, très fier de lui.	冠军在摄影师面前挺起胸膛，非常自豪。		
+bonheur	bonœʁ	n.m.	幸福	Leur plus grand bonheur, c'est de voir leurs enfants heureux.	他们最大的幸福就是看到孩子们快乐。		
+borgne	bɔʁɲ	adj.	独眼的	Le vieux borgne du village raconte souvent des histoires.	村里那个独眼的老人常常讲故事。		
+bouche	buʃ	n.f.	嘴	Elle a mis la main devant sa bouche pour cacher son rire.	她用手捂住嘴，掩饰笑声。		
+bouffi	bufi	adj.	浮肿的	Son visage bouffi après la nuit montre qu'il a pleuré.	他过了一夜脸有些浮肿，看得出哭过。		
+bouleverser	buləvɛʁse	v.	使震惊；弄乱；打乱	Les enfants ont bouleversé toute la chambre en une heure.	孩子们一个小时就把整个房间弄得乱七八糟。		
+bras	bʁa	n.m.	手臂	Elle porte son bébé endormi dans ses bras.	她怀里抱着睡着的宝宝。		
+brassière	bʁasjɛʁ	n.f.	胸罩；婴儿上衣	Elle a acheté une brassière en coton doux et confortable.	她买了一件柔软舒适的棉质胸罩。		
+brave	bʁav	adj.	勇敢的；正直的	C'était un brave homme, sans malice, que tous les enfants du quartier saluaient gaiement.	那是个正直的人，毫无心机，街区的孩子都高高兴兴地跟他打招呼。		
+bronzer	bʁɔ̃ze	v.	晒黑	Elle aime bronzer sur la plage pendant les vacances.	她喜欢假期在沙滩上晒黑。		
+brun	bʁœ̃	n.m.	褐色；棕色	Ma sœur est brune, elle porte souvent des couleurs claires.	我姐姐是深棕色头发，她常穿浅色衣服。		
+brutal	bʁytal	adj.	粗暴的	Sa réponse, brutale, a jeté un froid que la conversation n'a jamais vraiment dissipé.	他粗暴的回答让气氛骤然冷下来，谈话再也没真正缓和。		
+calme	kalm	adj.	平静的	Malgré le bruit dehors, elle est restée calme et a continué à lire.	尽管外面很吵，她依然很平静，继续看书。		
+calmer	kalme	v.	使平静	Elle a essayé de calmer le bébé qui pleurait.	她试着哄住正在哭的宝宝。		
+capable	kapabl	adj.	有能力的	Il est parfaitement capable de résoudre ce problème tout seul.	他完全有能力独自解决这个问题。		
+caractère	kaʁaktɛʁ	n.m.	性格；字符	Son caractère difficile lui avait fermé bien des portes, sans qu'il s'en rendît compte.	他难相处的性格断送了许多机会，他自己却毫无察觉。		
+caresse	kaʁɛs	n.f.	抚摸	Une caresse sur la tête suffit à calmer l'enfant que le bruit avait effrayé.	头上一下抚摸，就足以让被响声吓到的孩子安静下来。		
+caresser	kaʁese	v.	抚摸	Il caressait doucement le chat en silence, perdu dans ses propres pensées.	他默默地抚摸着猫，陷入了自己的思绪。		
+cartilage	kaʁtilaʒ	n.m.	软骨	Le cartilage du genou s'use peu à peu avec les années.	膝盖软骨随着年岁一点点磨损。		
+cauchemar	koʃəmaʁ	n.m.	噩梦；梦魇	Ce voyage s'est transformé en cauchemar à cause de la tempête.	由于暴风雨，这次旅行变成了一场噩梦。		
+cerne	sɛʁn	n.m.	黑眼圈；年轮	Chaque cerne du tronc raconte une année de la vie de l'arbre.	树干的每一圈年轮都讲述着树的一年生命。		
+cerveau	sɛʁvo	n.m.	大脑	Le cerveau a besoin de sommeil pour bien fonctionner.	大脑需要睡眠才能正常运转。		
+chagrin	ʃagʁɛ̃	n.m.	忧伤	Un chagrin qu'il ne nommait jamais transparaissait dans ses silences, plus que dans ses paroles.	一种他从不言明的忧伤，更多流露在他的沉默里而非言语中。		
+chair	ʃɛʁ	n.f.	肉体；果肉	La chair de cette pêche est douce et parfumée.	这个桃子的果肉又甜又香。		
+chatouiller	ʃatuje	v.	使痒	Elle chatouille son petit frère pour le faire rire.	她挠弟弟痒痒，逗他笑。		
+chatouilleux	ʃatujø	adj.	怕痒的；敏感的	Elle est chatouilleuse sur le sujet de son âge.	一提到年龄她就很敏感。		
+chauve	ʃov	adj.	秃头的；无毛的	Son oncle est chauve depuis l'âge de trente ans.	他叔叔从三十岁起就秃顶了。		
+cher	ʃɛʁ	adj.	贵的；亲爱的	Cet hôtel est trop cher.	这家酒店太贵了。		
+cheveu	ʃəvø	n.m.	头发	Ses cheveux sont longs et bruns comme ceux de sa mère.	她的头发又长又褐，像她妈妈的。		
+cheveux	ʃəvø	n.m.	头发	Ses cheveux blonds sont encore mouillés après la douche.	她的金发洗完澡后还是湿的。		
+cheville	ʃəvij	n.f.	脚踝	Elle s'est tordu la cheville en descendant l'escalier hier.	她昨天下楼时崴了脚踝。		
+cil	sil	n.m.	睫毛	Ses cils sont si longs qu'ils touchent ses lunettes.	她的睫毛长得都碰到眼镜了。		
+clavicule	klavikyl	n.f.	锁骨	Il s'est cassé la clavicule en tombant du vélo.	他从自行车上摔下来，摔断了锁骨。		
+clignement	kliɲəmɑ̃	n.m.	眨眼；闪烁	Un clignement des yeux suffit pour lui faire comprendre.	眨一下眼就足以让他明白。		
+clinquant	klɛ̃kɑ̃	adj.	闪亮的；俗艳的	Ce collier clinquant brille beaucoup mais ne vaut presque rien.	这条闪亮的假项链看着耀眼，其实几乎一文不值。		
+clopiner	klopine	v.	蹒跚；跛行	Le blessé clopinait lentement vers la porte de l'hôpital.	伤者一瘸一拐地慢慢走向医院大门。		
+coeur	kœʁ	n.m.	心	Son cœur bat très vite après cette longue course.	跑完这么长的路，他的心跳得很快。		
+cœur	kœʁ	n.m.	心；心脏	Mon cœur bat vite quand je danse longtemps.	我跳舞跳久了心就跳得很快。		
+coiffer	kwafe	v.	梳头；戴	Elle se coiffa devant la glace, puis resta un moment immobile, comme si elle hésitait encore.	她在镜前梳好头发，然后一动不动地站了一会儿，仿佛还在犹豫。		
+coiffure	kwafyʁ	n.f.	发型；理发	Pour la fête, elle a choisi une coiffure à plumes.	为了聚会，她选了一顶带羽毛的头饰。		
+colère	kolɛʁ	n.f.	愤怒	Il a jeté son sac par terre, fou de colère.	他气得把包摔在地上。		
+compagnon	kɔ̃paɲɔ̃	n.m.	同伴；伴侣	Son chien est devenu son seul compagnon après le départ des enfants.	孩子们走后，他的狗成了他唯一的伴。		
+conditionneur	kɔ̃disjonœʁ	n.m.	护发素	Elle met du conditionneur après chaque lavage de cheveux.	她每次洗完头发都会用护发素。		
+confiance	kɔ̃fjɑ̃s	n.f.	信任	J'ai toute confiance en toi pour ce travail difficile.	这项艰难的工作我完全信任你。		
+confier	kɔ̃fje	v.	托付；倾诉	Elle lui a confié toutes ses inquiétudes, sans jamais craindre d'être jugée.	她把所有担忧都告诉了他，从不怕被评判。		
+confus	kɔ̃fy	adj.	困惑的；模糊的	Ses explications, confuses et souvent contradictoires, n'ont fait qu'accroître le doute que les enquêteurs nourrissaient déjà.	他的解释含糊又常常自相矛盾，只让调查人员本就有的怀疑更深。		
+connaisseur	konɛsœʁ	adj.	内行	Ce technicien est un connaisseur des machines utilisées dans l'usine.	这位技术员是厂里所用机器的内行。		
+conscience	kɔ̃sjɑ̃s	n.f.	意识；良心	Après l'accident, il a perdu conscience pendant plusieurs minutes très longues.	事故后他昏迷了好几分钟，感觉非常漫长。		
+consoler	kɔ̃sole	v.	安慰	Rien ne semblait pouvoir consoler la vieille femme de la perte de son chien fidèle.	似乎什么也无法安慰这位老妇人失去爱犬的悲伤。		
+content	kɔ̃tɑ̃	adj.	高兴的	Je suis content de te voir.	见到你我很高兴。		
+contenter	kɔ̃tɑ̃te	v.	使满足	Ce modeste salaire suffisait à le contenter, car il ne désirait rien de plus.	这份微薄的薪水就足以让他满足，因为他别无所求。		
+contradicteur	kɔ̃tʁadiktœʁ	n.m.	反驳者	Son contradicteur lui a répondu avec une violence verbale surprenante.	他的反对者用令人意外的激烈言辞回应了他。		
+contrarier	kɔ̃tʁaʁje	v.	使不快；阻挠	Cette nouvelle a contrarié tous nos projets de vacances.	这个消息打乱了我们所有的度假计划。		
+conviction	kɔ̃viksjɔ̃	n.f.	信念	Elle défendait ses convictions avec une fougue qui impressionnait jusqu'à ses adversaires les plus résolus.	她以一股连最坚决的对手都为之动容的热忱捍卫自己的信念。		
+copain	kopɛ̃	n.m.	伙伴；朋友	Je vais au cinéma avec un copain de mon quartier.	我和街区里的一个朋友去看电影。		
+corps	kɔʁ	n.m.	身体	Le sport est bon pour le corps et l'esprit.	运动对身体和精神都有好处。		
+corpulence	kɔʁpylɑ̃s	n.f.	肥胖	Sa forte corpulence l'empêche de monter facilement les escaliers.	他过于肥胖，上楼很吃力。		
+cosmétique	kɔsmetik	n.m.	化妆品；美容的	Elle achète des produits cosmétiques dans une petite boutique.	她在一家小店里买化妆品。		
+cou	ku	n.m.	脖子	Elle portait un foulard rouge autour de son cou.	她脖子上围着一条红围巾。		
+coude	kud	n.m.	肘	Accoudé au comptoir, le coude posé sur le bois humide, il observait la salle d'un air absent.	他倚着柜台，手肘搁在潮湿的木板上，心不在焉地打量着店里。		
+coupe-ongles	kupɔ̃gl	n.m.	指甲刀	Il cherche son coupe-ongles dans le tiroir de la salle de bain.	他在浴室抽屉里找指甲刀。		
+couple	kupl	n.m.	一对；夫妻	Ce couple s'est rencontré à Paris et vit maintenant à la campagne.	这对夫妻在巴黎相识，现在住在乡下。		
+courage	kuʁaʒ	n.m.	勇气	Il a eu le courage de dire la vérité devant tout le monde.	他鼓起勇气当着所有人的面说出了真相。		
 courber	kuʁbe	v.	弯腰	Il a dû courber la tête pour entrer dans la cave.	他不得不低下头才走进地窖。		
-chancelé	ʃɑ̃səle	v.	摇晃	Le vieil homme a chancelé avant de s'appuyer au mur.	老人晃了一下，然后靠到墙上。		
-claudication	klodikasjɔ̃	n.f.	跛行	Sa claudication est devenue plus visible après la longue marche.	走了那么久之后，他走路一瘸一拐的样子更明显了。		
-élégant	elegɑ̃	adj.	高雅的	Il porte toujours un costume élégant pour les grandes occasions.	遇到大场合他总是穿一套讲究的西装。		
-clopiner	klopine	v.	满	Le blessé clopinait lentement vers la porte de l'hôpital.	伤者一瘸一拐地慢慢走向医院大门。		
-boiter	bwate	v.	跨蹦	Depuis sa chute, il boite un peu en montant les escaliers.	自从摔了一跤，他上楼梯时有点跛。		
-flâner	flane	v.	狗	Nous aimons flâner dans les rues du vieux quartier.	我们喜欢在老城区的街上闲逛。		
-approuver	apʁuve	v.	赞成	Ses parents ont approuvé son projet de voyage en Italie.	他父母赞成了他去意大利旅行的计划。		
-optimiste	ɔptimist	adj.	乐观的	Malgré les difficultés, elle reste optimiste sur l'avenir du projet.	尽管困难重重，她对项目的前景依然乐观。		
-objectif	ɔbʒɛktif	adj.	观的	Un bon journaliste doit rester objectif dans ses reportages.	好记者在报道中必须保持客观。		
-juste	ʒyst	adj.	公平的	Le juge a rendu une décision juste et claire.	法官作出了一个公正而明确的判决。		
-désintéresse	dezɛ̃teʁɛs	v.	公正的	Ce fonctionnaire désintéressé juge les dossiers avec beaucoup d'équité.	这位不谋私利的公务员判案十分公道。		
-prudemment	pʁydamɑ̃	adv.	谨慎地	Elle a traversé la route prudemment en regardant des deux côtés.	她左右看了看，才小心地穿过马路。		
-serviable	sɛʁvjabl	adj.	热心助人的	Le gardien de notre immeuble est très serviable et toujours souriant.	我们楼的看门人非常热心，总是笑眯眯的。		
-fier	fjɛʁ	adj.	骄傲的	Ses parents sont très fiers de son travail à l'université.	他父母为他在大学的工作感到非常骄傲。		
-concluant	kɔ̃klyɑ̃	adj.	令人信服的	Les résultats de cette étude sont vraiment concluants.	这项研究的结果确实很有说服力。		
-convaincant	kɔ̃vɛ̃kɑ̃	adj.	令人信服的	Son argument était si convaincant que tout le monde a accepté.	他的理由如此有力，大家都接受了。		
-patient	pasjɑ̃	adj.	耐心的	Un bon professeur doit être patient avec les débutants.	好老师对初学者必须有耐心。		
-préférer	pʁefeʁe	v.	喜爱	Je préfère le thé au café le matin.	早上我更喜欢喝茶而不是咖啡。		
-pessimisme	pesimizm	n.m.	悲观	Son pessimisme inquiète toute l'équipe avant le match.	他的悲观情绪让全队在赛前都很不安。		
-dogmatique	dɔgmatik	adj.	武断的	Il parle de façon dogmatique sans écouter les autres.	他说话很武断，从不听别人的意见。		
-affligeante	afliʒɑ̃t	adj.	令人丧的	La situation de ces familles est vraiment affligeante.	这些家庭的处境实在令人难受。		
+cousin	kuzɛ̃	n.m.	堂兄弟	Mon cousin habite à Bordeaux et vient nous voir chaque hiver.	我表哥住在波尔多，每年冬天都来看我们。		
+cracher	kʁaʃe	v.	吐	Le vieil homme cracha par terre avant de répondre, geste que ses fils ne supportaient plus.	老人回答前往地上吐了口痰，这个动作让他的儿子们再也受不了。		
+craindre	kʁɛ̃dʁ	v.	害怕	Je crains de rater mon train à cause de la neige.	我担心因为下雪赶不上火车。		
+crainte	kʁɛ̃t	n.f.	恐惧	Il avançait dans le noir, saisi d'une crainte que la raison ne parvenait pas à dissiper.	他在黑暗中前行，被一种理智无法驱散的恐惧攫住。		
+crâne	kʁan	n.m.	头骨	Le choc avait été si violent qu'il s'était fracturé le crâne contre le pare-brise.	撞击太猛，他的头骨撞在挡风玻璃上骨折了。		
+crispation	kʁispasjɔ̃	n.f.	肌肉紧缩；紧张	Une crispation du visage trahissait sa peur devant le jury.	他脸上一阵紧绷，流露出面对评委时的恐惧。		
+cruel	kʁyɛl	adj.	残酷的	Il trouvait cruel de laisser ces bêtes enfermées dans des cages aussi étroites pendant des années.	他觉得把这些牲畜长年关在如此狭小的笼子里很残忍。		
+cuisse	kɥis	n.f.	大腿	Il s'était blessé à la cuisse en tombant de l'échelle, et il boitait depuis.	他从梯子上摔下来伤了大腿，从那以后就一直瘸着。		
+curieux	kyʁjø	adj.	好奇的；奇怪的	Cet enfant curieux posait des questions sur absolument tout ce qu'il voyait.	这个好奇的孩子对所看到的一切都要问。		
+curiosité	kyʁjozite	n.f.	好奇心	Une curiosité mêlée de crainte le poussait à ouvrir la lettre qu'il avait gardée si longtemps.	一种夹杂着畏惧的好奇心驱使他打开那封存了很久的信。		
+cuticule	kytikyl	n.f.	表皮	La cuticule protège l'ongle contre les petites infections de la peau.	表皮保护指甲免受轻微的皮肤感染。		
+dame	dam	n.f.	女士	Une vieille dame m'a demandé le chemin de la mairie.	一位老太太向我问去市政厅的路。		
+dédaigneux	dedɛɲø	adj.	轻蔑的	Sa réponse dédaigneuse a blessé toute la famille hier soir.	她轻蔑的回答昨晚伤了全家人的心。		
+dégoûté	degute	adj.	厌恶的	Mon frère est dégoûté par les plats trop gras.	我弟弟对太油腻的菜很反感。		
+dément	demɑ̃	adj.	荒唐的	Son projet dément a choqué tous les habitants du quartier.	他那个荒唐的计划让街区的居民都很震惊。		
+dent	dɑ̃	n.f.	牙齿	Le dentiste m'a dit que je devais brosser mes dents plus souvent.	牙医说我的牙应该刷得更勤一些。		
+dentifrice	dɑ̃tifʁis	n.m.	牙膏	J'ai oublié mon dentifrice dans la chambre d'hôtel.	我把牙膏忘在旅馆房间里了。		
+dépit	depi	n.m.	恼怒；尽管	En dépit de ses efforts, la maison tombait en ruine, et il le savait mieux que quiconque.	尽管他费尽心力，房子还是在坍塌，这一点他比谁都清楚。		
+déplacé	deplase	adj.	不得体的	Sa plaisanterie était vraiment déplacée pendant le dîner familial.	他的玩笑在家庭晚餐上很不得体。		
+déprimé	depʁime	adj.	沮丧的；凹陷的	Il a les joues déprimées après sa longue maladie.	久病之后他的双颊凹陷下去。		
+dérider	deʁide	v.	露出笑容	Cette histoire drôle réussit toujours à dérider mon père.	这个有趣的故事总能让我父亲露出笑容。		
+désarmant	dezaʁmɑ̃	adj.	消除敌意的	Son sourire désarmant a calmé tout le monde dans la salle.	他那让人放下戒心的微笑安抚了全屋的人。		
 désespérant	dezɛspeʁɑ̃	adj.	令人失望的	Son manque d'effort est désespérant pour ses professeurs.	他不用功，让老师们很失望。		
-sceptique	sɛptik	adj.	怀疑的	Je reste sceptique devant ces promesses trop faciles.	面对这些过于轻巧的承诺，我仍然持怀疑态度。		
-contrarier	kɔ̃tʁaʁje	v.	反对	Cette nouvelle a contrarié tous nos projets de vacances.	这个消息打乱了我们所有的度假计划。		
-fâche	faʃ	v.	愤怒的	Il se fâche vite quand on critique son travail.	别人批评他的工作时，他很容易发火。		
-mépriser	mepʁize	v.	轻视	On ne doit pas mépriser ceux qui pensent autrement.	不应当轻视想法不同的人。		
-frustrée	fʁystʁe	v.	沮丧的	Elle est frustrée de ne pas pouvoir partir cet été.	今年夏天走不了，她感到很沮丧。		
-équivoque	ekivɔk	adj.	模棱两可的	Sa réponse équivoque a laissé tout le monde perplexe.	他模棱两可的回答让所有人都摸不着头脑。		
-portable	pɔʁtabl	adj.	便携的	J'emporte toujours mon ordinateur portable quand je pars en voyage.	我出门旅行时总带着笔记本电脑。		
-mobile	mobil	adj.	移动的	Cet escalier mobile permet d'accéder au premier étage.	这部移动楼梯可以通到二楼。		
-sonnerie	sɔnəʁi	n.f.	手机铃声	La sonnerie de son téléphone a interrompu la réunion.	他的手机铃声响了起来，打断了会议。		
-fermeture	fɛʁmətyʁ	n.f.	关机	La fermeture du magasin est prévue pour huit heures.	商店定于八点关门。		
-message	mesaʒ	n.m.	短信	Elle m'a envoyé un message pour confirmer le rendez-vous.	她给我发了条短信确认约会。		
-ordinateur	ɔʁdinatœʁ	n.m.	电脑	Mon ordinateur est tombé en panne hier soir.	我的电脑昨晚坏了。		
-clavier	klavje	n.m.	键盘	Le clavier de mon ordinateur est couvert de poussière.	我电脑的键盘上全是灰。		
-table	tabl	n.f.	平板电脑	Cette table tactile remplace les anciens livres de classe.	这台平板电脑取代了以前的课本。		
-data	data	v.	数据	Les data de cette enquête sont difficiles à interpréter.	这次调查的数据很难解读。		
-pirate	piʁat	adj.	黑客	Un pirate a volé les données de plusieurs milliers de clients.	一名黑客窃取了数千名客户的数据。		
-matériel	mateʁjɛl	adj.	硬件	Le matériel informatique de l'école sera remplacé cet été.	学校的硬件设备将在今年夏天更换。		
-logiciel	loʒisjɛl	adj.	软件	Ce logiciel gratuit protège les fichiers personnels des utilisateurs.	这款免费软件保护用户的个人文件。		
-souris	suʁi	adj.	鼠标	Ma souris sans fil ne fonctionne plus depuis ce matin.	我的无线鼠标从今天早上起就不能用了。		
-programme	pʁogʁam	n.m.	程序	Ce programme permet de traduire un texte en quelques secondes.	这个程序可以在几秒钟内翻译一篇文章。		
-condensation	kɔ̃dɑ̃sasjɔ̃	n.f.	缩放	La condensation de l'eau sur la vitre empêche de voir la rue.	玻璃上的水汽让人看不清街道。		
-synchronisation	sɛ̃kʁonizasjɔ̃	n.f.	同步	La synchronisation de mes fichiers prend quelques minutes chaque matin.	我的文件同步每天早上要花几分钟。		
-réseau	ʁezo	n.m.	网络	Le réseau internet est très lent dans ce village.	这个村子的网络非常慢。		
-sans-fil	sɑ̃fil	n.m.	无线的	Cette imprimante sans-fil fonctionne avec toutes les tablettes.	这台无线打印机可以和所有平板电脑配合使用。		
-internet	ɛ̃tɛʁnɛt	n.	网	Mes grands-parents apprennent à utiliser internet avec leurs petits-enfants.	我祖父母正跟着孙辈学上网。		
-affichage	afiʃaʒ	n.m.	点击数	L'affichage de la page est trop petit sur mon écran.	这个页面在我屏幕上显示得太小。		
-surfer	sœʁfe	v.	网上冲浪	Il aime surfer sur internet pendant des heures le dimanche.	他星期天喜欢在网上逛上好几个小时。		
-annuler	anyle	v.	注销	Nous avons annulé notre réservation à cause de la pluie.	因为下雨，我们取消了预订。		
-internaute	ɛ̃tɛʁnot	n.	网民	Chaque internaute doit protéger ses mots de passe personnels.	每个网民都应该保护好自己的密码。		
-renouveler	ʁənuvəle	v.	刷新	Il faut renouveler votre abonnement avant la fin du mois.	您得在月底前续订。		
-connecter	konɛkte	v.	联系	Je n'arrive pas à me connecter au réseau de l'hôtel.	我连不上酒店的网。		
-bloc	blɔk	n.m.	博客	Elle écrit chaque semaine un nouvel article sur son bloc.	她每周都在自己的博客上写一篇新文章。		
-abonner	abone	v.	订阅	Je me suis abonné à une revue scientifique mensuelle.	我订阅了一份科学月刊。		
-répondre	ʁepɔ̃dʁ	v.	回复	Il a répondu à mon message en moins de deux minutes.	他不到两分钟就回复了我的消息。		
-article	aʁtikl	n.m.	文章	Cet article explique très clairement les causes du réchauffement.	这篇文章把变暖的原因讲得非常清楚。		
-e-mail	imɛjl	n.m.	电子邮件	J'ai reçu un e-mail de mon ancien professeur ce matin.	今天早上我收到了以前老师的一封邮件。		
-émettre	emɛtʁ	v.	发送	La chaîne va émettre le débat en direct ce soir.	电视台今晚将直播这场辩论。		
-néologisme	neoloʒizm	n.m.	新词	Ce néologisme apparaît de plus en plus dans la presse.	这个新词越来越多地出现在报刊上。		
-famille	famij	n.f.	家庭	Toute la famille se réunit chez ma grand-mère le dimanche.	星期天全家都到我奶奶家聚会。		
-relation	ʁəlasjɔ̃	n.f.	关系	Il entretient une bonne relation avec ses anciens collègues.	他和以前的同事保持着良好关系。		
-femme	fam	n.f.	妻子	Sa femme travaille comme infirmière à l'hôpital du centre.	他妻子在市中心医院当护士。		
-mari	maʁi	n.m.	文夫	Son mari prépare le dîner pendant qu'elle lit au salon.	她在客厅看书，她丈夫在做晚饭。		
-mère	mɛʁ	n.f.	妈妈	Ma mère m'appelle tous les dimanches pour prendre des nouvelles.	我妈妈每个星期天都打电话来问候我。		
-père	pɛʁ	n.m.	父亲	Mon père m'a appris à faire du vélo à six ans.	我六岁时父亲教会了我骑车。		
-fils	fis	n.m.	儿子	Leur fils aîné étudie la médecine à Lyon depuis trois ans.	他们的大儿子在里昂学医三年了。		
-fille	fij	n.f.	女儿	Leur fille cadette adore dessiner des animaux dans son cahier.	他们的小女儿喜欢在笔记本上画动物。		
-grand-père	gʁɑ̃-pɛʁ	adj.	爷爷，外公	Mon grand-père raconte souvent des histoires de son village.	我爷爷常讲他村子的故事。		
-oncle	ɔ̃kl	n.m.	叔叔	Mon oncle habite une petite maison près de la mer.	我叔叔住在海边的一所小房子里。		
-tante	tɑ̃t	n.f.	姑母	Ma tante nous invite à déjeuner chaque premier janvier.	我姑妈每年元旦都请我们吃午饭。		
-familier	familje	adj.	亲近的	Son visage m'est familier, mais je ne trouve pas son nom.	他的脸我很眼熟，可就是想不起名字。		
-parente	paʁɑ̃t	adj.	亲属	Une parente de ma mère habite dans le même immeuble.	我母亲的一位亲戚住在同一栋楼里。		
-cousin	kuzɛ̃	n.m.	表兄弟	Mon cousin joue au football dans un club de la ville.	我表弟在市里一家俱乐部踢足球。		
-neveu	nəvø	n.m.	侄子	Mon neveu fête son anniversaire samedi prochain à la maison.	我侄子下周六在家里过生日。		
-amant	amɑ̃	n.m.	情人	Elle a retrouvé son amant dans un petit café du port.	她在港口的一家小咖啡馆里与情人重逢。		
-ami	ami	adj.	朋友	C'est un ami fidèle depuis nos années d'école.	他从学生时代起就是我忠实的朋友。		
-amitié	amitje	n.f.	友谊	Leur amitié résiste au temps et à la distance.	他们的友谊经得起时间和距离的考验。		
-encourager	ɑ̃kuʁaʒe	v.	增进	Ses professeurs l'encouragent à continuer ses études à l'étranger.	老师们鼓励他继续到国外深造。		
-romantique	ʁomɑ̃tik	adj.	浪漫的	Il a préparé un dîner romantique pour son anniversaire de mariage.	他为结婚纪念日准备了一顿浪漫的晚餐。		
-surprise	syʁpʁiz	n.f.	惊喜	Nous lui avons préparé une surprise pour son départ.	我们为他的离开准备了一个惊喜。		
-rendez-vous	ʁɑ̃devu	n.m.	约会	J'ai un rendez-vous chez le dentiste à trois heures.	我三点钟约了牙医。		
-rancard	ʁɑ̃kaʁ	n.m.	约会	Il a donné un rancard à sa copine près de la fontaine.	他约女朋友在喷泉旁边见面。		
-sincère	sɛ̃sɛʁ	adj.	真诚的	Ses excuses étaient sincères et tout le monde l'a pardonné.	他的道歉很真诚，大家都原谅了他。		
-désintéressée	dezɛ̃teʁese	v.	无私的	Cette bénévole désintéressée aide les sans-abri chaque hiver.	这位无私的志愿者每年冬天都帮助无家可归的人。		
-compagnon	kɔ̃paɲɔ̃	n.m.	伙伴	Son compagnon de voyage parle trois langues étrangères.	他的旅伴会说三门外语。		
-accompagner	akɔ̃paɲe	v.	陪伴	Je vais accompagner ma sœur à la gare ce soir.	今晚我要送妹妹去火车站。		
-sexe	sɛks	n.m.	性别	Ce formulaire demande le sexe et la date de naissance.	这张表格要求填写性别和出生日期。		
-ennemi	ɛnəmi	adj.	敌人	Ce peuple ennemi a finalement accepté la paix.	这个敌对民族最终接受了和平。		
-hostile	ɔstil	adj.	有敌意的	La foule était hostile aux journalistes venus couvrir l'événement.	人群对前来报道事件的记者充满敌意。		
-bagarrer	bagaʁe	v.	打架	Les deux garçons se sont bagarrés pendant la récréation.	两个男孩在课间打了起来。		
-compétition	kɔ̃petisjɔ̃	n.f.	竞争	Cette compétition attire des athlètes venus de toute l'Europe.	这项比赛吸引了来自全欧洲的运动员。		
+désespoir	dezɛspwaʁ	n.m.	绝望	Un désespoir silencieux l'envahit lorsqu'il comprit que la lettre qu'il avait écrite ne serait jamais lue.	当他明白自己写的那封信永远不会被读到，一种无声的绝望攫住了他。		
+désintéressé	dezɛ̃teʁese	adj.	无私的	Ce fonctionnaire désintéressé juge les dossiers avec beaucoup d'équité.	这位不谋私利的公务员判案十分公道。		
+désir	deziʁ	n.m.	欲望	Son plus grand désir était de vivre près de la mer.	他最大的愿望是住在海边。		
+désirer	deziʁe	v.	想要	Elle désirait tellement ce poste qu'elle a accepté toutes les conditions imposées.	她太想要这个职位了，接受了所有附加条件。		
+désoeuvré	dezœvʁe	adj.	闲散的	Sans mission, il reste désoeuvré toute la journée au bureau.	没有任务时，他整天在办公室无所事事。		
+désolé	dezole	adj.	抱歉的；难过的	Je suis désolé, je ne savais pas que tu attendais.	对不起，我不知道你在等。		
+désoler	dezole	v.	使遗憾	La décision du maire désole tous les habitants du village.	市长的决定让村里所有居民都很遗憾。		
+détermination	detɛʁminasjɔ̃	n.f.	决心	Sa détermination à finir son doctorat impressionne vraiment ses professeurs.	他读完博士的决心让老师们印象深刻。		
+détester	detɛste	v.	讨厌	Elle déteste attendre debout dans les files d'attente du supermarché.	她讨厌在超市的队伍里站着等。		
+digne	diɲ	adj.	值得的；尊严的	Sa conduite, en cette circonstance difficile, fut jugée digne de l'estime que tous lui portaient.	他在这一艰难处境中的行为，被认为配得上众人对他的敬重。		
+dignement	diɲəmɑ̃	adv.	体面地；有尊严地	Il a dignement accepté sa défaite devant tout le public.	他在全场观众面前体面地接受了失败。		
+dignité	diɲite	n.f.	尊严	Il a conservé jusqu'au bout une dignité que la maladie elle-même ne parvenait pas à entamer.	他直到最后都保持着一份连疾病也无法侵蚀的尊严。		
+discret	diskʁɛ	adj.	谨慎的；不显眼的	Il a pris congé d'un signe discret de la main, sans attirer l'attention des autres convives.	他悄悄做了个手势告辞，没有引起其他客人的注意。		
+dissolvant	disɔlvɑ̃	n.m.	溶剂；洗甲水	Le dissolvant enlève le vernis à ongles très rapidement.	洗甲水很快就能卸掉指甲油。		
+docte	dɔkt	adj.	博学的	Son ton docte agace un peu ses camarades de classe.	他那博学的腔调让同学们有点烦。		
+dodu	dody	adj.	胖的	Le bébé dodu dort dans les bras de sa mère.	胖乎乎的婴儿在母亲怀里睡着。		
+dogmatique	dɔgmatik	adj.	武断的	Il parle de façon dogmatique sans écouter les autres.	他说话很武断，从不听别人的意见。		
+doigt	dwa	n.m.	手指	Il compte sur ses doigts les jours avant les vacances.	他掰着手指算离假期还有几天。		
+dolent	dɔlɑ̃	adj.	悲伤的	Il nous a regardés d'un air dolent avant de partir.	他走之前用一种哀伤的神情看着我们。		
+dorsal	dɔʁsal	adj.	背部的	La ligne dorsale de la montagne se voit de très loin.	山的脊线从很远的地方就能看见。		
+dos	do	n.m.	背	Il a mal au dos après avoir porté ces cartons.	搬完这些箱子后他背疼。		
+douloureux	duluʁø	adj.	疼痛的；痛苦的	Le souvenir de cette séparation restait si douloureux qu'il évitait encore d'en parler à ses proches.	那次离别的记忆仍然如此痛苦，以致他至今仍回避和亲人谈起。		
+doute	dut	n.m.	怀疑	J'ai un doute sur la date de son arrivée.	我对他到达的日期有疑问。		
+douter	dute	v.	怀疑	Je doute qu'il arrive à temps avec cette neige.	下这么大的雪，我怀疑他能不能及时到。		
+doux	du	adj.	软的；温柔的	Ce pull est très doux, je le porte tout le temps.	这件毛衣很软，我一直穿着。		
+dynamique	dinamik	adj.	活跃的	Ce secteur reste dynamique malgré la crise économique actuelle.	尽管当前经济危机，这个行业依然活跃。		
+échevelé	eʃəvəle	adj.	蓬乱的	Elle est sortie échevelée, sans même se regarder dans la glace.	她头发蓬乱地就出门了，连镜子都没照。		
+échine	eʃin	n.f.	脊椎	Elle sent un frisson descendre le long de son échine.	她感到一阵寒意顺着脊背往下走。		
+économe	ekonɔm	adj.	节俭的	Mon frère est très économe et prend toujours le bus.	我弟弟很节俭，总是坐公交。		
+écrier	ekʁije	v.	惊叫	Elle s'écria que c'était impossible, puis resta immobile, les yeux fixés sur le télégramme.	她惊叫说这不可能，随后一动不动，眼睛盯着那份电报。		
+élan	elɑ̃	n.m.	冲劲；麋鹿	Il prit son élan et sauta par-dessus le fossé, atterrissant de l'autre côté sans perdre l'équilibre.	他助跑起跳越过沟渠，落到对面时没有失去平衡。		
+élancé	elɑ̃se	adj.	细长的	Un jeune homme élancé attend devant la porte de l'immeuble.	一个身材细长的年轻人在楼门口等着。		
+élégant	elegɑ̃	adj.	高雅的	Il porte toujours un costume élégant pour les grandes occasions.	遇到大场合他总是穿一套讲究的西装。		
+embrasser	ɑ̃bʁase	v.	拥抱；亲吻	Elle a embrassé ses parents avant de monter dans le train.	她上车前拥抱了父母。		
+émotion	emosjɔ̃	n.f.	情感；激动	Il raconta son histoire sans émotion apparente, comme s'il parlait d'un autre.	他讲自己的经历时看不出情绪，仿佛在说别人。		
+émouvoir	emuvwaʁ	v.	感动	Ce récit ne cessait de l'émouvoir, bien qu'il en connût déjà chaque détail par cœur.	这个故事总是让他动情，尽管他早已把每个细节都记在心里。		
 émule	emyl	n.	竞争者	Il cherche toujours un émule capable de le pousser au sommet.	他总在寻找一个能把他推到顶峰去的对手。		
-concurrence	kɔ̃kyʁɑ̃s	n.f.	竞争的	La concurrence entre ces deux marques devient très rude.	这两个品牌之间的竞争变得非常激烈。		
-adversaire	advɛʁsɛʁ	n.	对手	Mon adversaire jouait mieux que moi pendant le match.	比赛中我的对手打得比我好。		
-également	egaləmɑ̃	adv.	等地	Elle parle également russe et italien pendant ses voyages.	她旅行时也会说俄语和意大利语。		
-dignement	diɲəmɑ̃	adv.	理所当然地	Il a dignement accepté sa défaite devant tout le public.	他在全场观众面前体面地接受了失败。		
-controverse	kɔ̃tʁovɛʁs	n.f.	争论	Cette décision a provoqué une vive controverse dans le pays.	这个决定在国内引发了激烈的争论。		
-idée	ide	n.f.	主意	J'ai une bonne idée pour organiser la fête de fin d'année.	我有个好主意来筹办年终聚会。		
-débat	deba	n.m.	论战	Le débat sur le climat a duré plus de trois heures.	关于气候的辩论持续了三个多小时。		
-argumenter	aʁgymɑ̃te	v.	辩论	Elle sait argumenter calmement sans jamais hausser la voix devant ses collègues.	她善于平心静气地辩论，从不在同事面前提高嗓门。		
-dispute	dispyt	n.f.	争论	Une dispute a éclaté entre les deux voisins hier soir.	昨晚两个邻居之间爆发了一场争吵。		
-quereller	kəʁele	v.	大声争吵	Ils se querellent souvent pour des choses sans importance.	他们常为一些无关紧要的事大声争吵。		
-fiance	fjɑ̃s	v.	已订婚的	Elle se fiance avec un jeune ingénieur qu'elle adore.	她和一个她很喜欢的年轻工程师订了婚。		
+enceinte	ɑ̃sɛ̃t	adj.	怀孕的	Sa sœur est enceinte et prépare déjà la chambre du bébé.	她姐姐怀孕了，已经在布置婴儿房。		
+endormi	ɑ̃dɔʁmi	adj.	睡着的	L'enfant endormi sur la banquette du train semblait ignorer le vacarme des voyageurs et le sifflement des portes.	火车座位上睡着的孩子似乎对旅客的喧哗和车门的嘶鸣毫无所觉。		
+endormir	ɑ̃dɔʁmiʁ	v.	使入睡	Elle a endormi le bébé en chantant doucement dans la chambre voisine.	她在隔壁房间轻轻唱歌，把宝宝哄睡了。		
+enfance	ɑ̃fɑ̃s	n.f.	童年	Il a passé son enfance dans un petit village de montagne.	他的童年是在一个小山村度过的。		
+enfant	ɑ̃fɑ̃	n.	孩子	L'enfant joue dans le jardin.	孩子在花园里玩。		
+ennui	ɑ̃nɥi	n.m.	厌烦；烦恼	Pour échapper à l'ennui, il sortait marcher le long du canal chaque soir.	为了摆脱无聊，他每晚都沿着运河散步。		
+ennuyer	ɑ̃nɥije	v.	使厌烦	Ce discours commençait à ennuyer tout le monde, même les plus patients.	这个讲话开始让所有人厌烦，连最有耐心的人也不例外。		
+enthousiasme	ɑ̃tuzjasm	n.m.	热情	Son enthousiasme, réellement communicatif, a gagné toute l'équipe dès la première réunion de travail.	他真正具有感染力的热情，从第一次工作会议起就带动了整个团队。		
+entreprenant	ɑ̃tʁəpʁənɑ̃	adj.	有事业心的	Cet étudiant entreprenant a créé sa petite entreprise pendant ses études.	这个有事业心的学生在读书期间创办了自己的小公司。		
+envie	ɑ̃vi	n.f.	渴望；想	J'ai envie de boire un café avec toi ce soir.	我今晚想和你喝杯咖啡。		
+épaule	epol	n.f.	肩膀	Il portait un sac très lourd sur son épaule droite.	他右肩背着一个很重的包。		
+épauler	epole	v.	支持；用肩托住	Le chasseur a épaulé son fusil avant de viser la cible.	猎人端起枪托瞄准了目标。		
+époux	epu	n.m.	配偶；丈夫	Son époux travaille à l'étranger et ne rentre au pays qu'aux vacances.	她丈夫在国外工作，只有假期才回国。		
+éprouver	epʁuve	v.	感受；考验	Elle éprouvait une joie étrange en revoyant cette vieille maison.	再见到这座老房子时，她感到一种奇特的喜悦。		
+érudit	eʁydi	adj.	博学的	Ce professeur érudit cite aussi bien les poètes que les historiens.	这位博学的教授既引用诗人也引用历史学家。		
+espérer	ɛspeʁe	v.	希望	J'espère vraiment que tu viendras à ma fête samedi.	我真的希望你星期六来参加我的聚会。		
+espoir	ɛspwaʁ	n.m.	希望	Nous gardons l'espoir de le revoir un jour.	我们仍抱着有朝一日再见到他的希望。		
+esprit	ɛspʁi	n.m.	精神；头脑	Elle a l'esprit clair et elle comprend tout très vite.	她头脑清楚，什么都理解得很快。		
+estomac	ɛstoma	n.m.	胃	Il a l'estomac vide depuis le début de la matinée.	他从一早就空着肚子。		
+éternuer	etɛʁnɥe	v.	打喷嚏	Elle éternue sans arrêt à cause de la poussière.	因为灰尘，她不停地打喷嚏。		
+étique	etik	adj.	皮包骨的	Ce chien étique attendait près de la porte du restaurant.	这只瘦骨嶙峋的狗在餐馆门口等着。		
+étonner	etone	v.	使惊讶	Son courage m'étonne encore, même après toutes ces années.	这么多年过去了，他的勇气仍让我惊讶。		
+excrément	ɛkskʁemɑ̃	n.m.	排泄物；粪便	Le jardinier utilise des excréments d'animaux comme engrais pour ses légumes.	园丁用动物粪便给蔬菜当肥料。		
+exubérant	ɛgzybeʁɑ̃	adj.	繁茂的	La végétation exubérante couvre toute la colline après la mousson.	季风过后，繁茂的植被覆盖了整座小山。		
+eye-liner	ajlajnœʁ	n.m.	眼线液	Elle applique un trait d'eye-liner noir avant de sortir le soir.	晚上出门前她画了一道黑色眼线。		
+face	fas	n.f.	脸；正面	Il s'est lavé la face avec de l'eau froide.	他用冷水洗了脸。		
+fâcher	faʃe	v.	使生气；生气	Il se fâche vite quand on critique son travail.	别人批评他的工作时，他很容易发火。		
+facial	fasjal	adj.	面部的	Elle suit un soin facial complet dans un institut près de chez elle.	她在附近的美容院做了一套完整的面部护理。		
+faible	fɛbl	adj.	弱的	La lumière était si faible qu'on distinguait à peine les visages autour de la table.	光线太弱，桌旁的一张张脸几乎看不清。		
+familial	familjal	adj.	家庭的	Le repas familial du dimanche, longtemps respecté, se réduit désormais à un appel téléphonique.	星期日的家庭聚餐由来已久，如今却缩减为一通电话。		
+famille	famij	n.f.	家庭	Toute la famille est là.	全家都在。		
+farfelu	faʁfəly	adj.	古怪的	Mon oncle a des idées farfelues qui amusent toute la famille.	我叔叔总有些古怪的念头，逗得全家发笑。		
+fatigué	fatiɡe	adj.	疲倦的	Je suis fatigué après le voyage.	旅行后我很累。		
+fatiguer	fatige	v.	使疲劳	Cette longue marche commençait à fatiguer même les plus jeunes d'entre nous.	这段长路连我们中最年轻的人也开始累了。		
+fébrile	febʁil	adj.	兴奋的	La veille du départ, les enfants étaient fébriles et ne dormaient pas.	出发前一天晚上，孩子们兴奋得睡不着觉。		
+féminin	feminɛ̃	adj.	女性的	La présence féminine, rare dans cette assemblée, a suffi à modifier le ton des débats.	在这个集会中罕见的女性身影，足以改变辩论的调子。		
+femme	fam	n.f.	女人；妻子	Sa femme travaille à Paris.	他妻子在巴黎工作。		
+fesse	fɛs	n.f.	臀	Il est tombé sur les fesses en glissant sur le sol mouillé.	他在湿地上滑了一跤，一屁股坐在地上。		
 fiançailles	fijɑ̃saj	n.f.	订婚	Leurs fiançailles seront célébrées dans un petit village.	他们的订婚仪式将在一个小村子里举行。		
-noces	nɔs	n.f.	婚礼	Les noces de leur fille ont réuni toute la famille.	他们女儿的婚礼把全家人都聚在了一起。		
-remarier	ʁəmaʁje	v.	结婚	Elle a décidé de se remarier dix ans après son divorce.	离婚十年后她决定再婚。		
-trousseau	tʁuso	n.m.	嫁妆	Sa grand-mère lui a préparé un beau trousseau de mariage.	她奶奶为她准备了一份漂亮的嫁妆。		
-desservir	desɛʁviʁ	v.	主持	Le prêtre va desservir la messe de onze heures.	神甫将主持十一点的弥撒。		
-pasteur	pastœʁ	n.m.	牧师	Le pasteur a prononcé un discours très émouvant dimanche.	牧师星期天发表了一段非常感人的讲话。		
-serment	sɛʁmɑ̃	n.m.	誓言	Les deux amis ont fait un serment d'amitié éternelle.	两个朋友立下了友谊长存的誓言。		
-mariage	maʁjaʒ	n.m.	婚姻	Leur mariage dure depuis plus de trente ans déjà.	他们的婚姻已经维持了三十多年。		
-épousailles	epuzaj	n.f.	婚庆	Les épousailles de leur fille ont duré jusqu'au matin.	他们女儿的婚宴一直持续到早上。		
+fiancer	fjɑ̃se	v.	使订婚；订婚	Elle se fiance avec un jeune ingénieur qu'elle adore.	她和一个她很喜欢的年轻工程师订了婚。		
+fidèle	fidɛl	adj.	忠实的	Ce chien, fidèle à son maître, l'attendait chaque soir devant la grille du jardin.	这条忠实的狗每天傍晚都在花园栅栏前等他。		
+fidélité	fidelite	n.f.	忠诚度	La fidélité des lecteurs assure la survie de ce petit journal.	读者的忠诚保证了这份小报的生存。		
+fier	fjɛʁ	adj.	骄傲的	Ses parents étaient très fiers de le voir enfin recevoir son diplôme.	看到他终于拿到文凭，父母非常自豪。		
+figure	figyʁ	n.f.	脸；形象	Je ne reconnaissais plus sa figure tant elle avait changé.	她的脸变化太大，我都认不出来了。		
+fille	fij	n.f.	女孩；女儿	Ma fille a huit ans.	我女儿八岁了。		
+fils	fis	n.m.	儿子	Leur fils a dix ans et aime le football.	他们的儿子十岁，喜欢足球。		
+flanc	flɑ̃	n.m.	侧面；腰侧	La balle l'avait atteint au flanc gauche, et il s'était effondré sans pousser un seul cri.	子弹击中了他的左侧腰部，他一声没吭就倒下了。		
+foie	fwa	n.m.	肝	Le foie filtre les toxines présentes dans le sang.	肝脏过滤血液中的毒素。		
+folie	foli	n.f.	疯狂	Ce fut une folie de partir sans carte ni argent dans ce désert.	不带地图和钱就闯进那片沙漠，真是疯狂。		
+force	fɔʁs	n.f.	力量	Il pousse la porte avec toute sa force.	他用尽全力推门。		
+fort	fɔʁ	adj.	强壮的；强烈的	Ce café est trop fort pour moi le matin.	这咖啡早上喝对我来说太浓了。		
+fou	fu	adj.	疯的	Mon voisin est un peu fou, mais il est très gentil.	我的邻居有点疯，但人很好。		
+fourbe	fuʁb	adj.	狡猾的；奸诈的	Ce candidat fourbe a volontairement caché une partie de son parcours.	这个狡猾的应聘者故意隐瞒了部分经历。		
+fragile	fʁaʒil	adj.	脆弱的	Cet équilibre, toujours fragile, dépendait d'un accord que personne ne semblait plus vouloir défendre.	这种始终脆弱的平衡取决于一项协议，而似乎再没人愿意维护它。		
+franc	fʁɑ̃	adj.	坦率的；免税的	La boutique franche de l'aéroport vend du parfum moins cher.	机场的免税店卖的香水更便宜。		
+frêle	fʁɛl	adj.	微弱的	On entendait une voix frêle derrière la porte fermée.	门后传来一个微弱的声音。		
+frénétiquement	fʁenetikəmɑ̃	adv.	疯狂地	Le chien remue la queue frénétiquement quand je rentre.	我一回家，狗就拼命摇尾巴。		
+frère	fʁɛʁ	n.m.	兄弟	J'ai un frère et deux sœurs.	我有一个兄弟和两个姐妹。		
+frimousse	fʁimus	n.f.	脸蛋儿	Sa petite frimousse couverte de taches amuse tout le monde.	他那张满是斑点的小脸蛋逗得大家直笑。		
+friqué	fʁike	adj.	有钱的	Son oncle est très friqué et possède trois voitures de sport.	他叔叔很有钱，拥有三辆跑车。		
+frisé	fʁize	adj.	卷曲的	Son petit frère a les cheveux frisés comme sa mère.	他弟弟和妈妈一样是卷发。		
+frisure	fʁizyʁ	n.f.	卷发	Ses frisures naturelles sèchent très lentement devant le miroir de l'entrée.	她天生的卷发在玄关的镜子前干得很慢。		
+front	fʁɔ̃	n.m.	额头；前线	Elle a posé sa main sur mon front brûlant.	她把手放在我发烫的额头上。		
+frustrer	fʁystʁe	v.	使受挫；受挫	Elle est frustrée de ne pas pouvoir partir cet été.	今年夏天走不了，她感到很沮丧。		
+fureur	fyʁœʁ	n.f.	狂怒	Il est parti dans une fureur que nul ne lui connaissait, claquant la porte derrière lui.	他怒气冲冲地走了，那股火气谁都没见过，还随手把门摔上。		
+furieux	fyʁjø	adj.	狂怒的	Furieux d'avoir été trompé, il quitta la salle sans saluer personne, la porte claquant derrière lui.	他因受骗而愤怒，没跟任何人道别就离开大厅，门在身后砰地关上。		
+futé	fyte	adj.	精明的	Ce petit futé trouve toujours une solution à tout.	这个小机灵鬼总能想出办法应对一切。		
+gai	gɛ	adj.	愉快的	Malgré la pluie, il sifflait un air gai en descendant l'escalier, comme si le monde lui appartenait.	尽管下着雨，他下楼时还吹着欢快的曲子，仿佛世界属于他。		
+gamin	gamɛ̃	n.m.	小孩	Un gamin du quartier lui a appris à faire du vélo sans les mains.	街区里的一个孩子教会了他撒把骑车。		
+garçon	ɡaʁsɔ̃	n.m.	男孩；服务员	Le garçon apporte le menu.	服务员拿来了菜单。		
+gars	ga	n.m.	小伙子	Ce grand gars travaille avec mon frère à l'usine.	这个高个小伙和我哥哥一起在工厂上班。		
+géant	ʒeɑ̃	adj.	巨大的；巨人	Dans la légende, un géant protège le pont contre les voyageurs.	传说中，一个巨人守护着那座桥，不让旅人通过。		
+gémir	ʒemiʁ	v.	呻吟	Le blessé gémissait doucement, sans jamais se plaindre, tandis qu'on pansait sa jambe tuméfiée.	伤者轻声呻吟，却从不抱怨，任人给他肿胀的腿换药。		
+généalogie	ʒenealoʒi	n.f.	家谱	Il a reconstitué patiemment la généalogie de sa famille grâce aux archives locales.	他借助地方档案耐心地重建了家族谱系。		
+génial	ʒenjal	adj.	天才的；超棒的	L'idée était géniale, mais personne n'avait pensé à vérifier si elle pouvait fonctionner.	这个主意棒极了，却没人想到去核实它是否行得通。		
+genou	ʒənu	n.m.	膝盖	Il s'est blessé au genou en tombant dans l'escalier.	他在楼梯上摔倒时伤了膝盖。		
+gens	ʒɑ̃	n.pl.	人们	Les gens de ce village sont très gentils.	这个村子里的人都很友善。		
+gentil	ʒɑ̃ti	adj.	友善的；乖的	C'était très gentil de ta part de m'aider hier.	你昨天帮我，真是太热心了。		
+geste	ʒɛst	n.m.	动作；手势	Il a fait un geste de la main pour me dire au revoir.	他用手做了个手势跟我告别。		
+gommage	gomaʒ	n.m.	磨砂膏	Un gommage doux une fois par semaine suffit pour cette peau.	这种肤质每周做一次温和的磨砂就够了。		
+gorge	gɔʁʒ	n.f.	喉咙	J'ai la gorge sèche après avoir parlé pendant deux heures.	讲了两个小时话，我嗓子发干。		
+gosse	gɔs	n.m.	小孩	Les gosses jouaient au ballon dans la rue, hier soir.	昨晚孩子们在街上踢球。		
+grâce	gʁas	n.f.	优雅；多亏	Grâce à son calme, elle avait évité que la discussion ne tourne à la dispute.	多亏她沉着，讨论才没有变成争吵。		
+grand-mère	gʁɑ̃mɛʁ	n.f.	祖母；外祖母	Ma grand-mère tricote des écharpes pour tous ses petits-enfants.	我祖母给所有的孙辈织围巾。		
+grand-père	gʁɑ̃pɛʁ	n.m.	祖父；外祖父	Mon grand-père racontait toujours des histoires de son village d'autrefois.	我祖父总是讲他从前村子里的故事。		
+grandir	gʁɑ̃diʁ	v.	长大	Elle a grandi dans un petit village et n'a jamais quitté sa région.	她在一个小村子长大，从没离开过家乡。		
+grêlé	gʁele	adj.	麻脸的	Sa peau grêlée garde les traces de son enfance.	他那张麻点的皮肤留着童年的痕迹。		
+gros	gʁo	adj.	胖的；粗的	La voisine grosse et souriante garde toujours ses petits-enfants.	那位胖胖的、总带笑的邻居一直照看孙辈。		
+gueule	gœl	n.f.	嘴脸	Il a une drôle de gueule avec ce chapeau.	他戴着这顶帽子，模样怪怪的。		
+hanche	ɑ̃ʃ	n.f.	髋部	Elle appuie la main sur sa hanche et soupire.	她把手按在髋部，叹了口气。		
+heureux	øʁø	adj.	幸福的；幸运的	Ils sont très heureux dans leur nouvelle maison près du lac.	他们住在湖边的新房子里很幸福。		
+homme	ɔm	n.m.	男人；人	Cet homme parle trois langues.	这个男人会说三种语言。		
+honnête	onɛt	adj.	诚实的；正直的	C'est un homme honnête qui ne ment jamais à ses amis.	他是个正直的人，从不对朋友撒谎。		
+honte	ɔ̃t	n.f.	羞耻	Il a rougi de honte quand tout le monde l'a regardé.	大家都看着他时，他羞得脸红了。		
+horreur	oʁœʁ	n.f.	恐惧；厌恶	Elle a reculé avec horreur en découvrant ce qu'il y avait dessous.	她看清下面是什么时，惊恐地后退了。		
+hostile	ɔstil	adj.	有敌意的	La foule était hostile aux journalistes venus couvrir l'événement.	人群对前来报道事件的记者充满敌意。		
+houppe	up	n.f.	一撮；绒球	La houppe du vieux chêne bougeait doucement dans le vent.	老橡树的树梢在风中轻轻摇动。		
+humeur	ymœʁ	n.f.	情绪	Il était de mauvaise humeur ce matin-là et refusait de parler à quiconque.	那天早上他心情很差，不肯跟任何人说话。		
+illusion	ilyzjɔ̃	n.f.	幻觉；错觉	Il conservait l'illusion que tout pouvait encore s'arranger, malgré les preuves accumulées contre cet espoir.	他仍抱着一切还能挽回的幻想，尽管反对这希望证据越积越多。		
+impatience	ɛ̃pasjɑ̃s	n.f.	不耐烦	Il tapait du pied, signe manifeste d'une impatience qu'il ne parvenait plus à contenir.	他跺着脚，明显流露出一种再也压不住的不耐烦。		
+impatient	ɛ̃pasjɑ̃	adj.	没有耐性的	Le client est impatient et appelle le service toutes les dix minutes.	客户很不耐烦，每十分钟就给服务部打一次电话。		
+imperturbable	ɛ̃pɛʁtyʁbabl	adj.	不可动摇的	Même sous pression, elle reste imperturbable et répond calmement aux critiques.	即使压力很大，她也不动声色，平静地回应批评。		
+impitoyable	ɛ̃pitwajabl	adj.	残忍的	Ce roi impitoyable punissait sévèrement tous ceux qui le critiquaient.	这个残忍的国王严惩所有批评他的人。		
+impulsif	ɛ̃pylsif	adj.	易冲动的	Il est trop impulsif pour négocier un contrat aussi important.	他太容易冲动，不适合谈判这么重要的合同。		
+incapable	ɛ̃kapabl	adj.	无能力的	Il se sentait incapable de reprendre la parole, comme si sa voix s'était brisée en chemin.	他觉得自己无法再开口，仿佛声音在半路上碎掉了。		
+incisive	ɛ̃siziv	n.f.	门牙	Elle a perdu une incisive en tombant de vélo.	她从自行车上摔下来，磕掉了一颗门牙。		
+inconsolable	ɛ̃kɔ̃solabl	adj.	无法安慰的；悲痛欲绝的	Après la défaite, l'entraîneur était inconsolable devant ses joueurs.	输球之后，教练在球员面前伤心不已。		
+inconstant	ɛ̃kɔ̃stɑ̃	adj.	善变的	Un collègue inconstant change d'avis à chaque réunion de service.	善变的同事在每次部门会议上都改变主意。		
+indépendant	ɛ̃depɑ̃dɑ̃	adj.	独立的	La presse indépendante est menacée par les nouvelles lois sur l'information.	独立媒体受到新的信息法威胁。		
+index	ɛ̃dɛks	n.m.	食指	Elle montre la fenêtre du bout de l'index droit.	她用右手食指指了指那扇窗。		
+indifférence	ɛ̃difeʁɑ̃s	n.f.	冷漠	L'indifférence qu'il opposait aux reproches finissait par exaspérer ceux qui lui voulaient le plus de bien.	他对责备的冷漠最终激怒了那些最真心关心他的人。		
+inquiet	ɛ̃kjɛ	adj.	焦虑的	Sa mère est inquiète parce qu'il ne répond pas.	他妈妈因为他不回电话而焦虑不安。		
+inquiéter	ɛ̃kjete	v.	使担心	La santé de mon père inquiète toute la famille depuis hier.	从昨天起，父亲的健康让全家人都担心。		
+inquiétude	ɛ̃kjetyd	n.f.	担忧	Une inquiétude diffuse l'empêchait de dormir, bien qu'aucune mauvaise nouvelle ne lui fût encore parvenue.	一种莫名的担忧让他睡不着，尽管还没有任何坏消息传到他这里。		
+inspiration	ɛ̃spiʁasjɔ̃	n.f.	灵感；吸气	Une bonne inspiration précède toujours une expiration lente et régulière.	深吸一口气之后，总是缓缓而均匀地呼气。		
+intelligence	ɛ̃teliʒɑ̃s	n.f.	智力	Son intelligence vive lui permettait de saisir en un instant ce que d'autres mettaient des heures à comprendre.	他头脑敏捷，一瞬间就能明白别人要花几个小时才懂的事。		
+intestin	ɛ̃tɛstɛ̃	n.m.	肠	L'intestin grêle absorbe la plupart des aliments que nous mangeons.	小肠吸收我们吃下去的大部分食物。		
+intime	ɛ̃tim	adj.	私密的；内心的	Il m'a confié, d'une voix intime, un secret qu'il n'avait jamais livré à personne.	他用一种私密的声音向我吐露了一个从未告诉过任何人的秘密。		
+intimider	ɛ̃timide	v.	恐吓	Ces hommes voulaient intimider les témoins pour les empêcher de parler aux enquêteurs.	这些人想恐吓证人，阻止他们对调查人员开口。		
+ivrogne	ivʁɔɲ	adj.	酗酒的	Cet ivrogne dort sur un banc devant la gare.	这个醉汉睡在车站前的长椅上。		
+jalousie	ʒaluzi	n.f.	嫉妒；百叶窗	Les jalousies blanches protègent bien la chambre du soleil d'été.	白色百叶窗很好地挡住了夏天的阳光。		
+jambe	ʒɑ̃b	n.f.	腿	Il s'est cassé la jambe en jouant au football.	他踢足球时摔断了腿。		
+jeune	ʒœn	adj.	年轻的	Elle est encore jeune.	她还年轻。		
+jeunesse	ʒœnɛs	n.f.	青春；青年	Il a passé toute sa jeunesse dans un village près de la mer.	他的整个青年时代都是在海边的一个村子度过的。		
+joie	ʒwa	n.f.	快乐	Ils ont sauté de joie en apprenant la nouvelle.	他们听到这个消息高兴得跳了起来。		
+joli	ʒɔli	adj.	漂亮的	Ta robe est très jolie.	你的裙子很漂亮。		
+joue	ʒu	n.f.	脸颊	Une larme coule doucement le long de sa joue gauche.	一滴眼泪顺着她的左脸颊缓缓流下。		
+jovial	ʒovjal	adj.	开朗的	Son oncle jovial raconte des blagues à chaque repas.	他那开朗的叔叔每顿饭都讲笑话。		
+lâche	laʃ	adj.	懦弱的；宽松的	Ce vieux pull est un peu lâche, mais très confortable.	这件旧毛衣有点宽松，但很舒服。		
+langue	lɑ̃g	n.f.	语言；舌头	Apprendre une nouvelle langue demande beaucoup de patience et de régularité.	学一门新语言需要很大的耐心和规律性。		
+larme	laʁm	n.f.	眼泪	Une larme a coulé sur sa joue quand elle a entendu la nouvelle.	听到这个消息时，一滴眼泪顺着她的脸颊流了下来。		
+las	la	adj.	疲倦的	Las de ces querelles stériles, il a fini par quitter la salle sans saluer personne.	厌倦了这些无谓的争吵，他最后没跟任何人打招呼就离开了大厅。		
+lèvre	lɛvʁ	n.f.	嘴唇	Il s'est mordu la lèvre en tombant de vélo.	他从自行车上摔下来时咬到了嘴唇。		
+ligament	ligamɑ̃	n.m.	韧带	Elle s'est déchiré un ligament du genou droit au foot.	她踢球时右膝韧带撕裂了。		
+lombes	lɔ̃b	n.m.pl.	腰部	Il a mal aux lombes après avoir porté ce carton.	搬完那个纸箱后他腰疼。		
+lotion	losjɔ̃	n.f.	洗剂；化妆水	Elle applique une lotion douce sur son visage le soir.	她晚上在脸上涂温和的洗液。		
+loyal	lwajal	adj.	忠诚的；正直的	Nous entretenons une relation loyale avec ce partenaire depuis longtemps.	我们与这位合作伙伴长期保持着可信的关系。		
+mâchoire	maʃwaʁ	n.f.	颌	Il serre les mâchoires très fort pour ne pas crier.	他紧紧咬住牙关，免得叫出声来。		
+madame	madam	n.f.	女士；夫人	Madame, votre table est prête.	女士，您的桌子准备好了。		
+mademoiselle	madəmwazɛl	n.f.	小姐	Mademoiselle, votre parapluie est resté sur la chaise près de la porte.	小姐，您的伞落在门边的椅子上了。		
+maigre	mɛgʁ	adj.	瘦的	Il est resté maigre malgré les repas copieux de sa mère.	尽管母亲做的饭菜很丰盛，他还是那么瘦。		
+main	mɛ̃	n.f.	手	Elle tient un livre dans la main droite.	她右手拿着一本书。		
+maître	mɛtʁ	n.m.	主人；老师	Le chien attend son maître devant la boulangerie.	狗在面包店门口等它的主人。		
+majeur	maʒœʁ	adj.	成年的；主要的	Depuis l'an dernier, sa fille est majeure et indépendante.	从去年起，他女儿就成年独立了。		
+mâle	mal	adj.	男性的；雄性的	Dans ce service, le personnel mâle est minoritaire depuis quelques années.	在这个部门，男性员工近年来只占少数。		
+malheureux	maløʁø	adj.	不幸的	Cet homme malheureux avait tout perdu, mais il refusait de se plaindre devant ses voisins.	这个不幸的男人失去了一切，却不肯在邻居面前抱怨。		
+malhonnête	malonɛt	adj.	不诚实的	Ce commerçant malhonnête a trompé tous ses clients du quartier.	这个不诚实的商家骗了街区所有顾客。		
+maman	mamɑ̃	n.f.	妈妈	Maman prépare le dîner dans la cuisine ce soir.	妈妈今晚在厨房做晚饭。		
+mannequin	manəkɛ̃	n.	模特	Pour la fête de l'école, elle a posé comme mannequin devant tout le monde.	为了学校庆典，她在众人面前当了一回模特。		
+maquiller	makije	v.	化妆	Elle se maquille vite le matin avant de partir.	她早上出门前很快化好妆。		
+mari	maʁi	n.m.	丈夫	Son mari travaille dans une banque au centre-ville.	她丈夫在市中心一家银行工作。		
+mauve	mov	adj.	浅紫色	Aujourd'hui, elle porte une jupe mauve et un pull blanc.	今天她穿一条浅紫色裙子和一件白毛衣。		
+mec	mɛk	n.m.	家伙；男的	Ce mec est sympa, il m'a aidé avec mes bagages.	这家伙挺好，帮我拿了行李。		
+méchant	meʃɑ̃	adj.	坏的；凶的	Ce chien n'est pas méchant, il aboie seulement pour défendre le territoire qu'on lui a confié.	这条狗不凶，它叫只是为了守护别人托付给它的地盘。		
+médius	medjys	n.m.	中指	Le médius est le plus long des cinq doigts.	中指是五根手指中最长的一根。		
+méfier	mefje	v.	提防	Il se méfie des promesses trop généreuses, ayant appris à ses dépens qu'elles cachaient souvent un piège.	他提防那些过于慷慨的承诺，因为他吃过亏，知道它们往往藏着陷阱。		
+membre	mɑ̃bʁ	n.m.	成员；肢体	Chaque membre du comité doit présenter brièvement son idée avant vendredi soir.	委员会每位成员都要在周五晚上前简要说明自己的想法。		
+mentir	mɑ̃tiʁ	v.	撒谎	Tu m'as menti hier, et je ne peux pas l'oublier.	你昨天对我撒了谎，我没法忘记。		
+menton	mɑ̃tɔ̃	n.m.	下巴	Il s'est coupé le menton en se rasant ce matin.	他今天早上刮胡子时刮伤了下巴。		
+mépris	mepʁi	n.m.	蔑视	Il a accueilli leurs remontrances avec un mépris qui en disait plus long que toute réponse.	他以一种比任何回答都更说明问题的蔑视接受了他们的责备。		
+mépriser	mepʁize	v.	轻视	On ne doit pas mépriser ceux qui pensent autrement.	不应当轻视想法不同的人。		
+mère	mɛʁ	n.f.	母亲	Sa mère habite à Lyon.	他母亲住在里昂。		
+meurtrir	mœʁtʁiʁ	v.	受伤	La chute a meurtri son épaule droite assez sérieusement.	这一摔把他的右肩伤得不轻。		
+mince	mɛ̃s	adj.	瘦的；薄的	Une couche de glace très mince recouvrait toute la route ce matin-là.	那天早上，整条路上结着一层很薄的冰。		
+mine	min	n.f.	表情；矿	À sa mine fatiguée, on comprenait qu'il n'avait pas fermé l'œil de la nuit.	看他疲惫的神色，就知道他一夜没合眼。		
+misérable	mizeʁabl	adj.	悲惨的	Ils vivent dans des conditions misérables depuis la destruction de leur maison.	自从房子被毁，他们一直生活在悲惨的条件中。		
+moelle	mwal	n.f.	骨髓	La moelle des os produit les cellules du sang.	骨髓生成血液细胞。		
+môme	mom	n.	小孩；姑娘	La môme du quartier achète du pain chaque matin.	街区里那个小姑娘每天早上都去买面包。		
+monsieur	məsjø	n.m.	先生	Bonjour, monsieur.	您好，先生。		
+moquer	moke	v.	嘲笑	Il ne faut pas se moquer des gens qui parlent mal notre langue.	不该嘲笑那些我们语言说得不好的人。		
+moral	moʁal	adj.	道德的；精神的	Il lui a offert un soutien purement moral, faute de pouvoir l'aider d'une autre manière.	他只能给她精神上的支持，因为无法以别的方式帮她。		
+mou	mu	adj.	软的；软弱的	Il est trop mou pour prendre une décision ce soir.	他太优柔寡断，今晚做不了决定。		
+moustache	mustaʃ	n.f.	小胡子	Sa moustache grise, soigneusement taillée, lui donnait un air d'officier retiré depuis longtemps des affaires.	他修剪整齐的灰胡子让他看上去像个早已退役的军官。		
+muet	mɥɛ	adj.	哑的；沉默的	Il resta muet pendant tout le repas, et personne n'osa rompre ce silence pesant.	整顿饭他都沉默不语，谁也不敢打破这沉重的寂静。		
+muscle	myskl	n.m.	肌肉	Le muscle de son épaule le faisait souffrir depuis qu'il avait soulevé ce carton.	自从搬了那个箱子，他肩上的肌肉就一直疼。		
+naïf	naif	adj.	天真的；幼稚的	Il serait naïf de croire que la technologie résoudra tous nos problèmes.	若以为技术能解决我们所有的问题，那就太天真了。		
+narcissique	naʁsisik	adj.	自恋的	Ce garçon si narcissique passe des heures devant son miroir.	这个男孩太自恋了，能在镜子前待上好几个小时。		
+narine	naʁin	n.f.	鼻孔	La fumée lui pique les narines dès qu'il entre.	他一进门就被烟呛得鼻孔发痒。		
+négatif	negatif	adj.	消极的	Son regard négatif décourage souvent les plus jeunes de l'équipe.	他消极的看法常让队里最年轻的人泄气。		
+négligence	negliʒɑ̃s	n.f.	疏忽	Une petite négligence a suffi pour gâcher toute la partie.	一个小小的疏忽就毁掉了整局比赛。		
+négligent	negliʒɑ̃	adj.	粗心的	Ce conducteur négligent oublie souvent de vérifier ses pneus.	这个粗心的司机经常忘记检查轮胎。		
+nerf	nɛʁ	n.m.	神经	Ce nerf transmet la douleur jusqu'au bout des doigts.	这条神经把疼痛传到指尖。		
+nerveux	nɛʁvø	adj.	紧张的；神经的	Il tapotait la table d'un geste nerveux, guettant le retour de celle qu'il attendait.	他神经质地敲着桌子，等着那个他所等待的人回来。		
+neveu	nəvø	n.m.	侄子	Mon neveu fête son anniversaire samedi prochain à la maison.	我侄子下周六在家里过生日。		
+nez	ne	n.m.	鼻子	Elle a le nez rouge à cause du froid.	她因为冷鼻子红了。		
+nouveau-né	nuvo ne	n.m.	新生儿	Le nouveau-né dort presque toute la journée.	新生儿几乎整天都在睡觉。		
+nu	ny	adj.	裸的	Le bébé court tout nu dans le jardin après le bain.	洗完澡后宝宝光着身子在花园里跑。		
+nuque	nyk	n.f.	后颈	Elle avait relevé ses cheveux, laissant voir sa nuque que le soleil avait brunie.	她把头发挽了起来，露出被太阳晒成褐色的后颈。		
+obéir	obeiʁ	v.	顺从	Les fonctionnaires doivent obéir aux ordres de leur supérieur hiérarchique.	公务员必须服从上级的命令。		
+œil	œj	n.m.	眼睛	Il ferme un œil et vise lentement la cible rouge.	他闭上一只眼睛，慢慢瞄准红色的靶心。		
+oncle	ɔ̃kl	n.m.	叔叔；舅舅	Mon oncle nous invite à déjeuner tous les dimanches.	我叔叔每个星期天请我们吃午饭。		
+ongle	ɔ̃gl	n.m.	指甲	Elle avait les ongles rongés jusqu'au sang, signe d'une anxiété qu'elle ne s'avouait pas.	她的指甲被咬到出血，这是她不肯承认的焦虑的迹象。		
+optimiste	ɔptimist	adj.	乐观的	Malgré les difficultés, elle reste optimiste sur l'avenir du projet.	尽管困难重重，她对项目的前景依然乐观。		
+ordonné	ɔʁdone	adj.	有条理的；整齐的	Son bureau est toujours parfaitement ordonné.	他的办公桌总是整理得井井有条。		
+oreille	oʁɛj	n.f.	耳朵	Le bébé a mal à l'oreille depuis hier soir.	宝宝从昨晚起耳朵疼。		
+organe	ɔʁgan	n.m.	器官	Le foie est un organe essentiel du corps humain.	肝脏是人体重要的器官。		
+orgueil	ɔʁgœj	n.m.	骄傲	Son orgueil l'empêchait de reconnaître une erreur que tous, autour de lui, avaient pourtant remarquée.	他的骄傲让他不肯承认一个周围人都已看出的错误。		
+originaire	oʁiʒinɛʁ	adj.	原籍的；来自…的	Cette plante est originaire des montagnes du sud de l'Europe.	这种植物原产于欧洲南部的山区。		
+orteil	ɔʁtɛj	n.m.	脚趾	Il s'est cogné le petit orteil contre la table.	他的小脚趾撞到了桌子上。		
+os	ɔs	n.m.	骨头	Il s'est fracturé un os du poignet au ski.	他滑雪时手腕骨折了。		
+ovaire	ovɛʁ	n.m.	卵巢；子房	L'ovaire de la fleur devient un fruit après la fécondation.	花儿的子房在受精之后会变成果实。		
+palais	palɛ	n.m.	宫殿；腭	Le palais avait été construit au bord du fleuve, face à la vieille ville.	这座宫殿建在河边，正对着老城。		
+pâle	pal	adj.	苍白的	Son visage était si pâle que nous avons appelé un médecin aussitôt.	他脸色苍白得很，我们马上叫了医生。		
+panique	panik	n.f.	恐慌；惊慌	Une panique générale s'est emparée de la foule dès que la première détonation a retenti.	第一声爆炸一响，人群便陷入普遍的恐慌。		
+papa	papa	n.m.	爸爸	Mon papa rentre du travail à six heures chaque soir.	我爸爸每天晚上六点下班回家。		
+parent	paʁɑ̃	n.m.	亲属；父母	Mes parents habitent dans un petit village près de la mer.	我父母住在海边一个小村子里。		
+parente	paʁɑ̃t	n.f.	女亲属	Une parente de ma mère habite dans le même immeuble.	我母亲的一位亲戚住在同一栋楼里。		
+parfum	paʁfœ̃	n.m.	香水；香味	Le parfum des fleurs envahissait la pièce dès qu'on ouvrait la fenêtre.	一开窗，花香就充满了房间。		
+parure	paʁyʁ	n.f.	成套首饰；装饰	Cette parure de perles est vendue à petit prix.	这套珍珠小饰物卖得很便宜。		
+passion	pasjɔ̃	n.f.	热情；痴迷	Depuis l'enfance, il a une passion folle pour la photographie.	他从小就对摄影痴迷得不得了。		
+patience	pasjɑ̃s	n.f.	耐心	Il faut une patience infinie pour enseigner à des enfants que le moindre bruit distrait.	教那些一点声响就分心的孩子，需要无限的耐心。		
+patient	pasjɑ̃	adj.	耐心的	Un bon professeur doit être patient avec les débutants.	好老师对初学者必须有耐心。		
+paume	pom	n.f.	手掌	Il a gardé la pièce au creux de sa paume, comme s'il craignait de la perdre.	他把那枚硬币握在掌心，仿佛怕把它弄丢。		
+paupière	popjɛʁ	n.f.	眼皮	Ses paupières sont lourdes après une nuit trop courte.	睡得太少，她的眼皮很沉。		
+pauvre	povʁ	adj.	贫穷的；可怜的	Cette pauvre femme cherche son chien depuis ce matin.	这个可怜的女人从早上就在找她的狗。		
+peau	po	n.f.	皮肤	Sa peau est très douce depuis qu'elle utilise cette crème.	自从用了这种面霜，她的皮肤变得很细腻。		
+peigne	pɛɲ	n.m.	梳子	J'ai perdu mon peigne dans la salle de bain.	我把梳子丢在浴室里了。		
+peine	pɛn	n.f.	辛苦；痛苦	Il travaille dur et gagne à peine sa vie.	他辛苦干活，勉强维持生活。		
+pelé	pəle	adj.	光秃的；秃的	Le chat pelé dort sur le vieux fauteuil du salon.	那只掉毛的猫睡在客厅的旧扶手椅上。		
+pellicule	pelikyl	n.f.	头皮屑	Il y a des pellicules sur le col de sa veste.	他外套领子上有头皮屑。		
+pelvis	pɛlvis	n.m.	骨盆	Le pelvis soutient les organes du bas du ventre.	骨盆托住下腹部的器官。		
+perçant	pɛʁsɑ̃	adj.	敏锐的；刺骨的	Mon voisin a des yeux perçants malgré son âge.	我邻居虽然年纪大了，视力却很好。		
+père	pɛʁ	n.m.	父亲	Mon père est professeur.	我父亲是老师。		
+perfectionniste	pɛʁfɛksjonist	adj.	完美主义的；完美主义者	Elle est perfectionniste et refuse de rendre un dossier incomplet.	她是个完美主义者，不肯交出任何不完整的材料。		
+perle	pɛʁl	n.f.	珍珠	Sa grand-mère lui a donné une perle très rare.	她祖母给了她一颗很稀有的珍珠。		
+perruque	pɛʁyk	n.f.	假发	Il porte une perruque brune pour cacher sa calvitie.	他戴一顶棕色假发来遮掩秃顶。		
+personnalité	pɛʁsonalite	n.f.	人格	Les psychologues judiciaires étudient la personnalité des criminels les plus violents.	司法心理学家研究最暴力罪犯的人格。		
+personne	pɛʁsɔn	n.f.	人；没有人	Personne ne savait où se trouvait la vieille maison.	没有人知道那座老房子在哪里。		
+personnel	pɛʁsonɛl	adj.	个人的	Chacun doit ranger ses affaires personnelles avant de quitter le bureau ce soir.	今晚离开办公室前，每个人都要收拾好自己的私人物品。		
+perspicace	pɛʁspikas	adj.	敏锐的	Notre recruteur est perspicace et repère vite les candidats sincères.	我们的招聘官很敏锐，很快就能看出诚实的应聘者。		
+pessimisme	pesimizm	n.m.	悲观	Son pessimisme inquiète toute l'équipe avant le match.	他的悲观情绪让全队在赛前都很不安。		
+pessimiste	pesimist	adj.	悲观的	Mon voisin pessimiste pense que tout va mal ici.	我那位悲观的邻居觉得这里一切都不好。		
+peur	pøʁ	n.f.	害怕	Mon chien a peur des orages la nuit.	我的狗怕夜里打雷。		
+physique	fizik	adj.	身体的；物理的	Il ne supportait plus l'effort physique que ce métier exigeait chaque jour de lui.	他再也受不了这份工作每天对他体力的要求。		
+pied	pje	n.m.	脚	J'ai mal au pied depuis ma chute hier.	昨天摔了一跤后我的脚一直疼。		
+pinailleur	pinajœʁ	n.m.	吹毛求疵的人	Mon chef est pinailleur et corrige la moindre faute dans mes courriels.	我的上司很挑剔，连我邮件里最小的错误都要改。		
+pingre	pɛ̃gʁ	adj.	吝啬的；小气的	Ce voisin pingre ne prête jamais rien à personne.	这个吝啬的邻居从不借东西给任何人。		
+pitié	pitje	n.f.	怜悯	Elle a regardé le chien blessé avec une pitié qu'elle ne pouvait cacher.	她看着受伤的狗，眼里满是藏不住的怜悯。		
+plaindre	plɛ̃dʁ	v.	同情；抱怨	Elle s'est plainte du bruit toute la soirée, mais personne ne l'écoutait.	她整晚都在抱怨噪音，却没人理她。		
+plaisir	pleziʁ	n.m.	乐趣；愉快	J'ai eu beaucoup de plaisir à travailler avec vous.	和你们一起工作我很愉快。		
+pleurer	pløʁe	v.	哭	Le petit garçon s'est mis à pleurer devant tout le monde.	小男孩当着大家的面哭了起来。		
+poignet	pwaɲɛ	n.m.	手腕	Elle lui saisit le poignet pour l'empêcher de partir, et il sentit la force de sa main.	她抓住他的手腕不让他走，他感到她手上的力气。		
+poil	pwal	n.m.	毛	Le chien avait perdu tant de poils que le vétérinaire s'est inquiété.	狗掉了太多毛，兽医都担心起来。		
+poing	pwɛ̃	n.m.	拳头	Il a frappé la table du poing, puis il est sorti sans un mot.	他一拳砸在桌上，然后一言不发地出去了。		
+poitrine	pwatʁin	n.f.	胸部	Elle serrait le bébé contre sa poitrine pour le rassurer.	她把宝宝紧紧抱在胸前安抚他。		
+ponctuel	pɔ̃ktɥɛl	adj.	准时的	Le bus de sept heures est toujours ponctuel ici.	这里七点的公交总是准点。		
+positif	pozitif	adj.	积极的	Son attitude positive aide toute l'équipe à avancer malgré les difficultés.	他积极的态度帮助全队在困难中前进。		
+possessif	posesif	adj.	占有欲强的	Un manager possessif a du mal à laisser de l'autonomie à son équipe.	占有欲强的管理者很难给团队自主权。		
+postérieur	pɔsteʁjœʁ	n.m.	臀部	Il a glissé et est tombé sur son postérieur.	他一滑，摔了个屁股蹲儿。		
+postiche	pɔstiʃ	n.f.	假发	Cette barbe postiche est trop visible sous la lumière.	这假胡子在灯光下太显眼了。		
+posture	pɔstyʁ	n.f.	姿势	Une bonne posture évite bien des douleurs au dos après le sport.	正确的姿势能避免运动后腰背疼痛。		
+pouce	pus	n.m.	拇指	Il a effleuré du pouce la cicatrice qu'il gardait au front depuis cet accident.	他用拇指摸了摸那次事故后留在额上的疤。		
+poumon	pumɔ̃	n.m.	肺	Il a une infection au poumon gauche depuis une semaine.	他左肺感染已经一周了。		
+prémonition	pʁemonisjɔ̃	n.f.	预兆	Elle a eu une prémonition et a décidé de ne pas prendre l'avion.	她有一种不祥的预感，于是决定不坐飞机。		
+psychique	psiʃik	adj.	精神的	Une longue solitude peut causer une profonde fatigue psychique.	长期的孤独可能造成深度的精神疲惫。		
+pupille	pypij	n.	瞳孔	Ses pupilles se dilatent lentement quand la lumière baisse.	光线变暗时，他的瞳孔慢慢放大。		
+quereller	kəʁele	v.	大声争吵	Ils se querellent souvent pour des choses sans importance.	他们常为一些无关紧要的事大声争吵。		
+rage	ʁaʒ	n.f.	狂怒；狂犬病	La rage le rendait presque muet, et il ne trouvait plus les mots qu'il aurait voulu crier.	愤怒让他几乎说不出话，他再也找不到那些想喊出来的词。		
+raide	ʁɛd	adj.	僵硬的；陡的	La pente était si raide que nous devions nous arrêter tous les cent mètres.	坡太陡了，我们每走一百米就得停下来。		
+railler	ʁaje	v.	嘲笑；讥讽	Ses camarades aiment railler son accent du sud devant tout le monde.	他的同学喜欢当着大家的面取笑他的南方口音。		
+raisonnable	ʁɛzonabl	adj.	合理的	Son salaire reste raisonnable par rapport à la charge de travail.	与工作量相比，他的薪水还算合理。		
+rancard	ʁɑ̃kaʁ	n.m.	约会	Il a donné un rancard à sa copine près de la fontaine.	他约女朋友在喷泉旁边见面。		
+rasage	ʁazaʒ	n.m.	刮胡子	Son rasage du matin lui prend toujours une dizaine de minutes.	他早上刮胡子总要花上十来分钟。		
+raser	ʁaze	v.	刮	Il se rase chaque matin devant un miroir fêlé, sans jamais se regarder vraiment dans les yeux.	他每天早上对着一面裂开的镜子刮胡子，从不真正看自己的眼睛。		
+rassurer	ʁasyʁe	v.	使安心	Le médecin l'a enfin rassurée en lui expliquant que ce n'était rien.	医生跟她解释说没什么大碍，她这才放下心。		
+rate	ʁat	n.f.	脾	La rate aide le corps à lutter contre les infections.	脾脏帮助身体抵抗感染。		
+réconcilier	ʁekɔ̃silje	v.	和解	Le médiateur a réussi à réconcilier les deux collègues fâchés.	调解人成功让两位闹翻的同事和解。		
+redouter	ʁədute	v.	惧怕	Elle redoutait par-dessus tout que la nouvelle ne se répandît avant qu'elle eût prévenu sa famille.	她最怕的是消息在她通知家人之前就传开。		
+réfléchir	ʁefleʃiʁ	v.	思考；反射	Elle réfléchissait depuis longtemps avant de donner sa réponse finale.	她思考了很久才给出最后的答复。		
+réflexion	ʁeflɛksjɔ̃	n.f.	思考；反射	Après une longue réflexion, il a renoncé à ce voyage dont il rêvait depuis des années.	经过长时间思考，他放弃了这次多年梦想的旅行。		
+regard	ʁəgaʁ	n.m.	目光；注视	Elle baisse le regard quand on lui parle.	别人跟他说话时，他垂下目光。		
+regret	ʁəgʁɛ	n.m.	遗憾	Il exprime encore aujourd'hui un regret sincère de n'avoir pas su saisir cette occasion unique.	他至今仍为没能抓住那个独一无二的机会而真心感到遗憾。		
+rein	ʁɛ̃	n.m.	肾	Une douleur vive au rein l'a presque empêché de dormir pendant deux nuits d'affilée.	腰部一阵剧痛让他连续两夜几乎无法入睡。		
+relâcher	ʁəlaʃe	v.	放松	Il faut relâcher les épaules et laisser tomber la tension.	要放松肩膀，让紧张感散去。		
+relation	ʁəlasjɔ̃	n.f.	关系	La relation entre ces deux hommes d'affaires s'est dégradée après le procès.	这两位商人的关系在官司之后恶化了。		
+relaxer	ʁəlakse	v.	松弛	La musique douce relaxe les clients du petit café.	轻柔的音乐让这家小咖啡馆的客人放松下来。		
+remarier	ʁəmaʁje	v.	再婚；使再婚	Elle a décidé de se remarier dix ans après son divorce.	离婚十年后她决定再婚。		
+remarquable	ʁəmaʁkabl	adj.	出众的	Sa présentation était vraiment remarquable, claire et bien documentée.	他的报告确实出众，条理清楚，资料翔实。		
+rencontre	ʁɑ̃kɔ̃tʁ	n.f.	相遇；会面	Leur première rencontre a eu lieu dans un petit café de province.	他们第一次相遇是在外省的一家小咖啡馆。		
+rencontrer	ʁɑ̃kɔ̃tʁe	v.	遇见；会面	J'ai rencontré une vieille amie dans le métro ce matin.	今天早上我在地铁里遇到一位老朋友。		
+reprocher	ʁəpʁoʃe	v.	责备	Elle lui reprochait de n'avoir jamais compris pourquoi elle était partie, et il ne répondait rien.	她责怪他始终不明白她为何离开，而他什么也没回答。		
+respect	ʁɛspɛ	n.m.	尊重	Il parlait à ses élèves avec un respect qui les surprenait toujours un peu.	他跟学生说话时带着一种尊重，这总让他们有点意外。		
+respirer	ʁɛspiʁe	v.	呼吸	Après la course, il respirait difficilement et buvait de l'eau.	跑完之后他呼吸困难，还喝着水。		
+ressembler	ʁəsɑ̃ble	v.	像	Cette petite fille ressemble beaucoup à sa grand-mère maternelle.	这个小女孩很像她外婆。		
+ressentir	ʁəsɑ̃tiʁ	v.	感受到	Après son départ, elle a ressenti un vide difficile à décrire.	他走后，她感到一种难以形容的空虚。		
+revanche	ʁəvɑ̃ʃ	n.f.	报复	Il préparait sa revanche depuis des mois, sans laisser paraître la moindre rancune devant ses anciens associés.	他筹备报复已有数月，在老合伙人面前却不露一丝怨恨。		
+rêve	ʁɛv	n.m.	梦；梦想	Elle raconte toujours son rêve à son petit frère.	她总和弟弟讲自己的梦。		
+rêver	ʁeve	v.	做梦；梦想	Je rêve souvent de la mer et des voyages lointains.	我常梦见大海和远方的旅行。		
+riche	ʁiʃ	adj.	富有的	Son oncle est très riche, mais il ne parle jamais de son argent.	他叔叔很有钱，但从不谈钱的事。		
+ride	ʁid	n.f.	皱纹	Une ride profonde traverse son front quand elle réfléchit.	她思考时额头上会有一道深皱纹。		
+ridicule	ʁidikyl	adj.	可笑的	Il portait un chapeau ridicule, mais personne n'osait lui en faire la remarque.	他戴着一顶可笑的帽子，却没人敢向他提起。		
+rigoler	ʁigole	v.	笑；开玩笑	Les enfants ont rigolé pendant toute la promenade en forêt.	孩子们在森林散步的一路上都在笑。		
+rigueur	ʁigœʁ	n.f.	严格	La rigueur de ses méthodes lui a valu le respect de tous ses collaborateurs, malgré son caractère difficile.	他方法的严谨为他赢得了所有同事的尊敬，尽管他脾气不好。		
+rimmel	ʁimɛl	n.m.	睫毛膏	Elle met du rimmel avant de sortir avec ses amies.	她和朋友出门前会涂睫毛膏。		
+rire	ʁiʁ	n.m.	笑	Son rire joyeux a rempli toute la petite cuisine.	他欢快的笑声充满了整间小厨房。		
+robuste	ʁobyst	adj.	强壮的	Cet homme robuste porte seul toutes ces lourdes caisses.	这个壮实的男人一个人搬所有这些沉重的箱子。		
+romantique	ʁomɑ̃tik	adj.	浪漫的	Il a préparé un dîner romantique pour son anniversaire de mariage.	他为结婚纪念日准备了一顿浪漫的晚餐。		
+rougir	ʁuʒiʁ	v.	变红；脸红	Elle rougit jusqu'aux oreilles lorsqu'on évoqua devant tous, sans malice, la lettre qu'elle avait écrite.	当有人当着众人并无恶意地提起她写的那封信，她脸红到耳根。		
+roux	ʁu	adj.	红棕色的	La fillette aux cheveux roux observait les vagues en silence, serrant contre elle son vieux cartable.	那个红棕色头发的小女孩默默望着海浪，把旧书包紧紧抱在胸前。		
+sagace	sagas	adj.	聪明的	Son grand-père sagace comprend tout bien avant les autres.	他那睿智的祖父总比别人先明白一切。		
+sain	sɛ̃	adj.	健康的	Une alimentation saine protège le cœur et les artères.	健康的饮食保护心脏和动脉。		
+sang	sɑ̃	n.m.	血	Le médecin lui a pris du sang pour faire des analyses.	医生给他抽了血做化验。		
+satisfaction	satisfaksjɔ̃	n.f.	满意	Il éprouva une satisfaction naïve à voir son nom imprimé, pour la première fois, dans un journal.	第一次在报纸上看到自己的名字印出来，他感到一种天真的满足。		
+satisfait	satisfɛ	adj.	满意的	Le client est satisfait du travail livré avant la date prévue.	客户对提前交付的工作很满意。		
+sceptique	sɛptik	adj.	怀疑的	Je reste sceptique devant ces promesses trop faciles.	面对这些过于轻巧的承诺，我仍然持怀疑态度。		
+scrupuleux	skʁypylø	adj.	一丝不苟的	Un comptable scrupuleux vérifie chaque chiffre avant d'envoyer le rapport.	一丝不苟的会计会在发送报告前核对每个数字。		
+sein	sɛ̃	n.m.	胸部；怀抱	Elle a serré le bébé contre son sein pour le réchauffer.	她把婴儿抱在怀里给他取暖。		
+sémillant	semijɑ̃	adj.	快活	Son caractère sémillant plaît beaucoup aux amis de la famille.	他快活的性格很受家里朋友们的喜爱。		
+sensation	sɑ̃sasjɔ̃	n.f.	感觉	Il éprouvait la sensation étrange d'avoir déjà vécu cette scène, dans un lieu pourtant inconnu.	他有一种奇怪的感觉，仿佛在一个陌生的地方早已经历过这一幕。		
+sensible	sɑ̃sibl	adj.	敏感的	Elle reste très sensible aux critiques, même lorsqu'elles sont formulées avec la plus grande courtoisie.	她对批评仍然十分敏感，即使这些批评措辞极为客气。		
+sentiment	sɑ̃timɑ̃	n.m.	感情	Elle a gardé un fort sentiment d'amitié pour lui.	她对他一直怀有深厚的友情。		
+sérieux	seʁjø	adj.	严肃的；认真的	C'est un problème sérieux, il ne faut pas plaisanter.	这是个严肃的问题，不能开玩笑。		
+serviable	sɛʁvjabl	adj.	热心助人的	Le gardien de notre immeuble est très serviable et toujours souriant.	我们楼的看门人非常热心，总是笑眯眯的。		
+sexe	sɛks	n.m.	性别	Ce formulaire demande le sexe et la date de naissance.	这张表格要求填写性别和出生日期。		
+shampooing	ʃɑ̃pwɛ̃	n.m.	洗发液	J'ai acheté un shampooing doux pour mes cheveux secs.	我买了一瓶适合干性发质的温和洗发液。		
+silhouette	silwɛt	n.f.	侧影；轮廓	On devinait sa silhouette derrière le rideau, immobile comme si elle attendait quelqu'un.	能看出窗帘后她的轮廓，一动不动，仿佛在等什么人。		
+sincère	sɛ̃sɛʁ	adj.	真诚的	Ses excuses étaient sincères et tout le monde l'a pardonné.	他的道歉很真诚，大家都原谅了他。		
+sœur	sœʁ	n.f.	姐妹	Ma sœur étudie la médecine.	我姐姐学医。		
+soif	swaf	n.f.	渴	Une soif terrible le tourmentait depuis l'aube, et il ne rêvait plus que d'une eau fraîche.	从黎明起他就被一种可怕的干渴折磨，只想着喝口凉水。		
+solitaire	solitɛʁ	adj.	单独的	Il préfère jouer seul, car il aime cette vie solitaire de musicien.	他更喜欢独自演奏，因为他喜欢这种独来独往的音乐家生活。		
+solitude	solityd	n.f.	孤独	Elle a choisi la solitude plutôt que de vivre avec quelqu'un qu'elle n'aimait pas.	她选择了孤独，也不愿和一个自己不爱的人生活。		
+sommeil	somɛj	n.m.	睡眠；困意	Le manque de sommeil explique sa fatigue de ces derniers jours.	睡眠不足可以解释他这几天的疲惫。		
+somnolent	sɔmnɔlɑ̃	adj.	困乏的	Après le déjeuner, je me sens toujours un peu somnolent en cours.	午饭后我上课时总是有点犯困。		
+songe-creux	sɔ̃ʒkʁø	n.m.	梦想家	Ce n'est pas un songe-creux, il travaille vraiment pour réussir.	他不是空想家，他真的在为成功努力。		
+souci	susi	n.m.	忧虑	Elle cachait tous ses soucis derrière un sourire que personne ne perçait.	她把所有烦恼都藏在没人看穿的微笑后面。		
+souffle	sufl	n.m.	气息；一阵	Il a ouvert la fenêtre pour laisser entrer un souffle d'air frais.	他打开窗户，让一阵清新的空气吹进来。		
+souffrance	sufʁɑ̃s	n.f.	痛苦；苦难	La souffrance des populations après le séisme a ému le monde entier.	地震后民众的苦难感动了全世界。		
+souffrir	sufʁiʁ	v.	受苦	Elle souffre beaucoup depuis sa chute dans l'escalier.	自从在楼梯上摔了一跤，她一直很痛苦。		
+soulagement	sulaʒəmɑ̃	n.m.	减轻痛苦的事物	La plomberie fonctionne enfin, c'est un vrai soulagement pour nous.	水管终于通了，这对我们真是莫大的安慰。		
+soupir	supiʁ	n.m.	叹息	Un long soupir lui échappa lorsqu'il aperçut la pile de dossiers qui l'attendait sur le bureau.	看到桌上等着他的那堆文件，他长长地叹了口气。		
+sourcil	suʁsi	n.m.	眉毛	Il fronça le sourcil en lisant la première ligne, puis reposa la feuille sans un mot.	他读到第一行就皱起眉头，然后把纸放下，一言不发。		
+sourcilleux	suʁsijø	adj.	吹毛求疵的；苛求的	Un patron sourcilleux vérifie chaque détail avant de signer.	挑剔的老板签字前会核查每个细节。		
+sourd	suʁ	adj.	聋的；低沉的	Il a répondu d'une voix sourde, presque un murmure.	他用一种低沉的、近乎耳语的声音回答。		
+sourire	suʁiʁ	n.m.	微笑	Elle m'a répondu avec un grand sourire très doux.	她带着温柔的笑容回答了我。		
+squelette	skəlɛt	n.m.	骨架	Le squelette humain compte plus de deux cents os.	人体骨架由两百多块骨头组成。		
+stature	statyʁ	n.f.	身材	Il a la stature d'un ancien joueur de basket.	他有着昔日篮球运动员的身材。		
+stupide	stypid	adj.	愚蠢的	Cette décision stupide a coûté cher à toute la famille.	这个愚蠢的决定让全家付出了很大代价。		
+suicider	sɥiside	v.	自杀	Un homme désespéré a tenté de se suicider après la perte de sa maison.	一名绝望的男子在失去房子后试图自杀。		
+superficiel	sypɛʁfisjɛl	adj.	肤浅的	Son analyse du marché reste superficielle et manque de chiffres précis.	他的市场分析很肤浅，缺乏准确的数据。		
+taille	taj	n.f.	尺寸；身高	Ce manteau est trop grand, il faudrait essayer une taille en dessous.	这件大衣太大，得试小一号的。		
+talc	talk	n.m.	滑石粉；爽身粉	Elle applique du talc sur les pieds de son bébé.	她给宝宝脚上扑滑石粉。		
+talent	talɑ̃	n.m.	才能	Elle avait le talent rare de dire les choses graves sans jamais paraître solennelle ni pesante.	她有一种罕见的本领，能把严肃的事说得毫不庄重也不沉重。		
+talon	talɔ̃	n.m.	脚跟；鞋跟	Le talon de ses chaussures claquait sur le pavé, et ce bruit seul animait la rue déserte.	她的鞋跟在石板上作响，这声音是空荡街道上唯一的动静。		
+tante	tɑ̃t	n.f.	姑妈；姨妈	Ma tante habite à Lyon et nous rend visite chaque été.	我姑妈住在里昂，每年夏天都来看我们。		
+teint	tɛ̃	n.m.	肤色；脸色	Cette couleur claire met vraiment en valeur son teint bronzé.	这个浅色真的很衬她晒黑的肤色。		
+tendre	tɑ̃dʁ	adj.	柔软的；温柔的	Sa voix devint plus tendre lorsqu'il parla de son enfance au village.	谈到在村里的童年时，他的声音变得温柔了些。		
+tête	tɛt	n.f.	头	Il a mal à la tête depuis ce matin.	从今天早上起他就头疼。		
+toilette	twalɛt	n.f.	洗手间；梳洗	Elle passa un moment aux toilettes pour reprendre contenance avant de retourner parmi les invités.	她在洗手间待了一会儿，稳住情绪后才回到宾客中间。		
+tranquille	tʁɑ̃kil	adj.	安静的；放心的	Nous cherchions un endroit tranquille pour parler un moment.	我们在找一个安静的地方聊一会儿。		
+transpirer	tʁɑ̃spiʁe	v.	发汗	Il transpire beaucoup et sa chemise est toute trempée.	他出了很多汗，衬衫都湿透了。		
+trembler	tʁɑ̃ble	v.	发抖	Ses mains tremblaient tellement qu'elle a renversé son verre d'eau.	她的手抖得厉害，把水杯打翻了。		
+triste	tʁist	adj.	悲伤的	Pourquoi tu as l'air triste ?	你为什么看起来难过？		
+tristesse	tʁistɛs	n.f.	悲伤	Une tristesse sans nom l'habitait depuis le départ de son frère, et rien ne semblait la dissiper.	自哥哥离开后，一种莫名的悲伤占据着他，似乎什么都驱散不了。		
+troubler	tʁuble	v.	扰乱；使不安	Rien ne semblait troubler le calme de cette bibliothèque, sinon le froissement des pages tournées.	除了翻动书页的沙沙声，似乎没有什么能扰乱这座图书馆的宁静。		
+urètre	yʁɛtʁ	n.m.	尿道	Une infection de l'urètre provoque souvent de vives brûlures.	尿道感染常常引起剧烈的灼痛。		
+uriner	yʁine	v.	小便	Le chien veut uriner dès qu'il sort dans la rue.	狗一上街就想撒尿。		
+utérus	yteʁys	n.m.	子宫	Le bébé grandit doucement dans l'utérus de sa mère.	宝宝在母亲的子宫里慢慢长大。		
+valide	valid	adj.	健康的	Son grand-père reste encore valide malgré ses quatre-vingts ans.	他祖父虽然八十岁了，身体仍然很硬朗。		
+veine	vɛn	n.f.	静脉；运气	Il a eu la veine de trouver une place libre juste devant la gare.	他运气好，正好在车站前找到一个空位。		
+ventre	vɑ̃tʁ	n.m.	肚子	Le bébé dort sur le ventre de sa mère.	婴儿在母亲的肚子上睡着了。		
+ventripotent	vɑ̃tʁipotɑ̃	adj.	肚子大的	Ce vieil homme ventripotent marche lentement le long du parc.	这位大肚子的老人沿着公园慢慢走。		
+venu	vəny	n.m.	新来者	Le nouvel employé venu de Lyon s'adapte vite à l'équipe.	这位从里昂来的新员工很快融入了团队。		
+vertèbre	vɛʁtɛbʁ	n.f.	椎骨	Il s'est cassé une vertèbre dans cet accident de ski.	他在那次滑雪事故中断了一节椎骨。		
+vertex	vɛʁtɛks	n.m.	头顶	La coiffeuse coupe les cheveux sur le vertex avec précaution.	理发师小心地修剪头顶的头发。		
+vertu	vɛʁty	n.f.	美德	La patience, vertu rare chez les jeunes gens pressés, lui avait valu bien des succès.	耐心这种在性急的年轻人身上少见的美德，曾为他赢得许多成功。		
+vessie	vesi	n.f.	膀胱	Il doit boire beaucoup d'eau pour protéger sa vessie.	他得多喝水来保护膀胱。		
+vieillard	vjɛjaʁ	n.m.	老人	Un vieillard, assis seul sur le banc du square, semblait attendre quelqu'un qui ne viendrait plus.	一位老人独自坐在广场的长椅上，似乎在等一个再也不会来的人。		
+vieillir	vjejiʁ	v.	变老	Il a vieilli d'un coup en apprenant la nouvelle, et son regard s'est éteint.	得知消息后他一夜之间老了，目光也黯淡下去。		
+vierge	vjɛʁʒ	adj.	处女的；未开发的	La Vierge est un signe de terre réputé pour son sens du détail.	处女座是土象星座，以注重细节著称。		
+vieux	vjø	adj.	老的；旧的	Ce vieux quartier est charmant.	这个老城区很迷人。		
+vif	vif	adj.	敏捷的；鲜明的	Ce vieil homme a encore l'esprit vif et la mémoire excellente.	这位老人头脑依然敏捷，记性也很好。		
+visage	vizaʒ	n.m.	脸	Son visage devient rouge quand il parle en public.	他在众人面前说话时脸会变红。		
+viscère	visɛʁ	n.m.	内脏	Le foie est un viscère essentiel au corps humain.	肝脏是人体重要的内脏。		
+vision	vizjɔ̃	n.f.	视觉；幻象	Une vision lui traversa l'esprit, si nette qu'il crut un instant avoir vécu cette scène.	一个景象掠过他脑海，清晰得让他一时以为亲身经历过。		
+visuel	vizɥɛl	adj.	视觉上的	L'impact visuel de ces grandes éoliennes divise les habitants du village.	这些大型风机的视觉影响让村民意见分裂。		
+voisin	vwazɛ̃	n.m.	邻居	Mon voisin est très gentil.	我邻居人很好。		
+voix	vwa	n.f.	声音；嗓音	Sa voix est douce et calme au téléphone.	她在电话里的声音柔和而平静。		
+volonté	volɔ̃te	n.f.	意愿；意志	Malgré sa fatigue, il a eu la volonté de terminer ce qu'il avait commencé.	尽管很累，他还是凭着意志把开始的事做完了。		
+vue	vy	n.f.	视野	La chambre du sixième étage offre une vue magnifique.	六楼的房间视野极佳。		

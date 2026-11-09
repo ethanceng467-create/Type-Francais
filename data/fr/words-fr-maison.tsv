@@ -1,388 +1,300 @@
 word	ipa	pos	cn	sentence	sentence_cn	phrase	phrase_cn
-front	fʁɔ̃	n.m.	额头	Elle a posé sa main sur le front brûlant de son fils.	她把手放在儿子滚烫的额头上。		
-oeil	œj	n.m.	眼	Il ferme un œil et vise lentement la cible rouge.	他闭上一只眼睛，慢慢瞄准红色的靶心。		
-cil	sil	n.m.	睫毛	Ses cils sont si longs qu'ils touchent ses lunettes.	她的睫毛长得都碰到眼镜了。		
-sourcil	suʁsi	n.m.	眉毛	Il lève un sourcil quand il ne comprend pas.	他听不懂的时候就挑起一根眉毛。		
-joue	ʒu	n.f.	脸颊	Une larme coule doucement le long de sa joue gauche.	一滴眼泪顺着她的左脸颊缓缓流下。		
-nez	ne	n.m.	鼻子	Le froid a rougi le bout de son nez.	寒冷把他的鼻尖冻红了。		
-narine	naʁin	n.f.	鼻孔	La fumée lui pique les narines dès qu'il entre.	他一进门就被烟呛得鼻孔发痒。		
-bouche	buʃ	n.f.	嘴	Elle garde la bouche fermée pendant toute la photo.	拍整张照片时她都闭着嘴。		
-lèvre	lɛvʁ	n.f.	嘴唇	Ses lèvres tremblent un peu quand elle raconte cette histoire.	她讲这件事的时候嘴唇有点发抖。		
-langue	lɑ̃g	n.f.	舌头	Le médecin lui demande de tirer la langue devant la glace.	医生让他在镜子前伸出舌头。		
-dent	dɑ̃	n.f.	牙齿	Il s'est cassé une dent en croquant un bonbon.	他嚼糖时崩掉了一颗牙。		
-incisive	ɛ̃siziv	n.f.	门牙	Elle a perdu une incisive en tombant de vélo.	她从自行车上摔下来，磕掉了一颗门牙。		
-oreille	oʁɛj	n.f.	耳朵	Il parle fort à mon oreille et me fait rire.	他凑到我耳边大声说话，把我逗笑了。		
-menton	mɑ̃tɔ̃	n.m.	下巴	Il s'est coupé le menton en se rasant ce matin.	他今天早上刮胡子时刮伤了下巴。		
-paupière	popjɛʁ	n.f.	眼皮	Ses paupières sont lourdes après une nuit trop courte.	睡得太少，她的眼皮很沉。		
-orbite	ɔʁbit	n.f.	眼眶	Le ballon l'a frappé juste au-dessus de l'orbite gauche.	球正好打在他左眼眶上方。		
-pupille	pypij	n.	瞳孔	Ses pupilles se dilatent lentement quand la lumière baisse.	光线变暗时，他的瞳孔慢慢放大。		
-mâchoire	maʃwaʁ	n.f.	颌	Il serre les mâchoires très fort pour ne pas crier.	他紧紧咬住牙关，免得叫出声来。		
-corps	kɔʁ	n.m.	身体	Le sport détend le corps et calme vraiment l'esprit.	运动能放松身体，也真能让心情平静。		
-tête	tɛt	n.f.	头	Il a posé la tête sur l'oreiller et s'est endormi.	他把头靠在枕头上就睡着了。		
-nuque	nyk	n.f.	脖子	Le soleil tape fort sur ma nuque depuis ce matin.	从今天早上起太阳就狠狠地晒着我的后颈。		
-main	mɛ̃	n.	手	Donne-moi la main pour traverser cette rue très passante.	拉着我的手过这条车很多的街。		
-doigts	dwa	n.m.	手指	Il compte sur ses doigts les jours avant les vacances.	他掰着手指算离假期还有几天。		
-poignet	pwaɲɛ	n.m.	手腕	Elle porte un bracelet en argent à son poignet droit.	她右手腕上戴着一只银手镯。		
-paume	pom	n.f.	手掌	Il a une ampoule au milieu de la paume.	他手掌中间磨出了一个水泡。		
-index	ɛ̃dɛks	n.m.	食指	Elle montre la fenêtre du bout de l'index droit.	她用右手食指指了指那扇窗。		
-médius	medjys	n.m.	中指	Le médius est le plus long des cinq doigts.	中指是五根手指中最长的一根。		
-annulaire	anylɛʁ	adj.	无名指	C'est à l'annulaire gauche qu'elle porte cette bague ancienne.	那枚旧戒指她戴在左手无名指上。		
-pied	pje	n.m.	脚	Il s'est blessé le pied en jouant au foot.	他踢足球时伤了脚。		
-jambe	ʒɑ̃b	n.f.	腿	Elle a une jambe un peu plus longue que l'autre.	她一条腿比另一条稍长一点。		
-bras	bʁa	n.m.	胳膊	Le bébé dort dans mes bras depuis une heure.	宝宝在我怀里睡了一个小时。		
-poitrine	pwatʁin	n.f.	胸部	Il tousse et sent une douleur dans la poitrine.	他咳嗽，觉得胸口疼。		
-épaule	epol	n.f.	肩膀	Elle pose son sac sur son épaule et sort.	她把包往肩上一挎就出门了。		
-ventre	vɑ̃tʁ	n.m.	腹部	Le chat dort sur le dos, le ventre en l'air.	猫仰面躺着睡，肚子朝天。		
-lombes	lɔ̃b	n.f.	腰部	Il a mal aux lombes après avoir porté ce carton.	搬完那个纸箱后他腰疼。		
-hanche	ɑ̃ʃ	n.f.	髋部	Elle appuie la main sur sa hanche et soupire.	她把手按在髋部，叹了口气。		
-dos	do	n.m.	背部	Il porte son fils sur le dos jusqu'à la maison.	他把儿子背在背上一直背到家。		
-fesse	fɛs	n.f.	臀	Il est tombé sur les fesses en glissant sur le sol mouillé.	他在湿地上滑了一跤，一屁股坐在地上。		
-postérieur	pɔsteʁjœʁ	adj.	屁股	Il a glissé et est tombé sur son postérieur.	他一滑，摔了个屁股蹲儿。		
-abdomen	abdomɛn	n.m.	肚子	Il ressent une gêne au niveau de l'abdomen depuis hier.	从昨天起他就觉得腹部不舒服。		
-orteil	ɔʁtɛj	n.m.	脚趾	Il s'est cogné le petit orteil contre la table.	他的小脚趾撞到了桌子上。		
-os	ɔs	n.m.	骨头	Il s'est fracturé un os du poignet au ski.	他滑雪时手腕骨折了。		
-cuisse	kɥis	n.f.	大腿	Le chien pose sa grosse tête sur ma cuisse.	狗把大脑袋搁在我的大腿上。		
-cheville	ʃəvij	n.f.	脚踝	Elle s'est tordu la cheville en descendant l'escalier hier.	她昨天下楼时崴了脚踝。		
-coude	kud	n.m.	肘	Il pose son coude sur la table et réfléchit.	他把胳膊肘支在桌上思考。		
-genou	ʒənu	n.m.	膝盖	Il s'est mis à genoux pour ramasser la pièce.	他跪下来捡那枚硬币。		
-squelette	skəlɛt	n.m.	骨架	Le squelette humain compte plus de deux cents os.	人体骨架由两百多块骨头组成。		
-clavicule	klavikyl	n.f.	锁骨	Il s'est cassé la clavicule en tombant du vélo.	他从自行车上摔下来，摔断了锁骨。		
-échine	eʃin	n.f.	脊椎	Elle sent un frisson descendre le long de son échine.	她感到一阵寒意顺着脊背往下走。		
-vertèbre	vɛʁtɛbʁ	n.f.	有脊椎的	Il s'est cassé une vertèbre dans cet accident de ski.	他在那次滑雪事故中断了一节椎骨。		
-membre	mɑ̃bʁ	n.m.	肢	Il a perdu l'usage d'un membre après ce grave accident.	那场严重的事故后，他一条肢体失去了功能。		
-cote	kɔt	n.f.	肋骨	Il s'est cassé une cote en jouant au rugby.	他打橄榄球时断了一根肋骨。		
-cartilage	kaʁtilaʒ	n.m.	软骨	Le cartilage du genou s'use peu à peu avec les années.	膝盖软骨随着年岁一点点磨损。		
-muscle	myskl	n.m.	肌肉	Il fait des exercices pour renforcer les muscles du dos.	他做锻炼来增强背部肌肉。		
-ligament	ligamɑ̃	n.m.	韧带	Elle s'est déchiré un ligament du genou droit au foot.	她踢球时右膝韧带撕裂了。		
-organisation	ɔʁganizasjɔ̃	n.f.	组织	L'organisation des cellules du foie reste très complexe à étudier.	肝细胞的组织结构研究起来仍十分复杂。		
-peau	po	n.f.	皮肤	Sa peau devient très sèche dès les premiers froids d'hiver.	一到初冬，她的皮肤就变得很干。		
-cuticule	kytikyl	n.f.	表皮	La cuticule protège l'ongle contre les petites infections de la peau.	表皮保护指甲免受轻微的皮肤感染。		
-pelvis	pɛlvis	n.m.	骨盆	Le pelvis soutient les organes du bas du ventre.	骨盆托住下腹部的器官。		
-moelle	mwal	n.f.	骨髓	La moelle des os produit les cellules du sang.	骨髓生成血液细胞。		
-cerveau	sɛʁvo	n.m.	大脑	Le cerveau a besoin de sommeil pour bien fonctionner.	大脑需要睡眠才能正常运转。		
-organe	ɔʁgan	n.m.	器官	Le foie est un organe essentiel du corps humain.	肝脏是人体重要的器官。		
-viscère	visɛʁ	n.m.	内脏	Les viscères sont bien protégés par la cage thoracique.	内脏受到胸廓的良好保护。		
-pressure	pʁesyʁ	v.	内脏	Le vigneron pressure les raisins pour obtenir un jus clair.	酿酒师压榨葡萄，得到清澈的果汁。		
-vaisseau	vɛso	n.m.	血管	Un vaisseau bouché peut provoquer un grave accident cardiaque.	一根堵塞的血管可能引发严重的心脏事故。		
-coeur	kœʁ	n.m.	心	Son cœur bat très vite après cette longue course.	跑完这么长的路，他的心跳得很快。		
-poumon	pumɔ̃	n.m.	肺	Il a une infection au poumon gauche depuis une semaine.	他左肺感染已经一周了。		
-foie	fwa	n.m.	肝	Le foie filtre les toxines présentes dans le sang.	肝脏过滤血液中的毒素。		
-rein	ʁɛ̃	n.m.	肾	Il boit beaucoup d'eau chaque jour pour protéger ses reins.	他每天喝很多水来保护肾脏。		
-rate	ʁat	n.f.	脾	La rate aide le corps à lutter contre les infections.	脾脏帮助身体抵抗感染。		
-bile	bil	n.f.	胆汁	La bile aide le foie à digérer les matières grasses.	胆汁帮助肝脏消化脂肪。		
-intestin	ɛ̃tɛstɛ̃	adj.	肠	L'intestin grêle absorbe la plupart des aliments que nous mangeons.	小肠吸收我们吃下去的大部分食物。		
-estomac	ɛstoma	n.m.	胃	Il a l'estomac vide depuis le début de la matinée.	他从一早就空着肚子。		
-appendice	apɛ̃dis	n.m.	阑尾	Le médecin a retiré son appendice hier matin à l'hôpital.	医生昨天上午在医院切除了他的阑尾。		
-vessie	vesi	n.f.	膀胱	Il doit boire beaucoup d'eau pour protéger sa vessie.	他得多喝水来保护膀胱。		
-utérus	yteʁys	n.m.	子宫	Le bébé grandit doucement dans l'utérus de sa mère.	宝宝在母亲的子宫里慢慢长大。		
-urètre	yʁɛtʁ	n.m.	尿道	Une infection de l'urètre provoque souvent de vives brûlures.	尿道感染常常引起剧烈的灼痛。		
-glande	glɑ̃d	n.f.	腺	La glande thyroïde règle le rythme de notre métabolisme.	甲状腺调节我们新陈代谢的节奏。		
-oesophage	øzofaʒ	n.m.	食道	Les aliments descendent lentement par l'œsophage puis arrivent dans l'estomac.	食物顺着食管慢慢下行，然后进入胃里。		
-valide	valid	adj.	健康的	Son grand-père reste encore valide malgré ses quatre-vingts ans.	他祖父虽然八十岁了，身体仍然很硬朗。		
-santé	sɑ̃te	n.f.	健康	Le manque de sommeil nuit gravement à la santé.	睡眠不足严重损害健康。		
-sain	sɛ̃	adj.	健康的	Une alimentation saine protège le cœur et les artères.	健康的饮食保护心脏和动脉。		
-maladie	maladi	n.f.	病	Cette maladie se soigne bien si on la détecte tôt.	这种病如果发现得早是很好治的。		
-physique	fizik	adj.	身体的	Le travail physique fatigue plus que le travail de bureau.	体力活比坐办公室更累人。		
-psychique	psiʃik	adj.	精神的	Une longue solitude peut causer une profonde fatigue psychique.	长期的孤独可能造成深度的精神疲惫。		
-naturel	natyʁɛl	adj.	正常的	Il est tout à fait naturel d'avoir peur avant un examen.	考试前害怕是完全正常的。		
-inquiet	ɛ̃kjɛ	adj.	焦虑的	Sa mère est inquiète parce qu'il ne répond pas.	他妈妈因为他不回电话而焦虑不安。		
-robuste	ʁobyst	adj.	强壮的	Cet homme robuste porte seul toutes ces lourdes caisses.	这个壮实的男人一个人搬所有这些沉重的箱子。		
-affliger	afliʒe	v.	使忧愁	Cette nouvelle a affligé toute la famille pendant des jours.	这个消息让全家人难过了好几天。		
-hôpital	opital	n.m.	医院	Il travaille dans un hôpital près de la gare.	他在火车站附近的一家医院工作。		
-symptôme	sɛ̃ptom	n.m.	症状	La fièvre est le premier symptôme de cette maladie.	发烧是这种病的第一个症状。		
-pouls	pu	n.m.	脉搏	Chaque matin, l'infirmière prend mon pouls avant les soins.	每天早上，护士在护理前给我量脉搏。		
-mesurer	məzyʁe	v.	测量	Le médecin a mesuré ma tension et mon pouls.	医生量了我的血压和脉搏。		
-description	deskʁipsjɔ̃	n.f.	描述	Sa description précise des symptômes aide beaucoup le médecin.	他对症状的准确描述对医生帮助很大。		
-prescription	pʁɛskʁipsjɔ̃	n.f.	处方	Le pharmacien prépare le médicament selon la prescription du médecin.	药剂师按照医生的处方配药。		
-prescrire	pʁɛskʁiʁ	v.	开药方	Le médecin m'a prescrit des antibiotiques pour une semaine.	医生给我开了一周的抗生素。		
-décidément	desidemɑ̃	adv.	显然；确实Décidément, ce médicament ne me fait vraiment aucun effet.	这药对我确实一点效果都没有。		
-diagnostiquer	djagnostike	v.	诊断	Le médecin a diagnostiqué une grippe dès la première visite.	医生第一次就诊就诊断出是流感。		
-comprime	kɔ̃pʁim	v.	药片	Il comprime doucement la plaie avec une compresse propre.	他用一块干净的纱布轻轻压住伤口。		
-médicament	medikamɑ̃	n.m.	药物	Ce médicament se prend après chaque repas, sans exception.	这种药每次饭后服用，无一例外。		
-préliminaire	pʁeliminɛʁ	adj.	初步的	Le médecin fait un examen préliminaire avant les analyses.	医生在化验之前先做初步检查。		
-traiter	tʁete	v.	治疗	Ce médecin traite les maladies du cœur depuis vingt ans.	这位医生治疗心脏病已经二十年了。		
-soigner	swaɲe	v.	治疗	Elle soigne les enfants malades dans un petit dispensaire.	她在一家小诊所里给生病的孩子治病。		
-guérir	geʁiʁ	v.	治疗	Cette pommade guérit vite les petites brûlures de la peau.	这种药膏能很快治好轻微的皮肤烫伤。		
-acuponcture	akypɔ̃ktyʁ	n.f.	针灸	L'acuponcture soulage parfois les douleurs du dos et du cou.	针灸有时能缓解背部和颈部的疼痛。		
-dentisterie	dɑ̃tistəʁi	n.f.	牙科	La dentisterie moderne utilise aujourd'hui des instruments très précis.	现代牙科如今使用非常精密的器械。		
-cardiologie	kaʁdjoloʒi	n.f.	心脏病科	Il travaille en cardiologie depuis la fin de ses études.	他毕业后一直在心脏科工作。		
-pédiatrie	pedjatʁi	n.f.	儿科	Elle a choisi la pédiatrie parce qu'elle adore les enfants.	她选择儿科是因为她特别喜欢孩子。		
-gynécologie	ʒinekoloʒi	n.f.	妇科	Ce service de gynécologie reçoit les femmes chaque matin.	这个妇科门诊每天早上接待女性患者。		
-laboratoire	laboʁatwaʁ	n.m.	化验室	Les analyses sont envoyées au laboratoire dès le matin.	化验样本一大早就送到化验室。		
-examiner	ɛgzamine	v.	检查	Le médecin m'a examiné pendant près de vingt minutes.	医生给我检查了将近二十分钟。		
-prélèvement	pʁelɛvəmɑ̃	n.m.	抽取	Le prélèvement de sang se fait le matin à jeun.	抽血要在早上空腹时进行。		
-cellule	selyl	n.f.	细胞	Les cellules du sang se renouvellent sans arrêt dans le corps.	血液细胞在体内不停地更新。		
-hématie	emasi	n.f.	红细胞	Les hématies transportent l'oxygène vers tous les organes du corps.	红细胞把氧气输送到全身各个器官。		
-hémoglobine	emoglobin	n.f.	血红蛋白	Le taux d'hémoglobine dans le sang révèle parfois une anémie.	血液中的血红蛋白含量有时能反映贫血。		
-teneur	tənœʁ	n.	含量	La teneur en sucre de ce jus reste élevée.	这种果汁的含糖量仍然偏高。		
-volume	volym	n.m.	体积	Le volume de ce poumon paraît normal sur l'image.	从影像上看，这个肺的体积似乎正常。		
-concentration	kɔ̃sɑ̃tʁasjɔ̃	n.f.	浓度	La concentration de glucose dans le sang doit rester stable.	血液中的葡萄糖浓度应保持稳定。		
-rhume	ʁym	n.m.	感冒	J'ai attrapé un gros rhume en attendant le bus.	我等公交车时得了重感冒。		
-enrhumer	ɑ̃ʁyme	v.	感冒	Il s'est enrhumé après avoir marché sous la pluie.	他在雨里走了一趟就感冒了。		
-septicité	sɛptisite	n.f.	感染性	La septicité de cette plaie inquiète beaucoup le chirurgien.	这个伤口的感染性让外科医生十分担心。		
-température	tɑ̃peʁatyʁ	n.f.	体温	Le soir, l'infirmière prend ma température avant de partir.	晚上，护士在离开前给我量体温。		
-thermomètre	tɛʁmomɛtʁ	n.m.	体温计	Ce thermomètre électronique donne la température en quelques secondes.	这支电子体温计几秒钟就能测出体温。		
-grippe	gʁip	n.f.	流感	La grippe l'a obligé à rester au lit toute la semaine.	流感逼着他在床上躺了整整一周。		
-fièvre	fjɛvʁ	n.f.	发烧	Il a de la fièvre et ne mange presque rien.	他发烧了，几乎什么都吃不下。		
-transpirer	tʁɑ̃spiʁe	v.	发汗	Il transpire beaucoup et sa chemise est toute trempée.	他出了很多汗，衬衫都湿透了。		
-éternuer	etɛʁnɥe	v.	打喷嚏	Elle éternue sans arrêt à cause de la poussière.	因为灰尘，她不停地打喷嚏。		
-dramatique	dʁamatik	adj.	严重的	La situation du blessé est devenue dramatique en quelques heures.	伤者的情况几个小时之内就变得十分严重。		
-léger	leʒe	adj.	轻微的	Il ressent encore une douleur légère au genou gauche.	他左膝还感到轻微的疼痛。		
-douleur	dulœʁ	n.f.	疼	Cette douleur au dos revient chaque fois qu'il court.	他每次跑步，这种背痛就会复发。		
-supplice	syplis	n.m.	剧痛	Chaque pas dans l'escalier lui cause un véritable supplice.	每爬一级楼梯都让他剧痛难忍。		
-gastralgie	gastʁalʒi	n.f.	胃疼	Il souffre de gastralgie depuis qu'il mange trop vite.	自从他吃得太快，就一直胃疼。		
-colique	kolik	adj.	绞痛	Une douleur colique le plie en deux chaque nuit.	每天夜里一阵绞痛都让他疼得弯下腰。		
-picotement	pikɔtəmɑ̃	n.m.	刺痛	Elle sent un picotement bizarre au bout des doigts.	她觉得指尖有一种奇怪的刺痛感。		
-blessure	blesyʁ	n.f.	伤口	Cette vieille blessure au pied met longtemps à guérir.	脚上这个旧伤口很久都不见好。		
-blessée	blese	v.	受伤的	La jeune fille blessée a été transportée à l'hôpital.	受伤的姑娘被送到了医院。		
-plaie	plɛ	n.f.	伤口	Il faut nettoyer la plaie avant de la bander.	包扎之前得先清洗伤口。		
-appendicite	apɛ̃disit	n.f.	阑尾炎	On l'a opéré hier soir à cause d'une appendicite aiguë.	昨晚他因为急性阑尾炎动了手术。		
-anémie	anemi	n.f.	贫血	L'anémie provoque souvent une grande fatigue et des vertiges.	贫血常常引起极度疲劳和头晕。		
-hypoglycémie	ipoglisemi	n.f.	低血糖	Un diabétique doit toujours surveiller les premiers signes d'hypoglycémie.	糖尿病人必须随时留意低血糖的最初迹象。		
-bronchite	bʁɔ̃ʃit	n.f.	支气管炎	Il tousse depuis deux longues semaines, c'est une bronchite.	他咳了整整两周，是支气管炎。		
-diabète	djabɛt	n.m.	糖尿病	Son père souffre du diabète depuis déjà plusieurs années.	他父亲患糖尿病已经好几年了。		
-diabétique	djabetik	adj.	糖尿病人	Une personne diabétique doit éviter tous les sucres rapides.	糖尿病人应当避免各种快糖。		
-migraine	migʁɛn	n.f.	偏头痛	Une forte migraine l'oblige à rester dans le noir.	剧烈的偏头痛逼着他待在黑暗里。		
-rhumatisme	ʁymatizm	n.m.	风湿病	Son grand-père se plaint souvent de rhumatismes en hiver.	他祖父冬天常抱怨风湿病发作。		
-malnutrition	malnytʁisjɔ̃	n.f.	营养不良	La malnutrition touche encore beaucoup d'enfants dans le monde.	世界上仍有许多儿童营养不良。		
-insomnie	ɛ̃sɔmni	n.f.	失眠	Son insomnie empire depuis qu'il a changé de travail.	他换了工作以后失眠更严重了。		
-raide	ʁɛd	adj.	僵硬的	Il se réveille avec une nuque raide et douloureuse.	他醒来时后颈僵硬又酸痛。		
-hoqueter	ɔkəte	v.	打幅	Le bébé hoquette longtemps après avoir bu son lait trop vite.	宝宝喝奶喝得太急，打嗝打了很久。		
-chatouiller	ʃatuje	v.	使痒	Elle chatouille son petit frère pour le faire rire.	她挠弟弟痒痒，逗他笑。		
-goutte	gut	adv.	痛风	Il souffre de la goutte depuis l'âge de cinquante ans.	他从五十岁起就患痛风。		
-cancer	kɑ̃sɛʁ	n.m.	癌	Le cancer du poumon reste très fréquent chez les fumeurs.	肺癌在吸烟者中仍然很常见。		
-apoplexie	apoplɛksi	n.f.	中风	Une apoplexie l'a laissé paralysé tout le côté droit.	一次中风让他整个右侧都瘫痪了。		
-leucémie	løsemi	n.f.	白血病	La leucémie se soigne mieux chez les jeunes patients.	白血病在年轻患者身上治疗效果更好。		
-tétanos	tetanos	n.m.	破伤风	Le tétanos reste dangereux si l'on n'est pas vacciné.	如果不接种疫苗，破伤风仍然很危险。		
-psychose	psikoz	n.f.	精神病	Sa psychose nécessite aujourd'hui un suivi médical très régulier.	他的精神病如今需要非常规律的医疗跟踪。		
-paralysie	paʁalizi	n.f.	瘫痰	La paralysie du bras gauche a disparu en un mois.	左臂的瘫痪一个月就消失了。		
-pharyngite	faʁɛ̃ʒit	n.f.	咽炎	Il a une pharyngite et parle encore avec difficulté.	他得了咽炎，说话仍然很吃力。		
-tumeur	tymœʁ	n.f.	肿瘤	Les médecins ont retiré une petite tumeur de son épaule.	医生从他肩部切除了一个小肿瘤。		
-héréditaire	eʁeditɛʁ	adj.	遗传的	Cette maladie héréditaire touche plusieurs membres de sa famille.	这种遗传病影响了他家好几个人。		
-transplanter	tʁɑ̃splɑ̃te	v.	移植	Les chirurgiens ont transplanté un rein à mon cousin.	外科医生给我表兄移植了一个肾。		
-vision	vizjɔ̃	n.f.	视力	Sa vision baisse depuis quelques mois, il faut consulter.	他的视力这几个月在下降，得去看医生。		
-myopie	mjopi	n.f.	近视	Sa myopie l'oblige à porter des lunettes en cours.	他近视，上课必须戴眼镜。		
-myope	mjɔp	adj.	近视者	Je suis très myope depuis l'âge de dix ans.	我从十岁起就近视得很厉害。		
-trouble	tʁubl	adj.	看不清的	Il voit trouble depuis sa chute sur la tête.	他自从摔了头就看东西模糊。		
-ophtalmologie	ɔftalmoloʒi	n.f.	眼科	Il consulte un spécialiste en ophtalmologie deux fois par an.	他每年看两次眼科专家。		
-inflammation	ɛ̃flamasjɔ̃	n.f.	发炎	Cette inflammation de l'œil exige un traitement très rapide.	这只眼睛发炎，需要尽快治疗。		
-perdre	pɛʁdʁ	v.	失去	Il a perdu la vue après un grave accident.	一场严重的事故后他失明了。		
-cataracte	kataʁakt	n.f.	白内障	La cataracte se traite par une opération simple aujourd'hui.	如今白内障可以通过一个小手术治好。		
-glaucome	glokom	n.m.	青光眼	Le glaucome peut rendre aveugle si on le néglige.	青光眼如果被忽视可能导致失明。		
-pharmacie	faʁmasi	n.f.	药房	La pharmacie du quartier ferme ses portes à dix-neuf heures.	街区里的药房十九点关门。		
-analgésique	analʒezik	adj.	止疼药	Ce comprimé analgésique calme la douleur en vingt minutes.	这片止痛药二十分钟就能缓解疼痛。		
-anodin	anodɛ̃	adj.	止疼片	Ce médicament paraît anodin mais il faut rester prudent.	这种药看起来没什么，但还是得小心。		
-aspirine	aspiʁin	n.f.	阿司匹林	Il prend une aspirine dès qu'il a mal à la tête.	他一头疼就吃一片阿司匹林。		
-pénicilline	penisilin	n.f.	青霉素	Le médecin lui a prescrit de la pénicilline pendant huit jours.	医生给他开了八天的青霉素。		
-vitamine	vitamin	n.f.	维生素	Ce jus contient beaucoup de vitamine C et de sucre.	这种果汁含大量维生素C和糖。		
-neuroleptique	nøʁolɛptik	n.m.	安定剂	Le neuroleptique l'aide à dormir et à rester calme.	这种安定剂帮他入睡，让他保持平静。		
-glucose	glykoz	n.m.	葡萄糖	Le glucose fournit de l'énergie à tous nos muscles.	葡萄糖为我们全身肌肉提供能量。		
-prospectus	pʁɔspɛktys	n.m.	说明书	Le prospectus explique clairement comment prendre ce médicament correctement.	说明书清楚地说明了如何正确服用这种药。		
-linguistique	lɛ̃gɥistik	adj.	当归	Il fait des études linguistiques à l'université de Lyon.	他在里昂大学读语言学。		
-andouiller	ɑ̃duje	n.m.	鹿茸	Le cerf perd ses andouillers au début du printemps.	公鹿在初春时脱落鹿角。		
-ginseng	ʒinsɑ̃ŋ	n.m.	人参	Sa grand-mère ajoute toujours du ginseng dans sa soupe.	他奶奶总往汤里加人参。		
-hospitalisation	ɔspitalizasjɔ̃	n.f.	住院治疗	Son hospitalisation durera au moins une semaine, peut-être deux.	他住院至少要一个星期，也许两个。		
-diagnostic	djagnostik	n.m.	诊断	Le diagnostic du médecin reste incertain pour le moment.	医生的诊断目前仍不确定。		
-surveiller	syʁveje	v.	看护	Une infirmière surveille le patient toutes les deux heures.	一名护士每两小时查看一次病人。		
-limiter	limite	v.	限制	Le médecin lui conseille de limiter le sel et le sucre.	医生建议他限制盐和糖的摄入。		
-allergie	alɛʁʒi	n.f.	过敏	Il a une allergie aux arachides depuis son enfance.	他从小就对花生过敏。		
-infirmerie	ɛ̃fiʁməʁi	n.f.	医务室	L'élève blessé a été conduit tout de suite à l'infirmerie.	受伤的学生立刻被送到了医务室。		
-fabriquer	fabʁike	v.	做	Ils fabriquent eux-mêmes leurs meubles en bois depuis des années.	他们家多年来自己做木家具。		
-opération	opeʁasjɔ̃	n.f.	手术	Son opération du genou s'est très bien passée hier matin.	他昨天上午的膝盖手术非常顺利。		
-bistouri	bistuʁi	n.m.	手术刀	Le chirurgien pose le bistouri et retire ses gants.	外科医生放下手术刀，脱下手套。		
-vie	vi	n.f.	生命	Cette opération difficile lui a sauvé la vie hier soir.	昨晚那场艰难的手术救了他的命。		
-pince	pɛ̃s	n.f.	镊子	L'infirmière retire l'écharde du doigt avec une pince fine.	护士用一把细镊子把手指里的刺取出来。		
-suturer	sytyʁe	v.	缝合	Le médecin a suturé la plaie en dix minutes.	医生十分钟就缝合了伤口。		
-exciser	ɛksize	v.	切除	Les chirurgiens ont excisé la petite tumeur sans difficulté.	外科医生顺利地切除了那个小肿瘤。		
-anesthésie	anɛstezi	n.f.	麻醉	L'anesthésie générale l'a fait dormir pendant deux longues heures.	全身麻醉让他沉睡了两个多小时。		
-anesthésier	anɛstezje	v.	使麻醉	Le médecin doit anesthésier la zone avant de coudre.	医生在缝针前必须给这个部位麻醉。		
-anesthésiste	anɛstezist	n.	麻醉师	L'anesthésiste est venu me voir avant l'opération.	手术前麻醉师来看过我。		
-drogue	dʁɔg	n.f.	麻醉药	Cette drogue soulage la douleur mais endort le patient.	这种麻醉药能止痛，但会让病人昏睡。		
-anesthésiant	anɛstezjɑ̃	adj.	麻醉剂	Un produit anesthésiant rend la peau insensible pendant l'opération.	麻醉剂能让皮肤在手术期间失去知觉。		
-stérile	steʁil	adj.	无菌的	Le chirurgien travaille toujours avec des instruments parfaitement stériles.	外科医生始终使用完全无菌的器械。		
-nerf	nɛʁ	n.m.	神经	Ce nerf transmet la douleur jusqu'au bout des doigts.	这条神经把疼痛传到指尖。		
-poste	pɔst	n.	邮局	La poste du village ferme à midi le samedi.	村里的邮局星期六中午关门。		
-facteur	faktœʁ	n.m.	邮差	Le facteur passe devant chez nous vers huit heures.	邮差八点左右经过我们家门口。		
-collectionner	kolɛksjone	v.	收集	Il collectionne les timbres depuis son plus jeune âge.	他从小就集邮。		
-délivrer	delivʁe	v.	递送	Le facteur délivre le courrier chaque matin sauf le dimanche.	邮差除星期天外每天早上送信。		
-courrier	kuʁje	n.m.	邮件	J'ai trouvé votre courrier dans la boîte aux lettres.	我在信箱里看到了您的邮件。		
-lettre	lɛtʁ	n.f.	信	Elle a écrit une longue lettre à sa grand-mère.	她给祖母写了一封长信。		
-diviser	divize	v.	分开	Il faut diviser ce colis en deux paquets plus légers.	得把这个包裹分成两个轻一点的包。		
-télégramme	telegʁam	n.m.	电报	Un télégramme annonçait enfin la naissance de son fils.	一封电报终于报来了他儿子出生的消息。		
-mandat-poste	mɑ̃dapɔst	n.m.	汇款	Elle a envoyé un mandat-poste à son frère étudiant.	她给上大学的弟弟汇了一笔款。		
-ville	vil	n.f.	城市	Cette grande ville compte plus de deux millions d'habitants.	这座大城市有两百多万居民。		
-région	ʁeʒjɔ̃	n.f.	行政区	Notre région produit beaucoup de vin et de fromage.	我们这一地区出产大量葡萄酒和奶酪。		
-préfecture	pʁefɛktyʁ	n.f.	州	La préfecture se trouve au centre de la ville.	州政府位于市中心。		
-capitale	kapital	n.f.	首都	La capitale attire chaque année des millions de touristes.	首都每年吸引数百万游客。		
-zone	zon	n.f.	区域	Cette zone de la ville reste calme le soir.	城市的这个区域晚上很安静。		
-secteur	sektœʁ	n.m.	区域	Ce secteur du centre est réservé aux piétons le week-end.	市中心这一片周末只对行人开放。		
-rue	ʁy	n.f.	街	Il y a une boulangerie au bout de la rue.	街的尽头有一家面包店。		
-centre-ville	sɑ̃tʁəvil	n.m.	市中心	Ils habitent un petit appartement au cœur du centre-ville.	他们住在市中心核心区的一套小公寓里。		
-communale	komynal	adj.	市镇的	La bibliothèque communale propose des ateliers gratuits pour enfants.	市镇图书馆为孩子提供免费的活动课。		
-banlieue	bɑ̃ljø	n.f.	郊区	Ils ont acheté une petite maison en banlieue parisienne.	他们在巴黎郊区买了一栋小房子。		
-bourg	buʁ	n.m.	镇子	Ce joli bourg compte encore à peine mille habitants.	这个漂亮的小镇如今还只有不到一千居民。		
-campagne	kɑ̃paɲ	n.f.	乡下	Nous passons tous les étés chez mes parents à la campagne.	我们每年夏天都去我父母乡下家里过。		
-province	pʁovɛ̃s	n.f.	省份	Sa famille vit en province depuis plus de trois générations.	他家在外省已经住了三代以上。		
-district	distʁikt	n.m.	县	Ce district rural manque encore de médecins et d'écoles.	这个乡村县仍然缺少医生和学校。		
-adresse	adʁɛs	n.f.	地址	Écrivez votre adresse complète au dos de cette enveloppe.	请把您的详细地址写在这个信封背面。		
-nom	nɔ̃	n.m.	名字	Le facteur a mal écrit mon nom sur le paquet.	邮差把我的名字写在包裹上时写错了。		
-destinataire	destinatɛʁ	n.	收件人	Le destinataire habite au deuxième étage de ce bâtiment.	收件人住在这栋楼的二层。		
-expéditeur	ɛkspeditœʁ	adj.	发件人	L'expéditeur a oublié d'écrire son nom et son adresse.	寄件人忘了写上自己的姓名和地址。		
-affranchie	afʁɑ̃ʃi	adj.	邮资已付	Cette enveloppe affranchie peut partir dès ce soir même.	这个已付邮资的信封今晚就能寄出。		
-timbre	tɛ̃bʁ	n.m.	邮票	Il colle un timbre sur l'enveloppe avant de sortir.	他出门前在信封上贴了一张邮票。		
-album	albɔm	n.m.	集邮册	Mon oncle garde ses plus beaux timbres dans un album.	我叔叔把最好的邮票保存在集邮册里。		
-philatélie	filateli	n.f.	集邮	La philatélie passionne encore beaucoup de collectionneurs très âgés.	集邮仍然让许多年长的收藏者着迷。		
-enveloppe	ɑ̃vəlɔp	n.f.	信封	Il a glissé la lettre dans une grande enveloppe blanche.	他把信装进了一个白色大信封。		
-papier	papje	n.m.	纸	Elle écrit l'adresse sur un petit morceau de papier.	她把地址写在一小片纸上。		
-colle	kɔl	n.f.	浆糊	Il met un peu de colle sur le rabat de l'enveloppe.	他在信封的封口处涂了一点浆糊。		
-réponse	ʁepɔ̃s	n.f.	回信	J'attends encore la réponse à ma dernière longue lettre.	我还在等对我那封长信的回信。		
-coter	kote	v.	做记号	Le facteur cote chaque colis avant de le ranger.	邮差给每个包裹做记号后才收起来。		
-exprès	ɛkspʁɛ	adj.	快递的	Il a envoyé le dossier exprès pour qu'il arrive lundi.	他用快递寄了材料，好让它星期一寄到。		
-porteurs	pɔʁtœʁ	adj.	送信者	Les porteurs de courrier partent très tôt le matin.	送信的人一大早就出发了。		
-épisodique	epizodik	adj.	附带的	Ce n'est qu'un problème épisodique, sans lien avec le bail.	这只是一个偶发的小问题，和租约无关。		
-paquet	pakɛ	n.m.	包裹	Un paquet est arrivé ce matin pour les voisins du troisième étage.	今天早上有一个包裹送到，是给四楼邻居的。		
-colis	koli	n.m.	包裹	J'ai reçu un grand colis à la maison hier après-midi.	昨天下午我在家收到一个大包裹。		
-élance	elɑ̃s	v.	细长的	Un jeune homme élancé attend devant la porte de l'immeuble.	一个身材细长的年轻人在楼门口等着。		
-affranchissement	afʁɑ̃ʃismɑ̃	n.m.	邮费	L'affranchissement de cette lettre coûte presque deux euros aujourd'hui.	现在寄这封信的邮费将近两欧元。		
-outre-mer	utʁəmɛʁ	adv.	海外	Mon cousin habite outre-mer et nous appelle chaque dimanche soir.	我表兄住在海外，每周日晚上都给我们打电话。		
-acquitter	akite	v.	签收	Il doit acquitter la facture d'électricité avant la fin du mois.	他必须在月底之前付清电费单。		
-banque	bɑ̃k	n.f.	银行	La banque ferme ses portes à dix-sept heures ce vendredi.	这家银行这个周五十七点关门。		
-compte	kɔ̃t	n.m.	账户	Mon compte n'a plus assez d'argent pour payer le loyer.	我的账户里钱不够付房租了。		
-banquier	bɑ̃kje	n.m.	银行家	Le banquier nous a proposé un prêt sur dix ans.	银行家向我们推荐了一笔十年期的贷款。		
-justification	ʒystifikasjɔ̃	n.f.	证实	Le propriétaire demande une justification écrite pour chaque dépense.	房东要求每一笔支出都有一份书面证明。		
-geler	ʒəle	v.	冻结	La banque a gelé son compte après plusieurs chèques sans provision.	在几张空头支票之后，银行冻结了他的账户。		
-découvert	dekuvɛʁ	adj.	透支额	Mon compte est à découvert depuis le début du mois.	我的账户从这个月初起就透支了。		
-endosser	ɑ̃dose	v.	背书	Il a endossé le chèque avant de le déposer à la banque.	他在把支票存进银行之前先做了背书。		
-monnaie	monɛ	n.f.	货	Je n'ai pas la monnaie pour payer le livreur.	我没有零钱付给送货员。		
-argent	aʁʒɑ̃	adj.	钱	Elle garde son argent dans une petite boîte sous le lit.	她把钱放在床底下的一个小盒子里。		
-changer	ʃɑ̃ʒe	v.	兑换	Nous devons changer de l'argent avant de partir en vacances.	我们出发度假前得去兑换一些钱。		
-monétaire	monetɛʁ	adj.	货币的	La crise monétaire a fait monter le prix des meubles importés.	货币危机让进口家具的价格上涨了。		
-euro	øʁo	n.m.	欧元	Ce vieux canapé ne coûte que cinquante euros au marché.	这张旧沙发在市场上只要五十欧元。		
-franc	fʁɑ̃	adj.	法郎	Son grand-père payait son loyer en francs, il y a longtemps.	他祖父很久以前是用法郎付房租的。		
-papier-monnaie	papjemonɛ	n.m.	纸币	Le papier-monnaie reste encore rare dans plusieurs pays voisins.	纸币在好几个邻国仍然很少见。		
-solde	sɔld	n.	银行存款余额	Je vérifie le solde de mon compte chaque fin de mois.	我每个月底都会查一下账户余额。		
-déposer	depoze	v.	存款	Il dépose cent euros sur son compte chaque premier lundi.	他每个月第一个周一往账户里存一百欧元。		
-verser	vɛʁse	v.	支付	Nous versons chaque mois une somme fixe pour le loyer.	我们每月支付一笔固定的房租。		
-virer	viʁe	v.	转账	Elle a viré la caution au propriétaire la semaine dernière.	她上周把押金转给了房东。		
-retrait	ʁətʁɛ	n.m.	取出	Un retrait de deux cents euros suffit pour le week-end.	取两百欧元就够这个周末用了。		
-bordereau	bɔʁdəʁo	n.m.	清单	Le bordereau de livraison est posé sur la table de l'entrée.	送货单放在玄关的桌子上。		
-chéquier	ʃekje	n.m.	支票本	J'ai oublié mon chéquier chez le notaire ce matin.	今天早上我把支票本忘在公证人那里了。		
-obligation	obligasjɔ̃	n.f.	债券	Son mari préfère les obligations aux actions depuis deux ans.	她丈夫两年来更偏爱债券而不是股票。		
-prêt	pʁɛ	adj.	贷款	Nous remboursons encore notre prêt immobilier chaque mois depuis cinq ans.	五年来我们每月还在还房贷。		
-honorer	onoʁe	v.	如期支付	Il a honoré toutes ses factures avant de quitter l'appartement.	他在搬出公寓前付清了所有账单。		
-placement	plasəmɑ̃	n.m.	投资	Ce placement rapporte peu, mais il reste très sûr.	这项投资收益不高，但非常稳妥。		
-portefeuille	pɔʁtəfœj	n.m.	有价证券	Mon banquier gère un portefeuille diversifié pour toute la famille.	我的银行家为全家管理一个多元化的证券组合。		
-encaisser	ɑ̃kese	v.	兑现	Le commerçant a encaissé le chèque sans vérifier la signature.	商家没有核对签名就兑现了支票。		
-titre	titʁ	n.m.	证券	Ces titres perdent de la valeur depuis le début de l'année.	这些证券从年初起就在贬值。		
-cheveux	ʃəvø	n.m.	头发	Ses cheveux blonds sont encore mouillés après la douche.	她的金发洗完澡后还是湿的。		
-pellicule	pelikyl	n.f.	头皮屑	Il y a des pellicules sur le col de sa veste.	他外套领子上有头皮屑。		
-longue	lɔ̃g	n.f.	长的	Elle a les jambes longues et une démarche très légère.	她腿很长，走路的样子很轻盈。		
-court	kuʁ	adj.	短的	Ses cheveux courts lui donnent un air plus sérieux.	短发让他看起来更稳重。		
-chauve	ʃov	adj.	秀的	Son oncle est chauve depuis l'âge de trente ans.	他叔叔从三十岁起就秃顶了。		
-pèle	pɛl	v.	光秀的	Le chat pelé dort sur le vieux fauteuil du salon.	那只掉毛的猫睡在客厅的旧扶手椅上。		
-bouleverser	buləvɛʁse	v.	弄乱	Les enfants ont bouleversé toute la chambre en une heure.	孩子们一个小时就把整个房间弄得乱七八糟。		
-échevelé	eʃəvəle	adj.	蓬乱的	Elle est sortie échevelée, sans même se regarder dans la glace.	她头发蓬乱地就出门了，连镜子都没照。		
-désordre	dezɔʁdʁ	n.m.	混乱	Il y a un grand désordre dans la cuisine après le repas.	饭后厨房里一片凌乱。		
-perruque	pɛʁyk	n.f.	假发	Il porte une perruque brune pour cacher sa calvitie.	他戴一顶棕色假发来遮掩秃顶。		
-postiche	pɔstiʃ	adj.	假发	Cette barbe postiche est trop visible sous la lumière.	这假胡子在灯光下太显眼了。		
-frisure	fʁizyʁ	n.f.	卷发	Ses frisures naturelles sèchent très lentement devant le miroir de l'entrée.	她天生的卷发在玄关的镜子前干得很慢。		
-droit	dʁwa	adj.	直的	Ses cheveux sont raides et tombent droit sur ses épaules.	她的头发很直，笔直地垂在肩上。		
-sec	sɛk	adj.	干燥的	L'air de la chambre est trop sec en hiver.	冬天卧室里的空气太干燥了。		
-barbier	baʁbje	n.m.	理发师	Le barbier du quartier rase encore ses clients au couteau.	街区的理发师还在用剃刀给客人刮脸。		
-coiffer	kwafe	v.	理发	Elle se coiffe devant la glace chaque matin avant de partir.	她每天早上出门前都在镜子前梳头。		
-tondre	tɔ̃dʁ	v.	剪	Le coiffeur tond les cheveux très courts du petit garçon.	理发师把小男孩的头发剪得很短。		
-frisé	fʁize	adj.	卷曲的	Son petit frère a les cheveux frisés comme sa mère.	他弟弟和妈妈一样是卷发。		
-division	divizjɔ̃	n.f.	分开	La division du salon en deux pièces demande des travaux.	把客厅分成两间需要施工。		
-séparer	sepaʁe	v.	分开	Nous avons séparé la grande chambre avec un rideau épais.	我们用一块厚帘子把大卧室隔开了。		
-ourlet	uʁlɛ	n.m.	边	Elle a refait l'ourlet de son pantalon avant le mariage.	她在婚礼前把裤脚重新缝好了。		
-rebroussement	ʁəbʁusəmɑ̃	n.m.	卷起	Un léger rebroussement du tapis bloque la porte d'entrée.	地毯微微卷起，卡住了大门。		
-émulsion	emylsjɔ̃	n.f.	乳胶	Il faut remuer l'émulsion avant de peindre le mur.	刷墙之前要把乳胶漆搅匀。		
-amollir	amoliʁ	v.	软化	La chaleur a amolli la cire sur le parquet ancien.	高温让旧木地板上的蜡变软了。		
-coloration	koloʁasjɔ̃	n.f.	染色	Cette coloration naturelle donne un reflet doré à ses cheveux.	这种天然染发剂给她的头发添了一层金色光泽。		
-ciseaux	sizo	n.m.	剪刀	Les ciseaux de cuisine sont rangés dans le tiroir du haut.	厨房剪刀收在上面的抽屉里。		
-rincer	ʁɛ̃se	v.	冲洗	Il faut rincer les verres à l'eau chaude avant de les essuyer.	擦干之前要用热水把杯子冲一遍。		
-démêler	demele	v.	梳理	Elle essaie de démêler ses cheveux mouillés avec patience.	她耐心地试着把湿头发梳开。		
-halles	al	n.f.	副食商场	Nous achetons les légumes frais aux halles chaque samedi matin.	我们每周六早上都去副食商场买新鲜蔬菜。		
-magasin	magazɛ̃	n.m.	店	Le magasin de meubles ferme plus tôt le lundi soir.	家具店周一晚上关门更早。		
-boutique	butik	n.f.	店	Cette petite boutique vend des coussins faits à la main.	这家小店卖手工做的靠垫。		
-bazar	bazaʁ	n.m.	杂货铺	On trouve de tout dans le bazar du coin de la rue.	街角的杂货铺里什么都能找到。		
-supermarché	sypɛʁmaʁʃe	n.m.	超市	Le supermarché du quartier livre les courses à domicile.	街区超市提供食品杂货送货上门。		
-librairie	libʁeʁi	n.f.	书店	La librairie près de la gare reste ouverte jusqu'à neuf heures.	火车站附近的书店开到九点。		
-épicerie	episəʁi	n.f.	杂货店	L'épicerie du village ouvre tôt et ferme très tard.	村里的杂货店开门早，关门很晚。		
-bijouterie	biʒutəʁi	n.f.	珠宝店	La bijouterie de la place expose des bagues assez chères.	广场上的珠宝店摆着一些相当贵的戒指。		
-mont-de-piété	mɔ̃-də-pjete	n.f.	当铺	Il a porté sa montre au mont-de-piété pour payer le loyer.	他把手表拿到当铺，好付房租。		
-animalerie	animaləʁi	n.f.	宠物店	L'animalerie vend des chats et des cages en bois.	宠物店卖猫和木笼子。		
-boucherie	buʃəʁi	n.f.	肉店	La petite boucherie du quartier ferme le dimanche après-midi.	街区那家小肉店周日下午关门。		
-boulangerie	bulɑ̃ʒəʁi	n.f.	面包店	Je passe à la boulangerie avant de rentrer à la maison.	我回家前会先去一趟面包店。		
-fleur	flœʁ	n.f.	花	Elle a posé une fleur blanche sur la table de la cuisine.	她在厨房桌上放了一朵白花。		
-lys	lis	n.m.	百合	Un bouquet de lys parfume tout le salon depuis hier soir.	从昨晚起，一束百合就让整个客厅满是香气。		
-tournesol	tuʁnəsɔl	n.m.	向日葵	Le vase du salon contient trois tournesols jaunes très hauts.	客厅的花瓶里插着三支很高的黄向日葵。		
-gardénia	gaʁdenja	n.m.	子花	Le gardénia fleurit près de la fenêtre de la salle à manger.	栀子花在餐厅窗边开花。		
-camélia	kamelja	n.m.	山茶花	Ce camélia rose pousse contre le mur du jardin.	这株粉色山茶花贴着花园的墙生长。		
-tulipe	tylip	n.f.	郁金香	Elle a planté des tulipes rouges devant la porte d'entrée.	她在门口种了些红色郁金香。		
-jasmin	ʒasmɛ̃	n.m.	茉莉	Le jasmin grimpe le long de la fenêtre de la chambre.	茉莉顺着卧室的窗户往上爬。		
-chrysanthème	kʁizɑ̃tɛm	n.m.	菊花	On offre des chrysanthèmes aux grands-parents au mois de novembre.	十一月人们会送菊花给祖父母。		
-marguerite	maʁgəʁit	n.f.	雏菊	Une marguerite blanche décore la petite table du balcon.	一朵白雏菊装点着阳台的小桌。		
-balsamine	balzamin	n.f.	凤仙花	La balsamine rose fleurit près du vieux mur de la cour.	粉色凤仙花在院子旧墙边开花。		
-allas	ala	v.	丁香	Tu allas au marché acheter des fleurs pour ta mère.	那天你去市场给母亲买了些花。		
-pivoine	pivwan	n.f.	牡丹	Les pivoines du jardin s'ouvrent au début du printemps.	花园里的牡丹在初春开放。		
-lavande	lavɑ̃d	n.f.	薰衣草	Un sachet de lavande parfume l'armoire de la chambre.	一个薰衣草香包让卧室的衣柜带着香味。		
-violette	vjolɛt	n.f.	紫罗兰	Elle a mis quelques violettes dans un petit verre.	她把几朵紫罗兰插在一个小玻璃杯里。		
-lunettes	lynɛt	n.f.	眼镜	Mes lunettes sont restées sur la table de nuit.	我的眼镜落在床头柜上了。		
-binocle	binɔkl	n.m.	眼镜	Mon grand-père cherche encore son binocle dans le salon.	我祖父还在客厅里找他的眼镜。		
-opticien	ɔptisjɛ̃	n.m.	眼镜店	L'opticien du centre-ville répare mes lunettes en une heure.	市中心的眼镜店一小时内就修好我的眼镜。		
-examen	ɛgzamɛ̃	n.m.	验光	L'examen de la vue dure environ vingt minutes chez l'opticien.	在眼镜店验光大约要二十分钟。		
-perçant	pɛʁsɑ̃	adj.	视力好的	Mon voisin a des yeux perçants malgré son âge.	我邻居虽然年纪大了，视力却很好。		
-optométriste	ɔptometʁist	n.	配镜师	L'optométriste ajuste chaque monture avant de la vendre au client.	配镜师在把每副镜架卖给顾客前都会调好。		
-astigmatisme	astigmatizm	n.m.	散光	Son astigmatisme l'oblige à porter des lunettes spéciales pour conduire.	他的散光让他开车时必须戴特制眼镜。		
-degré	dəgʁe	n.m.	度数	Ma vue a baissé de deux degrés en un an.	我的视力一年里下降了两度。		
-bascule	baskyl	n.f.	磅秤	La bascule du marché indique un poids un peu différent.	市场的磅秤显示的重量有点不一样。		
-label	labɛl	n.m.	标签	Ce label garantit que les meubles viennent de forêts gérées.	这个标签保证家具来自受管理的森林。		
-prix	pʁi	n.m.	价格	Le prix du loyer augmente chaque année dans ce quartier.	这个街区的房租每年都在涨。		
-chewing-gum	ʃwiŋgɔm	n.m.	口香糖	Il a collé un chewing-gum sous la table du salon.	他把一块口香糖粘在了客厅桌子底下。		
-cher	ʃɛʁ	adj.	昂贵的	Ce vieux canapé est trop cher pour notre budget.	这张旧沙发对我们的预算来说太贵了。		
-mangeable	mɑ̃ʒabl	adj.	可食用的	Ce pain rassis n'est plus vraiment mangeable après trois jours.	这面包放三天后真的不能吃了。		
-stagnante	stagnɑ̃t	adj.	不景气的	L'économie stagnante inquiète beaucoup les petits commerçants du quartier.	停滞的经济让街区的小商贩很不安。		
-mévente	mevɑ̃t	n.f.	生意平淡	La mévente des meubles anciens oblige le magasin à fermer.	旧家具卖不动，这家店只好关门。		
-place	plas	n.f.	广场	Les enfants jouent sur la place devant la mairie.	孩子们在市政厅前的广场上玩。		
-fontaine	fɔ̃tɛn	n.f.	喷泉	La fontaine de la place ne marche plus depuis l'été.	广场上的喷泉从夏天起就不出水了。		
-parterre	paʁtɛʁ	n.m.	花坛	Le parterre devant l'immeuble est plein de tulipes jaunes.	楼前的花坛里开满了黄郁金香。		
-dégagée	degaʒe	v.	没有阻碍的	La vue est bien dégagée depuis la fenêtre du salon.	从客厅的窗户望出去视野很开阔。		
-banc	bɑ̃	n.m.	长椅	Un vieux banc de bois attend les habitants sous les arbres.	一张旧木长椅在树下等着居民们。		
-jardinière	ʒaʁdinjɛʁ	n.f.	花坛	Une jardinière de géraniums décore le balcon du deuxième étage.	一个种满天竺葵的花箱装点着二楼的阳台。		
-pigeon	piʒɔ̃	n.m.	鸽子	Un pigeon gris s'est posé sur le rebord de la fenêtre.	一只灰鸽子落在窗台上。		
-successivement	syksesivəmɑ̃	adv.	连续地	Il a visité successivement trois appartements avant de choisir le sien.	他接连看了三套公寓才挑中自己那套。		
-soubassement	subasəmɑ̃	n.m.	底座	Le soubassement du vieil immeuble est couvert de mousse.	这栋老楼的底座上长满了青苔。		
-ouvert	uvɛʁ	adj.	公开的	Le jardin est ouvert au public tous les après-midi.	这个花园每天下午向公众开放。		
-colporteur	kɔlpɔʁtœʁ	n.m.	小贩	Un colporteur vend des tapis devant la gare chaque matin.	每天早上都有个小贩在火车站前卖地毯。		
-diversité	divɛʁsite	n.f.	多样化	La diversité des commerces rend ce quartier très agréable.	商铺的多样化让这个街区非常舒适。		
-stand	stɑ̃d	n.m.	摊位	Le stand de fruits attire beaucoup de monde le samedi.	水果摊周六吸引很多人。		
-fruitier	fʁɥitje	adj.	水果摊	Le rayon fruitier du supermarché propose des pommes locales.	超市的水果区有本地产的苹果。		
-confection	kɔ̃fɛksjɔ̃	n.f.	成衣	La confection de rideaux sur mesure coûte assez cher.	定做窗帘相当贵。		
-rechercher	ʁəʃɛʁʃe	v.	搜寻	Nous recherchons depuis un mois un appartement calme près du centre.	我们找了一个月，想租市中心附近一套安静的房子。		
-anime	anim	v.	热闹的	Le quartier est très animé le soir grâce aux terrasses.	因为那些露天座位，这里晚上很热闹。		
-activer	aktive	v.	使活跃	Ces nouveaux magasins ont activé le commerce du quartier.	这些新店铺让街区的商业活跃起来。		
-vétérinaire	veteʁinɛʁ	adj.	兽医	Le vétérinaire passe à la maison pour soigner notre chien.	兽医上门来给我们家的狗看病。		
-seringue	səʁɛ̃g	n.f.	液体喷射器	Le vétérinaire prépare une seringue pour le vieux chat.	兽医在给那只老猫准备一支注射器。		
-cultiver	kyltive	v.	培养	Elle cultive des tomates et des herbes sur son balcon.	她在阳台上种西红柿和香草。		
-enceinte	ɑ̃sɛ̃t	adj.	怀孕的	Sa sœur est enceinte et prépare déjà la chambre du bébé.	她姐姐怀孕了，已经在布置婴儿房。		
-émasculation	emaskylasjɔ̃	n.f.	澜割	L'émasculation du chat demande une nuit de repos à la maison.	给猫做阉割手术后需要在家静养一晚。		
-frénétiquement	fʁenetikəmɑ̃	adv.	疯狂地	Le chien remue la queue frénétiquement quand je rentre.	我一回家，狗就拼命摇尾巴。		
-nourrir	nuʁiʁ	v.	喂养	Il faut nourrir le chat deux fois par jour, pas plus.	猫一天要喂两次，不能更多。		
-soulagement	sulaʒəmɑ̃	n.m.	减轻痛苦的事物	La plomberie fonctionne enfin, c'est un vrai soulagement pour nous.	水管终于通了，这对我们真是莫大的安慰。		
-pissoir	piswaʁ	n.m.	小便池	Le pissoir du couloir sent mauvais depuis plusieurs jours.	走廊里的小便池好几天来一直很难闻。		
-uriner	yʁine	v.	小便	Le chien veut uriner dès qu'il sort dans la rue.	狗一上街就想撒尿。		
-selle	sɛl	n.f.	大解	Le médecin demande si ses selles sont normales depuis hier.	医生问他从昨天起大便是否正常。		
-puanteur	pɥɑ̃tœʁ	n.f.	臭味	Une puanteur étrange monte de l'égout devant notre immeuble.	一股奇怪的臭味从楼前的下水道冒上来。		
-dégager	degaʒe	v.	使畅通	Il faut dégager le couloir avant l'arrivée des déménageurs.	搬家工人来之前得把走廊清空。		
-ordures	ɔʁdyʁ	n.f.	垃圾	Les ordures sont sorties le mardi et le vendredi soir.	垃圾在周二和周五晚上拿出去。		
+accotoirs	akotwaʁ	n.m.	扶手	Les accotoirs de ce fauteuil sont trop hauts pour moi.	这把扶手椅的扶手对我来说太高了。		
+accrocher	akʁoʃe	v.	挂；钩住	Elle a accroché son manteau derrière la porte de l'entrée.	她把外套挂在了门后。		
+aérateur	aeʁatœʁ	n.m.	通风机	L'aérateur de la salle de bains ne fonctionne plus depuis l'hiver.	浴室的通风机从冬天起就不转了。		
+aéré	aeʁe	adj.	通风的	Cette salle est claire et bien aérée, on y travaille agréablement.	这间大厅明亮又通风良好，在里面工作很舒服。		
+aérer	aeʁe	v.	通风	Il faut aérer la chambre tous les matins avant de partir.	每天早上出门前要给房间通风。		
+aiguille	egɥij	n.f.	针	L'aiguille de la boussole oscillait sans cesse, comme si le nord lui-même refusait de se fixer.	罗盘的指针不停地摆动，仿佛北方本身也拒绝定格。		
+aiguiser	egize	v.	使锋利	Il faut aiguiser les crayons avant de commencer la réunion.	开会前得把铅笔削尖。		
+alarme	alaʁm	n.f.	警报；警报器	Mon alarme sonne à sept heures, mais je me lève plus tard.	我的闹铃七点响，但我起得更晚。		
+alèse	alɛz	n.f.	床垫套	L'alèse protège le matelas des taches et de l'humidité.	床垫罩保护床垫，防污又防潮。		
+allumette	alymɛt	n.f.	火柴	Une seule allumette suffit pour allumer le feu de bois.	一根火柴就够点着木柴火。		
+appartement	apaʁtəmɑ̃	n.m.	公寓	Nous louons un appartement au centre.	我们在市中心租了一套公寓。		
+arceau	aʁso	n.m.	窗拱	Un arceau de pierre décore l'entrée de la vieille maison.	一道石拱装饰着老房子的入口。		
+armoire	aʁmwaʁ	n.f.	衣柜	Dans l'armoire de sa grand-mère, elle trouva des lettres que personne n'avait ouvertes depuis la guerre.	在祖母的衣柜里，她找到一些自战争以来没人打开过的信。		
+arrière-cour	aʁjɛʁ-kuʁ	n.f.	后院	Ils prennent le café dans l'arrière-cour quand il fait beau.	天气好时他们在后院喝咖啡。		
+arrosage	aʁozaʒ	n.m.	浇水；洒水	L'arrosage des plantes du jardin prend une heure chaque soir.	给园子里的植物浇水每晚要花一个小时。		
+arroser	aʁoze	v.	浇水	Il faut arroser les plantes du balcon chaque soir.	每天晚上要给阳台上的植物浇水。		
+arrosoir	aʁozwaʁ	n.m.	浇水壶	Elle remplit l'arrosoir pour les fleurs du jardin.	她把浇水壶灌满去浇花。		
+ascenseur	asɑ̃sœʁ	n.m.	电梯	L'ascenseur de cet immeuble est en panne depuis lundi.	这栋楼的电梯从周一起就坏了。		
+aspirateur	aspiʁatœʁ	n.m.	吸尘器	Mon voisin passe l'aspirateur tous les samedis matin vers dix heures.	我邻居每周六上午十点左右用吸尘器打扫。		
+assiette	asjɛt	n.f.	盘子；碟	Elle pose les assiettes chaudes sur la table du salon.	她把热盘子放在客厅的桌上。		
+baguettes	bagɛt	n.f.	筷子	Les enfants apprennent à manger avec des baguettes chinoises.	孩子们在学用中国筷子吃饭。		
+baignoire	bɛɲwaʁ	n.f.	浴缸	La baignoire de la salle de bain est un peu trop petite.	浴室的浴缸有点太小了。		
+balayer	baleje	v.	扫	Elle balayait la terrasse chaque matin, avant que le soleil ne rendît la pierre brûlante.	她每天早上都扫露台，赶在太阳把石头晒得滚烫之前。		
 balayures	balɛjyʁ	n.f.	垃圾	Elle jette les balayures dans le sac gris de la cuisine.	她把扫起来的垃圾倒进厨房的灰袋子里。		
-déchets	deʃɛ	n.m.	废物	Nous trions les déchets dans trois poubelles différentes chaque semaine.	我们每周把垃圾分装进三个不同的垃圾桶。		
-rebut	ʁəby	n.m.	废料	Ce vieux fauteuil est bon pour le rebut depuis longtemps.	这张旧扶手椅早就该当废品扔了。		
-égout	egu	n.m.	下水道	L'égout de la rue est bouché depuis la semaine dernière.	街上的下水道从上星期起就堵了。		
-purifier	pyʁifje	v.	净化	Cette plante purifie l'air de la chambre pendant la nuit.	这种植物夜里能净化卧室的空气。		
-purification	pyʁifikasjɔ̃	n.f.	净化	La purification de l'eau du robinet rassure beaucoup les habitants.	自来水的净化让居民们放心不少。		
-balayer	baleje	v.	清除	Je balaie la cuisine chaque soir après le dîner.	我每天晚上吃完饭都扫一遍厨房。		
-dissocier	disosje	v.	分解	Il est difficile de dissocier ces deux odeurs dans la cuisine.	在厨房里很难把这两种气味区分开。		
-décharge	deʃaʁʒ	n.f.	垃圾场	La décharge se trouve loin des maisons du village.	垃圾场离村里的房子很远。		
-chiffonnier	ʃifonje	n.m.	捡垃圾者	Un vieux chiffonnier trie les poubelles derrière notre immeuble chaque matin.	每天早上都有个年老的拾荒者在楼后翻垃圾桶。		
+balcon	balkɔ̃	n.m.	阳台	Du balcon, on apercevait la mer entre deux immeubles, et ce mince ruban bleu suffisait à son bonheur.	从阳台上，能在两栋楼之间望见海，那条细细的蓝带就足以让他幸福。		
+balustrade	balystʁad	n.f.	栏杆	La balustrade du vieux balcon est en fer noir.	旧阳台的栏杆是黑铁的。		
+banc	bɑ̃	n.m.	长凳	Un vieil homme lisait son journal, assis sur un banc à l'ombre des platanes.	一位老人坐在梧桐树荫下的长凳上看报。		
+bastringue	bastʁɛ̃g	n.m.	杂物	Mon grand-père garde un vieux bastringue dans son grenier.	我祖父在阁楼里留着一架旧钢琴。		
+bâtiment	batimɑ̃	n.m.	建筑物	Le bâtiment, classé monument historique, sera restauré dès que les crédits nécessaires auront été votés.	这座被列为历史古迹的建筑，将在所需经费获批后立即修复。		
+beffroi	befʁwa	n.m.	钟楼	Le vieux beffroi du village sonne midi tous les jours.	村里那座老钟楼每天中午都会敲钟。		
+berceau	bɛʁso	n.m.	摇篮	Le bébé dort dans son berceau près du lit.	婴儿睡在床边的摇篮里。		
+béton	betɔ̃	n.m.	混凝土	Ce mur en béton est solide mais très froid.	这堵混凝土墙很结实，但非常冷。		
+biberon	bibəʁɔ̃	n.m.	奶瓶	Ce petit bébé s'endort facilement après son biberon du soir.	这个小宝宝晚上喝完奶很容易就睡着了。		
+bidet	bidɛ	n.m.	坐浴盆；妇洗器	Il y a un vieux bidet dans la salle de bain.	浴室里有一个旧的坐浴盆。		
+biens-fonds	bjɛ̃-fɔ̃	n.m.pl.	房地产；不动产	Il a investi toute sa fortune dans des biens-fonds.	他把全部财产都投进了房地产。		
+boîte	bwat	n.f.	盒子；公司	Les enfants ont caché leurs billes dans une vieille boîte.	孩子们把弹珠藏在一个旧盒子里。		
+bol	bɔl	n.m.	碗	Il mange son riz dans un grand bol blanc.	他用一个大白碗吃米饭。		
+bouilloire	bujwaʁ	n.f.	水壶	La bouilloire chauffe l'eau pour le thé du matin.	水壶在烧早上泡茶用的水。		
+bouteille	butɛj	n.f.	瓶子	Il a rempli une bouteille d'eau avant de partir.	出发前他灌满了一瓶水。		
+braise	bʁɛz	n.f.	炭火；余烬	Les braises couvaient encore sous les décombres fumants plusieurs heures après l'incendie.	火灾过后几个小时，冒烟的废墟下余烬仍在闷烧。		
+brique	bʁik	n.f.	砖；砖块	Cette maison en brique rouge date de cent ans.	这座红砖房子有一百年了。		
+brosse	bʁɔs	n.f.	刷子；画笔	Il nettoie la brosse avec de l'eau et du savon.	他用水和肥皂清洗刷子。		
+brosser	bʁose	v.	刷	Il faut se brosser les cheveux avant de partir au travail.	上班前得先梳头。		
+buanderie	bɥɑ̃dəʁi	n.f.	洗衣房	La buanderie se trouve au sous-sol de l'immeuble.	洗衣房在楼的地下室。		
+bureau	byʁo	n.m.	办公室；书桌	Mon père reste au bureau jusqu'à sept heures ce soir.	我父亲今晚在办公室待到七点。		
+cafetière	kafətjɛʁ	n.f.	咖啡壶	Notre cafetière est cassée depuis hier matin, il faut la remplacer.	我们的咖啡壶从昨天早上就坏了，得换一个。		
+cage	kaʒ	n.f.	鸟笼	L'oiseau chante dans sa cage près de la fenêtre.	鸟儿在窗边的笼子里唱歌。		
+canapé	kanape	n.m.	长沙发	Nous avons acheté un canapé gris pour le salon.	我们给客厅买了一张灰色长沙发。		
+cariatide	kaʁjatid	n.f.	女像柱	Une cariatide soutient le balcon de ce vieil immeuble parisien.	一尊女像柱支撑着这座巴黎老楼阳台。		
+carillon	kaʁijɔ̃	n.m.	门铃	Le carillon de l'entrée a sonné trois fois ce matin.	今天早上入口的门铃响了三次。		
+carpette	kaʁpɛt	n.f.	小地毯	Il y a une petite carpette devant la porte d'entrée.	大门前有一块小地毯。		
+carreau	kaʁo	n.m.	方砖；窗玻璃	Un carreau manquait à la fenêtre, et le vent s'y engouffrait en sifflant toute la nuit.	窗户少了一块玻璃，风整夜呼啸着灌进来。		
+carton	kaʁtɔ̃	n.m.	纸板；纸箱	Des cartons empilés dans l'entrée contenaient les affaires qu'il n'avait pas eu le courage de trier.	门厅里堆着的纸箱装着些他没勇气整理的旧物。		
+cassable	kasabl	adj.	易碎的	Ce produit est cassable, il faut le protéger pendant le transport.	这件产品易碎，运输时必须加以保护。		
+casserole	kasəʁɔl	n.f.	炖锅；汤锅	Elle fait chauffer le lait dans une petite casserole.	她把牛奶放在小锅里加热。		
+cendre	sɑ̃dʁ	n.f.	灰；灰烬	Une épaisse couche de cendre grise recouvre encore les toits du village.	一层厚厚的灰色灰烬仍覆盖着村里的屋顶。		
+cendrier	sɑ̃dʁije	n.m.	烟灰缸	Mon père vide le cendrier sur le balcon chaque soir.	我父亲每天晚上在阳台上倒烟灰缸。		
+céramique	seʁamik	n.f.	陶瓷；陶器	Ces bols en céramique viennent d'un petit atelier.	这些瓷碗来自一家小作坊。		
+cerceau	sɛʁso	n.m.	带，箍	Un large cerceau de métal soutient la jupe du costume.	一个宽大的金属箍撑着戏服的裙摆。		
+chaise	ʃɛz	n.f.	椅子	Asseyez-vous sur cette chaise.	请坐在这把椅子上。		
+chambre	ʃɑ̃bʁ	n.f.	卧室；房间	La chambre donne sur la rue.	这间卧室朝向街道。		
+chandelle	ʃɑ̃dɛl	n.f.	蜡烛	On allume une chandelle sur la table pendant la coupure.	停电的时候，我们在桌上点了一根蜡烛。		
+chatière	ʃatjɛʁ	n.f.	猫洞	Le chat passe par la chatière pour entrer dans la cuisine.	猫从猫洞钻进厨房。		
+chauffage	ʃofaʒ	n.m.	供暖；暖气	Le chauffage est tombé en panne pendant la nuit la plus froide.	最冷的那天夜里，暖气坏了。		
+chauffe-eau	ʃofo	n.m.	热水器	Le chauffe-eau ne fonctionne plus depuis hier soir.	热水器从昨晚起就不工作了。		
+cheminée	ʃəmine	n.f.	壁炉；烟囱	La cheminée tirait mal, et la fumée envahissait la pièce dès qu'on y allumait du feu.	壁炉抽风不畅，一生火烟就灌满屋子。		
+ciment	simɑ̃	n.m.	水泥	Les ouvriers mélangent du ciment avec du sable et de l'eau.	工人们把水泥和沙子和水拌在一起。		
+cirer	siʁe	v.	打蜡	Il faut cirer les chaussures avant le mariage de samedi.	周六婚礼前要给皮鞋打蜡。		
+ciseaux	sizo	n.m.	剪刀	Les ciseaux de cuisine sont rangés dans le tiroir du haut.	厨房剪刀收在上面的抽屉里。		
+clé	kle	n.f.	钥匙	J'ai oublié mes clés au bureau et je dois attendre ma femme.	我把钥匙忘在办公室了，只好等我妻子。		
+climatiseur	klimatizœʁ	n.m.	空调	Nous avons installé un climatiseur dans la chambre pour supporter l'été.	为了熬过夏天，我们在卧室装了空调。		
+clos	klo	adj.	关闭的	Le parking est clos la nuit pour éviter les vols.	这个停车场夜里关闭以防盗窃。		
+clou	klu	n.m.	钉子	Il accroche le tableau avec un clou dans le mur.	他用一颗钉子把画挂在墙上。		
+cocotte	kokɔt	n.f.	炖锅	Le poulet mijote dans la cocotte pendant deux heures.	鸡在炖锅里焖两个小时。		
+cocotte-minute	kokɔtminyt	n.f.	压力锅	Avec une cocotte-minute, les haricots cuisent beaucoup plus vite.	用压力锅，豆子熟得快得多。		
+coin	kwɛ̃	n.m.	角落	Il y a une vieille chaise dans le coin de la salle.	房间角落里有把旧椅子。		
+colle	kɔl	n.f.	浆糊	Il met un peu de colle sur le rabat de l'enveloppe.	他在信封的封口处涂了一点浆糊。		
+colonne	kolɔn	n.f.	柱子；专栏	Une colonne de fumée s'élevait à l'horizon, marquant l'endroit où le feu avait pris.	一道烟柱在天边升起，标示出起火的地方。		
+contenance	kɔ̃tənɑ̃s	n.f.	容量	La contenance du réservoir ne suffit plus à alimenter le village en été.	水库的容量在夏天已不足以供给全村用水。		
+corde	kɔʁd	n.f.	绳子；弦	Le linge sèche sur une corde tendue dans le jardin.	衣服晾在花园里拉起的绳子上。		
+couette	kwɛt	n.f.	羽绒被	En hiver, nous dormons sous une couette bien chaude.	冬天我们盖着很暖和的羽绒被睡觉。		
+couloir	kulwaʁ	n.m.	走廊	Elle a attendu dans le couloir pendant toute la consultation.	整个问诊期间她都在走廊里等着。		
+coupe-feu	kupfø	n.m.	防火带	Ce coupe-feu bien entretenu a ralenti la progression des flammes vers le village.	这条维护良好的防火带减缓了火势向村庄蔓延。		
+coupole	kupɔl	n.f.	穹顶	La coupole de cette église brille au soleil du matin.	这座教堂的穹顶在早晨的阳光下发亮。		
+cour	kuʁ	n.f.	庭院	Les enfants jouent dans la grande cour de l'école.	孩子们在学校的大院子里玩。		
+coussinet	kusinɛ	n.m.	小垫子	Elle pose un petit coussinet sous la théière chaude.	她在热茶壶下垫了一个小垫子。		
+couteau	kuto	n.m.	刀	Il a coupé le pain avec un couteau dont la lame tremblait.	他用一把刀刃直抖的刀切面包。		
+couvercle	kuvɛʁkl	n.m.	盖子	Il met le couvercle sur la casserole encore chaude.	他把盖子盖在还热着的锅上。		
+couvert	kuvɛʁ	n.m.	餐具；盖着的	Le serveur pose les couverts sur la table blanche.	服务员把餐具摆放在白桌上。		
+couverture	kuvɛʁtyʁ	n.f.	毯子；封面	Elle a tiré la couverture jusqu'à son menton et s'est endormie aussitôt.	她把毯子拉到下巴，立刻就睡着了。		
+crochet	kʁoʃɛ	n.m.	钩子；钩针	Le crochet de la fenêtre est cassé depuis l'hiver.	窗钩从冬天起就坏了。		
+cuillère	kɥijɛʁ	n.f.	勺子	Je prends une cuillère pour manger ma soupe chaude.	我拿一把勺子喝热汤。		
+cuisine	kɥizin	n.f.	厨房；烹饪	Elle est dans la cuisine.	她在厨房里。		
+cuisinière	kɥizinjɛʁ	n.f.	炉灶；女厨师	Cette vieille cuisinière électrique chauffe très vite mais consomme beaucoup d'énergie.	这台旧电灶热得很快，但很费电。		
+cutter	kytɛʁ	n.m.	美工刀；独桅帆船	Le cutter du port emmène les touristes vers la petite île.	港口的快艇把游客送到小岛上。		
+déboucher	debuʃe	v.	疏通；通向	Ce couloir obscur débouche sur une cour intérieure que les visiteurs ignorent presque tous.	这条昏暗的走廊通向一个几乎被所有访客忽略的内院。		
+décor	dekɔʁ	n.m.	布景；装饰	Le décor changeait à chaque acte, mais la pièce elle-même ne racontait qu'une seule histoire.	布景每幕都换，但戏本身只讲了一个故事。		
+décorer	dekoʁe	v.	装修	Ils vont décorer la chambre avant l'arrivée du bébé.	他们要在宝宝出生前装修卧室。		
+dégagement	degaʒəmɑ̃	n.m.	腾出；空地	Il faut laisser un dégagement devant la porte de secours.	必须在安全出口门前留出停车线以外的空地。		
+déménager	demenaʒe	v.	搬家	Nous allons déménager dans un appartement plus grand.	我们要搬进一套更大的公寓。		
+dépoussiérer	depusjeʁe	v.	除尘；使更新	Je dois dépoussiérer les meubles avant les invités.	客人来之前我得把家具除尘。		
+désordonné	dezɔʁdone	adj.	凌乱的	Sa chambre est toujours désordonnée le dimanche matin.	她的房间星期天早上总是乱糟糟的。		
+dessous	dəsu	adv.	楼下	Les voisins du dessous font beaucoup de bruit le soir.	楼下的邻居晚上很吵。		
+dessus	dəsy	adv.	在上面	Pose ton sac dessus, il y a encore de la place.	把包放上面吧，还有地方。		
+détergent	detɛʁʒɑ̃	n.m.	洗涤剂	Il faut acheter du détergent pour la machine à laver.	得给洗衣机买洗衣粉。		
+divan	divɑ̃	n.m.	沙发床	Ce divan se transforme facilement en lit pour deux.	这张沙发床很容易变成双人床。		
+dôme	dom	n.m.	圆顶；穹顶	Le dôme de la cathédrale domine toute la vieille ville.	主教座堂的穹顶俯瞰着整个老城。		
+domestique	domɛstik	adj.	国内的	Un vol domestique reste en France et ne passe pas la douane.	国内航班一直在法国境内，不用过海关。		
+domiciliaire	domisiljɛʁ	adj.	住家的；上门的	Plusieurs perquisitions domiciliaires ont eu lieu tôt ce matin chez les suspects.	今天清早对嫌疑人住所进行了多次搜查。		
+douche	duʃ	n.f.	淋浴	Je prends une douche chaude tous les matins avant le travail.	我每天早上上班前洗个热水澡。		
+douille	duj	n.f.	灯座；套筒；弹壳	L'ampoule du salon ne s'allume plus, la douille doit être cassée.	客厅的灯不亮了，插座灯口大概是坏了。		
+drap	dʁa	n.m.	床单	Les draps séchaient dehors et sentaient bon le savon et le soleil.	床单晾在外面，散发着肥皂和阳光的味道。		
+dressoir	dʁɛswaʁ	n.m.	餐具架	Les assiettes sont rangées dans le dressoir de la cuisine.	盘子放在厨房的餐具架上。		
+échelle	eʃɛl	n.f.	梯子；比例；等级	Sur cette vieille photo, l'échelle des visages paraît vraiment étrange.	在这张老照片上，人脸的比例显得很奇怪。		
+éclairage	eklɛʁaʒ	n.m.	灯光	L'éclairage de cette scène crée une atmosphère vraiment étrange.	这场戏的灯光营造出一种很奇怪的气氛。		
+éclairer	ekleʁe	v.	照亮	Une seule lampe éclairait la table où les enfants faisaient leurs devoirs.	只有一盏灯照着孩子们做作业的桌子。		
+écouvillon	ekuvijɔ̃	n.m.	瓶刷	Elle lave la bouteille avec un écouvillon et de l'eau.	她用瓶刷和水清洗这个瓶子。		
+émail	emaj	n.m.	搪瓷；珐琅	Cette vieille casserole en émail appartient à ma grand-mère.	这个旧珐琅锅是我祖母的。		
+enduire	ɑ̃dɥiʁ	v.	涂	Elle enduit le moule de beurre avant de verser la pâte.	她在倒面糊前往模具上涂黄油。		
+entonnoir	ɑ̃tonwaʁ	n.m.	漏斗	Il a versé l'huile dans la bouteille avec un entonnoir.	他用漏斗把油倒进瓶子里。		
+entrée	ɑ̃tʁe	n.f.	入口	Les clés sont posées sur la table près de l'entrée.	钥匙放在入口旁的桌子上。		
+entretenir	ɑ̃tʁətəniʁ	v.	维护；供养	Il entretenait la maison avec un soin presque maniaque, comme si quelqu'un devait revenir un jour.	他近乎偏执地打理这栋房子，仿佛有一天会有人回来。		
+entretien	ɑ̃tʁətjɛ̃	n.m.	保养；维护；面谈	L'entretien du moteur coûte cher chez ce garagiste.	在这家修车行做发动机保养很贵。		
+épingle	epɛ̃gl	n.f.	大头针	Une épingle maintient le badge sur la veste de l'employé.	一枚大头针把工牌固定在员工的西装上。		
+éponge	epɔ̃ʒ	n.f.	海绵	Passe une éponge humide sur la table avant de la servir.	上菜前先用湿海绵擦一下桌子。		
+escabeau	ɛskabo	n.m.	凳子	Le bibliothécaire a monté sur un escabeau pour attraper le dictionnaire.	图书管理员登上凳子去拿那本词典。		
+escalier	ɛskalje	n.m.	楼梯	Elle a monté l'escalier sans allumer la lumière.	她没开灯就上了楼。		
+essoreuse	esoʁøz	n.f.	脱水机	L'essoreuse de la buanderie ne tourne plus correctement.	洗衣房的脱水机转不正常了。		
+essuyer	esɥije	v.	擦干	Elle essuya ses larmes du revers de la main, puis reprit son récit comme si rien ne s'était passé.	她用手背擦去眼泪，又接着讲下去，仿佛什么都没发生过。		
+étable	etabl	n.f.	牲口棚	Les vaches rentrent à l'étable dès que le soleil se couche.	太阳一落山，奶牛就回到牲口棚。		
+étage	etaʒ	n.m.	楼层	Ils habitent au troisième étage d'un immeuble ancien.	他们住在一栋老楼的三层。		
+étagère	etaʒɛʁ	n.f.	书架	Les livres rendus sont posés sur l'étagère près de l'entrée.	还回来的书放在入口旁的书架上。		
+extérieur	ɛksteʁjœʁ	adj.	室外的	Les escaliers extérieurs deviennent très glissants après la pluie d'hiver.	冬雨过后，室外楼梯变得很滑。		
+façade	fasad	n.f.	正面；外墙	La façade de l'église, rongée par le sel, gardait pourtant la majesté des siècles passés.	教堂的正面被盐分侵蚀，却仍保有往昔世纪的庄严。		
+falot	falo	adj.	提灯；平庸的	Un feu falot clignote à l'arrière de la vieille voiture.	老车尾部一闪一闪地亮着微弱的尾灯。		
+fauteuil	fotœj	n.m.	扶手椅	Le vieil homme s'est endormi dans son fauteuil devant la télévision.	老人在电视机前的扶手椅上睡着了。		
+fêler	fele	v.	使裂开	La chaleur a fêlé le verre de la vieille fenêtre.	高温使旧窗户的玻璃裂开了。		
+fenêtre	fənɛtʁ	n.f.	窗户	Ouvre la fenêtre, il fait chaud.	开窗吧，太热了。		
+fissure	fisyʁ	n.f.	缝隙	Une fissure dans la vitre laisse entrer un peu d'air froid.	玻璃上的一道缝隙漏进了一点冷风。		
+flacon	flakɔ̃	n.m.	瓶子	Elle garde son parfum dans un petit flacon de verre.	她把香水放在一个小玻璃瓶里。		
+foncier	fɔ̃sje	adj.	土地的；地产	Le prix du marché foncier a beaucoup augmenté dans cette région.	该地区地产市场的价格大幅上涨。		
+fouet	fwɛ	n.m.	鞭子；打蛋器	Elle bat les œufs au fouet dans un grand bol.	她用打蛋器在大碗里打鸡蛋。		
+four	fuʁ	n.m.	烤箱	Le gâteau cuit dans le four depuis vingt minutes.	蛋糕在烤箱里烤了二十分钟。		
+fourchette	fuʁʃɛt	n.f.	叉	Elle mange sa salade avec une fourchette en métal.	她用金属叉子吃沙拉。		
+fourre-tout	fuʁtu	n.m.	杂物袋；杂物间	Il range ses vieux papiers dans le fourre-tout du grenier.	他把旧文件收在阁楼的储藏室里。		
+frange	fʁɑ̃ʒ	n.f.	流苏，穗	La frange de son châle touche presque le sol.	她披肩的流苏几乎垂到地面。		
+garage	gaʁaʒ	n.m.	车库	La voiture reste au garage pendant les vacances d'hiver.	冬天假期里车一直停在车库。		
+gobelet	gɔbəlɛ	n.m.	马克杯	Il boit son café dans un gobelet en plastique.	他用塑料杯喝咖啡。		
+grange	gʁɑ̃ʒ	n.f.	谷仓	La grange, vide depuis la mort du père, abritait encore une charrette et quelques outils rouillés.	父亲去世后谷仓就空了，里面还放着一辆大车和几件生锈的工具。		
+gratte-ciel	gʁatsjɛl	n.m.	摩天大楼	Ce gratte-ciel est le plus haut de la ville.	这座摩天大楼是城里最高的。		
+habiter	abite	v.	居住	J'habite à Shenzhen.	我住在深圳。		
+hache	aʃ	n.f.	斧子	On a trouvé une hache en pierre près de la tombe.	人们在墓旁发现了一把石斧。		
+hachette	aʃɛt	n.f.	短柄斧	Le bûcheron coupe les petites branches avec une hachette.	伐木工用小斧头砍下细枝。		
+hachoir	aʃwaʁ	n.m.	绞肉机；斩拌机	Passe la viande au hachoir pour faire des boulettes.	把肉放进绞肉机，好做肉丸。		
+horloge	ɔʁlɔʒ	n.f.	时钟	L'horloge de la gare retarde toujours de cinq bonnes minutes.	车站的钟总是慢五分钟。		
+humidificateur	ymidifikatœʁ	n.m.	加湿器	Un humidificateur dans la chambre aide à mieux respirer la nuit.	卧室里放个加湿器有助于夜里呼吸顺畅。		
+immeuble	imœbl	n.m.	楼房	L'immeuble d'en face a été construit il y a plus d'un siècle.	对面的楼房建于一个多世纪前。		
+immobilier	imobilje	n.m.	房地产；adj. 房地产的	Le marché immobilier connaît une hausse des prix très inquiétante.	房地产市场出现了令人非常担忧的价格上涨。		
+installer	ɛ̃stale	v.	安装；安置	Ils ont installé une nouvelle cuisine dans leur appartement.	他们在公寓里装了新厨房。		
+intérieur	ɛ̃teʁjœʁ	adj.	内部的	La cour intérieure, plantée d'un unique tilleul, offrait un peu de fraîcheur aux jours d'été.	内院只种着一棵椴树，为夏日带来一点凉意。		
+jalousie	ʒaluzi	n.f.	嫉妒；百叶窗	Les jalousies blanches protègent bien la chambre du soleil d'été.	白色百叶窗很好地挡住了夏天的阳光。		
+jardin	ʒaʁdɛ̃	n.m.	花园	Mes grands-parents cultivent des tomates dans leur petit jardin.	我祖父母在小花园里种西红柿。		
+jardinière	ʒaʁdinjɛʁ	n.f.	花箱；种花女工	Une jardinière de géraniums décore le balcon du deuxième étage.	一个种满天竺葵的花箱装点着二楼的阳台。		
+lambrequin	lɑ̃bʁəkɛ̃	n.m.	垂饰；门楣帘	Les lambrequins rouges décorent les fenêtres du vieux théâtre.	红色的垂饰装饰着老剧院的窗户。		
+lame	lam	n.f.	刀片；薄片	La lame du couteau, ébréchée par des années d'usage, refusait de couper la corde.	刀刃因多年使用而崩了口，怎么也割不断那根绳子。		
+lampe	lɑ̃p	n.f.	灯	La lampe du salon éclairait doucement les visages fatigués des invités.	客厅的灯柔和地照着客人们疲惫的脸。		
+lanterne	lɑ̃tɛʁn	n.f.	灯笼	Pendant la fête, une petite lanterne rouge éclaire chaque fenêtre.	节日期间，每扇窗前都挂着一盏点亮的小红灯笼。		
+latte	lat	n.f.	板条	Ma sœur prend un latte chaud avant le cours chaque matin.	我妹妹每天早上上课前喝一杯热拿铁。		
+lavabo	lavabo	n.m.	洗脸盆	Il laisse ses lunettes sur le lavabo de la salle de bain.	他把眼镜放在浴室的洗脸盆上。		
+lave-linge	lavlɛ̃ʒ	n.m.	洗衣机	Le lave-linge est en panne depuis trois jours.	洗衣机坏了三天了。		
+lave-vaisselle	lavvɛsɛl	n.m.	洗碗机	Notre lave-vaisselle est tombé en panne juste avant les vacances.	我们的洗碗机在假期前正好坏了。		
+laver	lave	v.	洗	Il a lavé la voiture tout l'après-midi sous un soleil écrasant.	他在烈日下洗了一下午车。		
+lavette	lavɛt	n.f.	洗碗布	Passe la lavette sur la table après le repas.	饭后用洗碗布擦一下桌子。		
+lèchefrite	lɛʃfʁit	n.f.	接油盘	Elle pose le poulet chaud sur la lèchefrite du four.	她把热鸡放在烤箱的托盘上。		
+linge	lɛ̃ʒ	n.m.	衣物；布草	Le linge, étendu sur une corde entre deux arbres, séchait lentement dans l'air immobile.	衣物晾在两棵树之间的绳子上，在静止的空气里慢慢变干。		
+lit	li	n.m.	床	Le chat dort sur mon lit depuis une heure.	猫在我床上睡了一个小时了。		
+literie	litəʁi	n.f.	被褥	Le magasin vend de la literie de très bonne qualité.	这家店卖的被褥质量很好。		
+locataire	lokatɛʁ	n.	房客	La locataire du troisième étage déménage à la fin du mois.	三楼的房客月底搬走。		
+location	lokasjɔ̃	n.f.	租赁	La location de ce studio coûte huit cents euros par mois.	这间单间的租金每月八百欧元。		
+logement	lɔʒəmɑ̃	n.m.	住房；住所	J'ai trouvé un logement près du campus, à dix minutes à pied.	我在校园附近找了个住处，步行十分钟。		
+louer	lwe	v.	租用；出租	Ils louent leur appartement à un jeune couple tranquille.	他们把公寓租给一对安静的年轻夫妇。		
+loyer	lwaje	n.m.	租金	Le loyer de cet appartement est trop élevé pour nous.	这套公寓的租金对我们来说太高了。		
+lucarne	lykaʁn	n.f.	天窗	La lumière entre par la lucarne du toit chaque matin.	每天早上光线从屋顶的天窗照进来。		
+maçonnerie	masɔnəʁi	n.f.	泥瓦工程	Les travaux de maçonnerie du garage commenceront lundi prochain.	车库的砌筑工程下周一开始。		
+maison	mɛzɔ̃	n.f.	房子；家	Je rentre à la maison.	我回家。		
+mansarde	mɑ̃saʁd	n.f.	阁楼	Il a loué une petite mansarde sous les toits.	他租了屋顶下的一间小阁楼。		
+marbre	maʁbʁ	n.m.	大理石	Le marbre de l'escalier, poli par des générations de pas, reflétait faiblement la lumière des lampes.	楼梯的大理石被几代人的脚步磨得光滑，微弱地映着灯光。		
+marmite	maʁmit	n.f.	锅	La soupe cuit doucement dans la marmite depuis une heure.	汤在锅里已经炖了一个小时。		
+marteau	maʁto	n.m.	锤子；榔头	Le marteau du piano frappe les cordes avec une grande précision.	钢琴的音锤非常精准地敲击琴弦。		
+matelas	matəla	n.m.	床垫	Ce matelas est trop dur, je dors très mal.	这张床垫太硬，我睡得很不好。		
+matériaux	mateʁjo	n.m.	材料；原料	Nous avons besoin de matériaux récents pour préparer la présentation.	我们需要最新的资料来准备演示。		
+ménage	menaʒ	n.m.	家务；家务劳动	Elle fait son ménage chaque samedi matin, avant que les enfants ne se lèvent.	她每周六上午做家务，赶在孩子起床之前。		
+ménager	menaʒe	adj.	家务的；节约的	Nous avons acheté plusieurs appareils ménagers pour la cuisine.	我们为厨房买了好几件家用电器。		
+meuble	mœbl	n.m.	家具	Chaque meuble de la chambre est en bois clair.	卧室里的每件家具都是浅色木头的。		
+miroir	miʁwaʁ	n.m.	镜子	Dans le miroir du couloir, elle aperçut soudain le visage d'un homme qu'elle croyait avoir oublié.	在走廊的镜子里，她忽然看见一个她以为早已忘记的男人的脸。		
+mitoyen	mitwajɛ̃	adj.	共有的；毗邻的	Le mur mitoyen sépare nos deux jardins depuis toujours.	这道共有的墙一直把我们两家的花园隔开。		
+mixeur	miksœʁ	n.m.	搅拌器	Le mixeur prépare la soupe de légumes en quelques secondes.	搅拌器几秒钟就能打好蔬菜汤。		
+moulin	mulɛ̃	n.m.	磨坊；磨	Ce vieux moulin à café électrique fonctionne encore très bien le matin.	这台旧电动咖啡磨早上还很好用。		
+moustiquaire	mustikɛʁ	n.f.	蚊帐	Nous dormons sous une moustiquaire pendant les vacances.	假期里我们睡在蚊帐里。		
+mur	myʁ	n.m.	墙	Il a accroché une photo de sa famille sur le mur.	他在墙上挂了一张全家福。		
+nappe	nap	n.f.	餐桌台布	Elle a mis une nappe blanche sur la table du salon.	她在客厅的桌上铺了一块白台布。		
+natte	nat	n.f.	凉席	En été, il dort sur une natte posée par terre.	夏天他睡在地上铺的凉席上。		
+nettoyer	netwaje	v.	洗涤	Nous nettoyons toute la cuisine ensemble chaque samedi matin.	我们每周六早上一起打扫整个厨房。		
+niche	niʃ	n.f.	狗窝	Le chien dort dans sa niche quand il pleut dehors.	外面下雨时狗就睡在自己的窝里。		
+ordure	ɔʁdyʁ	n.f.	垃圾	Il ne faut jamais jeter ses ordures dans la rue.	千万别把垃圾扔在街上。		
+ordures	ɔʁdyʁ	n.f.	垃圾	Les ordures sont sorties le mardi et le vendredi soir.	垃圾在周二和周五晚上拿出去。		
+oreiller	oʁeje	n.m.	枕头	Elle a glissé la lettre sous son oreiller, comme pour la protéger du regard des autres.	她把信塞到枕头下面，仿佛要护着它不让别人看见。		
+orner	ɔʁne	v.	装饰；点缀	Un ruban rouge orne le col de sa chemise blanche.	一条红丝带装饰着他白衬衫的领子。		
+ourlet	uʁlɛ	n.m.	折边；卷边	Elle a refait l'ourlet de son pantalon avant le mariage.	她在婚礼前把裤脚重新缝好了。		
+outil	uti	n.m.	工具	Un bon outil de travail doit être solide et facile à utiliser.	好的工具必须结实耐用、用起来顺手。		
+paillasson	pajasɔ̃	n.m.	门垫；草席	Essuie bien tes pieds sur le paillasson avant d'entrer dans le salon.	进客厅前先在门口蹭干净脚。		
+palier	palje	n.m.	楼梯平台	Elle s'arrête sur le palier pour reprendre son souffle.	她在楼梯平台上停下来喘口气。		
+palis	pali	n.m.	围栏	Autour du champ, un palis de bois empêche les animaux d'entrer.	田地四周有一道木围栏，防止牲畜进入。		
+parapet	paʁapɛ	n.m.	栏杆	Il s'appuie sur le parapet pour regarder la rivière.	他靠在栏杆上看河。		
+parement	paʁəmɑ̃	n.m.	饰物	Le parement de sa robe est brodé à la main.	她裙子的饰边是手工绣的。		
+parloir	paʁlwaʁ	n.m.	会客室；探监室	Les visiteurs attendent dans le parloir calme du vieux couvent.	访客在老修道院安静的会客室里等候。		
+parterre	paʁtɛʁ	n.m.	花坛	Le parterre devant l'immeuble est plein de tulipes jaunes.	楼前的花坛里开满了黄郁金香。		
+partition	paʁtisjɔ̃	n.f.	隔断；乐谱	Une partition de bois sépare la cuisine du salon.	一道木质隔断把厨房和客厅分开。		
+peignoir	pɛɲwaʁ	n.m.	浴衣	Après le bain, il met son peignoir bleu et se repose.	洗完澡后，他披上蓝色浴衣歇一会儿。		
+peinture	pɛ̃tyʁ	n.f.	绘画；油漆	La peinture du couloir n'a pas encore eu le temps de sécher.	走廊的油漆还没干透呢。		
+pelle	pɛl	n.f.	铲	Il utilise une pelle pour retourner les crêpes.	他用铲子翻薄饼。		
+pension	pɑ̃sjɔ̃	n.f.	膳宿；寄宿；养老金	Ils vivent dans une petite pension près de la gare.	他们住在火车站附近的一家小公寓里。		
+persienne	pɛʁsjɛn	n.f.	百叶窗	Il ferme les persiennes chaque soir avant de dormir.	他每天晚上睡前都会关上百叶窗。		
+pièce	pjɛs	n.f.	房间；零件；硬币	Mon appartement a trois pièces et une grande cuisine.	我的公寓有三个房间和一个大厨房。		
+pierre	pjɛʁ	n.f.	石头	Les enfants ont lancé des pierres dans la rivière.	孩子们往河里扔石头。		
+pilier	pilje	n.m.	柱子	Un pilier de pierre soutient encore la vieille tribune du stade.	一根石柱仍然支撑着球场的老看台。		
+pince	pɛ̃s	n.f.	镊子	L'infirmière retire l'écharde du doigt avec une pince fine.	护士用一把细镊子把手指里的刺取出来。		
+placard	plakaʁ	n.m.	壁橱	Dans le placard de l'entrée s'entassaient des manteaux que plus personne, depuis des années, ne portait.	门厅的壁橱里堆着一些多年无人再穿的大衣。		
+plafond	plafɔ̃	n.m.	天花板	Le plafond, bas et fissuré, semblait peser sur les épaules de ceux qui vivaient là.	低矮开裂的天花板仿佛压在住在这里的人的肩上。		
+planche	plɑ̃ʃ	n.f.	木板	La planche céda sous son poids, et il tomba dans le vide en poussant un cri bref.	木板在他体重下断裂，他短促地叫了一声就坠了下去。		
+plaque	plak	n.f.	板；牌	Une plaque de cuivre, vissée près de la porte, portait un nom que la rouille avait effacé.	门边拧着一块铜牌，上面的名字已被锈迹抹去。		
+plastique	plastik	adj.	塑料的	J'ai acheté un sac plastique pour emporter les fruits.	我买了一个塑料袋来装水果。		
+plateau	plato	n.m.	托盘；高原	Le serveur porte un grand plateau plein de verres.	服务员端着一个装满杯子的大托盘。		
+pliant	plijɑ̃	adj.	可折叠的	Nous rangeons une petite table pliante derrière la porte.	我们把一张小折叠桌收在门后。		
+plier	plije	v.	折叠；弯曲	Il plie soigneusement la lettre avant de la glisser dans la poche de sa veste.	他把信仔细折好，然后塞进外套口袋。		
+poêlon	pwalɔ̃	n.m.	小平底锅	Il fait fondre le beurre dans un poêlon sur le feu.	他在火上的小煎锅里化黄油。		
+poignée	pwaɲe	n.f.	一把；把手	Il saisit une poignée de terre et la laissa couler entre ses doigts, comme pour en mesurer le poids.	他抓起一把土，让它从指缝间流下，仿佛要掂量它的重量。		
+porte	pɔʁt	n.f.	门	Il a fermé la porte du bureau avant de partir.	他离开前关上了办公室的门。		
+porte-manteau	pɔʁt-mɑ̃to	n.m.	衣架	Accroche ton manteau au porte-manteau près de l'entrée.	把你的大衣挂在入口旁的衣架上。		
+porte-savon	pɔʁt savɔ̃	n.m.	肥皂盒	Le porte-savon est fixé au mur de la douche.	肥皂盒固定在淋浴间的墙上。		
+pot	po	n.m.	罐	Ce pot de confiture est presque vide ce matin.	这罐果酱今天早上几乎空了。		
+poterie	pɔtəʁi	n.f.	陶器	Les poteries trouvées sur le site sont exposées au musée.	在遗址上发现的陶器在博物馆展出。		
+poubelle	pubɛl	n.f.	废纸篓	Il jette son billet dans la poubelle de la gare.	他把车票扔进车站的废纸篓。		
+poulailler	pulaje	n.m.	鸡舍；顶层楼座	Les places au poulailler sont les moins chères du théâtre.	顶层楼座的票是剧院里最便宜的。		
+poussière	pusjɛʁ	n.f.	灰尘	Une épaisse couche de poussière couvrait les meubles de la pièce abandonnée.	那间废弃屋子的家具上盖着厚厚一层灰。		
+poutre	putʁ	n.f.	梁；大梁	Une poutre en chêne soutient le plafond de la grange.	一根橡木大梁撑着谷仓的屋顶。		
+propriétaire	pʁopʁijetɛʁ	n.m.	业主；房东	Le propriétaire a refusé de renouveler le bail, préférant vendre l'appartement à un investisseur.	房东拒绝续租，宁愿把房子卖给一个投资者。		
+ranger	ʁɑ̃ʒe	v.	整理	Elle a rangé tous ses livres par ordre alphabétique avant de déménager.	搬家前她把所有书按字母顺序整理好了。		
+réchaud	ʁeʃo	n.m.	炉子	Elle pose la casserole sur le réchaud pour faire chauffer la soupe.	她把锅放在炉子上热汤。		
+récipient	ʁesipjɑ̃	n.m.	容器	Versez toute la farine dans un grand récipient bien propre.	把面粉全部倒进一个干净的大容器里。		
+recouvrir	ʁəkuvʁiʁ	v.	覆盖；盖满	La neige recouvrait les toits, effaçant les chemins que les enfants avaient tracés la veille.	雪覆盖了屋顶，抹去了孩子们前一天踩出的小路。		
+refermer	ʁəfɛʁme	v.	重新关上	Elle a refermé la porte doucement pour ne pas réveiller les enfants.	她轻轻把门重新关上，免得吵醒孩子。		
+réfrigérateur	ʁefʁiʒeʁatœʁ	n.m.	冰箱	Mets le lait dans le réfrigérateur avant qu'il ne tourne.	把牛奶放进冰箱，免得它变质。		
+réparer	ʁepaʁe	v.	修理	Le plombier va réparer la fuite demain matin.	水管工明天早上来修漏水。		
+repasser	ʁəpase	v.	熨；再来	Elle a repassé sa chemise deux fois de suite avant de se décider enfin à sortir.	她把衬衫连熨了两遍，才终于决定出门。		
+replier	ʁəplije	v.	折起	Il a replié la carte et l'a glissée dans sa poche sans un commentaire.	他把地图折好，一言不发地塞进口袋。		
+repose-pied	ʁəpozpje	n.m.	脚踏板	Le repose-pied du scooter est trop haut pour mon frère.	这辆踏板车的脚踏板对我弟弟来说太高了。		
+rideau	ʁido	n.m.	窗帘	Les rideaux tirés depuis le matin donnaient à la pièce un air triste.	窗帘从早上就拉着，让房间显得很伤感。		
+rincer	ʁɛ̃se	v.	冲洗	Il faut rincer les verres à l'eau chaude avant de les essuyer.	擦干之前要用热水把杯子冲一遍。		
+robinet	ʁobinɛ	n.m.	水龙头	Le robinet de la cuisine fuit depuis plusieurs jours.	厨房的水龙头已经漏了好几天。		
+rotonde	ʁotɔ̃d	n.f.	圆形建筑；圆亭	Deux grandes rotondes encadrent l'entrée du nouveau quartier administratif de la ville.	两座大型圆形建筑夹着城市新行政区的入口。		
+salle	sal	n.f.	房间；厅	La réunion aura lieu dans la grande salle du premier étage.	会议将在二楼的大厅举行。		
+salon	salɔ̃	n.m.	客厅；沙龙	Nous avons discuté longuement dans le salon après le dîner.	晚饭后我们在客厅里聊了很久。		
+savon	savɔ̃	n.m.	肥皂	Il se lave les mains avec du savon avant de manger.	他饭前用肥皂洗手。		
+sèche-cheveux	sɛʃ-ʃəvø	n.m.	吹风机	Le sèche-cheveux de cet hôtel ne fonctionne pas très bien.	这家旅馆的吹风机不太好用。		
+séjour	seʒuʁ	n.m.	逗留；客厅	Elle prolongea son séjour de quelques jours, prétextant la fatigue d'un voyage trop long.	她把逗留延长了几天，借口是旅途太长、太累。		
+serrure	seʁyʁ	n.f.	锁	La serrure de la porte est cassée depuis hier soir.	门锁从昨晚起就坏了。		
+serviette	sɛʁvjɛt	n.f.	毛巾；公文包	Il a posé sa serviette sur la table et s'est assis sans même retirer son manteau.	他把公文包放在桌上，连大衣都没脱就坐下了。		
+seuil	sœj	n.m.	门槛；阈值	Il s'arrêta sur le seuil, hésitant à entrer dans cette maison qu'il n'avait pas vue depuis vingt ans.	他在门槛前停下，犹豫着要不要进这栋二十年没见的房子。		
+sofa	sofa	n.m.	长沙发	Le chat dort sur le sofa depuis ce matin.	猫从早上起就睡在沙发上。		
+soubassement	subasəmɑ̃	n.m.	底座	Le soubassement du vieil immeuble est couvert de mousse.	这栋老楼的底座上长满了青苔。		
+soucoupe	sukup	n.f.	茶托	La tasse est posée sur une petite soucoupe blanche.	杯子放在一个小白茶托上。		
+sous-location	sulokasjɔ̃	n.f.	转租	La sous-location de la chambre est interdite par le contrat.	合同禁止转租这个房间。		
+souterrain	sutɛʁɛ̃	adj.	地下的	Le passage souterrain mène directement aux quais de la gare.	地下通道直通车站站台。		
+table	tabl	n.f.	桌子	Le livre est sur la table.	书在桌上。		
+tabouret	tabuʁɛ	n.m.	凳子	Elle s'assoit sur un tabouret pour cuisiner plus vite.	她坐在凳子上做饭，这样更快。		
+taie	tɛ	n.f.	枕套	Elle change la taie d'oreiller de son lit chaque dimanche.	她每个星期天换床上的枕套。		
+tapis	tapi	n.m.	地毯	Le tapis du salon est plein de miettes après le repas.	饭后客厅的地毯上全是面包屑。		
+tasse	tas	n.f.	杯子	Une tasse de thé refroidissait sur la table, à côté d'un livre resté ouvert.	一杯茶在桌上渐渐凉了，旁边是一本摊开的书。		
+terrasse	tɛʁas	n.f.	露台	Nous avons dîné sur la terrasse, sous un ciel encore très clair.	我们在露台上吃晚饭，天空还亮着。		
+théière	tejɛʁ	n.f.	茶壶	Ma mère prépare le thé dans une vieille théière.	妈妈用一把旧茶壶泡茶。		
+tiroir	tiʁwaʁ	n.m.	抽屉	Dans le tiroir du bas dormaient des lettres jaunies, nouées d'un ruban que nul n'avait dénoué.	最下面的抽屉里躺着一些泛黄的信，用一条没人解开过的丝带系着。		
+toilette	twalɛt	n.f.	洗手间；梳洗	Elle passa un moment aux toilettes pour reprendre contenance avant de retourner parmi les invités.	她在洗手间待了一会儿，稳住情绪后才回到宾客中间。		
+toilettes	twalɛt	n.f.	厕所	Les toilettes sont au fond du couloir à gauche.	厕所在走廊尽头左边。		
+toit	twa	n.m.	屋顶	Le chat s'est endormi sur le toit de la grange.	猫在谷仓的屋顶上睡着了。		
+tonneau	tono	n.m.	桶	Il y a un vieux tonneau de bois dans la cour.	院子里有一个旧木桶。		
+vaisselle	vɛsɛl	n.f.	餐具	Je fais la vaisselle après le dîner chaque soir.	我每天晚上晚饭后洗碗。		
+vase	vaz	n.m.	花瓶；淤泥	Le vase de porcelaine, fêlé depuis des années, tenait encore un maigre bouquet de fleurs séchées.	这只裂了多年的瓷瓶里，还插着一束干枯稀疏的花。		
+velum	velɔm	n.m.	遮篷	Un velum protégeait les clients du soleil sur la terrasse.	一块遮篷在露台上为客人遮阳。		
+ventilateur	vɑ̃tilatœʁ	n.m.	电风扇	Le ventilateur du plafond fait un bruit étrange depuis hier matin.	天花板上的电风扇从昨天早上起就发出怪声。		
+ventiler	vɑ̃tile	v.	使通风	Il faut ventiler la pièce chaque matin avant de commencer le travail.	每天早上开始工作前都得给房间通风。		
+ventouse	vɑ̃tuz	n.f.	吸盘；拔罐	La ventouse de la roue laisse passer un peu d'air.	车轮的气门漏出一点气。		
+vernir	vɛʁniʁ	v.	漆刷	Ils vont vernir le parquet du salon ce week-end.	这个周末他们要给客厅地板刷清漆。		
+verre	vɛʁ	n.m.	玻璃；杯子	Il a bu un verre d'eau fraîche après le sport.	运动后他喝了一杯凉水。		
+vestiaire	vɛstjɛʁ	n.m.	更衣室	Elle a laissé son sac dans le vestiaire avant le cours.	上课前她把包放在了更衣室。		
+villa	villa	n.f.	别墅	La villa, entourée de pins, dominait la mer d'assez haut pour qu'on en vît les îles.	这座被松树环绕的别墅俯瞰大海，高得能看见那些岛屿。		
+vitre	vitʁ	n.f.	窗玻璃	Une pierre a cassé la vitre de la cuisine pendant la nuit.	夜里一块石头砸破了厨房的窗玻璃。		
+volet	volɛ	n.m.	百叶窗；板块	Les volets fermés donnaient à la façade un air aveugle, comme si la maison refusait de regarder.	紧闭的百叶窗让外墙像瞎了一般，仿佛房子不愿张望。		
+waters	watɛʁ	n.m.	卫生间	Les waters se trouvent au bout de ce long couloir.	卫生间在这条长走廊的尽头。		
